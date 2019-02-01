@@ -1,0 +1,201 @@
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="manifest_example.js"></script>
+	<script type="text/javascript">
+		$(document).ready(() => {
+			for (irn in photographs) {
+				var photo = photographs[irn];
+
+				$("#irn").html("IRN: " + irn);
+				$("#accession").html("AccessionNo: " + photo.TitAccessionNo);
+
+				// title
+				for (title in photo.titles) {
+					var option = $("<label class='option'>");
+					var input = $("<input type='radio' name='titles'>");
+					input.attr("value", photo.titles[title]);
+					var span = $("<span>");
+					span.html(photo.titles[title] + "<span class='sources'>" + title + "</span>");
+
+					option.append(input);
+					option.append(span);
+					$("#titles").append(option);
+				}
+				$("#titles").append("<button>+</button>")
+
+				// names
+				for (name in photo.names) {
+					var option = $("<label class='option'>");
+					var input = $("<input checked type='checkbox' name='names'>");
+					input.attr("value", name);
+					var span = $("<span>");
+					span.html(name + "<span class='sources'>"+photo.names[name].join(', ')+"</span>");
+					option.append(input);
+					option.append(span);
+					$("#names").append(option);
+				}
+				var customoption = $("<label class='option'>");
+				var input = $("<input type='checkbox' name='names'>");
+				input.attr("value", "ArchivistEdit")
+				var span = $("<input type='text' name='customoption'>");
+				customoption.append(input);
+				customoption.append(span);
+				$("#names").append("<button>+</button>")
+
+				// location
+				for (type in photo.location) {
+					var locationtype = $("<div class='locationqualifier'>");
+					locationtype.html(type);
+					$("#location").append(locationtype)
+					for (spot in photo.location[type]) {
+						var option = $("<label class='option location'>");
+						var input = $("<input checked type='checkbox' name='location'>");
+						input.attr("value", spot);
+						var span = $("<span>");
+						span.html(spot + "<span class='sources'>"+photo.location[type][spot].join(', ')+"</span>");
+						option.append(input);
+						option.append(span);
+						$("#location").append(option);
+					}
+				}
+
+				// objects
+				for (object in photo.objects) {
+					var option = $("<label class='option object'>");
+					var input = $("<input checked type='checkbox' name='objects'>");
+					input.attr("value", object);
+					var span = $("<span>");
+					span.html(object);
+					var cutout = $("<img class='cutout'>");
+					option.append(input);
+					option.append(span);
+					option.append("<br>");
+					option.append(cutout);
+					$("#objects").append(option);
+				}
+				$("#objects").append("<button>+</button>")
+			}
+
+		});
+		
+	</script>
+	<style>
+		body {
+			width: 70%;
+			margin-left: 15%;
+		}
+
+		.header {
+			background-color: #eee;
+			padding: 5px;
+			margin-right: 10px;
+		}
+
+		#photograph {
+			background-color: #eee;
+			height: 300px;
+			width: 500px;
+		}
+
+		.cutout {
+			background-color: #eee;
+			height: 100px;
+			width: 100px;
+		}
+
+		.row {
+			margin-bottom: 10px;
+			display: flex;
+			flex: 1;
+			flex-direction: row;
+		}
+
+		input {
+			margin-right: 10px;
+		}
+
+		.option {
+			display: flex;
+			margin-bottom: 10px;
+		}
+
+		.sources {
+			margin-left: 10px;
+			color: #00cc99;
+		}
+
+		.locationqualifier {
+			text-transform: capitalize;
+			font-weight: bold;
+		}
+
+		.option.location {
+			margin-left: 40px;
+		}
+
+		.option.object {
+			flex-direction: column;
+			margin-right: 10px;
+		}
+
+		button{
+			font-size: 20px;
+			line-height: 1;
+		}
+
+	</style>
+</head>
+<body>
+	<!-- image -->
+	<div class="row">
+		<img id="photograph" />
+	</div>
+	<!-- collection indices -->
+	<div class="row" id="irn"></div>
+	<div class="row" id="accession"></div>
+
+	<!-- title -->
+	<div class="row">
+		<div class="header">Title</div>
+		<div id="titles">
+		</div>
+	</div>
+	<!-- names -->
+	<div class="row">
+		<div class="header">Names</div>
+		<div id="names">
+		</div>
+	</div>
+	<!-- location -->
+	<div class="row">
+		<div class="header">Location</div>
+		<div id="location">
+		</div>
+	</div>
+	<!-- objects -->
+	<div class="row">
+		<div class="header">Objects</div>
+		<div id="objects" class="row">
+		</div>
+	</div>
+	<!-- subjectheaders -->
+	<div class="row">
+		<div class="header">Subject Headers</div>
+		<div id="subjectheaders">
+		</div>
+	</div>
+	<!-- keywords -->
+	<div class="row">
+		<div class="header">Keywords</div>
+		<div id="keywords">
+		</div>
+	</div>
+	<!-- preview -->
+	<div class="row">
+		<div class="header">Preview</div>
+		<div id="preview">
+		</div>
+	</div>
+</body>
+</html>
