@@ -1,21 +1,19 @@
-var entries;
-var updates;
-var selections;
-
 // First load in data to global store
 $(document).ready(function() {
-	// loadEmuCSV("ecatalog.csv").then(function(entries) {});
-	loadEmuData();
+	var { entries, updates, selections } = load();
+	console.log(entries);
+	exportEmuData(entries);
+	console.log("called post")
 });
 
 
 function load(entries, updates) {
-	loadEmuData();
+	entries = importEmuData();
+	//updates = getUpdates();
+	//selections = getSelections();
+	return { entries, undefined, undefined };
 }
 
 
-function loadEmuData() {
-	$.get("/emudata", function(data, status) {
-		console.log(JSON.parse(data));
-	})
-}
+
+
