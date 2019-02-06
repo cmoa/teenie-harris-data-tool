@@ -4,6 +4,14 @@ const path = require('path');
 const port = 3000
 const fs = require('fs');
 const Papa = require('papaparse');
+const bodyParser = require('body-parser');
+
+
+app.use(bodyParser.urlencoded({
+  extended: true,
+  limit: '100mb',
+  parameterLimit: 10000000,
+}));
 
 app.use(express.static(__dirname + '/public'));
 
@@ -18,7 +26,7 @@ app.get('/',function(req,res){
 });
 
 // Get data from an EMU export and covert it to JSON/js object
-app.get('/emudata',function(req,res){
+app.all('/importemudata', function(req, res){
     var emudata = fs.readFileSync(__dirname+"/data/ecatalog.csv", 'utf8');
     var entries = {};
     Papa.parse(emudata, {
@@ -35,11 +43,17 @@ app.get('/emudata',function(req,res){
 	            }
 	            entries[irn]=entry;
 	        }
-	        console.log(entries);
-	        return entries;
 	    }
 	});
     res.send(JSON.stringify(entries));
+});
+
+// Get data from an EMU export and covert it to JSON/js object
+app.all('/exportemudata', function(req, res){
+	fs.writeFile("output/ecatalog.json", JSON.stringify(req.body, null, '\t'), 'utf8', function(err) {
+		if (err) { res.send("ERROR writing to file"); }
+		else { res.send("SUCCESS writing to file"); }
+	}); 
 });
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

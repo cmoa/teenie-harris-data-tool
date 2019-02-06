@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "description": "Extracts helpful information from existing archive data",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "papaparse": "^4.6.3"
   },
   "devDependencies": {},
+  "nodemonConfig": {
+    "ignore": [
+      "output/"
+    ]
+  },
   "scripts": {
     "run": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
