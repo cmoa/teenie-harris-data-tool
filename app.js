@@ -38,7 +38,7 @@ app.all('/importemudata', function(req, res){
 	            for (var j=0; j<csv.data[0].length; j++) {
 	                var key = csv.data[0][j];
 	                var value = csv.data[i][j];
-	                if (key === "irn") { irn = value.toString(); }
+	                if (key === "ecatalogue_key") { irn = value.toString(); }
 	                entry[key]=value;
 	            }
 	            entries[irn]=entry;
@@ -51,9 +51,51 @@ app.all('/importemudata', function(req, res){
 // Get data from an EMU export and covert it to JSON/js object
 app.all('/exportemudata', function(req, res){
 	fs.writeFile("output/ecatalog.json", JSON.stringify(req.body, null, '\t'), 'utf8', function(err) {
-		if (err) { res.send("ERROR writing to file"); }
-		else { res.send("SUCCESS writing to file"); }
+		if (err) { res.send("ERROR writing to JSON file, will not write CSV"); }
+		else { 
+			fs.writeFile("output/ecatalog.csv", objectToCSV(req.body), 'utf8', function(err) {
+				if (err) { res.send("SUCCESS writing to JSON file, ERROR writing to CSV file"); }
+				else { res.send("SUCCESS writing to JSON file, SUCCESS writing to CSV file"); }
+			}); 
+		}
 	}); 
 });
+
+
+////////////////// TOOLS //////////////////////////
+
+function objectToCSV(object) {
+	var csv = "";
+	var headers;
+	
+	var entryIndex = 0;
+	var entryCount = Object.keys(object).length;
+	for (entry in object) {
+		var fieldIndex = 0;
+		if (entryIndex === 0) {
+			headers = Object.keys(object[entry]);
+			for (var i = 0; i < headers.length; i++) {
+				csv += formatCSVcell(headers[i]);
+				if (i < headers.length - 1) { csv += ","; }
+			}
+			csv += "\n";
+		}
+		for (key in object[entry]) {
+			csv += formatCSVcell(object[entry][key]);
+			fieldIndex++; if (fieldIndex < headers.length) { csv += "," };
+		} 
+		entryIndex++; if (entryIndex < entryCount) { csv += "\n"; }
+	}
+
+	return csv;
+}
+
+function formatCSVcell(cellString) {
+	if (cellString.indexOf("\n") > -1 || cellString.indexOf("\"") > -1 || cellString.indexOf(",") > -1) {
+		return "\"" + cellString.replace(/\"/g, "\"\"") + "\"";
+	} else {
+		return cellString;
+	}
+}
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
