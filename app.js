@@ -46,4 +46,21 @@ app.all('/exportemudata', function(req, res){
 });
 
 
+// Loads mainfest which includes programtically generated fields and noted archivist selections
+app.all('/loadmanifest', function(req, res){
+	var data = fs.readFileSync(__dirname+"/output/manifest.json", 'utf8');
+	res.send(data);
+});
+
+
+// Saves archivist selections and edits to .json
+app.all('/savemanifest', function(req, res){
+	fs.writeFile("output/manifest.json", JSON.stringify(req.body, null, '\t'), 'utf8', function(err) {
+		if (err) { res.send("ERROR writing to manifest JSON file"); }
+		else { res.send("SUCCESS writing to manifest JSON file"); }
+	}); 
+});
+
+
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
