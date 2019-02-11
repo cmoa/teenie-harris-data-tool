@@ -56,6 +56,25 @@ input {
 	margin-right: 10px;
 }
 
+.clickable {
+	cursor: pointer;
+	margin: 10px 0px;
+}
+
+.clickable:hover {
+	background-color: #eeeeff;
+}
+
+
+.accepted{
+	background-color: #ddddff !important;
+}
+
+.source {
+	font-size: 12px;
+	color: green;
+}
+
 button{
 	font-size: 20px;
 	line-height: 1;

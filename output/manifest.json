@@ -17,36 +17,36 @@
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": ""
 		},
-		"titles": {
-			"accepted": [
-				{
-					"data": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
-					"source": [
-						"eMU"
-					]
-				}
-			],
-			"suggestions": [
-				{
-					"data": "Suggested Title 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 3",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"titles": [
+			{
+				"data": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+				"source": [
+					"eMU"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Suggested Title 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"article": {
 			"suggestions": [
 				{
@@ -72,70 +72,78 @@
 				}
 			]
 		},
-		"people": {
-			"suggestions": [
-				{
-					"data": "Suggested Person 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 3",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 4",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 5",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 6",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 7",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 8",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 9",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 10",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"people": [
+			{
+				"data": "Suggested Person 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"location": {
 			"accepted": [
 				{
@@ -321,7 +329,8 @@
 					]
 				}
 			]
-		}
+		},
+		"approved": "false"
 	},
 	"2": {
 		"emu": {
@@ -341,36 +350,36 @@
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": ""
 		},
-		"titles": {
-			"accepted": [
-				{
-					"data": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
-					"source": [
-						"eMU"
-					]
-				}
-			],
-			"suggestions": [
-				{
-					"data": "Suggested Title 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 3",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"titles": [
+			{
+				"data": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Suggested Title 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"article": {
 			"suggestions": [
 				{
@@ -396,70 +405,78 @@
 				}
 			]
 		},
-		"people": {
-			"suggestions": [
-				{
-					"data": "Suggested Person 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 3",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 4",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 5",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 6",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 7",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 8",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 9",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 10",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"people": [
+			{
+				"data": "Suggested Person 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"location": {
 			"accepted": [
 				{
@@ -663,7 +680,8 @@
 					]
 				}
 			]
-		}
+		},
+		"approved": "false"
 	},
 	"3": {
 		"emu": {
@@ -683,36 +701,36 @@
 			"CreCity_tab": "",
 			"CrePlaceQualifier_tab": ""
 		},
-		"titles": {
-			"accepted": [
-				{
-					"data": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
-					"source": [
-						"eMU"
-					]
-				}
-			],
-			"suggestions": [
-				{
-					"data": "Suggested Title 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Title 3",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"titles": [
+			{
+				"data": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Suggested Title 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Title 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"article": {
 			"suggestions": [
 				{
@@ -738,70 +756,78 @@
 				}
 			]
 		},
-		"people": {
-			"suggestions": [
-				{
-					"data": "Suggested Person 1",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 2",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 3",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 4",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 5",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 6",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 7",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 8",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 9",
-					"source": [
-						"source(TBD)"
-					]
-				},
-				{
-					"data": "Suggested Person 10",
-					"source": [
-						"source(TBD)"
-					]
-				}
-			]
-		},
+		"people": [
+			{
+				"data": "Suggested Person 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Person 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		],
 		"location": {
 			"accepted": [
 				{
@@ -1035,6 +1061,7 @@
 					]
 				}
 			]
-		}
+		},
+		"approved": "false"
 	}
 }

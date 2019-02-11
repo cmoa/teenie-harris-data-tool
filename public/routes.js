@@ -41,11 +41,11 @@ function loadManifest() {
 }
 
 // Save new selections to .json file
-function saveManifest(data) {
+function saveManifest() {
 	$.ajax({
         url: "/savemanifest",
         type: 'post',
-        data,
+        data: manifest,
         complete: function (res) { console.log(res.responseText); },
      });
 }
