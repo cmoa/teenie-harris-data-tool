@@ -1,5 +1,6 @@
 function buildManifest(emu) {
 	var manifest = {};
+
 	for (entry in emu) {
 		var entryData =  {};
 
@@ -32,31 +33,35 @@ function buildManifest(emu) {
 		// Generate keywords
 		entryData["keywords"] = extractKeywords();
 
+		// Mark as not reviewed
+		entryData["approved"] = false;
+
 		manifest[entry] = entryData;
 	}
-	console.log(manifest);
+
 	return manifest;
 }
 
 
 function extractTitles(emuTitle) {
-	var accepted = [];
-	var suggestions = [];
+	var titles =[];
 
 	var acceptedTitle = {};
 	acceptedTitle["data"] = emuTitle;
 	acceptedTitle["source"] = ["eMU"];
-	accepted.push(acceptedTitle);
+	acceptedTitle["status"] = "accepted";
+	titles.push(acceptedTitle);
 
 	// TODO: implement title alogrithm
 	for (var i = 0; i < 3; i++) {
 		var suggestedTitle = {};
 		suggestedTitle["data"] = "Suggested Title " + (i+1);
 		suggestedTitle["source"] = ["source(TBD)"];
-		suggestions.push(suggestedTitle);
+		suggestedTitle["status"] = "suggested";
+		titles.push(suggestedTitle);
 	}
 
-	return { "accepted" : accepted, "suggestions" : suggestions };
+	return titles;
 }
 
 
@@ -89,18 +94,18 @@ function extractArticle(emuDescription) {
 
 
 function extractPeople(emuTitle, emuDescription) {
-	var accepted = [];
-	var suggestions = [];
+	var people = [];
 
 	// TODO: implement named entity recognition alogrithm
 	for (var i = 0; i < 10; i++) {
 		var suggestedPerson = {};
 		suggestedPerson["data"] = "Suggested Person " + (i+1);
 		suggestedPerson["source"] = ["source(TBD)"];
-		suggestions.push(suggestedPerson);
+		suggestedPerson["status"] = "suggested";
+		people.push(suggestedPerson);
 	}
 
-	return { "accepted" : accepted, "suggestions" : suggestions };
+	return people;
 }
 
 
