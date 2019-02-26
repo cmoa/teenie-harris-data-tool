@@ -8,7 +8,7 @@ function buildManifest(emu) {
 		entryData["emu"] = emu[entry];
 
 		// Make titles 
-		entryData["titles"] = extractTitles(emu[entry]["TitMainTitle"]);
+		entryData["titles"] = extractTitles(emu[entry]["TitMainTitle"], entry);
 
 		// Make article 
 		entryData["article"] = extractArticle(emu[entry]["CatDescriptText"]);
@@ -43,7 +43,7 @@ function buildManifest(emu) {
 }
 
 
-function extractTitles(emuTitle) {
+function extractTitles(emuTitle, id) {
 	var titles =[];
 
 	var acceptedTitle = {};
@@ -52,15 +52,9 @@ function extractTitles(emuTitle) {
 	acceptedTitle["status"] = "accepted";
 	titles.push(acceptedTitle);
 
-	// TODO: implement title alogrithm
-	for (var i = 0; i < 3; i++) {
-		var suggestedTitle = {};
-		suggestedTitle["data"] = "Suggested Title " + (i+1);
-		suggestedTitle["source"] = ["source(TBD)"];
-		suggestedTitle["status"] = "suggested";
-		titles.push(suggestedTitle);
-	}
-
+	// Algorithms
+	shortenTitle(emuTitle, id);
+	
 	return titles;
 }
 

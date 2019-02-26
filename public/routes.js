@@ -46,6 +46,43 @@ function saveManifest() {
         url: "/savemanifest",
         type: 'post',
         data: manifest,
-        complete: function (res) { console.log(res.responseText); },
+        complete: function (res) { 
+            console.log(res.responseText); 
+            populateUI();
+        },
+     });
+}
+
+// Save new selections to .json file
+function shortenTitle(title, id) {
+    $.ajax({
+        url: "/shortentitlepythonnlp",
+        type: 'post',
+        data: {"title" : title},
+        complete: function (res) { 
+            // Add completed title to manifest and refresh title div
+            var suggestedTitle = {};
+            suggestedTitle["data"] = res.responseText;
+            suggestedTitle["source"] = ["Python NLP"];
+            suggestedTitle["status"] = "suggested";
+            manifest[id]["titles"].push(suggestedTitle);
+            saveManifest();
+
+            $.ajax({
+                url: "/shortentitlegooglenlp",
+                type: 'post',
+                data: {"title" : title},
+                complete: function (res) { 
+                    // Add completed title to manifest and refresh title div
+                    var suggestedTitle = {};
+                    suggestedTitle["data"] = res.responseText;
+                    suggestedTitle["source"] = ["Google NLP"];
+                    suggestedTitle["status"] = "suggested";
+
+                    manifest[id]["titles"].push(suggestedTitle);
+                    saveManifest();
+                },
+             });
+        },
      });
 }
