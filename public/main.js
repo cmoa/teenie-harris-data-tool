@@ -4,11 +4,11 @@ var id = "1";
 // First load in data to global store
 $(document).ready(function() {
 	manifest = loadManifest();
-	if ($.isEmptyObject(manifest)) {
+	//if ($.isEmptyObject(manifest)) {
 		originalEntries = importEmuData();
 		manifest = buildManifest(originalEntries);
 		saveManifest(manifest);
-	}
+	// }
 	populateUI();
 });
 
@@ -16,17 +16,17 @@ function mapManifest() {
 	saveManifest();
 	var mappedManifest = {};
 	for (var id in manifest) {
-		console.log(id);
 
 		var entry = manifest[id];
 		var mappedEntry = entry["emu"];
 
 		var acceptedTitle = "";
 		var titles = entry["titles"];
-		console.log(titles);
+
 		for (var i=0; i<titles.length; i++) {
 			if (titles[i]["status"]==="accepted") { acceptedTitle = titles[i]["data"]; }
 		}
+		
 		mappedEntry["TitMainTitle"] = acceptedTitle;
 
 		mappedManifest[id] = mappedEntry;
@@ -36,7 +36,7 @@ function mapManifest() {
 
 function populateSection(entry, field, multipleAllowed) {
 	var options = entry[field];
-	console.log(options);
+	// console.log(options);
 
 	$("#"+field).empty();
 	for (var i = 0; i<options.length; i++) {
