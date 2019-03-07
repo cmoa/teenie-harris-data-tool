@@ -88,4 +88,5 @@ if root_np and root_np.root.children:
             new_title.append(propn.text)
 
 # print '\n', title
-print " ".join(new_title)
+sys.stdout.write(" ".join(new_title))
+sys.stdout.flush() 
