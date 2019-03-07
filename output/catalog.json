@@ -1,0 +1,1051 @@
+{
+	"1": {
+		"id": "1",
+		"emu": {
+			"ecatalogue_key": "1",
+			"irn": "928",
+			"TitAccessionNo": "2001.35.148",
+			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+			"CreDateCreated": "May 1953",
+			"CreEarliestDate": "1953-05-01",
+			"CreLatestDate": "1953-05-30",
+			"PhyMediumComments": "black-and-white: Kodak safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
+			"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "Pennsylvania",
+			"CreDistrict_tab": "Allegheny county",
+			"CreCity_tab": "Pittsburgh",
+			"CrePlaceQualifier_tab": ""
+		},
+		"generated": "true",
+		"reviewed": "true",
+		"flagged": "false",
+		"titles": [
+			{
+				"data": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Pittsburgh Lions Little League baseball team in background",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": {
+			"suggestions": [
+				{
+					"name": "Paper",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Publication Date",
+					"data": "May 30, 1953",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Cutline",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				}
+			]
+		},
+		"location": [
+			{
+				"name": "Country",
+				"data": "United States",
+				"source": [
+					"eMU CreCountry_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "State",
+				"data": "Pennsylvania",
+				"source": [
+					"eMU CreState_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "District",
+				"data": "Allegheny county",
+				"source": [
+					"eMU CreDistrict_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "City",
+				"data": "Pittsburgh",
+				"source": [
+					"eMU CreCity_tab"
+				],
+				"status": "accepted"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Boys--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Kennard Field (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Terrace Village (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Little League Baseball, inc.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			}
+		],
+		"keywords": [
+			{
+				"data": "Suggested Keyword 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		]
+	},
+	"2": {
+		"id": "2",
+		"emu": {
+			"ecatalogue_key": "2",
+			"irn": "953",
+			"TitAccessionNo": "2001.35.171",
+			"TitMainTitle": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+			"CreDateCreated": "June 1962",
+			"CreEarliestDate": "1962-06-01",
+			"CreLatestDate": "1962-06-30",
+			"PhyMediumComments": "black-and-white: Kodak safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 21 reads: \"Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.\"",
+			"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nBaseball players--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTerrace Village (Pittsburgh, Pa.)\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "Pennsylvania",
+			"CreDistrict_tab": "Allegheny county",
+			"CreCity_tab": "Pittsburgh",
+			"CrePlaceQualifier_tab": ""
+		},
+		"generated": "true",
+		"reviewed": "true",
+		"flagged": "false",
+		"titles": [
+			{
+				"data": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Addison Giants baseball team in background",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": {
+			"suggestions": [
+				{
+					"name": "Paper",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Publication Date",
+					"data": "May 30, 1953",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Cutline",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				}
+			]
+		},
+		"location": [
+			{
+				"name": "Country",
+				"data": "United States",
+				"source": [
+					"eMU CreCountry_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "State",
+				"data": "Pennsylvania",
+				"source": [
+					"eMU CreState_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "District",
+				"data": "Allegheny county",
+				"source": [
+					"eMU CreDistrict_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "City",
+				"data": "Pittsburgh",
+				"source": [
+					"eMU CreCity_tab"
+				],
+				"status": "accepted"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Men--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Kennard Field (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball teams--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Terrace Village (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Coaches (Athletics)--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Men",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Coaches (Athletics)",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			}
+		],
+		"keywords": [
+			{
+				"data": "Suggested Keyword 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		]
+	},
+	"3": {
+		"id": "3",
+		"emu": {
+			"ecatalogue_key": "3",
+			"irn": "975",
+			"TitAccessionNo": "2001.35.193",
+			"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+			"CreDateCreated": "June 1946",
+			"CreEarliestDate": "1946-06-01",
+			"CreLatestDate": "1946-06-29",
+			"PhyMediumComments": "black-and-white: Ansco safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
+			"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "",
+			"CreDistrict_tab": "",
+			"CreCity_tab": "",
+			"CrePlaceQualifier_tab": ""
+		},
+		"generated": "true",
+		"reviewed": "true",
+		"flagged": "false",
+		"titles": [
+			{
+				"data": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Davis Athletic Club in front",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": {
+			"suggestions": [
+				{
+					"name": "Paper",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Publication Date",
+					"data": "May 30, 1953",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Cutline",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				}
+			]
+		},
+		"location": [
+			{
+				"name": "Country",
+				"data": "United States",
+				"source": [
+					"eMU CreCountry_tab"
+				],
+				"status": "accepted"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Little League Baseball, inc.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Coaches (Athletics)--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Men--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball teams--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Group portraits--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Sports teams--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Ammon Center (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Davis (Baseball team : Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Coaches (Athletics)",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Men",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Group portraits",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Sports teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			}
+		],
+		"keywords": [
+			{
+				"data": "Suggested Keyword 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		]
+	},
+	"currentPhoto": {
+		"id": "1",
+		"emu": {
+			"ecatalogue_key": "1",
+			"irn": "928",
+			"TitAccessionNo": "2001.35.148",
+			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+			"CreDateCreated": "May 1953",
+			"CreEarliestDate": "1953-05-01",
+			"CreLatestDate": "1953-05-30",
+			"PhyMediumComments": "black-and-white: Kodak safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
+			"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "Pennsylvania",
+			"CreDistrict_tab": "Allegheny county",
+			"CreCity_tab": "Pittsburgh",
+			"CrePlaceQualifier_tab": ""
+		},
+		"generated": "true",
+		"reviewed": "true",
+		"flagged": "false",
+		"titles": [
+			{
+				"data": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+				"source": [
+					"eMU"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Pittsburgh Lions Little League baseball team in background",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": {
+			"suggestions": [
+				{
+					"name": "Paper",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Publication Date",
+					"data": "May 30, 1953",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				},
+				{
+					"name": "Cutline",
+					"data": "Pittsburgh Courier",
+					"source": [
+						"eMU CatDescriptText"
+					]
+				}
+			]
+		},
+		"location": [
+			{
+				"name": "Country",
+				"data": "United States",
+				"source": [
+					"eMU CreCountry_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "State",
+				"data": "Pennsylvania",
+				"source": [
+					"eMU CreState_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "District",
+				"data": "Allegheny county",
+				"source": [
+					"eMU CreDistrict_tab"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "City",
+				"data": "Pittsburgh",
+				"source": [
+					"eMU CreCity_tab"
+				],
+				"status": "accepted"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Boys--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes--Pennsylvania--Pittsburgh.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Kennard Field (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Terrace Village (Pittsburgh, Pa.)",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Little League Baseball, inc.",
+				"source": [
+					"emuSubjects"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "accepted"
+			}
+		],
+		"keywords": [
+			{
+				"data": "Suggested Keyword 1",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 2",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 3",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 4",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 5",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 6",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 7",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 8",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 9",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Suggested Keyword 10",
+				"source": [
+					"source(TBD)"
+				],
+				"status": "suggested"
+			}
+		]
+	}
+}

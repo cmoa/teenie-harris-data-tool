@@ -1,0 +1,84 @@
+<html>
+<head>
+	<!-- libraries -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="js/Sortable.min.js"></script>
+	<!-- js -->
+	<script src="js/routes.js"></script>
+	<script src="js/buildUI.js"></script>
+	<script src="js/buildData.js"></script>
+	<script src="main.js"></script>
+	<!-- style -->
+	<link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css"></link>
+</head>
+<body>
+	<div id="topbar">
+		<!-- top bar image -->
+		<div id="topbarimage">
+			<img id="photograph" />
+			<div>
+				<div id="irn"></div>
+				<div id="accession"></div>
+			</div>
+		</div>
+		
+		<!-- top bar buttons -->
+		<div id="topbarbuttons">
+			<button onClick="saveChanges()">Save Changes</button>
+			<button onClick="undoChanges()">Undo Changes</button>
+			<button onClick="startOver()">Start Over</button>
+			<button id="flagForReview" onClick="flagForReview()">Flag For Review</button>
+			<button onClick="nextPhoto()">Next Photo</button>
+		</div>
+	</div>
+	
+	<!-- title -->
+	<div style="margin-top: 230px;">
+		<div class="header">Titles</div>
+		<div id="titles">
+		</div>
+	</div>
+	<!-- names -->
+	<div>
+		<div class="header">People</div>
+		<div id="people">
+		</div>
+	</div>
+	<!-- location -->
+	<div>
+		<div class="header">Location</div>
+		<div id="location">
+		</div>
+	</div>
+	<!-- newspaper -->
+	<div>
+		<div class="header">Newspaper</div>
+		<div id="location">
+		</div>
+	</div>
+	<!-- subjectheaders -->
+	<div>
+		<div class="header">Subject Headers</div>
+		<div id="subjects">
+		</div>
+	</div>
+	<!-- keywords -->
+	<div>
+		<div class="header">Keywords</div>
+		<div id="keywords">
+		</div>
+	</div>
+	<!-- preview -->
+	<div>
+		<div class="header">Preview</div>
+		<div id="preview">
+		</div>
+	</div>
+	<div id="photographfullcontainer" class="hide">
+		<img id="photographfull" />
+	</div>
+	<div id="loadingScreen">
+	</div>
+</body>
+</html>
