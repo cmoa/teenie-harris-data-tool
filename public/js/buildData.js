@@ -81,30 +81,31 @@ function extractTitles(emuTitle) {
 
 
 function extractArticle(emuDescription) {
-	var accepted = [];
-	var suggestions = [];
+	var article = [];
 
 	// TODO: implement article extraction
 	var paper = {};
 	paper["name"] = "Paper";
 	paper["data"] = "Pittsburgh Courier";
 	paper["source"] = ["eMU CatDescriptText"];
-	suggestions.push(paper);
+	paper["status"] = "accepted";
+	article.push(paper);
 
 	var date = {};
 	date["name"] = "Publication Date";
 	date["data"] = "May 30, 1953";
 	date["source"] = ["eMU CatDescriptText"];
-	suggestions.push(date);
+	date["status"] = "accepted";
+	article.push(date);
 
 	var cutline = {};
 	cutline["name"] = "Cutline";
 	cutline["data"] = "Pittsburgh Courier";
 	cutline["source"] = ["eMU CatDescriptText"];
-	suggestions.push(cutline);
+	cutline["status"] = "accepted";
+	article.push(cutline);
 
-
-	return { "accepted" : accepted, "suggestions" : suggestions };
+	return article;
 }
 
 
@@ -121,9 +122,9 @@ function extractPeople(emuTitle, emuDescription) {
 	// }
 
 	// Algorithms
-	// extractNames(emuTitle);
+	console.log(extractNames(emuTitle))
 
-	return people;
+	return extractNames(emuTitle);
 }
 
 

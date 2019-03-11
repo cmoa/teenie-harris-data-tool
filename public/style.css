@@ -213,3 +213,16 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	cursor: default;
 }
+
+/*/////////////////////////// directory ///////////////////////////////*/
+
+.directoryPhotoContainer {
+    display: inline-block;
+    width: 30%;
+    font-family: 'Open Sans';
+}
+
+.directoryPhoto {
+    width: 80%;
+}
+

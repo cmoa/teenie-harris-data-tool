@@ -95,6 +95,7 @@ function shortenTitle(title) {
 
 // Save new selections to .json file
 function extractNames(title) {
+    var extractedNames = [];
     $.ajax({
         url: "/extractnames",
         type: 'post',
@@ -107,8 +108,9 @@ function extractNames(title) {
                 suggestedPerson["data"] = people[i];
                 suggestedPerson["source"] = ["Spacy"];
                 suggestedPerson["status"] = "suggested";
-                photo["people"].push(suggestedPerson);
+                extractedNames.push(suggestedPerson);
             }
         },
      });
+    return extractedNames;
 }
