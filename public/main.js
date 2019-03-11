@@ -5,6 +5,7 @@ var startFromEmpty = false;
 
 // First load in data to global store
 $(document).ready(function() {
+
 	$("#photographfullcontainer").hide();
 	$("#loadingScreen").show();
 	catalog = loadCatalog();
@@ -13,11 +14,15 @@ $(document).ready(function() {
 		ecatalog = importEmuData();
 		createCatalog(ecatalog);
 	}
+
+
 	loadPhoto();
 });
 
 
 function loadPhoto() {
+
+
 	if (!catalog["currentPhoto"]["generated"] || catalog["currentPhoto"]["generated"] === "false") {
 		console.log("NEED TO GENERATE PHOTO"); 
 		generatePhoto(catalog["currentPhoto"]).then(function(photoData){
@@ -36,6 +41,8 @@ function loadPhoto() {
 
 function saveChanges() {
 	catalog["currentPhoto"] = JSON.parse(JSON.stringify(photo));
+	console.log(photo["id"])
+	catalog[photo["id"]] = JSON.parse(JSON.stringify(photo));
     saveCatalog();
 }
 
@@ -70,22 +77,24 @@ function flagForReview() {
  }
 
 function nextPhoto() {
-	$("#loadingScreen").show();
-	window.setTimeout(function() {
-		// save photo to catalog in its place
-		photo["reviewed"] = true;
-		catalog[photo["id"]] = JSON.parse(JSON.stringify(photo));
-		// change current photos
-		var id = parseInt(photo["id"]);
-		if (catalog[String(id+1)] !== undefined) {
-			catalog["currentPhoto"] = JSON.parse(JSON.stringify(catalog[String(id+1)]));
-		} else {
-			catalog["currentPhoto"] = JSON.parse(JSON.stringify(catalog["1"]));			
-		}
-		saveCatalog();
-		// then load photo
-		loadPhoto();
-	}, 0);
+	if (confirm("Save changes and continue?")) {
+		$("#loadingScreen").show();
+		window.setTimeout(function() {
+			// save photo to catalog in its place
+			photo["reviewed"] = true;
+			catalog[photo["id"]] = JSON.parse(JSON.stringify(photo));
+			// change current photos
+			var id = parseInt(photo["id"]);
+			if (catalog[String(id+1)] !== undefined) {
+				catalog["currentPhoto"] = JSON.parse(JSON.stringify(catalog[String(id+1)]));
+			} else {
+				catalog["currentPhoto"] = JSON.parse(JSON.stringify(catalog["1"]));			
+			}
+			saveCatalog();
+			// then load photo
+			loadPhoto();
+		}, 0);
+	}
 }
 
 

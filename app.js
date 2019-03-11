@@ -19,8 +19,8 @@ app.get('/',function(req,res){
     res.sendFile(path.join(__dirname+'/public/tool.html'));
 });
 
-app.get('/index',function(req,res){
-    res.sendFile(path.join(__dirname+'/public/index.html'));
+app.get('/directory',function(req,res){
+    res.sendFile(path.join(__dirname+'/public/directory.html'));
 });
 
 // Reads data from an EMU .csv, sends to client as javascript object
