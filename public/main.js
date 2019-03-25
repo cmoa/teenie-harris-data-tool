@@ -6,6 +6,7 @@ var startFromEmpty = false;
 // First load in data to global store
 $(document).ready(function() {
 
+
 	$("#photographfullcontainer").hide();
 	$("#loadingScreen").show();
 	catalog = loadCatalog();
@@ -13,6 +14,13 @@ $(document).ready(function() {
 		console.log("NEED TO MAKE CATALOG");
 		ecatalog = importEmuData();
 		createCatalog(ecatalog);
+	}
+
+	if(window.location.hash) {
+	  console.log(window.location.hash.substr(1))
+	  catalog["currentPhoto"] = catalog[window.location.hash.substr(1)];
+	  saveCatalog();
+	  window.location.replace(window.location.href.split('#')[0]);
 	}
 
 
