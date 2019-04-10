@@ -11,12 +11,7 @@ function populateUI() {
 	$("#photographfull").on('click', function() { $("#photographfullcontainer").hide(); });
 
 	// populate emu record
-	$("#emurecord").empty();
-	for (key in photo["emuOutput"]) {
-		var value = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
-		$("#emurecord").append("<div class='originaldata'><span class='originaldatalabel'>"+key+":</span><span id='"+key+"'>"+value+"</span></div>");
-	}
-
+	populateEmuRecord();
 	// populate suggestions
 	populateTitles();
 	populatePeople();
@@ -29,6 +24,31 @@ function populateUI() {
 }
 
 
+function populateEmuRecord() {
+	$("#emurecord").empty();
+	for (key in photo["emuOutput"]) {
+		if (photo["emuInput"][key] !== photo["emuOutput"][key]) {
+			var oldValue = (photo["emuInput"][key] === null || photo["emuInput"][key] === undefined) ? "" : photo["emuInput"][key];
+			var newValue = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
+			var fieldContainer = $("<div class='originaldata'>");
+			fieldContainer.append("<div class='originaldatalabel'>"+key+":</div>");
+			fieldContainer.append("<div id='"+key+"' style='color:red;opacity:0.7;'>"+oldValue+"</div>");
+			fieldContainer.append("<div id='"+key+"' style='color:green;'>"+newValue+"</div>");
+			$("#emurecord").append(fieldContainer);
+		} else {
+			var value = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
+			var fieldContainer = $("<div class='originaldata'>");
+			fieldContainer.append("<div class='originaldatalabel'>"+key+":</div>");
+			fieldContainer.append("<div id='"+key+"'>"+value+"</div>");
+			$("#emurecord").append(fieldContainer);
+		}
+	}
+}
+
+function updateEmuRecord(field, data) {
+	photo["emuOutput"][field] = data;
+	populateEmuRecord();
+}
 
 function populateTitles() {
 	$("#titles").empty()
@@ -41,11 +61,13 @@ function populateTitles() {
 				.attr("src", title["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
 				.on("click", { "title" : title }, function(event) {
 					photo["titles"].map(function(title) {
-						if (title === event.data.title) { title["status"] = "accepted"; }
+						if (title === event.data.title) { 
+							title["status"] = "accepted"; 
+							updateEmuRecord("TitMainTitle", event.data.title["data"]);
+						}
 						else { title["status"] = "suggested"; }
 						return title;
 					});
-
 					// update UI
 					populateTitles();
 				});
@@ -62,6 +84,7 @@ function populateTitles() {
 								$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
 							}
 							title["data"] = $(event.target).html();
+							updateEmuRecord("TitMainTitle",$(event.target).html());
 						} 
 						return title;
 					});
