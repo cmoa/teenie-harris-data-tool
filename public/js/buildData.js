@@ -64,6 +64,15 @@ function generatePhoto(photo) {
 		photoData["article"] = extractArticle(photo["emuInput"]["CatDescriptText"]);
 		// Make list of people 
 		photoData["people"] = extractPeople(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"]);
+		var namelist = "";
+		console.log(photoData["people"]);
+		for (var i=0; i<photoData["people"].length; i++) {
+			if (photoData["people"][i]["status"] === "accepted") {
+				namelist += photoData["people"][i]["data"] + ", ";
+			}
+		}
+		photoData["emuOutput"]["Names"] = namelist.substring(0, namelist.length - 2);
+
 		// Make a guess at location details
 		photoData["location"] = extractLocation(
 			photo["emuInput"]["TitMainTitle"],
