@@ -1,100 +1,8 @@
 
-function populateUI() {
-	// display photograph
-	$("#photograph").attr("src", "images/teenieimages/"+photo["emuInput"]["irn"]+".jpg");
-	$("#photographfull").attr("src", "images/teenieimages/"+photo["emuInput"]["irn"]+".jpg")
-
-	// add click events for full screen photo
-	$("#photograph").on('click', function() { $("#photographfullcontainer").show(); });
-	$("#photographfullcontainer").on('click', function() { $("#photographfullcontainer").hide(); });
-	$("#photographfull").on('click', function() { $("#photographfullcontainer").hide(); });
-
-	// populate emu record
-	populateEmuRecord();
-	// populate suggestions
-	populateTitles();
-	populatePeople();
-	populateLocation();
-	populateNewspaper();
-	populateSubjects();
-	populateKeywords();
-
-	$("#loadingScreen").hide();
-}
 
 function updateEmuRecord(field, data) {
 	photo["emuOutput"][field] = data;
-	populateEmuRecord();
-}
-
-function populateEmuRecord() {
-	$("#emurecord").empty();
-	for (key in photo["emuOutput"]) {
-		if (photo["emuInput"][key] !== photo["emuOutput"][key]) {
-			var oldValue = (photo["emuInput"][key] === null || photo["emuInput"][key] === undefined) ? "" : photo["emuInput"][key];
-			var newValue = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
-			var fieldContainer = $("<div class='originaldata'>");
-			fieldContainer.append("<div class='originaldatalabel'>"+key+":</div>");
-			fieldContainer.append("<div id='"+key+"' style='color:red;opacity:0.7;'>"+oldValue+"</div>");
-			fieldContainer.append("<div id='"+key+"' style='color:green;'>"+newValue+"</div>");
-			$("#emurecord").append(fieldContainer);
-		} else {
-			var value = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
-			var fieldContainer = $("<div class='originaldata'>");
-			fieldContainer.append("<div class='originaldatalabel'>"+key+":</div>");
-			fieldContainer.append("<div id='"+key+"'>"+value+"</div>");
-			$("#emurecord").append(fieldContainer);
-		}
-	}
-}
-
-
-// Lets you select which title to use in emu record, 
-// as well as make changes to the text fields
-function populateTitles() {
-	$("#titles").empty()
-	if (photo["titles"] !== undefined) {
-		for (var i=0; i<photo["titles"].length; i++) {
-			title = photo["titles"][i];
-
-			var titleToggle = $("<img class='clickable toggle'>")
-				.addClass(title["status"])
-				.attr("src", title["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
-				.on("click", { "title" : title }, function(event) {
-					photo["titles"].map(function(title) {
-						if (title === event.data.title) { 
-							title["status"] = "accepted"; 
-							updateEmuRecord("TitMainTitle", event.data.title["data"]);
-						}
-						else { title["status"] = "suggested"; }
-						return title;
-					});
-					// update UI
-					populateTitles();
-				});
-
-			var titleData = $("<span class='data' contenteditable>")
-				.html(title["data"])
-				.on('input',  { "title": title }, function(event) {
-					photo["titles"].map(function(title) {
-						if (title === event.data.title) { 
-							if (title["source"].indexOf("Edited") === -1) { 
-								title["source"] = title["source"].concat(["Edited"]) 
-								// update UI
-								$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
-							}
-							title["data"] = $(event.target).html();
-							updateEmuRecord("TitMainTitle",$(event.target).html());
-						} 
-						return title;
-					});
-				});
-
-			var titleSource = $("<span class='source'>").html("("+title["source"].join(', ')+")");
-			var titleContainer = $("<div class='optionContainer'>").append(titleToggle).append(titleData).append(titleSource);
-			$("#titles").append(titleContainer);
-		}
-	}
+	populateEmuRecordView();
 }
 
 function formatPeople() {
@@ -175,7 +83,7 @@ function populatePeople() {
 						var sourceDOM = $("#"+source);
 						if (sourceDOM.html() !== undefined) {
 							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
-							sourceDOM.html(sourceDOM.html().replace(name, highlightedName));
+							sourceDOM.html(sourceDOM.html().replace(new RegExp(name, 'g'), highlightedName));
 						}
 					}
 				})
@@ -186,7 +94,7 @@ function populatePeople() {
 						var sourceDOM = $("#"+source);
 						if (sourceDOM.html() !== undefined) {
 							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
-							sourceDOM.html(sourceDOM.html().replace(highlightedName, name));
+							sourceDOM.html(sourceDOM.html().replace(new RegExp(highlightedName, 'g'), name));
 						}
 					}
 				})
@@ -197,7 +105,7 @@ function populatePeople() {
 						var sourceDOM = $("#"+source);
 						if (sourceDOM.html() !== undefined) {
 							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
-							sourceDOM.html(sourceDOM.html().replace(highlightedName, name));
+							sourceDOM.html(sourceDOM.html().replace(new RegExp(highlightedName, 'g'), name));
 						}
 					}
 				});

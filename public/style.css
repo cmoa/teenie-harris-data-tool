@@ -4,6 +4,7 @@
 body {
 	overflow: hidden;
 	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
 }
 
 /*/////////////////////////// loading screen ///////////////////////////////*/
@@ -38,7 +39,6 @@ body {
 	top: 0;
 	left: 0;
 	bottom: 0;
-	z-index: 100;
 	/* font */
 	font-family: 'Open Sans', sans-serif;
 	overflow-y: scroll;
@@ -52,18 +52,18 @@ body {
 	padding: 10px;
 }
 
-#originaldata, #emurecord { 
+#emurecord { 
     font-size: 14px;
     flex-direction: column;
     padding: 10px;
 }
 
-.originaldata {
+.emuRecordFieldContainer {
 	margin-bottom: 10px;
 	margin: 10px;
 }
 
-.originaldatalabel {
+.emuRecordFieldLabel {
 	opacity: 0.4;
 	margin-right: 10px;
 	font-size: 14px;
@@ -222,6 +222,7 @@ body {
 	line-height: 20px;
 	padding-left: 10px;
 	opacity: 0.3;
+	font-size: 14;
 	font-family: 'Open Sans', sans-serif;
 	cursor: default;
 }
