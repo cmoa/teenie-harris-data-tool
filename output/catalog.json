@@ -34,7 +34,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
+			"Names": "James Dunmore, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -94,23 +94,23 @@
 		],
 		"people": [
 			{
+				"data": "James Dunmore",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
 				"data": "Robert Dalley",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
-				"data": "John King",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "James Dunmore",
+				"data": "Lessie Washington",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -131,10 +131,10 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
-				"data": "Lessie Washington",
+				"data": "John King",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -474,7 +474,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
+			"Names": "James Dunmore, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -534,23 +534,23 @@
 		],
 		"people": [
 			{
+				"data": "James Dunmore",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
 				"data": "Robert Dalley",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
-				"data": "John King",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "James Dunmore",
+				"data": "Lessie Washington",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -571,10 +571,10 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
-				"data": "Lessie Washington",
+				"data": "John King",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
