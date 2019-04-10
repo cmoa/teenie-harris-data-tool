@@ -2,10 +2,9 @@
 /*/////////////////////////// general ///////////////////////////////*/
 
 body {
-	width: 70%;
-	margin-left: 15%;
+	overflow: hidden;
+	font-family: 'Open Sans', sans-serif;
 }
-
 
 /*/////////////////////////// loading screen ///////////////////////////////*/
 
@@ -13,7 +12,7 @@ body {
 	background-color: red;
 	position: fixed;
 	top: 0;
-	left: 0;
+	left: 35%;
 	right: 0;
 	bottom: 0;
 	z-index: 300;
@@ -25,65 +24,67 @@ body {
 
 /*/////////////////////////// top bar ///////////////////////////////*/
 
-#topbar{
+#recordbar{
 	/* bar style */
 	background-color: white;
 	box-shadow: 5px 0px 5px #ccc;
-	height: 200px;
+	width: 35%;
 	display: flex;
+	flex-direction: column;
 	align-items: center;
-	justify-content: space-between;
-	padding: 0px 30px;
+	padding: 0px 0px;
 	/* position */
 	position: fixed;
 	top: 0;
 	left: 0;
-	right: 0;
+	bottom: 0;
 	z-index: 100;
 	/* font */
 	font-family: 'Open Sans', sans-serif;
-}
-
-#topbarimage{
-	display:flex;
-	flex-direction: row;
+	overflow-y: scroll;
+	user-select: none;
 }
 
 #photograph {
-	background-color: #eee;
-	height: 150px;
+	width: 100px;
 	margin-right: 30px;
 	cursor: zoom-in;
+	padding: 10px;
 }
 
-#irn, #accession {
-	font-family: 'Merriweather', serif;
-	cursor: default;
+#originaldata, #emurecord { 
+    font-size: 14px;
+    flex-direction: column;
+    padding: 10px;
 }
 
-.irnlabel, .accessionlabel {
-	font-family: 'Open Sans', sans-serif;
+.originaldata {
+	margin-bottom: 10px;
+	margin: 10px;
+}
+
+.originaldatalabel {
 	opacity: 0.4;
 	margin-right: 10px;
+	font-size: 14px;
 }
 
-#topbarbuttons {
-	height: 150px;
-	display: flex;
+#recordbarbuttons {
+	width: 100%;
     flex-direction: column;
-    justify-content: space-between;
 }
 
-#topbarbuttons > button {
+#recordbarbuttons > button {
 	/* button style */
 	background-color: green;
 	padding: 7px;
+	margin: 5px 25%;
 	border: none;
 	outline: none;
-	width: 150px;
+	width: 50%;
 	/* font */
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	color: white;
 	line-height: 12px;
 	/* clickable */ 
@@ -91,7 +92,7 @@ body {
 	opacity: 0.5;
 }
 
-#topbarbuttons > button:hover {
+#recordbarbuttons > button:hover {
 	opacity: 1;
 }
 
@@ -118,15 +119,27 @@ body {
     cursor: zoom-out;
 }
 
+/*////////////////////////// new options ............................ */
+
+#newoptions {
+	display: flex;
+    position: fixed;
+    top: 0px;
+    left: 35%;
+    bottom: 0px;
+    overflow-y: scroll;
+    flex-direction: column;
+    padding: 30px;
+}
 
 /*/////////////////////////// section ///////////////////////////////*/
 
 .header {
 	background-color: #eee;
 	padding: 10px;
-	font-size: 20px;
+	font-size: 16px;
 	margin: 30px 0px 10px 0px;
-	font-family: 'Open Sans', sans-serif;
+	
 	cursor: default;
 }
 
@@ -134,7 +147,7 @@ body {
 
 .optionContainer{
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 	margin-bottom: 5px;
 }
 
@@ -198,9 +211,8 @@ body {
 .data {
     display: inline-block;
     vertical-align: middle;
-    font-size: 16px;
+    font-size: 14px;
     margin-right: 10px;
-    font-family: 'Merriweather', serif;
 }
 
 .source {
@@ -217,7 +229,6 @@ body {
 /*/////////////////////////// directory ///////////////////////////////*/
 
 .directoryPhotoContainer {
-    display: inline-block;
     width: 30%;
     font-family: 'Open Sans';
 }
