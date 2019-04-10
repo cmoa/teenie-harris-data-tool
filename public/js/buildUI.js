@@ -23,7 +23,6 @@ function populateUI() {
 }
 
 function updateEmuRecord(field, data) {
-	console.log(field)
 	photo["emuOutput"][field] = data;
 	populateEmuRecord();
 }
@@ -82,7 +81,6 @@ function populateTitles() {
 							if (title["source"].indexOf("Edited") === -1) { 
 								title["source"] = title["source"].concat(["Edited"]) 
 								// update UI
-								console.log($($(event.target).parent()).find('.source'))
 								$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
 							}
 							title["data"] = $(event.target).html();
@@ -102,7 +100,6 @@ function populateTitles() {
 function formatPeople() {
 	var namelist = "";
 	for (var i=0; i<photo["people"].length; i++) {
-		console.log(photo["people"]);
 		if (photo["people"][i]["status"] === "accepted") {
 			namelist += photo["people"][i]["data"] + ", ";
 		}
@@ -267,7 +264,6 @@ function populateLocation() {
 							if (place["source"].indexOf("Edited") === -1) { 
 								place["source"] = place["source"].concat(["Edited"]) 
 								// update UI
-								console.log($($(event.target).parent()).find('.source'))
 								$($(event.target).parent()).find('.source').html("("+place["source"].join(', ')+")")
 							}
 							place["data"] = $(event.target).html();
@@ -392,7 +388,6 @@ function populateSubjects() {
 
 function populateKeywords() {
 	$("#keywords").empty()
-	console.log(photo["keywords"])
 	if (photo["keywords"] !== undefined) {
 		for (var i=0; i<photo["keywords"].length; i++) {
 
