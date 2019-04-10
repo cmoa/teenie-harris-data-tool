@@ -1,18 +1,23 @@
-function populateUI() {
-	// TOP BAR
-	!photo["flagged"] || photo["flagged"] === "false" ? 
-		$("#flagForReview").html("Flag For Review") : 
-		$("#flagForReview").html("<span id='flag' style='display:inline-block;background-color:red !important; height: 10px;width: 10px;'></span>Unflag");
+var activeInput = false;
 
-	$("#photograph").attr("src", "images/teenieimages/"+photo["emu"]["irn"]+".jpg");
-	$("#photographfull").attr("src", "images/teenieimages/"+photo["emu"]["irn"]+".jpg")
+function populateUI() {
+	// display photograph
+	$("#photograph").attr("src", "images/teenieimages/"+photo["emuInput"]["irn"]+".jpg");
+	$("#photographfull").attr("src", "images/teenieimages/"+photo["emuInput"]["irn"]+".jpg")
+
+	// add click events for full screen photo
 	$("#photograph").on('click', function() { $("#photographfullcontainer").show(); });
 	$("#photographfullcontainer").on('click', function() { $("#photographfullcontainer").hide(); });
 	$("#photographfull").on('click', function() { $("#photographfullcontainer").hide(); });
-	$("#irn").html("<span class='irnlabel'>IRN</span>" + photo["emu"]["irn"]);
-	$("#accession").html("<span class='accessionlabel'>Accession</span>" + photo["emu"]["TitAccessionNo"]);
 
-	// FIELDS
+	// populate emu record
+	$("#emurecord").empty();
+	for (key in photo["emuOutput"]) {
+		var value = (photo["emuOutput"][key] === null) ? "" : photo["emuOutput"][key];
+		$("#emurecord").append("<div class='originaldata'><span class='originaldatalabel'>"+key+":</span><span id='"+key+"'>"+value+"</span></div>");
+	}
+
+	// populate suggestions
 	populateTitles();
 	populatePeople();
 	populateLocation();
@@ -40,6 +45,7 @@ function populateTitles() {
 						else { title["status"] = "suggested"; }
 						return title;
 					});
+
 					// update UI
 					populateTitles();
 				});
@@ -97,6 +103,15 @@ function populatePeople() {
 			var personData = $("<span class='data' contenteditable>")
 				.html(person["data"])
 				.on('input',  { "person": person }, function(event) {
+					for (var i = 0; i < event.data.person["source"].length; i++) {
+						var name = event.data.person["data"];
+						var source = event.data.person["source"][i];
+						var sourceDOM = $("#"+source);
+						if (sourceDOM.html() !== undefined) {
+							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
+							sourceDOM.html(sourceDOM.html().replace(highlightedName, name));
+						}
+					}
 					photo["people"].map(function(person) {
 						if (person === event.data.person) { 
 							if (person["source"].indexOf("Edited") === -1) { 
@@ -108,6 +123,49 @@ function populatePeople() {
 						} 
 						return person;
 					});
+					for (var i = 0; i < event.data.person["source"].length; i++) {
+						var name = event.data.person["data"];
+						var source = event.data.person["source"][i];
+						var sourceDOM = $("#"+source);
+						if (sourceDOM.html() !== undefined) {
+							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
+							sourceDOM.html(sourceDOM.html().replace(name, highlightedName));
+						}
+					}
+				})
+				.on('mouseenter',  { "person": person }, function(event) {
+					for (var i = 0; i < event.data.person["source"].length; i++) {
+						var name = event.data.person["data"];
+						var source = event.data.person["source"][i];
+						var sourceDOM = $("#"+source);
+						if (sourceDOM.html() !== undefined) {
+							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
+							sourceDOM.html(sourceDOM.html().replace(name, highlightedName));
+						}
+					}
+				})
+				.on('mouseleave',  { "person": person }, function(event) {
+					for (var i = 0; i < event.data.person["source"].length; i++) {
+						var name = event.data.person["data"];
+						var source = event.data.person["source"][i];
+						var sourceDOM = $("#"+source);
+						if (sourceDOM.html() !== undefined) {
+							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
+							sourceDOM.html(sourceDOM.html().replace(highlightedName, name));
+						}
+					}
+				})
+				.on('focusout',  { "person": person }, function(event) {
+					activeInput = false;
+					for (var i = 0; i < event.data.person["source"].length; i++) {
+						var name = event.data.person["data"];
+						var source = event.data.person["source"][i];
+						var sourceDOM = $("#"+source);
+						if (sourceDOM.html() !== undefined) {
+							var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
+							sourceDOM.html(sourceDOM.html().replace(highlightedName, name));
+						}
+					}
 				});
 
 			var personSource = $("<span class='source'>")
@@ -118,6 +176,7 @@ function populatePeople() {
 				.append(personToggle)
 				.append(personData)
 				.append(personSource);
+				
 			
 			$("#people").append(personContainer);
 
@@ -280,13 +339,13 @@ function populateSubjects() {
 					});
 				});
 
-			var subjectsSource = $("<span class='source'>")
-				.html("("+subjects["source"].join(', ')+")");
+			//var subjectsSource = $("<span class='source'>")
+			//	.html("("+subjects["source"].join(', ')+")");
 
 			var subjectsContainer = $("<div class='optionContainer'>")
 				.append(subjectsToggle)
 				.append(subjectsData)
-				.append(subjectsSource);
+				// .append(subjectsSource);
 			
 			$("#subjects").append(subjectsContainer);
 

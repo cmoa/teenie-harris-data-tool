@@ -6,24 +6,18 @@ $(document).ready(function() {
 
 	for (id in catalog) { 
 		if (id !== "currentPhoto") {
-			console.log(catalog[id]);
 
-			var photo = $("<img>")
-				.addClass("directoryPhoto")
-				.attr("src", "images/teenieimages/"+catalog[id]["emu"]["irn"]+".jpg");
+			var status;
 
-			var photoContainer = $("<a>")
+			if (catalog[id]["flagged"] === true || catalog[id]["flagged"] === "true") status = "needs review";
+			else if (catalog[id]["reviewed"] === true || catalog[id]["reviewed"] === "true") status = "approved";
+			else status = "sdf";
+
+			var photoContainer = $("<tr>")
 				.addClass("directoryPhotoContainer")
-				.append(photo)
 				.append("<br>")
-				.attr("href", "/#"+id)
-				.append("<span>" + catalog[id]["emu"]["irn"] + "</span>");
-
-
-
-			if (catalog[id]["flagged"] !== 'false' && catalog[id]["flagged"] !== false) {
-				photoContainer.append("<span id='flag' style='display:inline-block;background-color:red !important; height: 10px;width: 10px;margin-left:5px;'></span>")
-			}
+				.append("<td><a href='/#"+id+"'>" + catalog[id]["emu"]["TitAccessionNo"] + "</a></td>")
+				.append("<td>" + status + "</td>");
 
 			$("#directory").append(photoContainer);
 		}

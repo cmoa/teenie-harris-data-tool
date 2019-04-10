@@ -1,23 +1,46 @@
+var emuOutput = {
+	"ecatalogue_key": null,
+	"irn": null,
+	"TitAccessionNo": null,
+	"TitMainTitle": null,
+	"CreDateCreated": null,
+	"CreEarliestDate": null,
+	"CreLatestDate": null,
+	"PhyMediumComments": null,
+	"CatDescriptText": null,
+	"CatSubject_tab": null,
+	"CreCountry_tab": null,
+	"CreState_tab": null,
+	"CreDistrict_tab": null,
+	"CreCity_tab": null,
+	"CrePlaceQualifier_tab": null,
+
+	// New Fields
+	"Names": null,
+	"Keywords": null,
+	"Article": null,
+}
+
+
 function createCatalog(ecatalog) {
 	for (id in ecatalog) {
 		var photo =  {};
 		photo["id"] = id;
-		// Populate entry with its emu data
-		photo["emu"] = ecatalog[id];
+		// Populate entry with its original emu data
+		photo["emuInput"] = ecatalog[id];
 		// Mark as not reviewed or approved
 		photo["generated"] = false;
 		photo["reviewed"] = false;
 		photo["flagged"] = false;
+		photo["approved"] = false;
+		// Save entry to catalog
 		catalog[id] = photo;
 	}
-
 	// set to edit first photo
 	catalog["currentPhoto"] = JSON.parse(JSON.stringify(catalog["1"]));
-
 	// save to json file
 	saveCatalog();
 }
-
 
 
 function generatePhoto(photo) {
@@ -26,31 +49,35 @@ function generatePhoto(photo) {
 
 		photoData["id"] = photo["id"];
 		// Populate entry with its emu data
-		photoData["emu"] = photo["emu"];
+		photoData["emuInput"] = photo["emuInput"];
+		photoData["emuOutput"] = Object.assign({}, emuOutput, photo["emuInput"]);
+		console.log(emuOutput);
+		console.log(photo["emuOutput"]);
 		// Mark as not reviewed or approved
 		photoData["generated"] = true;
 		photoData["reviewed"] = false;
 		photoData["flagged"] = false;
+		photoData["approved"] = false;
 		// Make titles 
-		photoData["titles"] = extractTitles(photo["emu"]["TitMainTitle"]);
+		photoData["titles"] = extractTitles(photo["emuInput"]["TitMainTitle"]);
 		// Make article 
-		photoData["article"] = extractArticle(photo["emu"]["CatDescriptText"]);
+		photoData["article"] = extractArticle(photo["emuInput"]["CatDescriptText"]);
 		// Make list of people 
-		photoData["people"] = extractPeople(photo["emu"]["TitMainTitle"], photo["emu"]["CatDescriptText"]);
+		photoData["people"] = extractPeople(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"]);
 		// Make a guess at location details
 		photoData["location"] = extractLocation(
-			photo["emu"]["TitMainTitle"],
-			photo["emu"]["CatDescriptText"], 
-			photo["emu"]["CreCountry_tab"],
-			photo["emu"]["CreState_tab"],
-			photo["emu"]["CreDistrict_tab"],
-			photo["emu"]["CreCity_tab"],
-			photo["emu"]["CrePlaceQualifier_tab"]
+			photo["emuInput"]["TitMainTitle"],
+			photo["emuInput"]["CatDescriptText"], 
+			photo["emuInput"]["CreCountry_tab"],
+			photo["emuInput"]["CreState_tab"],
+			photo["emuInput"]["CreDistrict_tab"],
+			photo["emuInput"]["CreCity_tab"],
+			photo["emuInput"]["CrePlaceQualifier_tab"]
 		);
 		// Extract and format subject headers
-		photoData["subjects"] = extractSubjects(photo["emu"]["CatSubject_tab"]);
+		photoData["subjects"] = extractSubjects(photo["emuInput"]["CatSubject_tab"]);
 		// Generate keywords
-		photoData["keywords"] = extractKeywords();
+		photoData["keywords"] = extractKeywords(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"], photo["emuInput"]["CatSubject_tab"]);
 
 		resolve(photoData);
 	});
@@ -58,17 +85,35 @@ function generatePhoto(photo) {
 
 
 
-function buildManifest(emu) {
-	
+function buildManifest(emu) {	
 }
 
+
+///////////////// TITLE /////////////////////////////////
+
+function shortenTitle(title) {
+    var shortenedTitle = {};
+    $.ajax({
+        url: "/shortentitle",
+        type: 'post',
+        async: false,
+        data: {"title" : title},
+        complete: function (res) { 
+            // Add completed title to manifest and refresh title div
+            shortenedTitle["data"] = res.responseText;
+            shortenedTitle["source"] = ["Spacy suggestion"];
+            shortenedTitle["status"] = "suggested";
+        },
+     });
+    return shortenedTitle;
+}
 
 function extractTitles(emuTitle) {
 	var titles =[];
 
 	var acceptedTitle = {};
 	acceptedTitle["data"] = emuTitle;
-	acceptedTitle["source"] = ["eMU"];
+	acceptedTitle["source"] = ["TitMainTitle"];
 	acceptedTitle["status"] = "accepted";
 	titles.push(acceptedTitle);
 
@@ -80,53 +125,131 @@ function extractTitles(emuTitle) {
 }
 
 
+//////////////// NEWS PAPER //////////////////////////////
+
 function extractArticle(emuDescription) {
 	var article = [];
 
-	// TODO: implement article extraction
-	var paper = {};
-	paper["name"] = "Paper";
-	paper["data"] = "Pittsburgh Courier";
-	paper["source"] = ["eMU CatDescriptText"];
-	paper["status"] = "accepted";
+	// Newspaper
+	var paper = { "name": "Publication", "data" : null };
+	var extractedNewspaper = emuDescription.match(/in (.*) newspaper/);
+	if (extractedNewspaper !== null) {
+		for (var i = 1; i < extractedNewspaper.length; i++) {
+			if (extractedNewspaper[i] !== undefined) { 
+				paper["data"] = extractedNewspaper[i];
+				paper["source"] = ["eMU CatDescriptText"];
+				paper["status"] = "accepted";
+				break; 
+			}
+		}
+	}
 	article.push(paper);
 
-	var date = {};
-	date["name"] = "Publication Date";
-	date["data"] = "May 30, 1953";
-	date["source"] = ["eMU CatDescriptText"];
-	date["status"] = "accepted";
+	// Date
+	var date = { "name": "Publication Date", "data" : null };
+	var extractedDate = emuDescription.match(/, (.*), pg|newspaper (.*), pg/);
+	if (extractedDate !== null) {
+		for (var i = 1; i < extractedDate.length; i++) { 
+			if (extractedDate[i] !== undefined) { 
+				date["data"] = extractedDate[i];
+				date["source"] = ["eMU CatDescriptText"];
+				date["status"] = "accepted";
+				break; 
+			}
+		}
+	}
 	article.push(date);
 
-	var cutline = {};
-	cutline["name"] = "Cutline";
-	cutline["data"] = "Pittsburgh Courier";
-	cutline["source"] = ["eMU CatDescriptText"];
-	cutline["status"] = "accepted";
+	// Page #
+	var page = { "name": "Page", "data" : null };
+	var extractedPage = emuDescription.match(/pg. ([0-9]*)|pg ([0-9]*)|page ([0-9]*)/);
+	if (extractedPage !== null) {
+		for (var i = 1; i < extractedPage.length; i++) {
+			if (extractedPage[i] !== undefined) { 
+				page["data"] = extractedPage[i];
+				page["source"] = ["eMU CatDescriptText"];
+				page["status"] = "accepted";
+				break; 
+			}
+		}
+	}
+	article.push(page);
+
+	// Cutline
+	var cutline = { "name": "Cutline", "data" : null };
+	var extractedCutline = emuDescription.match(/reads: "(.*)"|reads "(.*)"/);
+	if (extractedCutline !== null) {
+		for (var i = 1; i < extractedCutline.length; i++) {
+			if (extractedCutline[i] !== undefined) { 
+				cutline["data"] = extractedCutline[i];
+				cutline["source"] = ["eMU CatDescriptText"];
+				cutline["status"] = "accepted";
+				break; 
+			}
+		}
+	}
 	article.push(cutline);
 
 	return article;
 }
 
 
+/////////////////////// NAMES /////////////////////////////////
+
+
 function extractPeople(emuTitle, emuDescription) {
-	var people = [];
+	var extractedNamesList = [];
+	var extractedNames = {};
 
-	// TODO: implement named entity recognition alogrithm
-	// for (var i = 0; i < 10; i++) {
-	//	var suggestedPerson = {};
-	//	suggestedPerson["data"] = "Suggested Person " + (i+1);
-	//	suggestedPerson["source"] = ["source(TBD)"];
-	//	suggestedPerson["status"] = "suggested";
-	//	people.push(suggestedPerson);
-	// }
+	// Extract From Title
+    $.ajax({
+        url: "/extractnames",
+        type: 'post',
+        async: false,
+        data: {"text" : emuTitle },
+        complete: function (res) { 
+            var people = res.responseText.split(",");
+            for (var i = 0; i < people.length; i++) { 
+            	if (extractedNames[people[i]] === undefined || extractedNames[people[i]]["source"] === undefined) {
+	                extractedNames[people[i]] = { "source" : ["TitMainTitle"] };
+	            } else {
+	            	extractedNames[people[i]]["source"].push("TitMainTitle");
+	            } 
+           	}
+        },
+    });
 
-	// Algorithms
-	console.log(extractNames(emuTitle))
+    // Extract From Description
+    $.ajax({
+        url: "/extractnames",
+        type: 'post',
+        async: false,
+        data: {"text" : emuDescription},
+        complete: function (res) { 
+            var people = res.responseText.split(",");
+            for (var i = 0; i < people.length; i++) {
+            	if (extractedNames[people[i]] === undefined || extractedNames[people[i]]["source"] === undefined) {
+	                extractedNames[people[i]] = { "source" : ["CatDescriptText"] };
+	            } else {
+	            	extractedNames[people[i]]["source"].push("CatDescriptText");
+	            }
+            }
+        },
+    });
 
-	return extractNames(emuTitle);
+    for (name in extractedNames) {
+    	var extractedName = {
+    		data: name,
+    		source: extractedNames[name]["source"],
+    		status: extractedNames[name]["source"].length > 1 ? "accepted" : "suggested",
+    	}
+    	extractedNamesList.push(extractedName);
+    }
+
+    return extractedNamesList;
 }
 
+////////////////////// LOCATION /////////////////////////////
 
 function extractLocation(emuTitle, emuDescription, emuCountry, emuState, emuDistrict, emuCity, emuPlace) {
 	var location = [];
@@ -183,42 +306,123 @@ function extractLocation(emuTitle, emuDescription, emuCountry, emuState, emuDist
 
 function extractSubjects(emuSubjects) {
 	var subjects = [];
-
 	emuSubjects = emuSubjects.split('\n');
+	console.log("EMU Subjects");
+	console.log(emuSubjects);
 
 	for (var i = 0; i < emuSubjects.length; i++) {
-		var emuSubject = {};
-		emuSubject["data"] = emuSubjects[i];
-		emuSubject["source"] = ["emuSubjects"];
-		emuSubject["status"] = "suggested";
-		subjects.push(emuSubject);
-	}
 
-	// Algorithm to edit subject headers goes here
-	for (var i = 0; i < emuSubjects.length; i++) {
-		if (emuSubjects[i].substr(emuSubjects[i].length - 27) === "--Pennsylvania--Pittsburgh.") {
-			var emuSubject = {};
-			emuSubject["data"] = emuSubjects[i].substring(0, emuSubjects[i].length - 27);
-			emuSubject["source"] = ["Removed location qualifier"];
-			emuSubject["status"] = "accepted";
-			subjects.push(emuSubject);
+		var newSubject = "";
+		var source = [];
+
+		var emuSubject = emuSubjects[i];
+
+		var split = [];
+		var place = "";
+
+		var establishment = [];
+
+		if (emuSubject.includes("--")) {
+			split = emuSubject.split("--");
+			if (split[0] !== undefined) { 
+				newSubject = split[0]; 
+				source.push("Removed location qualifier");
+			} else { newSubject = emuSubject; }
+			for (var j = 1; j < split.length; j++) { place += split[j] + "+"; }
+		} else if (emuSubject.includes("(") && emuSubject.includes(")")) {
+			split = emuSubject.split('(');
+			establishment.push(split[0]);
+			newSubject = emuSubject;
+			for (var j = 1; j < split.length; j++) { place = split[0] + split[j].split(')')[0]; }
+		} else {
+			newSubject = emuSubject;
 		}
+		//console.log(i);
+		//console.log(place);
+		
+		if (place !== "") { getPlaceFromAddress(place); }
+
+		var subject = {};
+		subject["data"] = newSubject;
+		subject["source"] = source;
+		subject["status"] = "suggested";
+		subjects.push(subject);
+		console.log("Updated subjects");
+		console.log(subjects);
+
+
+		// extract keywords from title, description, and subjects
+	    $.ajax({
+	        url: "/extractsubjects",
+	        type: 'post',
+	        async: false,
+	        data: {"subject" : newSubject},
+	        complete: function (res) { 
+	        	console.log(newSubject);
+	        	console.log(JSON.parse(res.responseText));
+	        },
+	     });
+
 	}
 
 	return subjects;
 }
 
-function extractKeywords() {
-	var keywords = [];
 
-	// TODO: implement named entity recognition alogrithm
-	for (var i = 0; i < 10; i++) {
-		var keyword = {};
-		keyword["data"] = "Suggested Keyword " + (i+1);
-		keyword["source"] = ["source(TBD)"];
-		keyword["status"] = "suggested";
-		keywords.push(keyword);
-	}
+function getPlaceFromAddress(place) {
+	var url =  "https://maps.googleapis.com/maps/api/geocode/json?address="+
+			   place+
+			   "&key=AIzaSyCVx8lSSE73bw565GnKpAd9QGcS5B0TVxU";
 
-	return keywords;
+	$.ajax({
+        type: 'GET',
+        url: url,
+        dataType: 'json',
+        success: function(data) {
+        	var d = data;
+			if (d.status === "OK") {
+				var addressComponents = d.results[0].address_components;
+				for (var i = 0; i<addressComponents.length; i++) {
+					var addressComponentTypes = addressComponents[i].types;
+					for (var j = 0; j < addressComponentTypes.length; j++) {
+						var type = addressComponentTypes[j];
+						// console.log(type);
+						// console.log(addressComponents[i].long_name);
+					}
+				}
+			}
+        },
+        data: {},
+        async: false
+    });
+}
+
+
+function extractKeywords(emuTitle, emuDescription, emuSubjects) {
+	var extractedKeywords = [];
+
+	// extract keywords from title, description, and subjects
+    $.ajax({
+        url: "/extractkeywords",
+        type: 'post',
+        async: false,
+        data: {"source" : emuTitle.concat([" "], emuDescription)},
+        complete: function (res) { 
+           var keywords = res.responseText.split(",");
+            for (var i = 0; i < keywords.length; i++) {
+                var suggestedKeyword = {};
+                suggestedKeyword["data"] = keywords[i];
+                suggestedKeyword["source"] = ["Spacy"];
+                suggestedKeyword["status"] = "suggested";
+                extractedKeywords.push(suggestedKeyword);
+            }
+        },
+     });
+
+    // create keywords from date
+    // console.log(photo["article"]["date"]);
+
+    // create keywords from subject headers
+
+    return extractedKeywords;
 }

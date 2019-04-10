@@ -6,7 +6,6 @@ var startFromEmpty = false;
 // First load in data to global store
 $(document).ready(function() {
 
-
 	$("#photographfullcontainer").hide();
 	$("#loadingScreen").show();
 	catalog = loadCatalog();
@@ -23,14 +22,11 @@ $(document).ready(function() {
 	  window.location.replace(window.location.href.split('#')[0]);
 	}
 
-
 	loadPhoto();
 });
 
 
 function loadPhoto() {
-
-
 	if (!catalog["currentPhoto"]["generated"] || catalog["currentPhoto"]["generated"] === "false") {
 		console.log("NEED TO GENERATE PHOTO"); 
 		generatePhoto(catalog["currentPhoto"]).then(function(photoData){

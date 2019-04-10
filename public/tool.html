@@ -13,72 +13,65 @@
 	<link rel="stylesheet" type="text/css" href="style.css"></link>
 </head>
 <body>
-	<div id="topbar">
+	<div id="recordbar">
 		<!-- top bar image -->
-		<div id="topbarimage">
-			<img id="photograph" />
-			<div>
-				<div id="irn"></div>
-				<div id="accession"></div>
-			</div>
+		<img id="photograph" />
+
+		<div id="emurecord">
 		</div>
 		
-		<!-- top bar buttons -->
-		<div id="topbarbuttons">
+		<div id="recordbarbuttons">
 			<button onClick="saveChanges()">Save Changes</button>
 			<button onClick="undoChanges()">Undo Changes</button>
 			<button onClick="startOver()">Start Over</button>
 			<button id="flagForReview" onClick="flagForReview()">Flag For Review</button>
 			<button onClick="nextPhoto()">Next Photo</button>
 		</div>
+
 	</div>
 	
-	<!-- title -->
-	<div style="margin-top: 230px;">
-		<div class="header">Titles</div>
-		<div id="titles">
+	<div id="newoptions">
+		<!-- title -->
+		<div>
+			<div class="header">Titles</div>
+			<div id="titles">
+			</div>
 		</div>
-	</div>
-	<!-- names -->
-	<div>
-		<div class="header">People</div>
-		<div id="people">
+		<!-- names -->
+		<div>
+			<div class="header">People</div>
+			<div id="people">
+			</div>
 		</div>
-	</div>
-	<!-- location -->
-	<div>
-		<div class="header">Location</div>
-		<div id="place">
+		<!-- location -->
+		<div>
+			<div class="header">Location</div>
+			<div id="place">
+			</div>
 		</div>
-	</div>
-	<!-- newspaper -->
-	<div>
-		<div class="header">Newspaper</div>
-		<div id="article">
+		<!-- newspaper -->
+		<div>
+			<div class="header">Newspaper</div>
+			<div id="article">
+			</div>
 		</div>
-	</div>
-	<!-- subjectheaders -->
-	<div>
-		<div class="header">Subject Headers</div>
-		<div id="subjects">
+		<!-- subjectheaders -->
+		<div>
+			<div class="header">Subject Headers</div>
+			<div id="subjects">
+			</div>
 		</div>
-	</div>
-	<!-- keywords -->
-	<div>
-		<div class="header">Keywords</div>
-		<div id="keywords">
+		<!-- keywords -->
+		<div>
+			<div class="header">Keywords</div>
+			<div id="keywords">
+			</div>
 		</div>
-	</div>
-	<!-- preview -->
-	<div>
-		<div class="header">Preview</div>
-		<div id="preview">
+		<div id="photographfullcontainer" class="hide">
+			<img id="photographfull" />
 		</div>
-	</div>
-	<div id="photographfullcontainer" class="hide">
-		<img id="photographfull" />
-	</div>
-	<div id="loadingScreen">
+		<div id="loadingScreen">
+		</div>
 	</div>
 </body>
 </html>
