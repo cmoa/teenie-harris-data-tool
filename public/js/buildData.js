@@ -51,8 +51,6 @@ function generatePhoto(photo) {
 		// Populate entry with its emu data
 		photoData["emuInput"] = photo["emuInput"];
 		photoData["emuOutput"] = Object.assign({}, emuOutput, photo["emuInput"]);
-		console.log(emuOutput);
-		console.log(photo["emuOutput"]);
 		// Mark as not reviewed or approved
 		photoData["generated"] = true;
 		photoData["reviewed"] = false;
@@ -65,7 +63,7 @@ function generatePhoto(photo) {
 		// Make list of people 
 		photoData["people"] = extractPeople(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"]);
 		var namelist = "";
-		console.log(photoData["people"]);
+		// TO DO, change to getters and setters 
 		for (var i=0; i<photoData["people"].length; i++) {
 			if (photoData["people"][i]["status"] === "accepted") {
 				namelist += photoData["people"][i]["data"] + ", ";
@@ -199,6 +197,12 @@ function extractArticle(emuDescription) {
 	}
 	article.push(cutline);
 
+	console.log("--------------NEWSPAPER--------------");
+    for (key in article){
+    	console.log(article[key]["name"] + ": " + article[key]["data"]);
+    }
+    console.log("----------------------------");
+
 	return article;
 }
 
@@ -316,8 +320,7 @@ function extractLocation(emuTitle, emuDescription, emuCountry, emuState, emuDist
 function extractSubjects(emuSubjects) {
 	var subjects = [];
 	emuSubjects = emuSubjects.split('\n');
-	console.log("EMU Subjects");
-	console.log(emuSubjects);
+	console.log("---------Subject Headers------------");
 
 	for (var i = 0; i < emuSubjects.length; i++) {
 
@@ -325,6 +328,7 @@ function extractSubjects(emuSubjects) {
 		var source = [];
 
 		var emuSubject = emuSubjects[i];
+		console.log("Original subject: " + emuSubject);
 
 		var split = [];
 		var place = "";
@@ -346,8 +350,6 @@ function extractSubjects(emuSubjects) {
 		} else {
 			newSubject = emuSubject;
 		}
-		//console.log(i);
-		//console.log(place);
 		
 		if (place !== "") { getPlaceFromAddress(place); }
 
@@ -356,8 +358,8 @@ function extractSubjects(emuSubjects) {
 		subject["source"] = source;
 		subject["status"] = "suggested";
 		subjects.push(subject);
-		console.log("Updated subjects");
-		console.log(subjects);
+		//console.log("Updated subjects");
+		//console.log(subjects);
 
 
 		// extract keywords from title, description, and subjects
@@ -367,10 +369,19 @@ function extractSubjects(emuSubjects) {
 	        async: false,
 	        data: {"subject" : newSubject},
 	        complete: function (res) { 
-	        	console.log(newSubject);
-	        	console.log(JSON.parse(res.responseText));
+	        	console.log("Suggestions: ");  
+
+	        	var suggestions = JSON.parse(res.responseText);
+	        	if (suggestions.length === 0) {
+	            	console.log("No Suggestions, may not be a valid subject header");
+	            }
+	        	for (var i = 0; i < suggestions.length; i++) {
+	        		console.log(suggestions[i]);
+	        	}
 	        },
 	     });
+
+	    console.log("--------------------");
 
 	}
 
@@ -391,14 +402,15 @@ function getPlaceFromAddress(place) {
         	var d = data;
 			if (d.status === "OK") {
 				var addressComponents = d.results[0].address_components;
+				var placestring = "";
 				for (var i = 0; i<addressComponents.length; i++) {
+					placestring += addressComponents[i].long_name + ", ";
 					var addressComponentTypes = addressComponents[i].types;
 					for (var j = 0; j < addressComponentTypes.length; j++) {
 						var type = addressComponentTypes[j];
-						// console.log(type);
-						// console.log(addressComponents[i].long_name);
 					}
 				}
+				console.log("Implied Place: " + placestring);
 			}
         },
         data: {},
@@ -432,6 +444,11 @@ function extractKeywords(emuTitle, emuDescription, emuSubjects) {
     // console.log(photo["article"]["date"]);
 
     // create keywords from subject headers
-
+    console.log("--------------KEYWORDS--------------");
+    for (var i = 0; i < extractedKeywords.length; i++){
+    	console.log(extractedKeywords[i]["data"]);
+    }
+    console.log("----------------------------");
+    // console.log(extractedKeywords);
     return extractedKeywords;
 }
