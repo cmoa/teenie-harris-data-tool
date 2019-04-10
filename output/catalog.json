@@ -22,7 +22,7 @@
 			"ecatalogue_key": "1",
 			"irn": "928",
 			"TitAccessionNo": "2001.35.148",
-			"TitMainTitle": "Pittsburgh Lions Little League baseball team in background",
+			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
 			"CreDateCreated": "May 1953",
 			"CreEarliestDate": "1953-05-01",
 			"CreLatestDate": "1953-05-30",
@@ -34,7 +34,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "",
+			"Names": "James Dunmore, William Smith, Stanley Edward, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -48,14 +48,14 @@
 				"source": [
 					"TitMainTitle"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Pittsburgh Lions Little League baseball team in background",
 				"source": [
 					"Spacy suggestion"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			}
 		],
 		"article": [
@@ -99,7 +99,7 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "John King",
@@ -107,13 +107,14 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "James Dunmore",
 				"source": [
 					"TitMainTitle",
-					"CatDescriptText"
+					"CatDescriptText",
+					"Edited"
 				],
 				"status": "accepted"
 			},
@@ -410,23 +411,6 @@
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": ""
 		},
-		"emuOutput": {
-			"ecatalogue_key": "2",
-			"irn": "953",
-			"TitAccessionNo": "2001.35.171",
-			"TitMainTitle": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
-			"CreDateCreated": "June 1962",
-			"CreEarliestDate": "1962-06-01",
-			"CreLatestDate": "1962-06-30",
-			"PhyMediumComments": "black-and-white: Kodak safety film",
-			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 21 reads: \"Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.\"",
-			"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nBaseball players--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTerrace Village (Pittsburgh, Pa.)\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.",
-			"CreCountry_tab": "United States",
-			"CreState_tab": "Pennsylvania",
-			"CreDistrict_tab": "Allegheny county",
-			"CreCity_tab": "Pittsburgh",
-			"CrePlaceQualifier_tab": ""
-		},
 		"generated": "false",
 		"reviewed": "false",
 		"flagged": "false",
@@ -435,23 +419,6 @@
 	"3": {
 		"id": "3",
 		"emuInput": {
-			"ecatalogue_key": "3",
-			"irn": "975",
-			"TitAccessionNo": "2001.35.193",
-			"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
-			"CreDateCreated": "June 1946",
-			"CreEarliestDate": "1946-06-01",
-			"CreLatestDate": "1946-06-29",
-			"PhyMediumComments": "black-and-white: Ansco safety film",
-			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
-			"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
-			"CreCountry_tab": "United States",
-			"CreState_tab": "",
-			"CreDistrict_tab": "",
-			"CreCity_tab": "",
-			"CrePlaceQualifier_tab": ""
-		},
-		"emuOutput": {
 			"ecatalogue_key": "3",
 			"irn": "975",
 			"TitAccessionNo": "2001.35.193",
@@ -496,7 +463,7 @@
 			"ecatalogue_key": "1",
 			"irn": "928",
 			"TitAccessionNo": "2001.35.148",
-			"TitMainTitle": "Pittsburgh Lions Little League baseball team in background",
+			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
 			"CreDateCreated": "May 1953",
 			"CreEarliestDate": "1953-05-01",
 			"CreLatestDate": "1953-05-30",
@@ -508,7 +475,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "",
+			"Names": "James Dunmore, William Smith, Stanley Edward, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -522,14 +489,14 @@
 				"source": [
 					"TitMainTitle"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Pittsburgh Lions Little League baseball team in background",
 				"source": [
 					"Spacy suggestion"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			}
 		],
 		"article": [
@@ -573,7 +540,7 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "John King",
@@ -581,13 +548,14 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "James Dunmore",
 				"source": [
 					"TitMainTitle",
-					"CatDescriptText"
+					"CatDescriptText",
+					"Edited"
 				],
 				"status": "accepted"
 			},

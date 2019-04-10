@@ -1,4 +1,3 @@
-var activeInput = false;
 
 function populateUI() {
 	// display photograph
@@ -23,6 +22,11 @@ function populateUI() {
 	$("#loadingScreen").hide();
 }
 
+function updateEmuRecord(field, data) {
+	console.log(field)
+	photo["emuOutput"][field] = data;
+	populateEmuRecord();
+}
 
 function populateEmuRecord() {
 	$("#emurecord").empty();
@@ -45,11 +49,9 @@ function populateEmuRecord() {
 	}
 }
 
-function updateEmuRecord(field, data) {
-	photo["emuOutput"][field] = data;
-	populateEmuRecord();
-}
 
+// Lets you select which title to use in emu record, 
+// as well as make changes to the text fields
 function populateTitles() {
 	$("#titles").empty()
 	if (photo["titles"] !== undefined) {
@@ -90,19 +92,23 @@ function populateTitles() {
 					});
 				});
 
-			var titleSource = $("<span class='source'>")
-				.html("("+title["source"].join(', ')+")");
-
-			var titleContainer = $("<div class='optionContainer'>")
-				.append(titleToggle)
-				.append(titleData)
-				.append(titleSource);
-			
+			var titleSource = $("<span class='source'>").html("("+title["source"].join(', ')+")");
+			var titleContainer = $("<div class='optionContainer'>").append(titleToggle).append(titleData).append(titleSource);
 			$("#titles").append(titleContainer);
 		}
 	}
 }
 
+function formatPeople() {
+	var namelist = "";
+	for (var i=0; i<photo["people"].length; i++) {
+		console.log(photo["people"]);
+		if (photo["people"][i]["status"] === "accepted") {
+			namelist += photo["people"][i]["data"] + ", ";
+		}
+	}
+	updateEmuRecord("Names", namelist.substring(0, namelist.length - 2));
+}
 
 function populatePeople() {
 	$("#people").empty()
@@ -114,13 +120,20 @@ function populatePeople() {
 				.addClass(person["status"])
 				.attr("src", person["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
 				.on("click", { "person" : person }, function(event) {
+					var namelist = "";
 					photo["people"].map(function(person) {
-						if (person === event.data.person && person["status"] === "accepted") { return Object.assign(person, { "status" : "suggested" })}
-						else if (person === event.data.person && person["status"] === "suggested") { return Object.assign(person, { "status" : "accepted" })}
+						if (person === event.data.person && person["status"] === "accepted") {  return Object.assign(person, { "status" : "suggested" }) }
+						else if (person === event.data.person && person["status"] === "suggested") { 
+							namelist += person["data"] + ", "
+							return Object.assign(person, { "status" : "accepted" });
+						} else if (person["status"]==="accepted"){
+							namelist += person["data"] + ", "
+							return person;
+						}
 						else { return person }
 					});
-					// update UI
 					populatePeople();
+					formatPeople();
 				});
 
 			var personData = $("<span class='data' contenteditable>")
@@ -155,7 +168,9 @@ function populatePeople() {
 							sourceDOM.html(sourceDOM.html().replace(name, highlightedName));
 						}
 					}
+					formatPeople();
 				})
+				// FOLLOWING EVENTS HANDLE NAME HIGHLIGHTING ON HOVER
 				.on('mouseenter',  { "person": person }, function(event) {
 					for (var i = 0; i < event.data.person["source"].length; i++) {
 						var name = event.data.person["data"];
@@ -179,7 +194,6 @@ function populatePeople() {
 					}
 				})
 				.on('focusout',  { "person": person }, function(event) {
-					activeInput = false;
 					for (var i = 0; i < event.data.person["source"].length; i++) {
 						var name = event.data.person["data"];
 						var source = event.data.person["source"][i];
@@ -200,10 +214,9 @@ function populatePeople() {
 				.append(personData)
 				.append(personSource);
 				
-			
 			$("#people").append(personContainer);
 
-			// Add sroting functionality
+			// Add sorting functionality
 			var el = document.getElementById('people');
 			var sortable = Sortable.create(el, {
 				ghostClass: 'ghost',
@@ -219,6 +232,7 @@ function populatePeople() {
 					$(".handle").each(function() { 
 						$(this).removeClass("nohoverhandle")
 					});
+					formatPeople();
 				},
 			});
 		}
