@@ -15,7 +15,6 @@ function attachTitleControls(index, title) {
 		photo["titles"].map(function(title) {
 			if (title === event.data.title) { 
 				title["status"] = "accepted"; 
-				updateEmuRecord("TitMainTitle", event.data.title["data"]);
 			}
 			else { title["status"] = "suggested"; }
 			return title;
@@ -34,7 +33,6 @@ function attachTitleControls(index, title) {
 					$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
 				} 
 				title["data"] = $(event.target).html();
-				updateEmuRecord("TitMainTitle", $(event.target).html());
 			} 
 			return title;
 		});
@@ -58,7 +56,9 @@ function attachPersonControls(index, person) {
 
 	// Name editing
 	$("#personText"+index).on('input',  { "person": person }, function(event) {
-		removeHighlightFromName(event.data.person);
+
+		removeHighlightFromText(event.data.person["data"]);
+		
 		photo["people"].map(function(person) {
 			if (person === event.data.person) { 
 				if (person["source"].indexOf("Edited") === -1) { 
@@ -70,41 +70,19 @@ function attachPersonControls(index, person) {
 			} 
 			return person;
 		});
-		highlightName(event.data.person);
+		
+		highlightText(event.data.person["data"]);
 	});
 
 
 	// Hover to highlight name in emu record
 	$("#personText"+index)
-		.on('mouseenter',  { "person": person }, function(event) { highlightName(event.data.person); })
-		.on('mouseleave',  { "person": person }, function(event) { removeHighlightFromName(event.data.person); })
-		.on('focusout',  { "person": person }, function(event) { removeHighlightFromName(event.data.person); });
+		.on('mouseenter',  { "person": person }, function(event) { highlightText(event.data.person["data"]); })
+		.on('mouseleave',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); })
+		.on('focusout',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); });
 
 }
 
-function highlightName(person) {
-	for (var i = 0; i < person["source"].length; i++) {
-		var name = person["data"];
-		var source = person["source"][i];
-		var sourceDOM = $("#"+source);
-		if (sourceDOM.html() !== undefined) {
-			var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
-			sourceDOM.html(sourceDOM.html().replace(new RegExp(name, 'g'), highlightedName));
-		}
-	}
-}
-
-function removeHighlightFromName(person) {
-	for (var i = 0; i < person["source"].length; i++) {
-		var name = person["data"];
-		var source = person["source"][i];
-		var sourceDOM = $("#"+source);
-		if (sourceDOM.html() !== undefined) {
-			var highlightedName = '<span style="background-color:yellow">'+name+'</span>';
-			sourceDOM.html(sourceDOM.html().replace(new RegExp(highlightedName, 'g'), name));
-		}
-	}
-}
 
 function attachPeopleSortingControls() {
 	// Add sorting functionality
@@ -125,4 +103,63 @@ function attachPeopleSortingControls() {
 			});
 		},
 	});
+}
+
+function attachLocationControls(category, place, data) {
+	// Location checklist toggle
+	$("#placeToggle_"+place).on("click", { "place" : place }, function(event) {
+		console.log(event.data.place);
+		photo["location"].map(function(place) {
+			if (place === event.data.place && place["status"] === "accepted") { return Object.assign(place, { "status" : "suggested" })}
+			else if (place === event.data.place && place["status"] === "suggested") { return Object.assign(place, { "status" : "accepted" })}
+			else { return place }
+		});
+		// See view.js
+		populateLocationView();
+	});
+
+	// Location text editing
+	$("#placeText_"+place).on('input',  { "place": data }, function(event) {
+		removeHighlightFromText(event.data.place["data"]);
+
+		if (data["source"].indexOf("Edited") === -1) { 
+			data["source"] = data["source"].concat(["Edited"]) 
+			// update UI
+			$($(event.target).parent()).find('.source').html("("+data["source"].join(', ')+")")
+		}
+		data["data"] = $(event.target).html();
+
+		highlightText(event.data.place["data"]);
+	});
+
+	// Hover to highlight location in emu record
+	$("#placeText_"+place)
+		.on('mouseenter',  { "place": data }, function(event) { highlightText(event.data.place["data"]); })
+		.on('mouseleave',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); })
+		.on('focusout',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); });
+
+}
+
+
+
+
+// Highlight functions
+function highlightText(text) {
+	console.log("HIGHLIGHTING TEXT")
+	console.log(text)
+	var sourceDOM = $("#emurecord");
+	if (sourceDOM.html() !== undefined) {
+		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';
+		sourceDOM.html(sourceDOM.html().replace(new RegExp(text, 'g'), highlightedText));
+	}
+}
+
+function removeHighlightFromText(text) {
+	console.log("UN-HIGHLIGHTING TEXT")
+	console.log(text)
+	var sourceDOM = $("#emurecord");
+	if (sourceDOM.html() !== undefined) {
+		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';
+		sourceDOM.html(sourceDOM.html().replace(new RegExp(highlightedText, 'g'), text));
+	}
 }

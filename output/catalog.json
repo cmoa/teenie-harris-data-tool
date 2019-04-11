@@ -34,7 +34,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "James Dunmore, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
+			"Names": "",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -94,7 +94,7 @@
 		],
 		"people": [
 			{
-				"data": "James Dunmore",
+				"data": "Robert Dalley",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -102,15 +102,15 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Robert Dalley",
+				"data": "John King",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
-				"data": "Lessie Washington",
+				"data": "James Dunmore",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -131,10 +131,10 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
-				"data": "John King",
+				"data": "Lessie Washington",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -228,40 +228,6 @@
 				"status": "suggested"
 			}
 		],
-		"location": [
-			{
-				"name": "Country",
-				"data": "United States",
-				"source": [
-					"eMU CreCountry_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "State",
-				"data": "Pennsylvania",
-				"source": [
-					"eMU CreState_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "District",
-				"data": "Allegheny county",
-				"source": [
-					"eMU CreDistrict_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "City",
-				"data": "Pittsburgh",
-				"source": [
-					"eMU CreCity_tab"
-				],
-				"status": "accepted"
-			}
-		],
 		"subjects": [
 			{
 				"data": "Boys",
@@ -304,6 +270,74 @@
 				"status": "suggested"
 			}
 		],
+		"location": {
+			"Country": {
+				"UnitedStates": {
+					"data": "United States",
+					"source": [
+						"CreCountry_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"State": {
+				"Pennsylvania": {
+					"data": "Pennsylvania",
+					"source": [
+						"CreState_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"District": {
+				"Alleghenycounty": {
+					"data": "Allegheny county",
+					"source": [
+						"CreDistrict_tab",
+						"Edited"
+					],
+					"status": "suggested"
+				},
+				"AlleghenyCounty": {
+					"data": "Allegheny County",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"City": {
+				"Pittsburgh": {
+					"data": "Pittsburgh",
+					"source": [
+						"CreCity_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"Place": {
+				"KennardPlayground": {
+					"data": "Kennard Playground",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "suggested"
+				},
+				"TerraceVillage": {
+					"data": "Terrace Village",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			}
+		},
 		"keywords": [
 			{
 				"data": "'ll",
@@ -474,7 +508,7 @@
 			"CreDistrict_tab": "Allegheny county",
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": "",
-			"Names": "James Dunmore, Lessie Washington, Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay, Raymond Woods",
+			"Names": "",
 			"Keywords": "",
 			"Article": ""
 		},
@@ -534,7 +568,7 @@
 		],
 		"people": [
 			{
-				"data": "James Dunmore",
+				"data": "Robert Dalley",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -542,15 +576,15 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Robert Dalley",
+				"data": "John King",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
-				"data": "Lessie Washington",
+				"data": "James Dunmore",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -571,10 +605,10 @@
 					"TitMainTitle",
 					"CatDescriptText"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
-				"data": "John King",
+				"data": "Lessie Washington",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -668,40 +702,6 @@
 				"status": "suggested"
 			}
 		],
-		"location": [
-			{
-				"name": "Country",
-				"data": "United States",
-				"source": [
-					"eMU CreCountry_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "State",
-				"data": "Pennsylvania",
-				"source": [
-					"eMU CreState_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "District",
-				"data": "Allegheny county",
-				"source": [
-					"eMU CreDistrict_tab"
-				],
-				"status": "accepted"
-			},
-			{
-				"name": "City",
-				"data": "Pittsburgh",
-				"source": [
-					"eMU CreCity_tab"
-				],
-				"status": "accepted"
-			}
-		],
 		"subjects": [
 			{
 				"data": "Boys",
@@ -744,6 +744,74 @@
 				"status": "suggested"
 			}
 		],
+		"location": {
+			"Country": {
+				"UnitedStates": {
+					"data": "United States",
+					"source": [
+						"CreCountry_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"State": {
+				"Pennsylvania": {
+					"data": "Pennsylvania",
+					"source": [
+						"CreState_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"District": {
+				"Alleghenycounty": {
+					"data": "Allegheny county",
+					"source": [
+						"CreDistrict_tab",
+						"Edited"
+					],
+					"status": "suggested"
+				},
+				"AlleghenyCounty": {
+					"data": "Allegheny County",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"City": {
+				"Pittsburgh": {
+					"data": "Pittsburgh",
+					"source": [
+						"CreCity_tab",
+						"CatSubject_tab",
+						"Edited"
+					],
+					"status": "accepted"
+				}
+			},
+			"Place": {
+				"KennardPlayground": {
+					"data": "Kennard Playground",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "suggested"
+				},
+				"TerraceVillage": {
+					"data": "Terrace Village",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			}
+		},
 		"keywords": [
 			{
 				"data": "'ll",
