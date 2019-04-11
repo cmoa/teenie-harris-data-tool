@@ -127,6 +127,7 @@ body {
     top: 0px;
     left: 35%;
     bottom: 0px;
+    right: 0px;
     overflow-y: scroll;
     flex-direction: column;
     padding: 30px;
@@ -225,6 +226,12 @@ body {
 	font-size: 14;
 	font-family: 'Open Sans', sans-serif;
 	cursor: default;
+}
+
+.placeLabel {
+	opacity: 0.4;
+	margin-bottom: 5px;
+	margin-top: 10px;
 }
 
 /*/////////////////////////// directory ///////////////////////////////*/

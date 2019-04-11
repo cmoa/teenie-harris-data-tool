@@ -157,20 +157,22 @@ app.all('/extractsubjects', function(req, res){
 	  // console.log('error:', error); // Print the error if one occurred
 	  //console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
 	  console.log('body:', body); // Print the HTML for the Google homepage.
-	  var $ = cheerio.load(body);
-	  // console.log($('[title="Click to view record"]'));
-	  
-	  //console.log($('[title="Click to view record"]').text());
+	  if (body !== undefined) {
+		  var $ = cheerio.load(body);
+		  // console.log($('[title="Click to view record"]'));
+		  
+		  //console.log($('[title="Click to view record"]').text());
 
-	  //console.log('WELL')
-	  $('[title="Click to view record"]').each(function(i, obj) {
-	  	if (i < 5) {	
-	  		var option = {};
-	  		option["subject"] = $(this).text();
-	  		option["link"] = "http://id.loc.gov"+$(this).attr("href");
-	    	subjects.push(option);
-	    }
-	  });
+		  //console.log('WELL')
+		  $('[title="Click to view record"]').each(function(i, obj) {
+		  	if (i < 5) {	
+		  		var option = {};
+		  		option["subject"] = $(this).text();
+		  		option["link"] = "http://id.loc.gov"+$(this).attr("href");
+		    	subjects.push(option);
+		    }
+		  });
+	}
 
 	  res.send(JSON.stringify(subjects));
 	});

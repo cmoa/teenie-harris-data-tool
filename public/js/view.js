@@ -9,7 +9,7 @@ function populateUI() {
 	// populate suggestions
 	populateTitleView();
 	populatePeopleView();
-	populateLocation();
+	populateLocationView();
 	populateNewspaper();
 	populateSubjects();
 	populateKeywords();
@@ -68,10 +68,10 @@ function populateEmuRecordView() {
 		}
 
 		var fieldContainer = $("<div>")
-				.attr("id", key)
-				.addClass("emuRecordFieldContainer")
-				.append(fieldLabel)
-				.append(fieldValue);
+			.attr("id", key)
+			.addClass("emuRecordFieldContainer")
+			.append(fieldLabel)
+			.append(fieldValue);
 
 		$("#emurecord").append(fieldContainer);
 	}
@@ -154,6 +154,49 @@ function populatePeopleView() {
 		}
 		// See controller.js
 		attachPeopleSortingControls();
+	}
+}
+
+function populateLocationView() {
+	$("#place").empty()
+
+	if (photo["location"] !== undefined) {
+		console.log(photo["location"]);
+		for (var category in photo["location"]) {
+
+			var placeLabel = $("<div>")
+				.addClass("placeLabel")
+				.html(category);
+			$("#place").append(placeLabel);
+
+			for (var place in photo["location"][category]) {
+
+				var placeData = photo["location"][category][place];
+
+				var placeToggle = $("<img>")
+					.attr("id", "placeToggle_"+place)
+					.addClass([placeData["status"], "clickable", "toggle"])
+					.attr("src", placeData["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
+
+				var placeText = $("<span class='data' contenteditable>")
+					.attr("id", "placeText_"+place)
+					.html(placeData["data"])
+
+				var placeSource = $("<span class='source'>")
+					.html("("+placeData["source"].join(', ')+")");
+
+				var placeContainer = $("<div class='optionContainer'>")
+					.append(placeToggle)
+					.append(placeText)
+					.append(placeSource);			
+
+				$("#place").append(placeContainer);
+
+				// See controller.js
+				console.log("Attaching location controls to: "+ category+" "+place+" "+placeData)
+				attachLocationControls(category, place, placeData);
+			}
+		}
 	}
 }
 

@@ -62,14 +62,18 @@ function generatePhoto(photo) {
 		photoData["article"] = extractArticle(photo["emuInput"]["CatDescriptText"]);
 		// Make list of people 
 		photoData["people"] = extractPeople(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"]);
-		var namelist = "";
+		//var namelist = "";
 		// TO DO, change to getters and setters 
-		for (var i=0; i<photoData["people"].length; i++) {
-			if (photoData["people"][i]["status"] === "accepted") {
-				namelist += photoData["people"][i]["data"] + ", ";
-			}
-		}
-		photoData["emuOutput"]["Names"] = namelist.substring(0, namelist.length - 2);
+		//for (var i=0; i<photoData["people"].length; i++) {
+		//	if (photoData["people"][i]["status"] === "accepted") {
+		//		namelist += photoData["people"][i]["data"] + ", ";
+		//	}
+		//}
+		//photoData["emuOutput"]["Names"] = namelist.substring(0, namelist.length - 2);
+
+		// Extract and format subject headers
+		var { subjects, subjectPlaces } = extractSubjects(photo["emuInput"]["CatSubject_tab"]);
+		photoData["subjects"] = subjects;
 
 		// Make a guess at location details
 		photoData["location"] = extractLocation(
@@ -79,10 +83,10 @@ function generatePhoto(photo) {
 			photo["emuInput"]["CreState_tab"],
 			photo["emuInput"]["CreDistrict_tab"],
 			photo["emuInput"]["CreCity_tab"],
-			photo["emuInput"]["CrePlaceQualifier_tab"]
+			photo["emuInput"]["CrePlaceQualifier_tab"],
+			subjectPlaces
 		);
-		// Extract and format subject headers
-		photoData["subjects"] = extractSubjects(photo["emuInput"]["CatSubject_tab"]);
+
 		// Generate keywords
 		photoData["keywords"] = extractKeywords(photo["emuInput"]["TitMainTitle"], photo["emuInput"]["CatDescriptText"], photo["emuInput"]["CatSubject_tab"]);
 
@@ -262,63 +266,13 @@ function extractPeople(emuTitle, emuDescription) {
     return extractedNamesList;
 }
 
-////////////////////// LOCATION /////////////////////////////
 
-function extractLocation(emuTitle, emuDescription, emuCountry, emuState, emuDistrict, emuCity, emuPlace) {
-	var location = [];
-
-	// TODO: implement location extraction
-	if (emuCountry !== "") {
-		var country = {};
-		country["name"] = "Country";
-		country["data"] = emuCountry;
-		country["source"] = ["eMU CreCountry_tab"];
-		country["status"] = "accepted";
-		location.push(country);
-	}
-
-	if (emuState !== "") {
-		var state = {};
-		state["name"] = "State";
-		state["data"] = emuState;
-		state["source"] = ["eMU CreState_tab"];
-		state["status"] = "accepted";
-		location.push(state);
-	}
-
-	if (emuDistrict !== "") {
-		var district = {};
-		district["name"] = "District";
-		district["data"] = emuDistrict;
-		district["source"] = ["eMU CreDistrict_tab"];
-		district["status"] = "accepted";
-		location.push(district);
-	}
-
-	if (emuCity !== "") {
-		var city = {};
-		city["name"] = "City";
-		city["data"] = emuCity;
-		city["source"] = ["eMU CreCity_tab"];
-		city["status"] = "accepted";
-		location.push(city);
-	}
-
-	if (emuPlace !== "") {
-		var place = {};
-		place["name"] = "Place";
-		place["data"] = emuPlace;
-		place["source"] = ["eMU CrePlaceQualifier_tab"];
-		place["status"] = "accepted";
-		location.push(place);
-	}
-
-	return location;
-}
 
 
 function extractSubjects(emuSubjects) {
 	var subjects = [];
+	var subjectPlaces = [];
+
 	emuSubjects = emuSubjects.split('\n');
 	console.log("---------Subject Headers------------");
 
@@ -341,7 +295,7 @@ function extractSubjects(emuSubjects) {
 				newSubject = split[0]; 
 				source.push("Removed location qualifier");
 			} else { newSubject = emuSubject; }
-			for (var j = 1; j < split.length; j++) { place += split[j] + "+"; }
+			for (var j = 1; j < split.length; j++) { place += split[j] + " "; }
 		} else if (emuSubject.includes("(") && emuSubject.includes(")")) {
 			split = emuSubject.split('(');
 			establishment.push(split[0]);
@@ -351,7 +305,7 @@ function extractSubjects(emuSubjects) {
 			newSubject = emuSubject;
 		}
 		
-		if (place !== "") { getPlaceFromAddress(place); }
+		if (place !== "" && subjectPlaces.indexOf(place) === -1) { subjectPlaces.push(place); }
 
 		var subject = {};
 		subject["data"] = newSubject;
@@ -385,11 +339,119 @@ function extractSubjects(emuSubjects) {
 
 	}
 
-	return subjects;
+	return { subjects, subjectPlaces };
+}
+
+
+////////////////////// LOCATION /////////////////////////////
+
+function extractLocation(emuTitle, emuDescription, emuCountry, emuState, emuDistrict, emuCity, emuPlace, subjectPlaces) {
+
+	var locations = { 
+		"Country" : {},
+		"State" : {},
+		"District" : {},
+		"City" : {},
+		"Place" : {},
+	};
+
+	// Basic Extraction From emu Data
+	if (emuCountry !== "") {
+		var country = {};
+		country["data"] = emuCountry;
+		country["source"] = ["CreCountry_tab"];
+		country["status"] = "suggested";
+		locations["Country"][emuCountry.split(' ').join('')] = country;
+	}
+
+	if (emuState !== "") {
+		var state = {};
+		state["data"] = emuState;
+		state["source"] = ["CreState_tab"];
+		state["status"] = "suggested";
+		locations["State"][emuState.split(' ').join('')] = state;
+	}
+
+	if (emuDistrict !== "") {
+		var district = {};
+		district["data"] = emuDistrict;
+		district["source"] = ["CreDistrict_tab"];
+		district["status"] = "suggested";
+		locations["District"][emuDistrict.split(' ').join('')] = district;
+	}
+
+	if (emuCity !== "") {
+		var city = {};
+		city["data"] = emuCity;
+		city["source"] = ["CreCity_tab"];
+		city["status"] = "suggested";
+		locations["City"][emuCity.split(' ').join('')] = city;
+	}
+
+	if (emuPlace !== "") {
+		var place = {};
+		place["data"] = emuPlace;
+		place["source"] = ["CrePlaceQualifier_tab"];
+		place["status"] = "suggested";
+		locations["Place"][emuPlace.split(' ').join('')] = place;
+	}
+
+	// Extraction From Subject Headers, added to Emu Data
+	for (var i = 0; i < subjectPlaces.length; i++) {
+		var subjectPlace = subjectPlaces[i];
+		var mapResults = getPlaceFromAddress(subjectPlace);
+
+		for (var index in mapResults) {
+			var mapResult = mapResults[index];
+			var data = mapResult["long_name"];
+			var categoryKey = "";
+			var placeKey = mapResult["long_name"].split(' ').join('');
+			var types = mapResult["types"];
+
+			// Find appropriate category (based on Google Map API)
+			if (types.indexOf("point_of_interest") !== -1 ||
+				types.indexOf("establishment") !== -1 ||
+				types.indexOf("park") !== -1 ||
+				types.indexOf("airport") !== -1 ||
+				types.indexOf("natural_feature") !== -1 || 
+				types.indexOf("premise") !== -1 ||
+				types.indexOf("neighborhood") !== -1 ||
+				types.indexOf("sublocality") !== -1) {
+				categoryKey = "Place";
+			} else if (types.indexOf("locality") !== -1) {
+				categoryKey = "City";
+			} else if (types.indexOf("administrative_area_level_2") !== -1) {
+				categoryKey = "District";
+			} else if (types.indexOf("administrative_area_level_1") !== -1) {
+				categoryKey = "State";
+			} else if (types.indexOf("country") !== -1) {
+				categoryKey = "Country";
+			}
+
+
+			if (categoryKey !== "") {
+				if (locations[categoryKey][placeKey] === undefined) {
+					var place = {};
+					place["data"] = data;
+					place["source"] = ["CatSubject_tab"];
+					place["status"] = "suggested";
+					locations[categoryKey][placeKey] = place;
+				} else {
+					if (locations[categoryKey][placeKey]["source"].indexOf("CatSubject_tab") === -1) { 
+						locations[categoryKey][placeKey]["source"].push("CatSubject_tab"); 
+					}
+					locations[categoryKey][placeKey]["status"] = "accepted";
+				}
+			}
+		}
+	}
+
+	return locations;
 }
 
 
 function getPlaceFromAddress(place) {
+	var mappedPlace;
 	var url =  "https://maps.googleapis.com/maps/api/geocode/json?address="+
 			   place+
 			   "&key=AIzaSyCVx8lSSE73bw565GnKpAd9QGcS5B0TVxU";
@@ -399,23 +461,17 @@ function getPlaceFromAddress(place) {
         url: url,
         dataType: 'json',
         success: function(data) {
-        	var d = data;
-			if (d.status === "OK") {
-				var addressComponents = d.results[0].address_components;
-				var placestring = "";
-				for (var i = 0; i<addressComponents.length; i++) {
-					placestring += addressComponents[i].long_name + ", ";
-					var addressComponentTypes = addressComponents[i].types;
-					for (var j = 0; j < addressComponentTypes.length; j++) {
-						var type = addressComponentTypes[j];
-					}
-				}
-				console.log("Implied Place: " + placestring);
-			}
+			if (data.status === "OK") { mappedPlace = data; }
         },
         data: {},
         async: false
     });
+
+	if (mappedPlace !== undefined && mappedPlace.results[0] !== undefined && mappedPlace.results[0].address_components !== undefined) {
+    	return mappedPlace.results[0].address_components;
+    } else {
+    	return [];
+    }
 }
 
 
