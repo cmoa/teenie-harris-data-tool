@@ -136,7 +136,7 @@ body {
 /*/////////////////////////// section ///////////////////////////////*/
 
 .header {
-	background-color: #eee;
+	background-color: #cdc;
 	padding: 10px;
 	font-size: 16px;
 	margin: 30px 0px 10px 0px;
@@ -228,9 +228,11 @@ body {
 	cursor: default;
 }
 
-.placeLabel, .articleLabel {
-	opacity: 0.4;
-	margin-bottom: 5px;
+.placeLabel, .articleLabel, .subjectLabel {
+	opacity: 1;
+	background-color: #eee;
+	padding: 5px;
+	margin-bottom: 10px;
 	margin-top: 10px;
 }
 

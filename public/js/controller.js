@@ -107,13 +107,12 @@ function attachPeopleSortingControls() {
 
 function attachLocationControls(category, place, data) {
 	// Location checklist toggle
-	$("#placeToggle"+place).on("click", { "place" : place }, function(event) {
-		console.log(event.data.place);
-		photo["location"].map(function(place) {
-			if (place === event.data.place && place["status"] === "accepted") { return Object.assign(place, { "status" : "suggested" })}
-			else if (place === event.data.place && place["status"] === "suggested") { return Object.assign(place, { "status" : "accepted" })}
-			else { return place }
-		});
+	$("#placeToggle"+place).on("click", { "category": category, "place": place }, function(event) {
+		var { category, place } = event.data;
+		for (placeKey in photo["location"][category]) {
+			if (place === placeKey) { photo["location"][category][placeKey]["status"] = "accepted"; }
+			else { photo["location"][category][placeKey]["status"] = "suggested"; }
+		}
 		// See view.js
 		populateLocationView();
 	});
@@ -172,6 +171,32 @@ function attachArticleControls(index, article) {
 		.on('mouseenter',  { "article": article }, function(event) { highlightText(event.data.article["data"]); })
 		.on('mouseleave',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); })
 		.on('focusout',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); });
+}
+
+function attachSubjectControls(subject, subjectData) {
+	// $("#subjectText"+subject).on("click", { "subjectData" : subjectData }, function(event) {
+	// 	photo["subjects"].map(function(subjects) {
+	// 		if (subjects === event.data.subjects && subjects["status"] === "accepted") { return Object.assign(subjects, { "status" : "suggested" })}
+	// 		else if (subjects === event.data.subjects && subjects["status"] === "suggested") { return Object.assign(subjects, { "status" : "accepted" })}
+	// 		else { return subjects }
+	// 	});
+	// 	// update UI
+	// 	populateSubjectView();
+	// });
+
+// .on('input',  { "subjects": subjects }, function(event) {
+					// 	photo["subjects"].map(function(subjects) {
+					// 		if (subjects === event.data.subjects) { 
+					// 			if (subjects["source"].indexOf("Edited") === -1) { 
+					// 				subjects["source"] = subjects["source"].concat(["Edited"]) 
+					// 				// update UI
+					// 				$($(event.target).parent()).find('.source').html("("+subjects["source"].join(', ')+")")
+					// 			}
+					// 			subjects["data"] = $(event.target).html();
+					// 		} 
+					// 		return subjects;
+					// 	});
+					// });
 }
 
 

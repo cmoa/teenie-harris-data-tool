@@ -16,57 +16,6 @@ function formatPeople() {
 }
 
 
-
-function populateSubjects() {
-	$("#subjects").empty()
-	if (photo["subjects"] !== undefined) {
-		for (var i=0; i<photo["subjects"].length; i++) {
-
-			subjects = photo["subjects"][i];
-
-			var subjectsToggle = $("<img class='clickable toggle'>")
-				.addClass(subjects["status"])
-				.attr("src", subjects["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
-				.on("click", { "subjects" : subjects }, function(event) {
-					photo["subjects"].map(function(subjects) {
-						if (subjects === event.data.subjects && subjects["status"] === "accepted") { return Object.assign(subjects, { "status" : "suggested" })}
-						else if (subjects === event.data.subjects && subjects["status"] === "suggested") { return Object.assign(subjects, { "status" : "accepted" })}
-						else { return subjects }
-					});
-					// update UI
-					populateSubjects();
-				});
-
-			var subjectsData = $("<span class='data' contenteditable>")
-				.html(subjects["data"])
-				.on('input',  { "subjects": subjects }, function(event) {
-					photo["subjects"].map(function(subjects) {
-						if (subjects === event.data.subjects) { 
-							if (subjects["source"].indexOf("Edited") === -1) { 
-								subjects["source"] = subjects["source"].concat(["Edited"]) 
-								// update UI
-								$($(event.target).parent()).find('.source').html("("+subjects["source"].join(', ')+")")
-							}
-							subjects["data"] = $(event.target).html();
-						} 
-						return subjects;
-					});
-				});
-
-			//var subjectsSource = $("<span class='source'>")
-			//	.html("("+subjects["source"].join(', ')+")");
-
-			var subjectsContainer = $("<div class='optionContainer'>")
-				.append(subjectsToggle)
-				.append(subjectsData)
-				// .append(subjectsSource);
-			
-			$("#subjects").append(subjectsContainer);
-
-		}
-	}
-}
-
 function populateKeywords() {
 	$("#keywords").empty()
 	if (photo["keywords"] !== undefined) {

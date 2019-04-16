@@ -489,7 +489,7 @@
 				"name": "Publication",
 				"data": "Pittsburgh Courier",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -497,7 +497,7 @@
 				"name": "Date",
 				"data": "June 30, 1962",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -505,7 +505,7 @@
 				"name": "Page",
 				"data": "21",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -513,7 +513,7 @@
 				"name": "Cutline",
 				"data": "Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			}
@@ -591,58 +591,308 @@
 				"status": "suggested"
 			}
 		],
-		"subjects": [
-			{
-				"data": "Men",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+		"subjects": {
+			"Men--Pennsylvania--Pittsburgh.": {
+				"original": "Men--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Men": {
+						"data": "Men",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85083510"
+					},
+					"Choruses,Sacred(Men'svoices)withorchestra": {
+						"data": "Choruses, Sacred (Men's voices) with orchestra",
+						"link": "http://id.loc.gov/authorities/subjects/sh85024789",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Choruses,Sacred(Men'svoices)withinstrumentalensemble": {
+						"data": "Choruses, Sacred (Men's voices) with instrumental ensemble",
+						"link": "http://id.loc.gov/authorities/subjects/sh85024787",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Men'sclothing": {
+						"data": "Men's clothing",
+						"link": "http://id.loc.gov/authorities/subjects/sh85083595",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Men'smovement": {
+						"data": "Men's movement",
+						"link": "http://id.loc.gov/authorities/subjects/sh92002382",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Kennard Field (Pittsburgh, Pa.)",
-				"status": "suggested"
+			"KennardField(Pittsburgh,Pa.)": {
+				"original": "Kennard Field (Pittsburgh, Pa.)",
+				"related": {
+					"KennardField(Pittsburgh,Pa.)": {
+						"data": "Kennard Field (Pittsburgh, Pa.)",
+						"source": [
+							"CatSubject_tab"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Baseball players",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Baseballplayers--Pennsylvania--Pittsburgh.": {
+				"original": "Baseball players--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Baseballplayers": {
+						"data": "Baseball players",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85012045"
+					},
+					"AfricanAmericanbaseballplayers": {
+						"data": "African American baseball players",
+						"link": "http://id.loc.gov/authorities/subjects/sh85001804",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballinjuries": {
+						"data": "Baseball injuries",
+						"link": "http://id.loc.gov/authorities/subjects/sh85012027",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballuniforms": {
+						"data": "Baseball uniforms",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010131",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballplayerswithdisabilities": {
+						"data": "Baseball players with disabilities",
+						"link": "http://id.loc.gov/authorities/subjects/sh95009419",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Baseball teams",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Baseballteams--Pennsylvania--Pittsburgh.": {
+				"original": "Baseball teams--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Baseballteams": {
+						"data": "Baseball teams",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010072"
+					},
+					"Baseballpennants(Flags)": {
+						"data": "Baseball pennants (Flags)",
+						"link": "http://id.loc.gov/authorities/subjects/sh2013000270",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteamowners": {
+						"data": "Baseball team owners",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010717",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteams--Fiction": {
+						"data": "Baseball teams--Fiction",
+						"link": "http://id.loc.gov/authorities/subjects/sh2009116835",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteams--UnitedStates--History": {
+						"data": "Baseball teams--United States--History",
+						"link": "http://id.loc.gov/authorities/subjects/sh2009116836",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Boys",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Boys--Pennsylvania--Pittsburgh.": {
+				"original": "Boys--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Boys": {
+						"data": "Boys",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85016211"
+					},
+					"Boys,AboriginalAustralian": {
+						"data": "Boys, Aboriginal Australian",
+						"link": "http://id.loc.gov/authorities/subjects/sh96011711",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys'clothing": {
+						"data": "Boys' clothing",
+						"link": "http://id.loc.gov/authorities/subjects/sh85016213",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys,Tuareg": {
+						"data": "Boys, Tuareg",
+						"link": "http://id.loc.gov/authorities/subjects/sh96001612",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys,Igala": {
+						"data": "Boys, Igala",
+						"link": "http://id.loc.gov/authorities/subjects/sh95010471",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Terrace Village (Pittsburgh, Pa.)",
-				"status": "suggested"
+			"TerraceVillage(Pittsburgh,Pa.)": {
+				"original": "Terrace Village (Pittsburgh, Pa.)",
+				"related": {
+					"TerraceVillage(Pittsburgh,Pa.)": {
+						"data": "Terrace Village (Pittsburgh, Pa.)",
+						"source": [
+							"CatSubject_tab"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Coaches (Athletics)",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Coaches(Athletics)--Pennsylvania--Pittsburgh.": {
+				"original": "Coaches (Athletics)--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Coaches(Athletics)": {
+						"data": "Coaches (Athletics)",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027294"
+					},
+					"AfricanAmericancoaches(Athletics)": {
+						"data": "African American coaches (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh2011005433",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Womencoaches(Athletics)": {
+						"data": "Women coaches (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh92000621",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Coaching(Athletics)": {
+						"data": "Coaching (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027299",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Coaches(Athletics)--Certification": {
+						"data": "Coaches (Athletics)--Certification",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027295",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Athletes",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Athletes--Pennsylvania--Pittsburgh.": {
+				"original": "Athletes--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Athletes": {
+						"data": "Athletes",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85009135"
+					},
+					"Athletes,AboriginalAustralian": {
+						"data": "Athletes, Aboriginal Australian",
+						"link": "http://id.loc.gov/authorities/subjects/sh96010660",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Athletes,Black": {
+						"data": "Athletes, Black",
+						"link": "http://id.loc.gov/authorities/subjects/sh85009140",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Trackandfieldathletes": {
+						"data": "Track and field athletes",
+						"link": "http://id.loc.gov/authorities/subjects/sh85136442",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"AfricanAmericanathletes": {
+						"data": "African American athletes",
+						"link": "http://id.loc.gov/authorities/subjects/sh85001797",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			}
-		],
+		},
 		"location": {
 			"Country": {
 				"UnitedStates": {
@@ -1289,7 +1539,7 @@
 				"name": "Publication",
 				"data": "Pittsburgh Courier",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -1297,7 +1547,7 @@
 				"name": "Date",
 				"data": "June 30, 1962",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -1305,7 +1555,7 @@
 				"name": "Page",
 				"data": "21",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			},
@@ -1313,7 +1563,7 @@
 				"name": "Cutline",
 				"data": "Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.",
 				"source": [
-					"eMU CatDescriptText"
+					"CatDescriptText"
 				],
 				"status": "accepted"
 			}
@@ -1391,58 +1641,308 @@
 				"status": "suggested"
 			}
 		],
-		"subjects": [
-			{
-				"data": "Men",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+		"subjects": {
+			"Men--Pennsylvania--Pittsburgh.": {
+				"original": "Men--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Men": {
+						"data": "Men",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85083510"
+					},
+					"Choruses,Sacred(Men'svoices)withorchestra": {
+						"data": "Choruses, Sacred (Men's voices) with orchestra",
+						"link": "http://id.loc.gov/authorities/subjects/sh85024789",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Choruses,Sacred(Men'svoices)withinstrumentalensemble": {
+						"data": "Choruses, Sacred (Men's voices) with instrumental ensemble",
+						"link": "http://id.loc.gov/authorities/subjects/sh85024787",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Men'sclothing": {
+						"data": "Men's clothing",
+						"link": "http://id.loc.gov/authorities/subjects/sh85083595",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Men'smovement": {
+						"data": "Men's movement",
+						"link": "http://id.loc.gov/authorities/subjects/sh92002382",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Kennard Field (Pittsburgh, Pa.)",
-				"status": "suggested"
+			"KennardField(Pittsburgh,Pa.)": {
+				"original": "Kennard Field (Pittsburgh, Pa.)",
+				"related": {
+					"KennardField(Pittsburgh,Pa.)": {
+						"data": "Kennard Field (Pittsburgh, Pa.)",
+						"source": [
+							"CatSubject_tab"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Baseball players",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Baseballplayers--Pennsylvania--Pittsburgh.": {
+				"original": "Baseball players--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Baseballplayers": {
+						"data": "Baseball players",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85012045"
+					},
+					"AfricanAmericanbaseballplayers": {
+						"data": "African American baseball players",
+						"link": "http://id.loc.gov/authorities/subjects/sh85001804",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballinjuries": {
+						"data": "Baseball injuries",
+						"link": "http://id.loc.gov/authorities/subjects/sh85012027",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballuniforms": {
+						"data": "Baseball uniforms",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010131",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballplayerswithdisabilities": {
+						"data": "Baseball players with disabilities",
+						"link": "http://id.loc.gov/authorities/subjects/sh95009419",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Baseball teams",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Baseballteams--Pennsylvania--Pittsburgh.": {
+				"original": "Baseball teams--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Baseballteams": {
+						"data": "Baseball teams",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010072"
+					},
+					"Baseballpennants(Flags)": {
+						"data": "Baseball pennants (Flags)",
+						"link": "http://id.loc.gov/authorities/subjects/sh2013000270",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteamowners": {
+						"data": "Baseball team owners",
+						"link": "http://id.loc.gov/authorities/subjects/sh93010717",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteams--Fiction": {
+						"data": "Baseball teams--Fiction",
+						"link": "http://id.loc.gov/authorities/subjects/sh2009116835",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Baseballteams--UnitedStates--History": {
+						"data": "Baseball teams--United States--History",
+						"link": "http://id.loc.gov/authorities/subjects/sh2009116836",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Boys",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Boys--Pennsylvania--Pittsburgh.": {
+				"original": "Boys--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Boys": {
+						"data": "Boys",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85016211"
+					},
+					"Boys,AboriginalAustralian": {
+						"data": "Boys, Aboriginal Australian",
+						"link": "http://id.loc.gov/authorities/subjects/sh96011711",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys'clothing": {
+						"data": "Boys' clothing",
+						"link": "http://id.loc.gov/authorities/subjects/sh85016213",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys,Tuareg": {
+						"data": "Boys, Tuareg",
+						"link": "http://id.loc.gov/authorities/subjects/sh96001612",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Boys,Igala": {
+						"data": "Boys, Igala",
+						"link": "http://id.loc.gov/authorities/subjects/sh95010471",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Terrace Village (Pittsburgh, Pa.)",
-				"status": "suggested"
+			"TerraceVillage(Pittsburgh,Pa.)": {
+				"original": "Terrace Village (Pittsburgh, Pa.)",
+				"related": {
+					"TerraceVillage(Pittsburgh,Pa.)": {
+						"data": "Terrace Village (Pittsburgh, Pa.)",
+						"source": [
+							"CatSubject_tab"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Coaches (Athletics)",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Coaches(Athletics)--Pennsylvania--Pittsburgh.": {
+				"original": "Coaches (Athletics)--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Coaches(Athletics)": {
+						"data": "Coaches (Athletics)",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027294"
+					},
+					"AfricanAmericancoaches(Athletics)": {
+						"data": "African American coaches (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh2011005433",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Womencoaches(Athletics)": {
+						"data": "Women coaches (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh92000621",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Coaching(Athletics)": {
+						"data": "Coaching (Athletics)",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027299",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Coaches(Athletics)--Certification": {
+						"data": "Coaches (Athletics)--Certification",
+						"link": "http://id.loc.gov/authorities/subjects/sh85027295",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			},
-			{
-				"data": "Athletes",
-				"source": [
-					"Removed location qualifier"
-				],
-				"status": "suggested"
+			"Athletes--Pennsylvania--Pittsburgh.": {
+				"original": "Athletes--Pennsylvania--Pittsburgh.",
+				"related": {
+					"Athletes": {
+						"data": "Athletes",
+						"source": [
+							"CatSubject_tab",
+							"Library of Congress"
+						],
+						"status": "accepted",
+						"link": "http://id.loc.gov/authorities/subjects/sh85009135"
+					},
+					"Athletes,AboriginalAustralian": {
+						"data": "Athletes, Aboriginal Australian",
+						"link": "http://id.loc.gov/authorities/subjects/sh96010660",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Athletes,Black": {
+						"data": "Athletes, Black",
+						"link": "http://id.loc.gov/authorities/subjects/sh85009140",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"Trackandfieldathletes": {
+						"data": "Track and field athletes",
+						"link": "http://id.loc.gov/authorities/subjects/sh85136442",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					},
+					"AfricanAmericanathletes": {
+						"data": "African American athletes",
+						"link": "http://id.loc.gov/authorities/subjects/sh85001797",
+						"source": [
+							"Library of Congress"
+						],
+						"status": "suggested"
+					}
+				}
 			}
-		],
+		},
 		"location": {
 			"Country": {
 				"UnitedStates": {
