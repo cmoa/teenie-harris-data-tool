@@ -11,7 +11,7 @@ function populateUI() {
 	populatePeopleView();
 	populateLocationView();
 	populateArticleView();
-	populateSubjects();
+	populateSubjectView();
 	populateKeywords();
 
 	$("#loadingScreen").hide();
@@ -161,7 +161,6 @@ function populateLocationView() {
 	$("#place").empty()
 
 	if (photo["location"] !== undefined) {
-		console.log(photo["location"]);
 		for (var category in photo["location"]) {
 
 			var placeLabel = $("<div>")
@@ -193,7 +192,6 @@ function populateLocationView() {
 				$("#place").append(placeContainer);
 
 				// See controller.js
-				console.log("Attaching location controls to: "+ category+" "+place+" "+placeData)
 				attachLocationControls(category, place, placeData);
 			}
 		}
@@ -237,4 +235,59 @@ function populateArticleView() {
 	}
 }
 
+
+function populateSubjectView() {
+	$("#subjects").empty()
+	if (photo["subjects"] !== undefined) {
+		for (var subjectKey in photo["subjects"]) {
+
+			var subject = photo["subjects"][subjectKey];
+			console.log(subject);
+
+			var subjectLabel = $("<div>")
+				.addClass("subjectLabel")
+				.html(subject["original"]);
+			$("#subjects").append(subjectLabel);
+
+			for (var relatedSubjectKey in subject["related"]) {
+				var relatedSubject = subject["related"][relatedSubjectKey];
+				console.log(relatedSubject);
+
+				var subjectsToggle = $("<img class='clickable toggle'>")
+					.addClass(relatedSubject["status"])
+					.attr("id", "subjectToggle"+relatedSubjectKey)
+					.attr("src", relatedSubject["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
+
+				var subjectsText = $("<span class='data' contenteditable>")
+					.attr("id", "subjectText"+relatedSubjectKey)
+					.html(relatedSubject["data"])
+
+				var subjectsSource = $("<span class='source'>")
+					.html("("+relatedSubject["source"].join(', ')+")");
+
+				
+
+				var subjectsContainer = $("<div class='optionContainer'>")
+					.append(subjectsToggle)
+					.append(subjectsText)
+					.append(subjectsSource);
+
+				if (relatedSubject["link"] !== undefined) {
+					var subjectsLink = $("<a class='source'>")
+					.attr("href", relatedSubject["link"])
+					.attr("target", "_blank")
+					.html("&#8599;");
+					subjectsContainer.append(subjectsLink);
+				}
+
+				$("#subjects").append(subjectsContainer);
+
+				// See controller.js
+				attachSubjectControls(relatedSubjectKey, relatedSubject);
+			}
+			
+
+		}
+	}
+}
 

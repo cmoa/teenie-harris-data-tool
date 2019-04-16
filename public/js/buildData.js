@@ -148,7 +148,7 @@ function extractArticle(emuDescription) {
 		for (var i = 1; i < extractedNewspaper.length; i++) {
 			if (extractedNewspaper[i] !== undefined) { 
 				paper["data"] = extractedNewspaper[i];
-				paper["source"] = ["eMU CatDescriptText"];
+				paper["source"] = ["CatDescriptText"];
 				paper["status"] = "accepted";
 				break; 
 			}
@@ -163,7 +163,7 @@ function extractArticle(emuDescription) {
 		for (var i = 1; i < extractedDate.length; i++) { 
 			if (extractedDate[i] !== undefined) { 
 				date["data"] = extractedDate[i];
-				date["source"] = ["eMU CatDescriptText"];
+				date["source"] = ["CatDescriptText"];
 				date["status"] = "accepted";
 				break; 
 			}
@@ -178,7 +178,7 @@ function extractArticle(emuDescription) {
 		for (var i = 1; i < extractedPage.length; i++) {
 			if (extractedPage[i] !== undefined) { 
 				page["data"] = extractedPage[i];
-				page["source"] = ["eMU CatDescriptText"];
+				page["source"] = ["CatDescriptText"];
 				page["status"] = "accepted";
 				break; 
 			}
@@ -193,14 +193,14 @@ function extractArticle(emuDescription) {
 		for (var i = 1; i < extractedCutline.length; i++) {
 			if (extractedCutline[i] !== undefined) { 
 				cutline["data"] = extractedCutline[i];
-				cutline["source"] = ["eMU CatDescriptText"];
+				cutline["source"] = ["CatDescriptText"];
 				cutline["status"] = "accepted";
 				break; 
 			}
 		}
 	}
 	article.push(cutline);
-	
+
 	return article;
 }
 
@@ -262,75 +262,72 @@ function extractPeople(emuTitle, emuDescription) {
 
 
 
-
 function extractSubjects(emuSubjects) {
-	var subjects = [];
+	var subjects = {};
 	var subjectPlaces = [];
 
 	emuSubjects = emuSubjects.split('\n');
-	console.log("---------Subject Headers------------");
 
 	for (var i = 0; i < emuSubjects.length; i++) {
 
-		var newSubject = "";
-		var source = [];
-
 		var emuSubject = emuSubjects[i];
-		console.log("Original subject: " + emuSubject);
+		var relatedSubjects = {};
+		var cleanedSubject = "";
 
+		// extract any location information from the subject headers
+		// and rid the subject header of that extra information
 		var split = [];
 		var place = "";
-
-		var establishment = [];
-
 		if (emuSubject.includes("--")) {
 			split = emuSubject.split("--");
 			if (split[0] !== undefined) { 
-				newSubject = split[0]; 
-				source.push("Removed location qualifier");
-			} else { newSubject = emuSubject; }
+				cleanedSubject = split[0]; 
+			} else { cleanedSubject = emuSubject; }
 			for (var j = 1; j < split.length; j++) { place += split[j] + " "; }
 		} else if (emuSubject.includes("(") && emuSubject.includes(")")) {
 			split = emuSubject.split('(');
-			establishment.push(split[0]);
-			newSubject = emuSubject;
+			cleanedSubject = emuSubject;
 			for (var j = 1; j < split.length; j++) { place = split[0] + split[j].split(')')[0]; }
 		} else {
-			newSubject = emuSubject;
+			cleanedSubject = emuSubject;
 		}
-		
 		if (place !== "" && subjectPlaces.indexOf(place) === -1) { subjectPlaces.push(place); }
 
-		var subject = {};
-		subject["data"] = newSubject;
-		subject["source"] = source;
-		subject["status"] = "suggested";
-		subjects.push(subject);
-		//console.log("Updated subjects");
-		//console.log(subjects);
+		// add cleaned subject to related subjects
+		relatedSubjects[cleanedSubject.split(" ").join("")] = { data: cleanedSubject, source: ["CatSubject_tab"], status: "suggested" };
 
-
-		// extract keywords from title, description, and subjects
+		// scrape library of congress for more related subject headers
 	    $.ajax({
 	        url: "/extractsubjects",
 	        type: 'post',
 	        async: false,
-	        data: {"subject" : newSubject},
-	        complete: function (res) { 
-	        	console.log("Suggestions: ");  
-
+	        data: {"subject" : cleanedSubject},
+	        complete: function (res) {
 	        	var suggestions = JSON.parse(res.responseText);
-	        	if (suggestions.length === 0) {
-	            	console.log("No Suggestions, may not be a valid subject header");
-	            }
 	        	for (var i = 0; i < suggestions.length; i++) {
-	        		console.log(suggestions[i]);
-	        	}
-	        },
-	     });
+	        		var relatedSubject = {};
+	        		var relatedSubjectKey = suggestions[i]["subject"].split(" ").join("");
+	        		relatedSubject["data"] = suggestions[i]["subject"];
+	        		relatedSubject["link"] = suggestions[i]["link"];
+	        		relatedSubject["source"] = ["Library of Congress"];
+	        		relatedSubject["status"] = "suggested";
 
-	    console.log("--------------------");
+	        		if (relatedSubjects[relatedSubjectKey] !== undefined) {
+	        			relatedSubjects[relatedSubjectKey]["data"] = suggestions[i]["subject"];
+	        			relatedSubjects[relatedSubjectKey]["link"] = suggestions[i]["link"];
+	        			relatedSubjects[relatedSubjectKey]["source"].push("Library of Congress");
+	        			relatedSubjects[relatedSubjectKey]["status"] = "accepted";
+	        		} else {
+	        			relatedSubjects[relatedSubjectKey] = relatedSubject;
+	        		}
+	        	} 
+	        }
+	    });
 
+		subjects[emuSubject.split(" ").join("")] = {
+			"original" : emuSubject,
+			"related" : relatedSubjects
+		}
 	}
 
 	return { subjects, subjectPlaces };
@@ -494,11 +491,7 @@ function extractKeywords(emuTitle, emuDescription, emuSubjects) {
     // console.log(photo["article"]["date"]);
 
     // create keywords from subject headers
-    console.log("--------------KEYWORDS--------------");
-    for (var i = 0; i < extractedKeywords.length; i++){
-    	console.log(extractedKeywords[i]["data"]);
-    }
-    console.log("----------------------------");
+    
     // console.log(extractedKeywords);
     return extractedKeywords;
 }
