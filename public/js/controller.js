@@ -15,6 +15,7 @@ function attachTitleControls(index, title) {
 		photo["titles"].map(function(title) {
 			if (title === event.data.title) { 
 				title["status"] = "accepted"; 
+				updateEmuRecord("TitMainTitle", event.data.title["data"])
 			}
 			else { title["status"] = "suggested"; }
 			return title;
@@ -33,6 +34,7 @@ function attachTitleControls(index, title) {
 					$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
 				} 
 				title["data"] = $(event.target).html();
+				updateEmuRecord("TitMainTitle", $(event.target).html())
 			} 
 			return title;
 		});
@@ -51,6 +53,7 @@ function attachPersonControls(index, person) {
 			} else { return person }
 		});
 		// See view.js
+		formatPeople();
 		populatePeopleView();
 	});
 
@@ -70,6 +73,8 @@ function attachPersonControls(index, person) {
 			} 
 			return person;
 		});
+
+		formatPeople();
 		
 		highlightText(event.data.person["data"]);
 	});
@@ -101,6 +106,7 @@ function attachPeopleSortingControls() {
 			$(".handle").each(function() { 
 				$(this).removeClass("nohoverhandle")
 			});
+			formatPeople();
 		},
 	});
 }

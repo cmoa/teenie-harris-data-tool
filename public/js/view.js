@@ -14,6 +14,7 @@ function populateUI() {
 	populateSubjectView();
 	populateKeywords();
 
+	formatPeople();
 	$("#loadingScreen").hide();
 }
 
@@ -51,14 +52,14 @@ function populateEmuRecordView() {
 		if (originalValue !== newValue) {
 			var originalValue = $("<div>")
 				.addClass("emuRecordFieldValue")
-				.css({"color": red, "opacity": "0.7"})
+				.css({"color": red, "opacity": "0.5"})
 				.html(originalValue);
 			var newValue = $("<div>")
 				.addClass("emuRecordFieldValue")
-				.css("color", green)
+				.css({"color": green})
 				.html(newValue);
-			fieldValue.append(originalValue);
 			fieldValue.append(newValue);
+			fieldValue.append(originalValue);
 		} else {
 			var newValue = $("<div>")
 				.addClass("emuRecordFieldValue")
