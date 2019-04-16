@@ -69,6 +69,10 @@ body {
 	font-size: 14px;
 }
 
+.emuRecordFieldValue {
+	margin: 5px 5px;
+}
+
 #recordbarbuttons {
 	width: 100%;
     flex-direction: column;
