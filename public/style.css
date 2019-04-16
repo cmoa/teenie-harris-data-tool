@@ -228,7 +228,7 @@ body {
 	cursor: default;
 }
 
-.placeLabel {
+.placeLabel, .articleLabel {
 	opacity: 0.4;
 	margin-bottom: 5px;
 	margin-top: 10px;

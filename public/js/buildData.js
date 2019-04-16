@@ -157,7 +157,7 @@ function extractArticle(emuDescription) {
 	article.push(paper);
 
 	// Date
-	var date = { "name": "Publication Date", "data" : null };
+	var date = { "name": "Date", "data" : null };
 	var extractedDate = emuDescription.match(/, (.*), pg|newspaper (.*), pg/);
 	if (extractedDate !== null) {
 		for (var i = 1; i < extractedDate.length; i++) { 
@@ -200,13 +200,7 @@ function extractArticle(emuDescription) {
 		}
 	}
 	article.push(cutline);
-
-	console.log("--------------NEWSPAPER--------------");
-    for (key in article){
-    	console.log(article[key]["name"] + ": " + article[key]["data"]);
-    }
-    console.log("----------------------------");
-
+	
 	return article;
 }
 
