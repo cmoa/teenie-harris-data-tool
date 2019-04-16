@@ -107,7 +107,7 @@ function attachPeopleSortingControls() {
 
 function attachLocationControls(category, place, data) {
 	// Location checklist toggle
-	$("#placeToggle_"+place).on("click", { "place" : place }, function(event) {
+	$("#placeToggle"+place).on("click", { "place" : place }, function(event) {
 		console.log(event.data.place);
 		photo["location"].map(function(place) {
 			if (place === event.data.place && place["status"] === "accepted") { return Object.assign(place, { "status" : "suggested" })}
@@ -119,7 +119,7 @@ function attachLocationControls(category, place, data) {
 	});
 
 	// Location text editing
-	$("#placeText_"+place).on('input',  { "place": data }, function(event) {
+	$("#placeText"+place).on('input',  { "place": data }, function(event) {
 		removeHighlightFromText(event.data.place["data"]);
 
 		if (data["source"].indexOf("Edited") === -1) { 
@@ -133,7 +133,7 @@ function attachLocationControls(category, place, data) {
 	});
 
 	// Hover to highlight location in emu record
-	$("#placeText_"+place)
+	$("#placeText"+place)
 		.on('mouseenter',  { "place": data }, function(event) { highlightText(event.data.place["data"]); })
 		.on('mouseleave',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); })
 		.on('focusout',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); });
@@ -141,12 +141,43 @@ function attachLocationControls(category, place, data) {
 }
 
 
+function attachArticleControls(index, article) {
+	$("#articleToggle"+index).on("click", { "article" : article }, function(event) {
+		photo["article"].map(function(article) {
+			if (article === event.data.article && article["status"] === "accepted") { return Object.assign(article, { "status" : "suggested" })}
+			else if (article === event.data.article && article["status"] === "suggested") { return Object.assign(article, { "status" : "accepted" })}
+			else { return article }
+		});
+		// See view.js
+		populateArticleView();
+	});
+
+
+	$("#articleText"+index).on('input',  { "article": article }, function(event) {
+		photo["article"].map(function(article) {
+			if (article === event.data.article) { 
+				if (article["source"].indexOf("Edited") === -1) { 
+					article["source"] = article["source"].concat(["Edited"]) 
+					// update UI
+					$($(event.target).parent()).find('.source').html("("+article["source"].join(', ')+")")
+				}
+				article["data"] = $(event.target).html();
+			} 
+			return article;
+		});
+	});
+
+	// Hover to highlight article in emu record
+	$("#articleText"+index)
+		.on('mouseenter',  { "article": article }, function(event) { highlightText(event.data.article["data"]); })
+		.on('mouseleave',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); })
+		.on('focusout',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); });
+}
+
 
 
 // Highlight functions
 function highlightText(text) {
-	console.log("HIGHLIGHTING TEXT")
-	console.log(text)
 	var sourceDOM = $("#emurecord");
 	if (sourceDOM.html() !== undefined) {
 		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';
@@ -155,8 +186,6 @@ function highlightText(text) {
 }
 
 function removeHighlightFromText(text) {
-	console.log("UN-HIGHLIGHTING TEXT")
-	console.log(text)
 	var sourceDOM = $("#emurecord");
 	if (sourceDOM.html() !== undefined) {
 		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';

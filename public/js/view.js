@@ -10,7 +10,7 @@ function populateUI() {
 	populateTitleView();
 	populatePeopleView();
 	populateLocationView();
-	populateNewspaper();
+	populateArticleView();
 	populateSubjects();
 	populateKeywords();
 
@@ -174,12 +174,12 @@ function populateLocationView() {
 				var placeData = photo["location"][category][place];
 
 				var placeToggle = $("<img>")
-					.attr("id", "placeToggle_"+place)
+					.attr("id", "placeToggle"+place)
 					.addClass([placeData["status"], "clickable", "toggle"])
 					.attr("src", placeData["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
 
 				var placeText = $("<span class='data' contenteditable>")
-					.attr("id", "placeText_"+place)
+					.attr("id", "placeText"+place)
 					.html(placeData["data"])
 
 				var placeSource = $("<span class='source'>")
@@ -196,6 +196,43 @@ function populateLocationView() {
 				console.log("Attaching location controls to: "+ category+" "+place+" "+placeData)
 				attachLocationControls(category, place, placeData);
 			}
+		}
+	}
+}
+
+function populateArticleView() {
+	$("#article").empty()
+	if (photo["article"] !== undefined) {
+		for (var i=0; i<photo["article"].length; i++) {
+
+			article = photo["article"][i];
+
+			var articleLabel = $("<div>")
+				.addClass("articleLabel")
+				.html(article["name"]);
+			$("#article").append(articleLabel);
+
+			var articleToggle = $("<img class='clickable toggle'>")
+				.addClass(article["status"])
+				.attr("id", "articleToggle"+i)
+				.attr("src", article["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
+
+			var articleData = $("<span class='data' contenteditable>")
+				.attr("id", "articleText"+i)
+				.html(article["data"])
+
+			var articleSource = $("<span class='source'>")
+				.html("("+article["source"].join(', ')+")");
+
+			var articleContainer = $("<div class='optionContainer'>")
+				.append(articleToggle)
+				.append(articleData)
+				.append(articleSource);
+			
+			$("#article").append(articleContainer);
+
+			// See controller.js
+			attachArticleControls(i, article);
 		}
 	}
 }

@@ -39,7 +39,7 @@
 			"Article": ""
 		},
 		"generated": "true",
-		"reviewed": "false",
+		"reviewed": "true",
 		"flagged": "false",
 		"approved": "false",
 		"titles": [
@@ -48,14 +48,14 @@
 				"source": [
 					"TitMainTitle"
 				],
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Pittsburgh Lions Little League baseball team in background",
 				"source": [
 					"Spacy suggestion"
 				],
-				"status": "suggested"
+				"status": "accepted"
 			}
 		],
 		"article": [
@@ -444,65 +444,17 @@
 			"CreCity_tab": "Pittsburgh",
 			"CrePlaceQualifier_tab": ""
 		},
-		"generated": "false",
-		"reviewed": "false",
-		"flagged": "false",
-		"approved": "false"
-	},
-	"3": {
-		"id": "3",
-		"emuInput": {
-			"ecatalogue_key": "3",
-			"irn": "975",
-			"TitAccessionNo": "2001.35.193",
-			"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
-			"CreDateCreated": "June 1946",
-			"CreEarliestDate": "1946-06-01",
-			"CreLatestDate": "1946-06-29",
-			"PhyMediumComments": "black-and-white: Ansco safety film",
-			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
-			"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
-			"CreCountry_tab": "United States",
-			"CreState_tab": "",
-			"CreDistrict_tab": "",
-			"CreCity_tab": "",
-			"CrePlaceQualifier_tab": ""
-		},
-		"generated": "false",
-		"reviewed": "false",
-		"flagged": "false",
-		"approved": "false"
-	},
-	"currentPhoto": {
-		"id": "1",
-		"emuInput": {
-			"ecatalogue_key": "1",
-			"irn": "928",
-			"TitAccessionNo": "2001.35.148",
-			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
-			"CreDateCreated": "May 1953",
-			"CreEarliestDate": "1953-05-01",
-			"CreLatestDate": "1953-05-30",
-			"PhyMediumComments": "black-and-white: Kodak safety film",
-			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
-			"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
-			"CreCountry_tab": "United States",
-			"CreState_tab": "Pennsylvania",
-			"CreDistrict_tab": "Allegheny county",
-			"CreCity_tab": "Pittsburgh",
-			"CrePlaceQualifier_tab": ""
-		},
 		"emuOutput": {
-			"ecatalogue_key": "1",
-			"irn": "928",
-			"TitAccessionNo": "2001.35.148",
-			"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
-			"CreDateCreated": "May 1953",
-			"CreEarliestDate": "1953-05-01",
-			"CreLatestDate": "1953-05-30",
+			"ecatalogue_key": "2",
+			"irn": "953",
+			"TitAccessionNo": "2001.35.171",
+			"TitMainTitle": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+			"CreDateCreated": "June 1962",
+			"CreEarliestDate": "1962-06-01",
+			"CreLatestDate": "1962-06-30",
 			"PhyMediumComments": "black-and-white: Kodak safety film",
-			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
-			"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 21 reads: \"Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.\"",
+			"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nBaseball players--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTerrace Village (Pittsburgh, Pa.)\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.",
 			"CreCountry_tab": "United States",
 			"CreState_tab": "Pennsylvania",
 			"CreDistrict_tab": "Allegheny county",
@@ -518,14 +470,14 @@
 		"approved": "false",
 		"titles": [
 			{
-				"data": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+				"data": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
 				"source": [
 					"TitMainTitle"
 				],
 				"status": "accepted"
 			},
 			{
-				"data": "Pittsburgh Lions Little League baseball team in background",
+				"data": "Addison Giants baseball team in background",
 				"source": [
 					"Spacy suggestion"
 				],
@@ -542,8 +494,8 @@
 				"status": "accepted"
 			},
 			{
-				"name": "Publication Date",
-				"data": "May 30, 1953",
+				"name": "Date",
+				"data": "June 30, 1962",
 				"source": [
 					"eMU CatDescriptText"
 				],
@@ -551,7 +503,7 @@
 			},
 			{
 				"name": "Page",
-				"data": "27",
+				"data": "21",
 				"source": [
 					"eMU CatDescriptText"
 				],
@@ -559,7 +511,7 @@
 			},
 			{
 				"name": "Cutline",
-				"data": "Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.",
+				"data": "Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.",
 				"source": [
 					"eMU CatDescriptText"
 				],
@@ -568,7 +520,7 @@
 		],
 		"people": [
 			{
-				"data": "Robert Dalley",
+				"data": "James Crutchfield",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -576,7 +528,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "John King",
+				"data": "Peter Gibson",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -584,7 +536,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "James Dunmore",
+				"data": "Larry Tarploy",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -592,7 +544,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "William Smith",
+				"data": "William A. Rawls",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -600,7 +552,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Stanley Edward",
+				"data": "Anthony Austin",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -608,7 +560,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Lessie Washington",
+				"data": "Charles Robinson",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -616,7 +568,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Bridder Pearson",
+				"data": "Joseph Looney",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -624,7 +576,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Levi Williams",
+				"data": "James Newton",
 				"source": [
 					"TitMainTitle",
 					"CatDescriptText"
@@ -632,70 +584,7 @@
 				"status": "accepted"
 			},
 			{
-				"data": "Willie Millender",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Fred Wynn",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Robert Sneed",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Donald Primus",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Tommy Wallace",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Charles McKay",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Raymond Woods",
-				"source": [
-					"TitMainTitle",
-					"CatDescriptText"
-				],
-				"status": "accepted"
-			},
-			{
-				"data": "Kneeling",
-				"source": [
-					"CatDescriptText"
-				],
-				"status": "suggested"
-			},
-			{
-				"data": "Harris Photos",
+				"data": "Addison Giants",
 				"source": [
 					"CatDescriptText"
 				],
@@ -704,6 +593,31 @@
 		],
 		"subjects": [
 			{
+				"data": "Men",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Kennard Field (Pittsburgh, Pa.)",
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
 				"data": "Boys",
 				"source": [
 					"Removed location qualifier"
@@ -711,14 +625,11 @@
 				"status": "suggested"
 			},
 			{
-				"data": "Baseball",
-				"source": [
-					"Removed location qualifier"
-				],
+				"data": "Terrace Village (Pittsburgh, Pa.)",
 				"status": "suggested"
 			},
 			{
-				"data": "Baseball players",
+				"data": "Coaches (Athletics)",
 				"source": [
 					"Removed location qualifier"
 				],
@@ -730,18 +641,6 @@
 					"Removed location qualifier"
 				],
 				"status": "suggested"
-			},
-			{
-				"data": "Kennard Field (Pittsburgh, Pa.)",
-				"status": "suggested"
-			},
-			{
-				"data": "Terrace Village (Pittsburgh, Pa.)",
-				"status": "suggested"
-			},
-			{
-				"data": "Little League Baseball, inc.",
-				"status": "suggested"
 			}
 		],
 		"location": {
@@ -750,8 +649,7 @@
 					"data": "United States",
 					"source": [
 						"CreCountry_tab",
-						"CatSubject_tab",
-						"Edited"
+						"CatSubject_tab"
 					],
 					"status": "accepted"
 				}
@@ -761,8 +659,7 @@
 					"data": "Pennsylvania",
 					"source": [
 						"CreState_tab",
-						"CatSubject_tab",
-						"Edited"
+						"CatSubject_tab"
 					],
 					"status": "accepted"
 				}
@@ -771,8 +668,7 @@
 				"Alleghenycounty": {
 					"data": "Allegheny county",
 					"source": [
-						"CreDistrict_tab",
-						"Edited"
+						"CreDistrict_tab"
 					],
 					"status": "suggested"
 				},
@@ -789,8 +685,7 @@
 					"data": "Pittsburgh",
 					"source": [
 						"CreCity_tab",
-						"CatSubject_tab",
-						"Edited"
+						"CatSubject_tab"
 					],
 					"status": "accepted"
 				}
@@ -814,14 +709,28 @@
 		},
 		"keywords": [
 			{
-				"data": "'ll",
+				"data": "team",
 				"source": [
 					"Spacy"
 				],
 				"status": "suggested"
 			},
 			{
-				"data": "left",
+				"data": "row",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "manager",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "co",
 				"source": [
 					"Spacy"
 				],
@@ -835,35 +744,14 @@
 				"status": "suggested"
 			},
 			{
-				"data": "kneeling",
+				"data": "posed",
 				"source": [
 					"Spacy"
 				],
 				"status": "suggested"
 			},
 			{
-				"data": "standing",
-				"source": [
-					"Spacy"
-				],
-				"status": "suggested"
-			},
-			{
-				"data": "pg",
-				"source": [
-					"Spacy"
-				],
-				"status": "suggested"
-			},
-			{
-				"data": "team",
-				"source": [
-					"Spacy"
-				],
-				"status": "suggested"
-			},
-			{
-				"data": "baseball",
+				"data": "grandstand",
 				"source": [
 					"Spacy"
 				],
@@ -891,7 +779,814 @@
 				"status": "suggested"
 			},
 			{
+				"data": "set",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "year",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		]
+	},
+	"3": {
+		"id": "3",
+		"emuInput": {
+			"ecatalogue_key": "3",
+			"irn": "975",
+			"TitAccessionNo": "2001.35.193",
+			"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+			"CreDateCreated": "June 1946",
+			"CreEarliestDate": "1946-06-01",
+			"CreLatestDate": "1946-06-29",
+			"PhyMediumComments": "black-and-white: Ansco safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
+			"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "",
+			"CreDistrict_tab": "",
+			"CreCity_tab": "",
+			"CrePlaceQualifier_tab": ""
+		},
+		"emuOutput": {
+			"ecatalogue_key": "3",
+			"irn": "975",
+			"TitAccessionNo": "2001.35.193",
+			"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+			"CreDateCreated": "June 1946",
+			"CreEarliestDate": "1946-06-01",
+			"CreLatestDate": "1946-06-29",
+			"PhyMediumComments": "black-and-white: Ansco safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
+			"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "",
+			"CreDistrict_tab": "",
+			"CreCity_tab": "",
+			"CrePlaceQualifier_tab": "",
+			"Names": "",
+			"Keywords": "",
+			"Article": ""
+		},
+		"generated": "true",
+		"reviewed": "true",
+		"flagged": "false",
+		"approved": "false",
+		"titles": [
+			{
+				"data": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+				"source": [
+					"TitMainTitle"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Davis Athletic Club in front",
+				"source": [
+					"Spacy suggestion"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": [
+			{
+				"name": "Publication",
+				"data": "Pittsburgh Courier",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Publication Date",
+				"data": "June 29, 1946",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Page",
+				"data": "32",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Cutline",
+				"data": "Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			}
+		],
+		"people": [
+			{
+				"data": "Davis A. C.\"",
+				"source": [
+					"TitMainTitle"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Finley T. Davis",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Eugene Sanford",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Donald Trent",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Richard Carter",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Joseph Weaver",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "George Parker",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Jerry Joyner",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Isaac Brown",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Melvin Sanford",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Wilson",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Timothy Joyner",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Charles Parker",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Charles Patton",
+				"source": [
+					"TitMainTitle"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "the Davis Home",
+				"source": [
+					"CatDescriptText"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Mascot Charles Patton",
+				"source": [
+					"CatDescriptText"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Harris",
+				"source": [
+					"CatDescriptText"
+				],
+				"status": "suggested"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Little League Baseball, inc.",
+				"status": "suggested"
+			},
+			{
+				"data": "Coaches (Athletics)",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Men",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Group portraits",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Sports teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Ammon Center (Pittsburgh, Pa.)",
+				"status": "suggested"
+			},
+			{
+				"data": "Davis (Baseball team : Pittsburgh, Pa.)",
+				"status": "suggested"
+			}
+		],
+		"location": {
+			"Country": {
+				"UnitedStates": {
+					"data": "United States",
+					"source": [
+						"CreCountry_tab",
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"State": {
+				"Pennsylvania": {
+					"data": "Pennsylvania",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"District": {
+				"AlleghenyCounty": {
+					"data": "Allegheny County",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"City": {
+				"Pittsburgh": {
+					"data": "Pittsburgh",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"Place": {
+				"BedfordDwellings": {
+					"data": "Bedford Dwellings",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "suggested"
+				}
+			}
+		},
+		"keywords": [
+			{
+				"data": "team",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "sandlot",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "kneeling",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "standing",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "mascot",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "manager",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "seated",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
 				"data": "uniforms",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "field",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "wearing",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "image",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "published",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			}
+		]
+	},
+	"currentPhoto": {
+		"id": "2",
+		"emuInput": {
+			"ecatalogue_key": "2",
+			"irn": "953",
+			"TitAccessionNo": "2001.35.171",
+			"TitMainTitle": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+			"CreDateCreated": "June 1962",
+			"CreEarliestDate": "1962-06-01",
+			"CreLatestDate": "1962-06-30",
+			"PhyMediumComments": "black-and-white: Kodak safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 21 reads: \"Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.\"",
+			"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nBaseball players--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTerrace Village (Pittsburgh, Pa.)\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "Pennsylvania",
+			"CreDistrict_tab": "Allegheny county",
+			"CreCity_tab": "Pittsburgh",
+			"CrePlaceQualifier_tab": ""
+		},
+		"emuOutput": {
+			"ecatalogue_key": "2",
+			"irn": "953",
+			"TitAccessionNo": "2001.35.171",
+			"TitMainTitle": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+			"CreDateCreated": "June 1962",
+			"CreEarliestDate": "1962-06-01",
+			"CreLatestDate": "1962-06-30",
+			"PhyMediumComments": "black-and-white: Kodak safety film",
+			"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 21 reads: \"Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.\"",
+			"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nBaseball players--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTerrace Village (Pittsburgh, Pa.)\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.",
+			"CreCountry_tab": "United States",
+			"CreState_tab": "Pennsylvania",
+			"CreDistrict_tab": "Allegheny county",
+			"CreCity_tab": "Pittsburgh",
+			"CrePlaceQualifier_tab": "",
+			"Names": "",
+			"Keywords": "",
+			"Article": ""
+		},
+		"generated": "true",
+		"reviewed": "false",
+		"flagged": "false",
+		"approved": "false",
+		"titles": [
+			{
+				"data": "Group portrait of Addison Giants baseball team, front row from left: James Crutchfield, Peter Gibson, Cleveland Edwards, Larry Tarploy; second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney, and co-manager James Newton, posed on grandstand of Kennard Field with Terrace Village in background",
+				"source": [
+					"TitMainTitle"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Addison Giants baseball team in background",
+				"source": [
+					"Spacy suggestion"
+				],
+				"status": "suggested"
+			}
+		],
+		"article": [
+			{
+				"name": "Publication",
+				"data": "Pittsburgh Courier",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Date",
+				"data": "June 30, 1962",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Page",
+				"data": "21",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"name": "Cutline",
+				"data": "Addison Giants - This plucky bunch of players tied for first place last year in Pony League and were set to meet Ammon's team, June 29, at Ammon Field. From left, front row: James Crutchfield, Peter Gibson, Cleveland Edwards and Larry Tarploy.  Second row: manager William A. Rawls, Anthony Austin, Charles Robinson, Joseph Looney and Co-manager James Newton. - Harris Photo.",
+				"source": [
+					"eMU CatDescriptText"
+				],
+				"status": "accepted"
+			}
+		],
+		"people": [
+			{
+				"data": "James Crutchfield",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Peter Gibson",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Larry Tarploy",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "William A. Rawls",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Anthony Austin",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Charles Robinson",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Joseph Looney",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "James Newton",
+				"source": [
+					"TitMainTitle",
+					"CatDescriptText"
+				],
+				"status": "accepted"
+			},
+			{
+				"data": "Addison Giants",
+				"source": [
+					"CatDescriptText"
+				],
+				"status": "suggested"
+			}
+		],
+		"subjects": [
+			{
+				"data": "Men",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Kennard Field (Pittsburgh, Pa.)",
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball players",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Baseball teams",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Boys",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Terrace Village (Pittsburgh, Pa.)",
+				"status": "suggested"
+			},
+			{
+				"data": "Coaches (Athletics)",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "Athletes",
+				"source": [
+					"Removed location qualifier"
+				],
+				"status": "suggested"
+			}
+		],
+		"location": {
+			"Country": {
+				"UnitedStates": {
+					"data": "United States",
+					"source": [
+						"CreCountry_tab",
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"State": {
+				"Pennsylvania": {
+					"data": "Pennsylvania",
+					"source": [
+						"CreState_tab",
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"District": {
+				"Alleghenycounty": {
+					"data": "Allegheny county",
+					"source": [
+						"CreDistrict_tab"
+					],
+					"status": "suggested"
+				},
+				"AlleghenyCounty": {
+					"data": "Allegheny County",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"City": {
+				"Pittsburgh": {
+					"data": "Pittsburgh",
+					"source": [
+						"CreCity_tab",
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			},
+			"Place": {
+				"KennardPlayground": {
+					"data": "Kennard Playground",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "suggested"
+				},
+				"TerraceVillage": {
+					"data": "Terrace Village",
+					"source": [
+						"CatSubject_tab"
+					],
+					"status": "accepted"
+				}
+			}
+		},
+		"keywords": [
+			{
+				"data": "team",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "row",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "manager",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "co",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "image",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "posed",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "grandstand",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "background",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "published",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "newspaper",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "set",
+				"source": [
+					"Spacy"
+				],
+				"status": "suggested"
+			},
+			{
+				"data": "year",
 				"source": [
 					"Spacy"
 				],

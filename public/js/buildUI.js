@@ -17,56 +17,6 @@ function formatPeople() {
 
 
 
-function populateNewspaper() {
-	$("#article").empty()
-	if (photo["article"] !== undefined) {
-		for (var i=0; i<photo["article"].length; i++) {
-
-			article = photo["article"][i];
-
-			var articleToggle = $("<img class='clickable toggle'>")
-				.addClass(article["status"])
-				.attr("src", article["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
-				.on("click", { "article" : article }, function(event) {
-					photo["article"].map(function(article) {
-						if (article === event.data.article && article["status"] === "accepted") { return Object.assign(article, { "status" : "suggested" })}
-						else if (article === event.data.article && article["status"] === "suggested") { return Object.assign(article, { "status" : "accepted" })}
-						else { return article }
-					});
-					// update UI
-					populateNewspaper();
-				});
-
-			var articleData = $("<span class='data' contenteditable>")
-				.html(article["data"])
-				.on('input',  { "article": article }, function(event) {
-					photo["article"].map(function(article) {
-						if (article === event.data.article) { 
-							if (article["source"].indexOf("Edited") === -1) { 
-								article["source"] = article["source"].concat(["Edited"]) 
-								// update UI
-								$($(event.target).parent()).find('.source').html("("+article["source"].join(', ')+")")
-							}
-							article["data"] = $(event.target).html();
-						} 
-						return article;
-					});
-				});
-
-			var articleSource = $("<span class='source'>")
-				.html("("+article["source"].join(', ')+")");
-
-			var articleContainer = $("<div class='optionContainer'>")
-				.append(articleToggle)
-				.append(articleData)
-				.append(articleSource);
-			
-			$("#article").append(articleContainer);
-
-		}
-	}
-}
-
 function populateSubjects() {
 	$("#subjects").empty()
 	if (photo["subjects"] !== undefined) {
