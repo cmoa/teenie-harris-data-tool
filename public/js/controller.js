@@ -13,14 +13,13 @@ function attachTitleControls(index, title) {
 	// Title checklist toggle
 	$("#titleToggle"+index).on("click", { "title" : title }, function(event) {
 		photo["titles"].map(function(title) {
-			if (title === event.data.title) { 
-				title["status"] = "accepted"; 
-				updateEmuRecord("TitMainTitle", event.data.title["data"])
-			}
-			else { title["status"] = "suggested"; }
-			return title;
+			if (title === event.data.title && title["status"] === "accepted") {  return Object.assign(title, { "status" : "suggested" }) }
+			else if (title === event.data.title && title["status"] === "suggested") { 
+				return Object.assign(title, { "status" : "accepted" });
+			} else { return title }
 		});
-		// See view.js
+		// See model.js && view.js
+		updateEmuOutput()
 		populateTitleView();
 	});
 
@@ -34,12 +33,34 @@ function attachTitleControls(index, title) {
 					$($(event.target).parent()).find('.source').html("("+title["source"].join(', ')+")")
 				} 
 				title["data"] = $(event.target).html();
-				updateEmuRecord("TitMainTitle", $(event.target).html())
 			} 
 			return title;
 		});
+		// See model.js
+		updateEmuOutput();
+	});
+}
+
+function attachTitleHeaderControls() {
+	$("#titleFlag").on("click", function(event) {
+		photo["flags"]["titles"] = !JSON.parse(photo["flags"]["titles"]);
+		// See view.js
+		populateTitleView();
 	});
 
+	$("#addTitleButton").on("click", function(event) {
+		console.log("Add title");
+		var newTitle = {
+			data: "",
+			source: ["Edited"],
+			status: "suggested",
+		};
+		photo["titles"].push(newTitle);
+
+		// See model.js && view.js
+		updateEmuOutput();
+		populateTitleView();
+	});
 }
 
 
@@ -52,8 +73,8 @@ function attachPersonControls(index, person) {
 				return Object.assign(person, { "status" : "accepted" });
 			} else { return person }
 		});
-		// See view.js
-		formatPeople();
+		// See model.js && view.js
+		updateEmuOutput();
 		populatePeopleView();
 	});
 
@@ -73,18 +94,19 @@ function attachPersonControls(index, person) {
 			} 
 			return person;
 		});
-
-		formatPeople();
 		
 		highlightText(event.data.person["data"]);
+
+		// See model.js 
+		updateEmuOutput();
 	});
 
 
 	// Hover to highlight name in emu record
-	$("#personText"+index)
-		.on('mouseenter',  { "person": person }, function(event) { highlightText(event.data.person["data"]); })
-		.on('mouseleave',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); })
-		.on('focusout',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); });
+	// $("#personText"+index)
+	//	.on('mouseenter',  { "person": person }, function(event) { highlightText(event.data.person["data"]); })
+	//	.on('mouseleave',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); })
+	//	.on('focusout',  { "person": person }, function(event) { removeHighlightFromText(event.data.person["data"]); });
 
 }
 
@@ -106,20 +128,46 @@ function attachPeopleSortingControls() {
 			$(".handle").each(function() { 
 				$(this).removeClass("nohoverhandle")
 			});
-			formatPeople();
+			// See model.js 
+			updateEmuOutput();
 		},
 	});
 }
+
+function attachPeopleHeaderControls() {
+	$("#peopleFlag").on("click", function(event) {
+		photo["flags"]["people"] = !JSON.parse(photo["flags"]["people"]);
+		// See view.js
+		populatePeopleView();
+	});
+
+	$("#addPersonButton").on("click", function(event) {
+		var newPerson = {
+			data: "",
+			source: ["Edited"],
+			status: "suggested",
+		};
+		photo["people"].push(newPerson);
+
+		// See model.js && view.js
+		updateEmuOutput();
+		populatePeopleView();
+	});
+}
+
+
 
 function attachLocationControls(category, place, data) {
 	// Location checklist toggle
 	$("#placeToggle"+place).on("click", { "category": category, "place": place }, function(event) {
 		var { category, place } = event.data;
 		for (placeKey in photo["location"][category]) {
-			if (place === placeKey) { photo["location"][category][placeKey]["status"] = "accepted"; }
+			if (place === placeKey && photo["location"][category][placeKey]["status"] === "suggested") { photo["location"][category][placeKey]["status"] = "accepted"; }
+			else if (place === placeKey && photo["location"][category][placeKey]["status"] === "accepted") { photo["location"][category][placeKey]["status"] = "suggested"; }
 			else { photo["location"][category][placeKey]["status"] = "suggested"; }
 		}
-		// See view.js
+		// See model.js && view.js
+		updateEmuOutput();
 		populateLocationView();
 	});
 
@@ -134,15 +182,24 @@ function attachLocationControls(category, place, data) {
 		}
 		data["data"] = $(event.target).html();
 
-		highlightText(event.data.place["data"]);
+		//highlightText(event.data.place["data"]);
+		updateEmuOutput();
 	});
 
 	// Hover to highlight location in emu record
-	$("#placeText"+place)
-		.on('mouseenter',  { "place": data }, function(event) { highlightText(event.data.place["data"]); })
-		.on('mouseleave',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); })
-		.on('focusout',  { "place": data }, function(event) { removeHighlightFromText(event.data.place["data"]); });
+	// $("#placeText"+place)
+	//	.on('mouseenter',  { "place": place }, function(event) { highlightText(event.data.place); })
+	//	.on('mouseleave',  { "place": place }, function(event) { removeHighlightFromText(event.data.place); })
+	//	.on('focusout',  { "place": place }, function(event) { removeHighlightFromText(event.data.place); });
 
+}
+
+function attachLocationHeaderControls() {
+	$("#locationFlag").on("click", function(event) {
+		photo["flags"]["location"] = !JSON.parse(photo["flags"]["location"]);
+		// See view.js
+		populateLocationView();
+	});
 }
 
 
@@ -155,8 +212,8 @@ function attachArticleControls(index, article) {
 		});
 		// See view.js
 		populateArticleView();
+		updateEmuOutput();
 	});
-
 
 	$("#articleText"+index).on('input',  { "article": article }, function(event) {
 		photo["article"].map(function(article) {
@@ -170,14 +227,25 @@ function attachArticleControls(index, article) {
 			} 
 			return article;
 		});
+		
+		updateEmuOutput();
 	});
 
 	// Hover to highlight article in emu record
-	$("#articleText"+index)
-		.on('mouseenter',  { "article": article }, function(event) { highlightText(event.data.article["data"]); })
-		.on('mouseleave',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); })
-		.on('focusout',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); });
+	// $("#articleText"+index)
+	// 	.on('mouseenter',  { "article": article }, function(event) { highlightText(event.data.article["data"]); })
+	// 	.on('mouseleave',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); })
+	// 	.on('focusout',  { "article": article }, function(event) { removeHighlightFromText(event.data.article["data"]); });
 }
+
+function attachArticleHeaderControls() {
+	$("#articleFlag").on("click", function(event) {
+		photo["flags"]["article"] = !JSON.parse(photo["flags"]["article"]);
+		// See view.js
+		populateArticleView();
+	});
+}
+
 
 function attachSubjectControls(subject, subjectData) {
 	// $("#subjectText"+subject).on("click", { "subjectData" : subjectData }, function(event) {
@@ -209,16 +277,18 @@ function attachSubjectControls(subject, subjectData) {
 
 // Highlight functions
 function highlightText(text) {
+	console.log(text);
 	var sourceDOM = $("#emurecord");
-	if (sourceDOM.html() !== undefined) {
+	if (sourceDOM.html() !== undefined && text !== "" && text.length > 1) {
 		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';
 		sourceDOM.html(sourceDOM.html().replace(new RegExp(text, 'g'), highlightedText));
 	}
 }
 
 function removeHighlightFromText(text) {
+	console.log(text);
 	var sourceDOM = $("#emurecord");
-	if (sourceDOM.html() !== undefined) {
+	if (sourceDOM.html() !== undefined && text !== "" && text.length > 1) {
 		var highlightedText = '<span style="background-color:yellow">'+text+'</span>';
 		sourceDOM.html(sourceDOM.html().replace(new RegExp(highlightedText, 'g'), text));
 	}

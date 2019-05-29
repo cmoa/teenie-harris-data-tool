@@ -1,6 +1,9 @@
 import re, spacy, textacy, sys, os
 from spacy.symbols import *
 
+if sys.version_info[0] >= 3:
+    unicode = str
+
 nlp = spacy.load('en_core_web_sm')
 
 sents = nlp(unicode(sys.argv[1]));

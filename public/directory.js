@@ -8,15 +8,22 @@ $(document).ready(function() {
 		if (id !== "currentPhoto") {
 
 			var status;
+			var flagged = false;
 
-			if (catalog[id]["flagged"] === true || catalog[id]["flagged"] === "true") status = "needs review";
-			else if (catalog[id]["reviewed"] === true || catalog[id]["reviewed"] === "true") status = "approved";
-			else status = "sdf";
+			for (flag in catalog[id]["flags"]) {
+				if (JSON.parse(catalog[id]["flags"][flag])) {
+					flagged = true;
+				}
+			}
+
+			if (flagged) status = "Needs Additional Review";
+			else if (catalog[id]["approved"] === true || catalog[id]["approved"] === "true") status = "Complete";
+			else status = "Needs Review";
 
 			var photoContainer = $("<tr>")
 				.addClass("directoryPhotoContainer")
 				.append("<br>")
-				.append("<td><a href='/#"+id+"'>" + catalog[id]["emu"]["TitAccessionNo"] + "</a></td>")
+				.append("<td><a href='/#"+id+"'>" + catalog[id]["emuInput"]["irn"] + "</a></td>")
 				.append("<td>" + status + "</td>");
 
 			$("#directory").append(photoContainer);

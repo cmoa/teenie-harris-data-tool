@@ -71,6 +71,13 @@ body {
 
 .emuRecordFieldValue {
 	margin: 5px 5px;
+	white-space: pre-wrap;
+}
+
+.missingValue {
+	color: white;
+	background-color: #d13f17;
+	padding: 5px;
 }
 
 #recordbarbuttons {
@@ -144,8 +151,33 @@ body {
 	padding: 10px;
 	font-size: 16px;
 	margin: 30px 0px 10px 0px;
-	
+	user-select: none;
 	cursor: default;
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.headerControl {
+	margin: 0px 5px;
+}
+
+.flagButton {
+	cursor: pointer;
+	background-color: white;
+	padding: 0px 5px;
+	border-radius: 5px;
+}
+
+.flagged {
+	background-color: red;
+}
+
+.addButton {
+	cursor: pointer;
+	background-color: white;
+	padding: 0px 5px;
+	border-radius: 5px;
 }
 
 /*/////////////////////////// option ///////////////////////////////*/
@@ -238,6 +270,16 @@ body {
 	padding: 5px;
 	margin-bottom: 10px;
 	margin-top: 10px;
+	flex: 1;
+	justify-content: space-between;
+	display: flex;
+}
+
+[contenteditable=true]:empty::before {
+  content: attr(placeholder);
+  color: black;
+  opacity: 0.3;
+  font-style: italic;
 }
 
 /*/////////////////////////// directory ///////////////////////////////*/

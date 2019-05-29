@@ -21,7 +21,7 @@ $(document).ready(function() {
 	  saveCatalog();
 	  window.location.replace(window.location.href.split('#')[0]);
 	}
-
+	
 	loadPhoto();
 });
 
@@ -31,12 +31,14 @@ function loadPhoto() {
 		console.log("NEED TO GENERATE PHOTO"); 
 		generatePhoto(catalog["currentPhoto"]).then(function(photoData){
 			catalog["currentPhoto"] = photoData;
-			photo = JSON.parse(JSON.stringify(catalog["currentPhoto"]));;
+			photo = JSON.parse(JSON.stringify(catalog["currentPhoto"]));
+			updateEmuOutput();
 			populateUI();
 			saveCatalog();
 		}); 
 	} else {
 		photo = JSON.parse(JSON.stringify(catalog["currentPhoto"]));
+		updateEmuOutput();
 		populateUI();
 	}
 }
@@ -53,6 +55,7 @@ function saveChanges() {
 function undoChanges() {
 	var catalog = loadCatalog();
 	photo = JSON.parse(JSON.stringify(catalog["currentPhoto"]));
+	updateEmuOutput();
 	populateUI();
 }
 
@@ -64,6 +67,7 @@ function startOver() {
   			catalog[photoData["id"]] = JSON.parse(JSON.stringify(photoData));
 			catalog["currentPhoto"] = JSON.parse(JSON.stringify(photoData));
 			photo = JSON.parse(JSON.stringify(catalog["currentPhoto"]));
+			updateEmuOutput();
 			populateUI();
 			saveCatalog();
 		})}, 0)
@@ -81,12 +85,8 @@ function flagForReview() {
  }
 
 function nextPhoto() {
-	if (confirm("Save changes and continue?")) {
 		$("#loadingScreen").show();
 		window.setTimeout(function() {
-			// save photo to catalog in its place
-			photo["reviewed"] = true;
-			catalog[photo["id"]] = JSON.parse(JSON.stringify(photo));
 			// change current photos
 			var id = parseInt(photo["id"]);
 			if (catalog[String(id+1)] !== undefined) {
@@ -98,7 +98,18 @@ function nextPhoto() {
 			// then load photo
 			loadPhoto();
 		}, 0);
+}
+
+
+function toggleApproved() {
+	if (JSON.parse(photo["approved"])) {
+		photo["approved"] = false;
+	} else {
+		photo["approved"] = true;
 	}
+	catalog[photo["id"]] = JSON.parse(JSON.stringify(photo));
+	saveCatalog();
+	populateUI();
 }
 
 
