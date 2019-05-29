@@ -5,6 +5,9 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 import sys
 
+if sys.version_info[0] >= 3:
+    unicode = str
+
 nlp = spacy.load('en_core_web_sm')
 
 class TextRank4Keyword():

@@ -4,11 +4,12 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="js/bin/Sortable.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.15.0/lodash.min.js"></script>
+
+	<!-- components -->
+	<script src="components/Title.js"></script>
+
 	<!-- js -->
 	<script src="js/routes.js"></script>
-	<script src="js/buildUI.js"></script>
-	<script src="js/buildData.js"></script>
-
 	<script src="js/model.js"></script>
 	<script src="js/view.js"></script>
 	<script src="js/controller.js"></script>
@@ -27,11 +28,10 @@
 		</div>
 		
 		<div id="recordbarbuttons">
-			<button onClick="saveChanges()">Save Changes</button>
 			<button onClick="undoChanges()">Undo Changes</button>
-			<button onClick="startOver()">Start Over</button>
-			<button id="flagForReview" onClick="flagForReview()">Flag For Review</button>
 			<button onClick="nextPhoto()">Next Photo</button>
+
+			<button onClick="toggleApproved()" id="approvalButton"></button>
 		</div>
 
 	</div>
@@ -39,25 +39,25 @@
 	<div id="newoptions">
 		<!-- title -->
 		<div>
-			<div class="header">Titles</div>
+			<div class="header" id="titleHeader">Alternate Titles</div>
 			<div id="titles">
 			</div>
 		</div>
 		<!-- names -->
 		<div>
-			<div class="header">People</div>
+			<div class="header" id="peopleHeader">People</div>
 			<div id="people">
 			</div>
 		</div>
 		<!-- location -->
 		<div>
-			<div class="header">Location</div>
+			<div class="header" id="placeHeader">Location</div>
 			<div id="place">
 			</div>
 		</div>
 		<!-- newspaper -->
 		<div>
-			<div class="header">Newspaper</div>
+			<div class="header" id="articleHeader">Bibliography</div>
 			<div id="article">
 			</div>
 		</div>
@@ -68,11 +68,11 @@
 			</div>
 		</div>
 		<!-- keywords -->
-		<div>
+		<!-- <div>
 			<div class="header">Keywords</div>
 			<div id="keywords">
 			</div>
-		</div>
+		</div> -->
 		<div id="photographfullcontainer" class="hide">
 			<img id="photographfull" />
 		</div>

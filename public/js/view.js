@@ -1,5 +1,10 @@
 
 function populateUI() {
+	if (JSON.parse(photo["approved"])) {
+		$("#approvalButton").html("Mark Incomplete");
+	} else {
+		$("#approvalButton").html("Mark Complete");
+	}
 	// Puts photo in top left
 	populatePhoto();
 
@@ -11,10 +16,8 @@ function populateUI() {
 	populatePeopleView();
 	populateLocationView();
 	populateArticleView();
-	populateSubjectView();
-	populateKeywords();
+	// populateSubjectView();
 
-	formatPeople();
 	$("#loadingScreen").hide();
 }
 
@@ -40,6 +43,7 @@ function populateEmuRecordView() {
 	var red = "red";
 	var black = "black";
 	
+	// Display interface
 	for (key in photo["emuOutput"]) {
 		var originalValue = (photo["emuInput"][key] === null || photo["emuInput"][key] === undefined) ? "" : photo["emuInput"][key];
 		var newValue = (photo["emuOutput"][key] === null || photo["emuOutput"][key] === undefined) ? "" : photo["emuOutput"][key];
@@ -49,7 +53,12 @@ function populateEmuRecordView() {
 			.html(key+": ")
 		
 		var fieldValue = $("<div>");
-		if (originalValue !== newValue) {
+		if (newValue === "" || newValue === undefined || newValue === null) {
+			var newValue = $("<div>")
+				.addClass("missingValue")
+				.html("No " + key + " !!!");
+			fieldValue.append(newValue);
+		} else if (originalValue !== newValue) {
 			var originalValue = $("<div>")
 				.addClass("emuRecordFieldValue")
 				.css({"color": red, "opacity": "0.5"})
@@ -82,6 +91,7 @@ function populateEmuRecordView() {
 // POPULATE TITLES:
 // Displays radio button list of edit-able title suggestions
 function populateTitleView() {
+	$("#titleHeader").empty();
 	$("#titles").empty();
 
 	if (photo["titles"] !== null && photo["titles"] !== undefined) {
@@ -97,6 +107,7 @@ function populateTitleView() {
 				.attr("id", "titleText"+i)
 				.addClass("data")
 				.attr("contenteditable", "true")
+				.attr("placeholder", "Add title...")
 				.html(title["data"]);
 
 			var titleSource = $("<span>")
@@ -107,13 +118,38 @@ function populateTitleView() {
 				.addClass("optionContainer")
 				.append(titleToggle)
 				.append(titleText)
-				.append(titleSource);
+				.append(titleSource)
 
 			$("#titles").append(titleContainer);
 
 			// See controller.js
 			attachTitleControls(i, title);
 		}
+
+		var titleControls = $("<span>");
+
+		var titleFlag = $("<span>")
+			.attr("id", "titleFlag")
+			.addClass("flagButton")
+			.addClass("headerControl")
+			.addClass(JSON.parse(photo["flags"]["titles"]) ? "flagged" : "")
+			.html("flag");
+
+		var addTitleButton = $("<span>")
+			.attr("id", "addTitleButton")
+			.addClass("headerControl")
+			.addClass("addButton")
+			.html("+");
+
+		titleControls.append(titleFlag)
+			.addClass("headerControls")
+			.append(addTitleButton);
+
+		$("#titleHeader").html("Alternate Titles")
+			.append(titleControls);
+			
+		// See controller.js
+		attachTitleHeaderControls();
 	}
 }
 
@@ -121,7 +157,9 @@ function populateTitleView() {
 // POPULATE NAMES:
 // Displays check list of edit-able name suggestions
 function populatePeopleView() {
+	$("#peopleHeader").empty();
 	$("#people").empty()
+
 	if (photo["people"] !== undefined) {
 		for (var i=0; i<photo["people"].length; i++) {
 			person = photo["people"][i];
@@ -135,6 +173,7 @@ function populatePeopleView() {
 				.attr("id", "personText"+i)
 				.addClass("data")
 				.attr("contenteditable", "true")
+				.attr("placeholder", "Add person...")
 				.html(person["data"])
 
 			var personSource = $("<span>")
@@ -155,10 +194,37 @@ function populatePeopleView() {
 		}
 		// See controller.js
 		attachPeopleSortingControls();
+
+		var peopleControls = $("<span>");
+
+		var peopleFlag = $("<span>")
+			.attr("id", "peopleFlag")
+			.addClass("flagButton")
+			.addClass("headerControl")
+			.addClass(JSON.parse(photo["flags"]["people"]) ? "flagged" : "")
+			.html("flag");
+
+		var addPersonButton = $("<span>")
+			.attr("id", "addPersonButton")
+			.addClass("headerControl")
+			.addClass("addButton")
+			.html("+");
+
+		peopleControls.append(peopleFlag)
+			.addClass("headerControls")
+			.append(addPersonButton);
+
+		$("#peopleHeader").html("People")
+			.append(peopleControls);
+
+		// See controller.js
+		attachPeopleHeaderControls();
+
 	}
 }
 
 function populateLocationView() {
+	$("#placeHeader").empty()
 	$("#place").empty()
 
 	if (photo["location"] !== undefined) {
@@ -166,7 +232,8 @@ function populateLocationView() {
 
 			var placeLabel = $("<div>")
 				.addClass("placeLabel")
-				.html(category);
+				.html(category)
+
 			$("#place").append(placeLabel);
 
 			for (var place in photo["location"][category]) {
@@ -178,8 +245,10 @@ function populateLocationView() {
 					.addClass([placeData["status"], "clickable", "toggle"])
 					.attr("src", placeData["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
 
-				var placeText = $("<span class='data' contenteditable>")
+				var placeText = $("<span class='data'>")
 					.attr("id", "placeText"+place)
+					.attr("placeholder", "Add "+category.toLowerCase()+"...")
+					.attr("contenteditable", "true")
 					.html(placeData["data"])
 
 				var placeSource = $("<span class='source'>")
@@ -197,9 +266,28 @@ function populateLocationView() {
 			}
 		}
 	}
+
+	var locationControls = $("<span>");
+
+	var locationFlag = $("<span>")
+		.attr("id", "locationFlag")
+		.addClass("flagButton")
+		.addClass("headerControl")
+		.addClass(JSON.parse(photo["flags"]["location"]) ? "flagged" : "")
+		.html("flag");
+
+	locationControls.append(locationFlag)
+		.addClass("headerControls")
+
+	$("#placeHeader").html("Location")
+		.append(locationControls);
+
+	// See controller.js
+	attachLocationHeaderControls();
 }
 
 function populateArticleView() {
+	$("#articleHeader").empty();
 	$("#article").empty()
 	if (photo["article"] !== undefined) {
 		for (var i=0; i<photo["article"].length; i++) {
@@ -216,7 +304,9 @@ function populateArticleView() {
 				.attr("id", "articleToggle"+i)
 				.attr("src", article["status"] === "accepted" ? "images/checked_button.png" : "images/unchecked_button.png")
 
-			var articleData = $("<span class='data' contenteditable>")
+			var articleData = $("<span class='data'>")
+				.attr("placeholder", "Add "+article["name"].toLowerCase()+"...")
+				.attr("contenteditable", "true")
 				.attr("id", "articleText"+i)
 				.html(article["data"])
 
@@ -233,6 +323,24 @@ function populateArticleView() {
 			// See controller.js
 			attachArticleControls(i, article);
 		}
+
+		var articleControls = $("<span>");
+
+		var articleFlag = $("<span>")
+			.attr("id", "articleFlag")
+			.addClass("flagButton")
+			.addClass("headerControl")
+			.addClass(JSON.parse(photo["flags"]["article"]) ? "flagged" : "")
+			.html("flag");
+
+		articleControls.append(articleFlag)
+			.addClass("headerControls")
+
+		$("#articleHeader").html("Bibliography")
+			.append(articleControls);
+			
+		// See controller.js
+		attachArticleHeaderControls();
 	}
 }
 
@@ -266,8 +374,6 @@ function populateSubjectView() {
 				var subjectsSource = $("<span class='source'>")
 					.html("("+relatedSubject["source"].join(', ')+")");
 
-				
-
 				var subjectsContainer = $("<div class='optionContainer'>")
 					.append(subjectsToggle)
 					.append(subjectsText)
@@ -285,9 +391,7 @@ function populateSubjectView() {
 
 				// See controller.js
 				attachSubjectControls(relatedSubjectKey, relatedSubject);
-			}
-			
-
+			}	
 		}
 	}
 }
