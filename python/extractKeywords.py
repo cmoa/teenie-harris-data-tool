@@ -4,6 +4,9 @@ import numpy as np
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 import sys
+import json
+
+data = {}
 
 if sys.version_info[0] >= 3:
     unicode = str
@@ -89,13 +92,11 @@ class TextRank4Keyword():
     
     def get_keywords(self, number=10):
         """Print top number keywords"""
-        keywords = ""
+        keywords = []
         node_weight = OrderedDict(sorted(self.node_weight.items(), key=lambda t: t[1], reverse=True))
         for i, (key, value) in enumerate(node_weight.items()):
-            keywords += key;
-            keywords += ","
-            # print(key + ' - ' + str(value))
-            if i > number:
+            keywords.append(key)
+            if i >= number:
                 break
         return keywords[:-1]
         
@@ -145,7 +146,17 @@ class TextRank4Keyword():
 tr4w = TextRank4Keyword()
 tr4w.analyze(unicode(sys.argv[1]), candidate_pos = ['NOUN', 'VERB'], window_size=10, lower=False)
 listofkeywords = tr4w.get_keywords(10)
-sys.stdout.write(listofkeywords)
+
+i = 0;
+for word in listofkeywords: 
+    keyword = {}
+    keyword["data"] = word
+    keyword["status"] = "suggested"
+    data[i] = keyword
+    i += 1
+
+json_data = json.dumps(data)
+sys.stdout.write(json_data)
 sys.stdout.flush()
 
 # view rawTextRank4Keyword.py hosted on GitHub
