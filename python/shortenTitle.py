@@ -1,5 +1,8 @@
 import csv, re, spacy, textacy, sys, os
 from spacy.symbols import *
+import json
+
+data = {}
 
 if sys.version_info[0] >= 3:
     unicode = str
@@ -90,6 +93,23 @@ if root_np and root_np.root.children:
         if propn.text[0] == ',':
             new_title.append(propn.text)
 
-# print '\n', title
-sys.stdout.write(" ".join(new_title))
-sys.stdout.flush() 
+
+title = {}
+title["data"] = " ".join(new_title);
+title["status"] = "suggested";
+data[0] = title
+
+title = {}
+title["data"] = "Other new title";
+title["status"] = "suggested";
+data[1] = title
+
+title = {}
+title["data"] = "Another new title";
+title["status"] = "suggested";
+data[2] = title
+
+
+json_data = json.dumps(data)
+sys.stdout.write(json_data)
+sys.stdout.flush()
