@@ -11,7 +11,6 @@ const request = require('sync-request');
 const cheerio = require('cheerio')
 var catalog = {};
 
-
 //////////////////// SETUP //////////////////
 
 app.use(bodyParser.urlencoded({
@@ -34,6 +33,8 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 
 //////////////////// INIT //////////////////
+
+
 
 function init() {
 	createMissingEntryFiles();
@@ -81,7 +82,6 @@ function readAllEntries() {
 	}
 	return result;
 }
-
 
 //////////////////// ROUTES //////////////////
 
@@ -159,7 +159,6 @@ app.all('/exportcatalog', function(req, res){
 	}); 
 });
 
-
 app.all('/generatephoto', function(req, res){
 
 	var irn = req.query.irn;
@@ -182,6 +181,7 @@ app.all('/generatephoto', function(req, res){
 
 		var emuField;
 
+
 		generatedPhotoData["suggestions"] = {};
 		generatedPhotoData["inReview"] = {};
 
@@ -195,7 +195,6 @@ app.all('/generatephoto', function(req, res){
 		generatedPhotoData["inReview"][emuField] = 1;
 		generatedPhotoData["emuOutput"][emuField] = "";
 
-
 		emuField = "CatSubject_tab";
 		generatedPhotoData["suggestions"][emuField]  = subjectSuggestions;
 		generatedPhotoData["inReview"][emuField] = 1;
@@ -206,13 +205,11 @@ app.all('/generatephoto', function(req, res){
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreCountry_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
 		generatedPhotoData["emuOutput"][emuField] = "";
-	
 
 		emuField = "CreState_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreState_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
 		generatedPhotoData["emuOutput"][emuField] = "";
-		
 
 		emuField = "CreDistrict_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreDistrict_tab"];
@@ -245,7 +242,6 @@ app.all('/generatephoto', function(req, res){
 		generatedPhotoData["inReview"][emuField] = 1;
 		generatedPhotoData["emuOutput"][emuField] = "";
 
-
 		emuField = "CatKeywords_tab";
 		generatedPhotoData["suggestions"][emuField]  = keywordSuggestions;
 		generatedPhotoData["inReview"][emuField] = 1;
@@ -257,6 +253,7 @@ app.all('/generatephoto', function(req, res){
 
 
 //////////////////// ALGORITHMS FOR SUGGESTIONS //////////////////
+
 
 async function generateSuggestions(photo) {
 	var titleSuggestions = await shortenTitle(photo["TitMainTitle"]);
@@ -583,5 +580,4 @@ function generateKeywords(title, description, placeList) {
 		});
 	});
 }
-
 

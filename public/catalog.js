@@ -79,7 +79,6 @@ function getEntries(view) {
         async: false,
         success: function(data) {
             view.photos = data.map((photo) => {
-
             	var flagged = false;
             	if (photo["inReview"] === undefined) { flagged = true; } 
             	else {
@@ -87,7 +86,6 @@ function getEntries(view) {
 	            		if (photo["inReview"][field] == 1) { flagged = true; } 
 	            	}
 	            }
-
             	return {
             		irn: photo["irn"],
             		accession: photo["emuInput"]["TitAccessionNo"],
