@@ -23,7 +23,33 @@ $(document).ready(function() {
 		methods: {
 		 	prevPage: function () { changePage(this.catalogPage - 1, this) },
 		 	nextPage: function () { changePage(this.catalogPage + 1, this) },
-			submit : function(){ changePage(this.$refs.pageChanger.value - 1, this) }
+			submit : function(){ changePage(this.$refs.pageChanger.value - 1, this) },
+			exportCatalog : function() { 
+				console.log("EXPORTING")
+				$.ajax({
+			        url: "/exportcatalog",
+			        type: 'get',
+			        async: false,
+			        success: function(data) {
+			        	var blob = new Blob([data], {type: 'text/csv'});
+					    if(window.navigator.msSaveOrOpenBlob) {
+					        window.navigator.msSaveBlob(blob, "ecatalog.csv");
+					    }
+					    else{
+					        var elem = window.document.createElement('a');
+					        elem.href = window.URL.createObjectURL(blob);
+					        elem.download = "ecatalog.csv";        
+					        document.body.appendChild(elem);
+					        elem.click();        
+					        document.body.removeChild(elem);
+					    }
+			        },
+			        error: function(e) { 
+			        	console.log("ERROR exporting entries! " + e)
+			    	}
+			    });
+
+			}
 		}
 	});
 
@@ -53,11 +79,20 @@ function getEntries(view) {
         async: false,
         success: function(data) {
             view.photos = data.map((photo) => {
+
+            	var flagged = false;
+            	if (photo["inReview"] === undefined) { flagged = true; } 
+            	else {
+	            	for (var field in photo["inReview"]) {
+	            		if (photo["inReview"][field] == 1) { flagged = true; } 
+	            	}
+	            }
+
             	return {
             		irn: photo["irn"],
             		accession: photo["emuInput"]["TitAccessionNo"],
             		title: photo["emuInput"]["TitMainTitle"],
-            		flagged: true
+            		flagged,
             	}
             });
         },

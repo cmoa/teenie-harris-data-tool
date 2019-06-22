@@ -80,10 +80,10 @@ $(document).ready(function() {
 						console.log(suggestion)
 
 				if (suggestion["status"] === "accepted" && suggestion["data"] !== "") {
-					emuString += suggestion["data"] + ",\n";
+					emuString += suggestion["data"] + "\n";
 				}
 			}
-			photo["emuOutput"][field] = emuString.substring(0, emuString.length - 2);
+			photo["emuOutput"][field] = emuString.substring(0, emuString.length - 1);
 			photo["inReview"][field] = 0;
 		},
 		endDrag() {
@@ -116,7 +116,28 @@ $(document).ready(function() {
 			});
 	  	},
 	  	saveAndNext: function() {
-	  		console.log("Save and next");
+	  		console.log("SAVE AND NEXT")
+	  		$.ajax({
+			  type: 'POST',
+			  url: "/savephoto",
+			  data: JSON.stringify(photo),
+			  complete: function() {
+			  	$.ajax({
+				  type: 'GET',
+				  url: "/nextphoto",
+				  data: { "irn": photo["irn"] },
+				  dataType: "json",
+			 	  contentType: "application/json",
+				  success: function(data) { window.location = "/#"+data },
+				  error: function(e) { console.log(e); },
+				});
+			  },
+			  error: function(e) {
+			    console.log(e);
+			  },
+			  dataType: "json",
+			  contentType: "application/json"
+			});
 	  	}
 	  }
 	});

@@ -10,51 +10,60 @@
 		"CreLatestDate": "1953-05-30",
 		"PhyMediumComments": "black-and-white: Kodak safety film",
 		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
-		"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
+		"CatSubject_tab": "",
+		"CreCountry_tab": "",
+		"CreState_tab": "",
+		"CreDistrict_tab": "",
+		"CreCity_tab": "",
+		"CrePlaceQualifier_tab": "",
+		"TitAlternateTitles_tab": "",
+		"People_tab": "",
+		"BibliographyPublication": "",
+		"BibliographyPage": "",
+		"BibliographyCutline": "",
+		"BibliographyDate": "",
+		"CatKeywords_tab": ""
 	},
 	"emuOutput": {
+		"ecatalogue_key": "1",
 		"irn": "928",
 		"TitAccessionNo": "2001.35.148",
+		"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
 		"CreDateCreated": "May 1953",
 		"CreEarliestDate": "1953-05-01",
 		"CreLatestDate": "1953-05-30",
 		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
-		"TitAlternateTitles_tab": "",
 		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
-		"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
-		"CatKeywords_tab": "",
+		"CatSubject_tab": "Boys\nBaseball\nBaseball fields\nBaseball players\nAthletes\nKennard Field (Pittsburgh, Pa.)\nTerrace Village (Pittsburgh, Pa.)\nLittle League Baseball, inc.",
 		"CreCountry_tab": "United States",
 		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
+		"CreDistrict_tab": "Allegheny County",
 		"CreCity_tab": "Pittsburgh",
-		"People_NEEDSLABEL": "",
-		"BibliographyPublication_NEEDSLABEL": "",
-		"BibliographyPage_NEEDSLABEL": "",
-		"BibliographyDate_NEEDSLABEL": "",
-		"BibliographyCutline_NEEDSLABEL": ""
+		"CrePlaceQualifier_tab": "",
+		"TitAlternateTitles_tab": "Pittsburgh Lions Little League baseball team \nOther new title",
+		"People_tab": "Robert Dalley\nJohn King\nJames Dunmore\nWilliam Smith\nStanley Edward\nLessie Washington\nBridder Pearson\nLevi Williams\nWillie Millender\nFred Wynn\nRobert Sneed\nDonald Primus\nTommy Wallace\nCharles McKay\nRaymond Woods",
+		"BibliographyPublication": "Pittsburgh Courier",
+		"BibliographyPage": "27",
+		"BibliographyCutline": "Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.",
+		"BibliographyDate": "May 30, 1953",
+		"CatKeywords_tab": "baseball\nteam\nKennard Field\nTerrace Village"
 	},
 	"suggestions": {
 		"TitAlternateTitles_tab": [
 			{
-				"data": "Pittsburgh Lions Little League baseball team in background",
-				"status": "suggested"
+				"data": "Pittsburgh Lions Little League baseball team ",
+				"status": "accepted"
 			},
 			{
 				"data": "Other new title",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Another new title",
 				"status": "suggested"
 			}
 		],
-		"People_NEEDSLABEL": [
+		"People_tab": [
 			{
 				"data": "Robert Dalley",
 				"title": "",
@@ -209,11 +218,11 @@
 		"CatSubject_tab": [
 			{
 				"data": "Boys--Pennsylvania--Pittsburgh.",
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Boys",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Boys, Aboriginal Australian",
@@ -227,16 +236,16 @@
 			},
 			{
 				"data": "Baseball--Pennsylvania--Pittsburgh.",
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Baseball",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Baseball fields",
 				"link": "http://id.loc.gov/authorities/subjects/sh85012039",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Relief pitchers (Baseball)",
@@ -245,11 +254,11 @@
 			},
 			{
 				"data": "Baseball players--Pennsylvania--Pittsburgh.",
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Baseball players",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "African American baseball players",
@@ -263,11 +272,11 @@
 			},
 			{
 				"data": "Athletes--Pennsylvania--Pittsburgh.",
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Athletes",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Athletes, Aboriginal Australian",
@@ -331,11 +340,11 @@
 		"CreDistrict_tab": [
 			{
 				"data": "Allegheny county",
-				"status": "accepted"
+				"status": "suggested"
 			},
 			{
 				"data": "Allegheny County",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "Allegheny County",
@@ -364,38 +373,38 @@
 				"status": "suggested"
 			}
 		],
-		"BibliographyPublication_NEEDSLABEL": [
+		"BibliographyPublication": [
 			{
 				"data": "Pittsburgh Courier",
 				"status": "accepted"
 			}
 		],
-		"BibliographyPage_NEEDSLABEL": [
+		"BibliographyPage": [
 			{
 				"data": "27",
 				"status": "accepted"
 			}
 		],
-		"BibliographyCutline_NEEDSLABEL": [
+		"BibliographyCutline": [
 			{
 				"data": "Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.",
 				"status": "accepted"
 			}
 		],
-		"BibliographyDate_NEEDSLABEL": [
+		"BibliographyDate": [
 			{
-				"data": "Pittsburgh Courier",
+				"data": "May 30, 1953",
 				"status": "accepted"
 			}
 		],
 		"CatKeywords_tab": [
 			{
 				"data": "baseball",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "team",
-				"status": "suggested"
+				"status": "accepted"
 			},
 			{
 				"data": "kneeling",
@@ -434,27 +443,27 @@
 				"status": "suggested"
 			},
 			{
-				"data": "Kennard Field Pittsburgh, Pa.",
-				"status": "suggested"
+				"data": "Kennard Field",
+				"status": "accepted"
 			},
 			{
-				"data": "Terrace Village Pittsburgh, Pa.",
-				"status": "suggested"
+				"data": "Terrace Village",
+				"status": "accepted"
 			}
 		]
 	},
 	"inReview": {
-		"TitAlternateTitles_tab": 1,
-		"People_NEEDSLABEL": 1,
-		"CatSubject_tab": 1,
-		"CreCountry_tab": 1,
-		"CreState_tab": 1,
-		"CreDistrict_tab": 1,
-		"CreCity_tab": 1,
-		"BibliographyPublication_NEEDSLABEL": 1,
-		"BibliographyPage_NEEDSLABEL": 1,
-		"BibliographyCutline_NEEDSLABEL": 1,
-		"BibliographyDate_NEEDSLABEL": 1,
-		"CatKeywords_tab": 1
+		"TitAlternateTitles_tab": 0,
+		"People_tab": 0,
+		"CatSubject_tab": 0,
+		"CreCountry_tab": 0,
+		"CreState_tab": 0,
+		"CreDistrict_tab": 0,
+		"CreCity_tab": 0,
+		"BibliographyPublication": 0,
+		"BibliographyPage": 0,
+		"BibliographyCutline": 0,
+		"BibliographyDate": 0,
+		"CatKeywords_tab": 0
 	}
 }

@@ -12,13 +12,35 @@ const cheerio = require('cheerio')
 var catalog = {};
 
 
+//////////////////// SETUP //////////////////
+
+app.use(bodyParser.urlencoded({
+  extended: true,
+}));
+app.use(bodyParser.json());
+
+
+app.use(express.static(__dirname + '/public'));
+
+app.get('/',function(req,res){
+    res.sendFile(path.join(__dirname+'/public/review.html'));
+});
+
+app.get('/catalog',function(req,res){
+    res.sendFile(path.join(__dirname+'/public/catalog.html'));
+});
+
+app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+
+
+//////////////////// INIT //////////////////
+
 function init() {
 	createMissingEntryFiles();
 	catalog = readAllEntries();
 }
-
 init();
-console.log(catalog)
+
 
 function createMissingEntryFiles() {
 	var emudata = fs.readFileSync(__dirname+"/data/ecatalog.csv", 'utf8');
@@ -34,13 +56,14 @@ function createMissingEntryFiles() {
 					photoData["emuInput"] = data[i];
 					fs.writeFileSync(entryPath, JSON.stringify(photoData, null, '\t'), 'utf8'); 
 				} else {
-					console.log("File already exists: " + entryPath);
+					// console.log("File already exists: " + entryPath);
 				}
 	    	}
 	    },
 	    error: function(err) { console.log("ERROR parsing CSV: " + err); }
 	});
 }
+
 
 function readAllEntries() {
 	var result = {};
@@ -60,59 +83,44 @@ function readAllEntries() {
 }
 
 
-app.use(bodyParser.urlencoded({
-  extended: true,
-}));
-app.use(bodyParser.json());
+//////////////////// ROUTES //////////////////
 
-
-app.use(express.static(__dirname + '/public'));
-
-app.get('/',function(req,res){
-    res.sendFile(path.join(__dirname+'/public/review.html'));
-});
-
-app.get('/catalog',function(req,res){
-    res.sendFile(path.join(__dirname+'/public/catalog.html'));
-});
-
-// Keep for dynamic updating of catalog if new csv is uploaded
-// // Reads data from an EMU .csv, sends to client as javascript object
-// app.all('/createcatalog', function(req, res){
-//     var emudata = fs.readFileSync(__dirname+"/data/ecatalog.csv", 'utf8');
-//     Papa.parse(emudata, {
-// 	    complete: function(csv) {
-// 	    	var catalogIndex = {};
-// 	    	var data = utils.CSVToObject(csv);
-// 	    	for (i in data) {
-// 	    		var entryPath = __dirname + "/output/catalog/" + data[i]["irn"] + ".json";
-// 				if (!fs.existsSync(entryPath)) {
-// 					fs.writeFileSync(entryPath, JSON.stringify(data[i], null, '\t'), 'utf8'); 
-// 				} else {
-// 					console.log("File already exists: " + entryPath);
-// 				}
-// 	    	}
-// 	    	res.sendFile(path.join(__dirname+'/public/catalog.html'));
-// 	    },
-// 	    error: function(err) { res.send("ERROR parsing CSV: " + err); }
-// 	});
-// });
-
-// Saves archivist selections and edits to .json
 app.all('/loadphoto', function(req, res){
+	// returns latest photo data for requested irn
 	var irn = req.query.irn;
 	var photoData = catalog[irn];
 	res.send(photoData);
 });
 
-// Saves archivist selections and edits to .json
+
 app.all('/catalogsize', function(req, res){
+	// returns catalog size
 	var size = Object.keys(catalog).length;
 	res.send("" + size);
 });
 
-// Saves archivist selections and edits to .json
+
+app.all('/nextphoto', function(req, res){
+	// returns the irn of the next photo in catalog
+	var irn = req.query.irn + "";
+	var irns = Object.keys(catalog);
+
+	var currentIndex = irns.indexOf(irn);
+	console.log(irn);
+	console.log(irns);
+	console.log(currentIndex)
+	if (currentIndex !== -1 && currentIndex + 1 < irns.length) {
+		var nextIndex = currentIndex + 1;
+		var nextIrn = irns[nextIndex];
+		res.send("" + nextIrn);
+	}
+	res.sendStatus(500);
+});
+
+
 app.all('/getentries', function(req, res){
+	// returns an array of requested length, 
+	// containing photo entries starting at requested index of catalog
 	var length = parseInt(req.query.length);
 	var index = parseInt(req.query.index);
 	var result = [];
@@ -126,8 +134,8 @@ app.all('/getentries', function(req, res){
 });
 
 
-// Saves archivist selections and edits to .json
 app.all('/savephoto', function(req, res){
+	// Saves archivist selections and edits to .json for requested irn
 	var irn = req.body["irn"];
 	var entryPath = __dirname + "/output/catalog/" + irn + ".json"
 	var data = JSON.stringify(req.body, null, '\t');
@@ -135,76 +143,44 @@ app.all('/savephoto', function(req, res){
 		fs.writeFileSync(entryPath, data, 'utf8'); 
 		var entry = JSON.parse(fs.readFileSync(entryPath));
 		catalog[entry['irn']] = entry;
+		res.send("Success!");
 	} catch (e) {
 		console.log('ERROR SAVING JSON FILE (' + entryPath + '): ' + e);
 	}
 });
 
-// Recieves javascript object from client, and writes to output .csv file
-app.all('/exportemudata', function(req, res){
-	fs.writeFile("output/ecatalog.json", JSON.stringify(req.body, null, '\t'), 'utf8', function(err) {
-		if (err) { res.send("ERROR writing to JSON file, will not write CSV"); }
-		else { 
-			fs.writeFile("output/ecatalog.csv", utils.objectToCSV(req.body), 'utf8', function(err) {
-				if (err) { res.send("SUCCESS writing to JSON file, ERROR writing to CSV file"); }
-				else { res.send("SUCCESS writing to JSON file, SUCCESS writing to CSV file"); }
-			}); 
+
+app.all('/exportcatalog', function(req, res){
+	fs.writeFile(__dirname + "/output/ecatalog.csv", utils.catalogToCSV(catalog), 'utf8', function(err) {
+		if (err) { res.send("ERROR writing to CSV file"); }
+		else {
+			res.download(__dirname + "/output/ecatalog.csv", 'ecatalog.csv');
 		}
 	}); 
 });
 
-// Saves archivist selections and edits to .json
-app.all('/generatephoto', function(req, res){
 
-	var emuOutputFields = [
-		"irn",
-		"TitAccessionNo",
-		"CreDateCreated",
-		"CreEarliestDate",
-		"CreLatestDate",
-		"PhyMediumComments",
-		"TitMainTitle",
-		"TitAlternateTitles_tab",
-		// "TitAlternateTypes_tab",
-		"CatDescriptText",
-		"CatSubject_tab",
-		"CatKeywords_tab",
-		"CreCountry_tab",
-		"CreState_tab",
-		"CreDistrict_tab",
-		"CreCity_tab",
-		// "CrePlaceQualifier_tab",
-		"People_NEEDSLABEL",
-		"BibliographyPublication_NEEDSLABEL",
-		"BibliographyPage_NEEDSLABEL",
-		"BibliographyDate_NEEDSLABEL",
-		"BibliographyCutline_NEEDSLABEL"
-	]
+app.all('/generatephoto', function(req, res){
 
 	var irn = req.query.irn;
 	var photoData = catalog[irn];
-	
 	var generatedPhotoData = {};
 	generatedPhotoData["irn"] = photoData["irn"];
 	generatedPhotoData["emuInput"] = photoData["emuInput"];
-	generatedPhotoData["emuOutput"] = {};
-	for (var i=0; i<emuOutputFields.length; i++) {
-		var field = emuOutputFields[i];
-		var data = photoData["emuInput"][field];
-		data !== undefined ? generatedPhotoData["emuOutput"][field] = data : generatedPhotoData["emuOutput"][field] = "";
-	}
+	generatedPhotoData["emuOutput"] = photoData["emuInput"];
 
 	generateSuggestions(photoData["emuInput"]).then(function(suggestions){
 
-		var emuField;
 		var { 
-			titleSuggestions, 
-			peopleSuggestions, 
-			subjectSuggestions,
-			locationSuggestions,
-			bibliographySuggestions,
-			keywordSuggestions
+				titleSuggestions, 
+				peopleSuggestions, 
+				subjectSuggestions,
+				locationSuggestions,
+				bibliographySuggestions,
+				keywordSuggestions
 		} = suggestions;
+
+		var emuField;
 
 		generatedPhotoData["suggestions"] = {};
 		generatedPhotoData["inReview"] = {};
@@ -212,55 +188,75 @@ app.all('/generatephoto', function(req, res){
 		emuField = "TitAlternateTitles_tab";
 		generatedPhotoData["suggestions"][emuField] = Object.values(titleSuggestions);
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
-		emuField = "People_NEEDSLABEL";
-		generatedPhotoData["suggestions"][emuField]  = Object.values(peopleSuggestions);
+		emuField = "People_tab";
+		generatedPhotoData["suggestions"][emuField] = Object.values(peopleSuggestions);
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
+
 
 		emuField = "CatSubject_tab";
 		generatedPhotoData["suggestions"][emuField]  = subjectSuggestions;
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
+
 
 		emuField = "CreCountry_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreCountry_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
+	
 
 		emuField = "CreState_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreState_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
+		
 
 		emuField = "CreDistrict_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreDistrict_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
 		emuField = "CreCity_tab";
 		generatedPhotoData["suggestions"][emuField]  = locationSuggestions["CreCity_tab"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
-		emuField = "BibliographyPublication_NEEDSLABEL";
+
+		emuField = "BibliographyPublication";
 		generatedPhotoData["suggestions"][emuField]  = bibliographySuggestions["publication"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
-		emuField = "BibliographyPage_NEEDSLABEL";
+		emuField = "BibliographyPage";
 		generatedPhotoData["suggestions"][emuField]  = bibliographySuggestions["page"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
-		emuField = "BibliographyCutline_NEEDSLABEL";
+		emuField = "BibliographyCutline";
 		generatedPhotoData["suggestions"][emuField]  = bibliographySuggestions["cutline"];
 		generatedPhotoData["inReview"][emuField] = 1;
-
-		emuField = "BibliographyDate_NEEDSLABEL";
-		generatedPhotoData["suggestions"][emuField]  = bibliographySuggestions["publication"];
+		generatedPhotoData["emuOutput"][emuField] = "";
+		
+		emuField = "BibliographyDate";
+		generatedPhotoData["suggestions"][emuField]  = bibliographySuggestions["date"];
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
+
 
 		emuField = "CatKeywords_tab";
 		generatedPhotoData["suggestions"][emuField]  = keywordSuggestions;
 		generatedPhotoData["inReview"][emuField] = 1;
+		generatedPhotoData["emuOutput"][emuField] = "";
 
 		res.send(JSON.stringify(generatedPhotoData));
 	});
 });
 
+
+//////////////////// ALGORITHMS FOR SUGGESTIONS //////////////////
 
 async function generateSuggestions(photo) {
 	var titleSuggestions = await shortenTitle(photo["TitMainTitle"]);
@@ -589,5 +585,3 @@ function generateKeywords(title, description, placeList) {
 }
 
 
-
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))

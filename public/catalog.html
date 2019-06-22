@@ -25,23 +25,21 @@
 	<body>
 
 		<!-- Title Bar -->
-		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header" id="catalog">
 		  <header class="mdl-layout__header">
 		    <div class="mdl-layout__header-row">
 		      <span class="mdl-layout-title">Catalog</span>
 		       <div class="mdl-layout-spacer"></div>
 	      <!-- Save photo to catalog -->
-				<button v-on:click="save()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> Export </button>
+				<button v-on:click="exportCatalog()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> Export </button>
 		    </div>
 		  </header>
 
 		  <!-- Directory Content -->
 		  <main class="mdl-layout__content">
-		    <div class="page-content" id="catalog">
-
+		    <div class="page-content">
 		    		<div id="catalogCard" class="mdl-card mdl-shadow--2dp mdl-cell--1-offset-desktop mdl-cell--10-col-desktop mdl-cell--2-col-tablet mdl-cell--2-col-phone">
 					  <div class="mdl-card__supporting-text">
-					    	
 					  	<table class="mdl-data-table mdl-js-data-table">
 						  <thead>
 						    <tr>
@@ -60,7 +58,12 @@
 						  		<td class="mdl-data-table__cell--non-numeric">{{ photo.accession }}</td>
 						  		<!-- Title -->
 						  		<td class="mdl-data-table__cell--non-numeric">{{ photo.title }}</td>
-						  		<!-- Edit Button -->
+			    				<!-- Flag -->
+						      <td>
+							    	<a v-if="photo.flagged" class="icon material-icons flagIcon">flag</a>
+						        <i v-if="!photo.flagged" class="material-icons flagIcon">check</i>
+						      </td>
+						      <!-- Edit Button -->
 						      <td class="mdl-data-table__cell--non-numeric">
 						      	<a v-bind:href="'/#'+photo.irn+''">
 											<button class="directoryEditButton mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
@@ -68,11 +71,6 @@
 											</button>
 						        </a>
 			    				</td>
-			    				<!-- Flag -->
-						      <td>
-							    	<a v-if="photo.flagged" class="icon material-icons flagIcon">flag</a>
-						        <i v-if="!photo.flagged" class="material-icons flagIcon">check</i>
-						      </td>
 						    </tr>
 						  </tbody>
 						</table>
@@ -103,6 +101,7 @@
 		    		</span>
 		    	</div>
 		  </main>
+		</div>
 
 	</body>
 
