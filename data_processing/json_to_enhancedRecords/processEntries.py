@@ -186,7 +186,7 @@ def arbitratePlaces(places):
 def getAddressFromPlace(place):
     result = []
 
-    googleMapsApiKey = 'AIzaSyCVx8lSSE73bw565GnKpAd9QGcS5B0TVxU';
+    googleMapsApiKey = 'PUT YOUR API KEY HERE';
 
     url =  ('https://maps.googleapis.com/maps/api/geocode/json?address={}&key='+googleMapsApiKey).format(place+' near Pittsburgh')
     headers = {'User-Agent': 'request'}
