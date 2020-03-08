@@ -87,7 +87,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 | Running      | `python makeRelatedMap.py`|
 | Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       | Records in `data_processing/json_to_enhancedRecords/output/jsonRecords` |
-| Outputs      |  [`relatedMap.json`]() - a dictionary that maps a keyword to a list of records (by IRN) containing that keyword |
+| Outputs      |  [`relatedMap.json`](https://github.com/cmoa/teenie-harris-data-tool/blob/master/data_processing/enhancedRecords_to_relatedMap/output/relatedMap.json) - a dictionary that maps a keyword to a list of records (by IRN) containing that keyword |
 
 ## Review Tool
 
