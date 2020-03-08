@@ -1,6 +1,9 @@
 # Teenie Harris Data Tool
 
-Builds off the TeenieWeek of Play to use automation and machine learning techniques to improve the Teenie Harris metadata. Refinement of code created during the initial week of experimentation, so that it can be applied to a large portion of the Teenie Archive and imported into EMu.
+
+
+
+The scripts in this repo automation and machine learning techniques to improve the Teenie Harris metadata. Refinement of code created during the initial week of experimentation, so that it can be applied to a large portion of the Teenie Archive and imported into EMu.
 
 ### Installing
 ```npm i```
@@ -53,4 +56,29 @@ run `node --max-old-space-size=8192 app.js`
 ```
 
 ### convert_emuCsv_to_json
+
+## Open Source
+
+We're open sourcing the *code* in this repo, feel free to reuse, remix, rethink the coded React application. The Teenie Harris photographs are property of the Carnegie Museum of Art, and are not open source.
+
+## Collections As Data
+
+Funding for the development of this application was provided by [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/)
+
+#### Team
+Ed Motznik, Senior Administrator <br/>
+Dominique Luster, Project Lead <br/>
+Charlene Foggie-Barnett, Disciplinary Scholar <br/>
+[Sam Ticknor](https://samt.work), Creative Technologist <br/>
+
+#### Additional Thanks 
+[Frank-Ratchye STUDIO for Creative Inquiry](https://github.com/CreativeInquiry) <br/>
+Caroline Record <br/>
+[Carney](https://carney.co/) <br />
+
+
+## Learn More
+* To learn more about Teenie Harris and Carnegie Museum of Art, visit [https://cmoa.org/art/teenie-harris-archive/](https://cmoa.org/art/teenie-harris-archive/)
+* You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+* To learn React, check out the [React documentation](https://reactjs.org/)
 
