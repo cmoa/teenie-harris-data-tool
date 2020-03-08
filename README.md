@@ -299,7 +299,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 }
 ```
 
-### 3. Converting Enhanced Records to Related Map
+### 3. Generating a Related Map from Enhanced Records
 
 | `data_processing/enhancedRecords_to_relatedMap` |  |
 |--------------|---------------------------|
@@ -313,6 +313,12 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 `tool` contains an electron app prototype that was developed in order to assist archivists in reviewing the computed data.
 * `npm i`
 * `npm run`
+
+
+
+fjadskfjlsaf
+sdjfkla'sdf
+asdfklj
 
 ## Open Source
 
