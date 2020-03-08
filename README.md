@@ -4,7 +4,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 ## Data Processing
 
-`data_processing` contains a number of scripts that were used to work with the data. Each script is in its own folder with its own inputs / outputs. Because the archive is so large, you will see that we've added `--max-old-space-size=8192` to each node command in order to increase the memory to 8GB for each process. 
+`data_processing` contains a number of scripts that were used to work with the data. Each script is in its own folder with its own inputs / outputs.
 
 ### 1. Converting EMu CSV to JSON
 
