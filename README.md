@@ -310,15 +310,16 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 ## Review Tool
 
-`tool` contains an electron app prototype that was developed in order to assist archivists in reviewing the computed data.
-* `npm i`
-* `npm run`
+Witness in the above enhanced record sample, that the computed data is not 100% reliable. Before integrating the new data into EMu, the collection management system, the data must be reviewed. `tool` contains an electron app prototype that was developed in order to assist archivists in efficiently reviewing the computed data.
 
+PICTURE OF INTERFACE
 
-
-fjadskfjlsaf
-sdjfkla'sdf
-asdfklj
+| `data_processing/tool` |  |
+|--------------|---------------------------|
+| Installation | `npm i` |
+| Running      | `npm run-script start`|
+| Inputs       | Enhanced `.json` records |
+| Outputs      | A `.csv` that can be uploaded to EMu |
 
 ## Open Source
 
