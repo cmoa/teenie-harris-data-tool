@@ -10,7 +10,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 | `data_processing/emuCsv_to_json` |  |
 |--------------|---------------------------|
-| Installation | `npm i`                   |
+| Installation | From the `data_processing` directory, `npm i` |
 | Running      | `node --max-old-space-size=8192 convert.js`|
 | Inputs       | sdfsd and jsdflsdf files  |
 | Outputs      |                           |
@@ -19,7 +19,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 | `data_processing/json_to_enhancedRecords` |  |
 |--------------|---------------------------|
-| Installation |                  |
+| Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, `conda env create -f environment.yml`|
 | Running      | `python processEntries.py`|
 | Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       |   |
