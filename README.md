@@ -1,6 +1,6 @@
 # Teenie Harris Data Tool
 
-Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Natural langauge processing, computer vision, web scraping, and geocoding were implemented in order to improve the Teenie Harris Archive metadata. 
+Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Natural langauge processing, computer vision, web scraping, and geocoding were implemented in order to improve the Teenie Harris Archive metadata. An electron app prototype was developed in order to assist archivists in reviewing the computed data.
 
 ## Data Processing
 
@@ -12,14 +12,14 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 |--------------|---------------------------|
 | Installation | From the `data_processing` directory, `npm i` |
 | Running      | `node --max-old-space-size=8192 convert.js`|
-| Inputs       | sdfsd and jsdflsdf files  |
+| Inputs       | |
 | Outputs      |                           |
 
 #### 2. Converting JSON to Enhanced Records
 
 | `data_processing/json_to_enhancedRecords` |  |
 |--------------|---------------------------|
-| Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, `conda env create -f environment.yml`|
+| Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, <br>`conda env create -f environment.yml`|
 | Running      | `python processEntries.py`|
 | Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       |   |
@@ -30,9 +30,9 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 #### 4. Converting Enhanced Records to Related Map
 
 
-## Tool
+## Review Tool
 
-`tool` contains an electron application designed to aid archivists in reviewing the computed suggestions. 
+`tool` contains an electron app prototype that was developed in order to assist archivists in reviewing the computed data.
 
 #### Installing
 ```npm i```
