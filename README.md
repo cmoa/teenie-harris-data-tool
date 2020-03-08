@@ -47,6 +47,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 | `data_processing/json_to_enhancedRecords` |  |
 |--------------|---------------------------|
 | Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, <br>`conda env create -f environment.yml`|
+| Config | You will need a [Google Geocoding API Key](https://developers.google.com/maps/documentation/geocoding/start?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_315916117595-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+Google+Maps+Geocoding+API-KWID_43700039136946117-kwd-300650646186-userloc_9067609&utm_term=KW_google%20geocoding%20api-ST_google+geocoding+api&gclid=CjwKCAiAzJLzBRAZEiwAmZb0avP8bLbchaTwUPNsunOAl2yto6T1_nM9aD9In0rdtgPEq-Xo4HxiDRoC3-gQAvD_BwE) in order to generate location data <br> Include it [here](https://github.com/cmoa/teenie-harris-data-tool/blob/49c908d7ab3e1ba552980e80aa16aa3b20913809/data_processing/json_to_enhancedRecords/processEntries.py#L189)|
 | Running      | `python processEntries.py`|
 | Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       | Records in `data_processing/emuCsv_to_json/output/jsonRecords` <br> Processed data from the [Teenie Harris Project](https://github.com/CreativeInquiry/TeenieHarrisProject) (included in this repo)  |
@@ -298,7 +299,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 }
 ```
 
-### 3. Converting Enhanced Records to Related Map
+### 3. Generating a Related Map from Enhanced Records
 
 | `data_processing/enhancedRecords_to_relatedMap` |  |
 |--------------|---------------------------|
@@ -309,9 +310,16 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 ## Review Tool
 
-`tool` contains an electron app prototype that was developed in order to assist archivists in reviewing the computed data.
-* `npm i`
-* `npm run`
+Witness in the above enhanced record sample, that the computed data is not 100% reliable. Before integrating the new data into EMu, the collection management system, the data must be reviewed. `tool` contains an electron app prototype that was developed in order to assist archivists in efficiently reviewing the computed data.
+
+PICTURE OF INTERFACE
+
+| `data_processing/tool` |  |
+|--------------|---------------------------|
+| Installation | `npm i` |
+| Running      | `npm run-script start`|
+| Inputs       | Enhanced `.json` records |
+| Outputs      | A `.csv` that can be uploaded to EMu |
 
 ## Open Source
 
