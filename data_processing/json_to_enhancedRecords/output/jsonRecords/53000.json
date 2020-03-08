@@ -1,0 +1,131 @@
+{
+    "objectID": 53000,
+    "irn": 53000,
+    "ecatalogue_key": 39726,
+    "TitAccessionNo": "2001.35.39767",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored shirt with top button undone, and striped double breasted jacket with upturned lapel, seated on bench in front of light colored background in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Benches--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "74e08432-2ed7-48d4-84eb-e33aa37f2a5d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60602,
+    "MulMultiMediaRef_key": 39734,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60602/sizes/53000-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [
+        "Harris Studio"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Benches",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48733250216064466
+        },
+        {
+            "keyword": "person",
+            "score": 0.48657673700764964
+        },
+        {
+            "keyword": "male",
+            "score": 0.43360508232014966
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.4147115417814127
+        },
+        {
+            "keyword": "standing",
+            "score": 0.340299427327067
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Benches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30066196666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2848017
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2837195
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27800926666666664
+        },
+        {
+            "keyword": "human",
+            "score": 0.274831104763794
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25369374277445467
+        },
+        {
+            "keyword": "forehead",
+            "score": 0.2421594
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23697426666666666
+        }
+    ]
+}

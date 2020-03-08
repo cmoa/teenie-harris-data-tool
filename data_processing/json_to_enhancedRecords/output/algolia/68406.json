@@ -1,0 +1,90 @@
+{
+  "objectID": 68406,
+  "irn": 68406,
+  "ecatalogue_key": 54180,
+  "TitAccessionNo": "2001.35.54223",
+  "CreDateCreated": "c. 1961",
+  "CreEarliestDate": "1958",
+  "CreLatestDate": "1964",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of man in military uniform standing in narrow hallway, possibly military vessel",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "013a96db-9c6c-47d1-8d28-7f2a2bbc4f22",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80505/sizes/68406-1680.jpg",
+  "datetime": "1958-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "KODAK SAFETY FILM\n",
+  "subjects": [
+    "Clothing and dress",
+    "Military uniforms",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Clothing and dress",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Military uniforms",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31068291333333337
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27952251666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27769906666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24291795333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80505/sizes/68406-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80505/sizes/68406-210.jpg",
+  "date_timestamp_earliest": -378691200.0,
+  "date_timestamp_latest": -189388800.0,
+  "decades": []
+}

@@ -1,0 +1,202 @@
+{
+  "objectID": 19500,
+  "irn": 19500,
+  "ecatalogue_key": 10203,
+  "TitAccessionNo": "2001.35.10229",
+  "CreDateCreated": "August 1963",
+  "CreEarliestDate": "1963-08-01",
+  "CreLatestDate": "1963-08-31",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 3, 1963, pg. 1, reads: \"Will Demonstrations Be Staged Here? - Members of Pittsburgh's newly formed Unity Committee have selected several targets around Pittsburgh as sites of possible mass demonstrations. Four of them are shown here.  Left to right: Equitable Gas Co. on the Boulevard of the Allies... - Harris Photos",
+  "TitMainTitle": "Equitable Gas Company building, 420 Boulevard of the Allies, Downtown",
+  "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Boulevard of the Allies (Pittsburgh, Pa.)Downtown (Pittsburgh, Pa.)Architecture--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "d845a01b-ed03-4d56-8f0c-60eb73100f2a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26634/sizes/19500-1680.jpg",
+  "datetime": "1963-08-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Fort Duquesne Boulevard",
+      "short_name": "Fort Duquesne Blvd"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Boulevard of the Allies",
+      "short_name": "Boulevard of the Allies"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "422\n420\n420\n",
+  "subjects": [
+    "Buildings",
+    "Pittsburgh courier",
+    "Architecture"
+  ],
+  "keywords": [
+    {
+      "keyword": "building",
+      "score": 0.557314705366211
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.49372082080810537
+    },
+    {
+      "keyword": "city",
+      "score": 0.4281509818522136
+    },
+    {
+      "keyword": "street",
+      "score": 0.37080882478230803
+    },
+    {
+      "keyword": "town",
+      "score": 0.363093943001302
+    },
+    {
+      "keyword": "landmark",
+      "score": 0.3551325265360514
+    },
+    {
+      "keyword": "facade",
+      "score": 0.35205587859293636
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Boulevard of the Allies ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Downtown ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Unity Committee",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "August 3, 1963",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Will Demonstrations Be Staged",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Architecture",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "420 Boulevard",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Equitable Gas Co.",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Boulevard of the Allies...",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Equitable Gas Company",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "window",
+      "score": 0.31865099048461903
+    },
+    {
+      "keyword": "downtown",
+      "score": 0.31754855894795736
+    },
+    {
+      "keyword": "metropolitan area",
+      "score": 0.3144399
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3103778166666667
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.30636769999999997
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.3014482
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.29830634666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29168411
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2519291433333333
+    },
+    {
+      "keyword": "neighbourhood",
+      "score": 0.25131639
+    },
+    {
+      "keyword": "road",
+      "score": 0.24097481427205403
+    },
+    {
+      "keyword": "house",
+      "score": 0.2405706751489257
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26634/sizes/19500-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26634/sizes/19500-210.jpg",
+  "date_timestamp_earliest": -202608000.0,
+  "date_timestamp_latest": -200016000.0,
+  "decades": [
+    "1960s"
+  ]
+}

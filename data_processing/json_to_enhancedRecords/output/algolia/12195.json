@@ -1,0 +1,176 @@
+{
+  "objectID": 12195,
+  "irn": 12195,
+  "ecatalogue_key": 6052,
+  "TitAccessionNo": "2001.35.6062",
+  "CreDateCreated": "c. 1949",
+  "CreEarliestDate": "1944",
+  "CreLatestDate": "1954",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Eleanor Street with clapboard-sided row houses and municipal stairs, South Side",
+  "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "b0ed9459-8fe6-4e00-90aa-121e16ecee4a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22475/sizes/12195-1680.jpg",
+  "datetime": "1944-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "South Side Flats",
+      "short_name": "South Side Flats"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Eleanor Street",
+      "short_name": "Eleanor St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Children",
+    "Men",
+    "Stairs",
+    "Streets"
+  ],
+  "keywords": [
+    {
+      "keyword": "street",
+      "score": 0.360630110398356
+    },
+    {
+      "keyword": "road",
+      "score": 0.35843261847127267
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Eleanor Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "South Side",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Stairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Houses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "alley",
+      "score": 0.32156445666666666
+    },
+    {
+      "keyword": "wall",
+      "score": 0.31564291591796867
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31395952
+    },
+    {
+      "keyword": "town",
+      "score": 0.310341509132894
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.29971428666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2977828
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.2933264
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2749125333333333
+    },
+    {
+      "keyword": "lane",
+      "score": 0.2726787533333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25138066666666664
+    },
+    {
+      "keyword": "sky",
+      "score": 0.24319981511535635
+    },
+    {
+      "keyword": "road surface",
+      "score": 0.23206176666666667
+    },
+    {
+      "keyword": "house",
+      "score": 0.22813768397216802
+    },
+    {
+      "keyword": "city",
+      "score": 0.22707444821695968
+    },
+    {
+      "keyword": "sidewalk",
+      "score": 0.21162190342122397
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22475/sizes/12195-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22475/sizes/12195-210.jpg",
+  "date_timestamp_earliest": -820540800.0,
+  "date_timestamp_latest": -504921600.0,
+  "decades": []
+}

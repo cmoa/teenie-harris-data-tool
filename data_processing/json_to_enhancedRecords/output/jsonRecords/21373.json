@@ -1,0 +1,113 @@
+{
+    "objectID": 21373,
+    "irn": 21373,
+    "ecatalogue_key": 12090,
+    "TitAccessionNo": "2001.35.12120",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young men and women standing on steps of St. James A.M.E. church, women wearing similar light colored short dresses",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.St. James African Methodist Episcopal Church (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39a3addd-2326-409b-94a8-478487994533",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28040,
+    "MulMultiMediaRef_key": 12098,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28040/sizes/21373-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "St. James A.M.E.",
+            "short_name": "St. James A.M.E."
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Women",
+            "short_name": "Pa.)Women"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "KODAK SAFETY FILM\n4\n",
+    "subjects": [
+        "Women",
+        "Church buildings",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "St",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": " James African Methodist Episcopal Church ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3071511333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2852710666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2803174
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25150638666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23265276666666668
+        },
+        {
+            "keyword": "brass",
+            "score": 0.22036346435546864
+        }
+    ]
+}

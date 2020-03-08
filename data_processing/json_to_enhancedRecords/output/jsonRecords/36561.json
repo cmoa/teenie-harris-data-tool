@@ -1,0 +1,107 @@
+{
+    "objectID": 36561,
+    "irn": 36561,
+    "ecatalogue_key": 24188,
+    "TitAccessionNo": "2001.35.24219",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing double breasted suit, possibly judge, standing in office, in front of wooden table and two windows, with Kaufmann's billboard visible in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Judges--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "441b9fdf-9585-46c3-b954-02fe94f30293",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42768,
+    "MulMultiMediaRef_key": 24196,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42768/sizes/36561-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [
+        "Kaufmann"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Kaufmann",
+        "Offices",
+        "Portraits",
+        "Men",
+        "Judges"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.334401844644165
+        },
+        {
+            "keyword": "Kaufmann",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Judges",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2867493233333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2686750666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23608686666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.225768028672282
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21252431333333333
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21203603333333332
+        }
+    ]
+}

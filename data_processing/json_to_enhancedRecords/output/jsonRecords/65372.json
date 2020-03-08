@@ -1,0 +1,117 @@
+{
+    "objectID": 65372,
+    "irn": 65372,
+    "ecatalogue_key": 51192,
+    "TitAccessionNo": "2001.35.51235",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing hat with trim on brim, eyeglasses, light colored t-shirt, and belted trousers, standing on hillside with raised street in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "59ef2bf8-3f91-41af-9290-eee146dd9c73",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74935,
+    "MulMultiMediaRef_key": 51200,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74935/sizes/65372-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Hats",
+        "Streets",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4292344103800457
+        },
+        {
+            "keyword": "male",
+            "score": 0.3683326097269693
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3336431051717122
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30735204666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28608443333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2824527333333333
+        },
+        {
+            "keyword": "sky",
+            "score": 0.27857935333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2523789
+        },
+        {
+            "keyword": "human",
+            "score": 0.22848403333333334
+        },
+        {
+            "keyword": "angle",
+            "score": 0.20101581000000002
+        }
+    ]
+}

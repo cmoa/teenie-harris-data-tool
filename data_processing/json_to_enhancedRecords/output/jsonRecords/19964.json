@@ -1,0 +1,100 @@
+{
+    "objectID": 19964,
+    "irn": 19964,
+    "ecatalogue_key": 10985,
+    "TitAccessionNo": "2001.35.11011",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Smiling woman wearing suit and flowers in her hair, playing piano",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Musical instruments--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2734d20c-bb42-4928-ae81-43989a2a9d26",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26849,
+    "MulMultiMediaRef_key": 10993,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26849/sizes/19964-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Musical instruments",
+        "Toy instruments",
+        "Musicians"
+    ],
+    "keywords": [
+        {
+            "keyword": "piano",
+            "score": 0.60763085
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical toy instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.31172778333333334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30276396666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2742888133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27223255333333335
+        },
+        {
+            "keyword": "jazz pianist",
+            "score": 0.27182923333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23271266666666668
+        },
+        {
+            "keyword": "musician",
+            "score": 0.23212270000000002
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "objectID": 25507,
+    "irn": 25507,
+    "ecatalogue_key": 15198,
+    "TitAccessionNo": "2001.35.15228",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, January 5, 1974, pg. 1 reads: \"Muhammad Enterprises - Muhamad [sic] Enterprises located in the Hill District and the Homewood-Brushton area. Minister Robert Hussain, left photo, about to enter the Shabazz Restaurant...(Harris Photo)",
+    "TitMainTitle": "Minister Robert X wearing cap and overcoat standing in front of Shabazz Restaurant and Muhammad Speaks offices, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "19b0f044-7eeb-4303-bd8b-277e44cb866a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31573,
+    "MulMultiMediaRef_key": 15206,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31573/sizes/25507-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Muhammad Enterprises - Muhamad",
+        "Muhammad Speaks",
+        "Robert X",
+        "Robert Hussain"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Homewood",
+            "short_name": "Homewood"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "the Hill District",
+            "short_name": "the Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {
+        "publication": [
+            "New Pittsburgh Courier"
+        ],
+        "date": [
+            "January 5, 1974"
+        ],
+        "page": [
+            "1"
+        ]
+    },
+    "people_count": 1,
+    "google_text_in_image": "RESTAURRNT\nA.J. TOMACARI\nPLUMBING& HEAINE CO\nSTOM KITCHENS\n2\n",
+    "subjects": [
+        "Men",
+        "Restaurants",
+        "Streets",
+        "Storefronts"
+    ],
+    "keywords": [
+        {
+            "keyword": "building",
+            "score": 0.4488101265820313
+        },
+        {
+            "keyword": "street",
+            "score": 0.336159992056071
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Muhammad Enterprises - Muhamad",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "New Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "January 5, 1974",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Robert X",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the Shabazz Restaurant",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Shabazz Restaurant",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "town",
+            "score": 0.31066174021911624
+        },
+        {
+            "keyword": "city",
+            "score": 0.30236383924641935
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29970943333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29817496666666665
+        },
+        {
+            "keyword": "road",
+            "score": 0.27761327021728516
+        },
+        {
+            "keyword": "facade",
+            "score": 0.2744549641052247
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.2729104
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26239675333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2601193
+        },
+        {
+            "keyword": "window",
+            "score": 0.24588525248677565
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23116316666666667
+        }
+    ]
+}

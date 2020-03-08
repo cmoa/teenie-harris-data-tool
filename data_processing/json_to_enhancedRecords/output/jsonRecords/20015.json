@@ -1,0 +1,103 @@
+{
+    "objectID": 20015,
+    "irn": 20015,
+    "ecatalogue_key": 10923,
+    "TitAccessionNo": "2001.35.10949",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Message on chalkboard reads: \"[St]aff meeting...Apr. 7, 4 pm...discussion postponed, Pgh Courier will [t]ake pictures of staff...students at 4:30.\"",
+    "TitMainTitle": "Woman, some wearing uniforms with VNA patches on their sleeves, seated around a long table with boxes, in a room with Mellon bank calendar and chalkboard on walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e2a3a28e-1f67-4303-9cdc-c1ea3821fbdb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26897,
+    "MulMultiMediaRef_key": 10931,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26897/sizes/20015-1680.jpg",
+    "date_timestamp_earliest": -528681600.0,
+    "date_timestamp_latest": -526176000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {
+        "cutline": [
+            "[St]aff meeting...Apr. 7, 4 pm...discussion postponed, Pgh Courier will [t]ake pictures of staff...students at 4:30."
+        ]
+    },
+    "people_count": 13,
+    "google_text_in_image": "MELLON\nPITTSBURG\nes Gpr\n678 91011\n2131415161718\n19 202122232425\n2627282830 ..\nSudents OtH.\n",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.6208362166666667
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.5958878666666667
+        },
+        {
+            "keyword": "table",
+            "score": 0.377435023951823
+        },
+        {
+            "keyword": "Mellon",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "4:30",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "4 pm",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27796823333333337
+        },
+        {
+            "keyword": "institution",
+            "score": 0.24104168
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21012896666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20753676666666665
+        }
+    ]
+}

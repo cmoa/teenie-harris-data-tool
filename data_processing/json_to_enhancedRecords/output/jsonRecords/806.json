@@ -1,0 +1,116 @@
+{
+    "objectID": 806,
+    "irn": 806,
+    "ecatalogue_key": 33,
+    "TitAccessionNo": "2001.35.35",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men's bowling team, including Charles, Tony, Tom, John, and Pat",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bowling alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6c575dbe-c6b1-4f74-b1d1-f5e3c6a3d56b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13544,
+    "MulMultiMediaRef_key": 33,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13544/sizes/806-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Charles",
+        "Pat",
+        "Tony",
+        "Tom",
+        "John"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "HOLIDAY\n",
+    "subjects": [
+        "Charles",
+        "Bowling alleys",
+        "Pat",
+        "Tony",
+        "Tom",
+        "John"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.39260878864949533
+        },
+        {
+            "keyword": "Charles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pat",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tony",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tom",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.3233931903981527
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30182101333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27705036666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27014802
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25973912
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23899856666666666
+        }
+    ]
+}

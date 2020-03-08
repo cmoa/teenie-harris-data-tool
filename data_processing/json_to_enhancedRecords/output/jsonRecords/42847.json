@@ -1,0 +1,88 @@
+{
+    "objectID": 42847,
+    "irn": 42847,
+    "ecatalogue_key": 30159,
+    "TitAccessionNo": "2001.35.30192",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men wearing overcoats, possibly including William \"Woogie\" Harris on right, standing on sidewalk in front of brick house with dark hearse parked in street on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4714f570-ba2f-4511-9023-d8bbdb3444bf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49394,
+    "MulMultiMediaRef_key": 30167,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49394/sizes/42847-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [
+        "William \" Woogie \" Harris"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 17,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3284322120564778
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29686806666666665
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2917691866666667
+        },
+        {
+            "keyword": "street",
+            "score": 0.271815070787557
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2634208333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24035954333333334
+        }
+    ]
+}

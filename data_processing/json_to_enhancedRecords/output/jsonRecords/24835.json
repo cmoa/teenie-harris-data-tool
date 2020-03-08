@@ -1,0 +1,95 @@
+{
+    "objectID": 24835,
+    "irn": 24835,
+    "ecatalogue_key": 14790,
+    "TitAccessionNo": "2001.35.14820",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men wearing military uniforms, with one turning or pushing buttons on machine with instructions on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Military uniforms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Machine shops--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "263f284e-f1a0-4b23-b8d0-471cb0eac786",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31213,
+    "MulMultiMediaRef_key": 14798,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31213/sizes/24835-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Military uniforms",
+        "Men",
+        "Machine shops"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.348648767441813
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Machine shops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30692746666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27582650000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2724667333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24696696666666665
+        },
+        {
+            "keyword": "human",
+            "score": 0.23214235000000003
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20203663333333333
+        }
+    ]
+}

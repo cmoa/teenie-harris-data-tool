@@ -1,0 +1,112 @@
+{
+    "objectID": 23727,
+    "irn": 23727,
+    "ecatalogue_key": 13949,
+    "TitAccessionNo": "2001.35.13979",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of infant seated on chair in front of brick fireplace, in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9ac8f7c5-8e8a-4a93-bc56-a8ec24b8680f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30019,
+    "MulMultiMediaRef_key": 13957,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30019/sizes/23727-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Babies",
+        "Infants",
+        "Portraits",
+        "Fireplaces"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.37459250169881203
+        },
+        {
+            "keyword": "Babies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fireplaces",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "child",
+            "score": 0.33021024586995434
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31397559999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2964751
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2810256466666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2798677666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.27212825761922205
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.26623435375569665
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2626384666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25071076666666664
+        },
+        {
+            "keyword": "infant",
+            "score": 0.20240866666666668
+        }
+    ]
+}

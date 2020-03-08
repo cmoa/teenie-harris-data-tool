@@ -1,0 +1,95 @@
+{
+    "objectID": 44460,
+    "irn": 44460,
+    "ecatalogue_key": 31739,
+    "TitAccessionNo": "2001.35.31774",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman wearing bathing suits standing together, woman wearing boat patterned suit, in log structure",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0914eb86-8050-41f0-806c-b90b995d8cf8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51043,
+    "MulMultiMediaRef_key": 31747,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51043/sizes/44460-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Bathing suits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathing suits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31208698
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3043984
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29596063333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2779386
+        },
+        {
+            "keyword": "human",
+            "score": 0.2753922072688803
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.24601894666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23791946666666666
+        }
+    ]
+}

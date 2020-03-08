@@ -1,0 +1,95 @@
+{
+    "objectID": 48900,
+    "irn": 48900,
+    "ecatalogue_key": 35926,
+    "TitAccessionNo": "2001.35.35965",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Children walking up hillside with dilapidated wooden staircase, with street and row houses in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Landscape--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "74bb4098-7ad5-4b24-94f0-327d76264f79",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55807,
+    "MulMultiMediaRef_key": 35934,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55807/sizes/48900-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Children",
+        "Trees",
+        "Stairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.4078811475439454
+        },
+        {
+            "keyword": "Landscape",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31214334666666665
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.290075994889323
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28749616666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2704747533333333
+        },
+        {
+            "keyword": "swing",
+            "score": 0.25620869954427067
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2509324333333333
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "objectID": 44113,
+    "irn": 44113,
+    "ecatalogue_key": 31428,
+    "TitAccessionNo": "2001.35.31461",
+    "CreDateCreated": "c. 1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men, including Bill Nunn Sr. in center behind table, and woman seated in chairs on stage",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "09c8b367-c92a-4a3f-8a9a-662c1c3959ed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51627,
+    "MulMultiMediaRef_key": 31436,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51627/sizes/44113-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "Bill Nunn Sr ."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28654851666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27221456666666666
+        },
+        {
+            "keyword": "brass",
+            "score": 0.25146359761556
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23839157666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22695231333333332
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20442813333333332
+        }
+    ]
+}

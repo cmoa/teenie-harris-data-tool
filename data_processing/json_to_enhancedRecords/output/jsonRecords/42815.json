@@ -1,0 +1,95 @@
+{
+    "objectID": 42815,
+    "irn": 42815,
+    "ecatalogue_key": 30140,
+    "TitAccessionNo": "2001.35.30173",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Eight men, including four exhuming body from roadside grave, and four men, possibly detectives, standing in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Dead--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7bd3542a-79e0-4a66-b49d-7631d7066f38",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49376,
+    "MulMultiMediaRef_key": 30148,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49376/sizes/42815-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles",
+        "Men",
+        "Dead"
+    ],
+    "keywords": [
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dead",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.32079673008219395
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.30496916141357433
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3019342333333333
+        },
+        {
+            "keyword": "car",
+            "score": 0.27937606666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.268405
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26244376666666663
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.246999879350179
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23267491666666665
+        }
+    ]
+}

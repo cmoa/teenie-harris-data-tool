@@ -1,0 +1,113 @@
+{
+    "objectID": 18688,
+    "irn": 18688,
+    "ecatalogue_key": 9979,
+    "TitAccessionNo": "2001.35.10005",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men paving road, one operating steam roller, with Minute Maid orange juice billboard in background advertising \"Better for Health! More Vitamin C\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Construction--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "94c78136-4ad2-4937-93f8-66f76b844222",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25876,
+    "MulMultiMediaRef_key": 9987,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25876/sizes/18688-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Minute Maid"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "MINU\nBETTER ron HEALTH\nMore ViaminC\nFOR\n",
+    "subjects": [
+        "Men",
+        "Construction",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "vehicle",
+            "score": 0.3622505513106284
+        },
+        {
+            "keyword": "car",
+            "score": 0.34807935153940833
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Construction",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Better for Health!",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.31551716066894536
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.31011106666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30699868999999996
+        },
+        {
+            "keyword": "asphalt",
+            "score": 0.29722086666666664
+        },
+        {
+            "keyword": "mode of transport",
+            "score": 0.2917317166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2732845
+        },
+        {
+            "keyword": "lane",
+            "score": 0.2682616
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2427513
+        },
+        {
+            "keyword": "street",
+            "score": 0.22593406131184898
+        }
+    ]
+}

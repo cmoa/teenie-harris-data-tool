@@ -1,0 +1,105 @@
+{
+    "objectID": 20031,
+    "irn": 20031,
+    "ecatalogue_key": 11009,
+    "TitAccessionNo": "2001.35.11036",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of eight men gathered around Sarah Vaughan, in interior with plant patterned wallpaper or mural",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Vaughan, Sarah, 1924-1990.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0b63b9ee-871e-4a17-b2b8-cd5a588bfd9a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27074,
+    "MulMultiMediaRef_key": 11017,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27074/sizes/20031-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Sarah Vaughan"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Singers",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Sarah Vaughan",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Singers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vaughan, Sarah, 1924-1990",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3158171166666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.275060447066447
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2712227333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26887568
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23729646666666668
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2155142
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20996863333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20640635333333335
+        }
+    ]
+}

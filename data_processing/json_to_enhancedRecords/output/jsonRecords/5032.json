@@ -1,0 +1,117 @@
+{
+    "objectID": 5032,
+    "irn": 5032,
+    "ecatalogue_key": 2978,
+    "TitAccessionNo": "2001.35.2985",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men playing billiards or reading in billiard room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Billiard Parlors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c18833a3-24a7-4e19-8721-a376c8f89b18",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18266,
+    "MulMultiMediaRef_key": 2980,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18266/sizes/5032-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Billiard Parlors",
+            "short_name": "Billiard Parlors"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Billiard parlors",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.376257003260905
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Billiard Parlors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "barbershop",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.3313855403059897
+        },
+        {
+            "keyword": "table",
+            "score": 0.3255862826863607
+        },
+        {
+            "keyword": "shop",
+            "score": 0.319519322713216
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30246571666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.296280235164388
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27725320999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2703911
+        },
+        {
+            "keyword": "chair",
+            "score": 0.2551226806640627
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23251088333333333
+        }
+    ]
+}

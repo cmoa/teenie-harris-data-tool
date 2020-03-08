@@ -1,0 +1,109 @@
+{
+    "objectID": 33902,
+    "irn": 33902,
+    "ecatalogue_key": 21820,
+    "TitAccessionNo": "2001.35.21851",
+    "CreDateCreated": "1966",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man holding cigarette, seated on desk with plants, in interior with wood paneling, clock reading 4:50 and oval shaped mirror on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e445641e-3e08-4003-9250-8d9113c28c8c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40294,
+    "MulMultiMediaRef_key": 21828,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40294/sizes/33902-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Plants",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "4:50",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30877296666666665
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2930915227270507
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.29161974759969067
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28828171550191245
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2847713
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27604065333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27533230000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25084006666666664
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.24350516666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2028791
+        }
+    ]
+}

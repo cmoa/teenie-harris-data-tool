@@ -1,0 +1,125 @@
+{
+    "objectID": 52202,
+    "irn": 52202,
+    "ecatalogue_key": 39078,
+    "TitAccessionNo": "2001.35.39119",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "One and a half story Nature Museum building in Schenley Park, Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1e97d1e9-6229-412d-b36a-308ad95f1213",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59501,
+    "MulMultiMediaRef_key": 39086,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59501/sizes/52202-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Schenley Park",
+            "short_name": "Schenley Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Oakland",
+            "short_name": "Oakland"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.4863592665323893
+        },
+        {
+            "keyword": "home",
+            "score": 0.4254611931518553
+        },
+        {
+            "keyword": "building",
+            "score": 0.41712183786458334
+        },
+        {
+            "keyword": "Nature Museum",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31031548999999997
+        },
+        {
+            "keyword": "tree",
+            "score": 0.3078256510040283
+        },
+        {
+            "keyword": "window",
+            "score": 0.2912096126953127
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2874564333333333
+        },
+        {
+            "keyword": "estate",
+            "score": 0.2792027153584797
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2666298166666667
+        },
+        {
+            "keyword": "history",
+            "score": 0.26197621163838697
+        },
+        {
+            "keyword": "facade",
+            "score": 0.258880549049886
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24672666666666665
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.24299371333333333
+        },
+        {
+            "keyword": "cottage",
+            "score": 0.23443879999999997
+        }
+    ]
+}

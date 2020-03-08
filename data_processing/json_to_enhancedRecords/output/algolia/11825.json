@@ -1,0 +1,193 @@
+{
+  "objectID": 11825,
+  "irn": 11825,
+  "ecatalogue_key": 6013,
+  "TitAccessionNo": "2001.35.6023",
+  "CreDateCreated": "c. 1940-1960",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "View of Fullerton Street from second floor of Washington Club, with laundromat across street, at night, Hill District",
+  "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4e3c7d7e-a37b-4826-bbf4-17308dc56a78",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21980/sizes/11825-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Hill District",
+      "short_name": "Hill District"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Fullerton Street",
+      "short_name": "Fullerton St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Streets",
+    "Sidewalks",
+    "Automobiles"
+  ],
+  "keywords": [
+    {
+      "keyword": "night",
+      "score": 0.7116797526590983
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.3699908917134603
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Automobiles",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hill District",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Sidewalks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Washington Club",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fullerton Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "city",
+      "score": 0.33304005799967434
+    },
+    {
+      "keyword": "light",
+      "score": 0.31536728449707035
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31225906666666664
+    },
+    {
+      "keyword": "sky",
+      "score": 0.310870898737793
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.29403245333333333
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.2921110666666667
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.2900422
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28838644333333335
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.28277601003946945
+    },
+    {
+      "keyword": "atmosphere",
+      "score": 0.27323268
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "reflection",
+      "score": 0.26923843515319823
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26810443333333334
+    },
+    {
+      "keyword": "street",
+      "score": 0.26723482613423666
+    },
+    {
+      "keyword": "phenomenon",
+      "score": 0.2515883
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25153549999999997
+    },
+    {
+      "keyword": "alley",
+      "score": 0.23849606666666667
+    },
+    {
+      "keyword": "evening",
+      "score": 0.23052425537719734
+    },
+    {
+      "keyword": "window",
+      "score": 0.20683374794036866
+    },
+    {
+      "keyword": "bridge",
+      "score": 0.20370552062988267
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21980/sizes/11825-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21980/sizes/11825-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

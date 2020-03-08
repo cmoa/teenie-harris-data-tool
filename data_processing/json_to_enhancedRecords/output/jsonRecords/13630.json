@@ -1,0 +1,101 @@
+{
+    "objectID": 13630,
+    "irn": 13630,
+    "ecatalogue_key": 7186,
+    "TitAccessionNo": "2001.35.7202",
+    "CreDateCreated": "c. 1970-1975",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women and four men inspecting and painting ceramic piggy banks in factory",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Industry--Pennsylvania--Pittsburgh.Ceramics--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "343dacec-15bc-41b6-90b5-8aabe9857df1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22668,
+    "MulMultiMediaRef_key": 7194,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22668/sizes/13630-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "KODAK SAFETY FILM\n6\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Ceramics"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Industry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ceramics",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3082328833333333
+        },
+        {
+            "keyword": "structure",
+            "score": 0.28995064891866046
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28172203333333334
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2806003820853678
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27371986666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24551866666666666
+        },
+        {
+            "keyword": "table",
+            "score": 0.22711177493021636
+        },
+        {
+            "keyword": "product design",
+            "score": 0.20849841666666666
+        }
+    ]
+}

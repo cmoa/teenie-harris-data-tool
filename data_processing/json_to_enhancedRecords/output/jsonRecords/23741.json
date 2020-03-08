@@ -1,0 +1,98 @@
+{
+    "objectID": 23741,
+    "irn": 23741,
+    "ecatalogue_key": 14016,
+    "TitAccessionNo": "2001.35.14046",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men wearing eyeglasses, examining document in office with Pittsburgh phone book on table in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cafe7e71-4a15-4f45-b507-2f93227e0cd7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30324,
+    "MulMultiMediaRef_key": 14024,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30324/sizes/23741-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29133386666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2774401318562826
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27715981
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24496533333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24288555
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23510763333333332
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23096046666666667
+        },
+        {
+            "keyword": "suit",
+            "score": 0.225554697221883
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22247225
+        }
+    ]
+}

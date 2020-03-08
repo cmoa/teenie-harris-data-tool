@@ -1,0 +1,128 @@
+{
+    "objectID": 29069,
+    "irn": 29069,
+    "ecatalogue_key": 17771,
+    "TitAccessionNo": "2001.35.17801",
+    "CreDateCreated": "1969",
+    "CreEarliestDate": "1969",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men, women, boys, and girls, including boy on left using crutches, on lawn, possibly in McKinley Park in Beltzhoover, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Parks--Pennsylvania.",
+    "AdmGUIDValue_tab": "bcd1a656-4ad1-4233-a1b8-7a3466edf819",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34831,
+    "MulMultiMediaRef_key": 17779,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34831/sizes/29069-1680.jpg",
+    "date_timestamp_earliest": -31536000.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "McKinley Park",
+            "short_name": "McKinley Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Beltzhoover",
+            "short_name": "Beltzhoover"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 52,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boys",
+        "Portraits, Group",
+        "Men",
+        "Parks",
+        "Women",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.3797087104919434
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Parks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30433910000000003
+        },
+        {
+            "keyword": "team",
+            "score": 0.2769997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2672695133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2658317
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24616380000000002
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.21832182
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20023760000000002
+        }
+    ]
+}

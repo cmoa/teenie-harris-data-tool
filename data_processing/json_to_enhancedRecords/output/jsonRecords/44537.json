@@ -1,0 +1,98 @@
+{
+    "objectID": 44537,
+    "irn": 44537,
+    "ecatalogue_key": 31879,
+    "TitAccessionNo": "2001.35.31914",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark skirt, light colored sheer short sleeved blouse, and square wristwatch, seated at desk in front of mirror",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16007d95-8474-401a-b396-382fe76cd49e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51269,
+    "MulMultiMediaRef_key": 31887,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51269/sizes/44537-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3568510803019207
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "lady",
+            "score": 0.3239185419665527
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29907224666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2816364666666667
+        },
+        {
+            "keyword": "girl",
+            "score": 0.27729575
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2768491100260417
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26446193333333334
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.249665824854533
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22169214333333334
+        }
+    ]
+}

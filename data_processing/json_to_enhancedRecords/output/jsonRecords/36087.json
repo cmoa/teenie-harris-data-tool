@@ -1,0 +1,111 @@
+{
+    "objectID": 36087,
+    "irn": 36087,
+    "ecatalogue_key": 23724,
+    "TitAccessionNo": "2001.35.23755",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman seated behind desk with another man standing beside them, all looking at document, woman wearing carnation under collar, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b25f2b80-0994-4297-bef1-d8c619720674",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42293,
+    "MulMultiMediaRef_key": 23732,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42293/sizes/36087-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Office furniture",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.34981787611287435
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.30036044363199865
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29728162333333336
+        },
+        {
+            "keyword": "suit",
+            "score": 0.277056805697632
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2759182466666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2646279133333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2644562465144857
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2619852833333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2591579566666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2294573666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21587471333333333
+        }
+    ]
+}

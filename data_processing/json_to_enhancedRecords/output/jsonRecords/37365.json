@@ -1,0 +1,115 @@
+{
+    "objectID": 37365,
+    "irn": 37365,
+    "ecatalogue_key": 24982,
+    "TitAccessionNo": "2001.35.25014",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing polka dot necktie with clip and light colored fedora, standing in front of brick building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bf928f2e-3c80-4f4a-b384-d9692d1615be",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43588,
+    "MulMultiMediaRef_key": 24990,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43588/sizes/37365-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5577625661783853
+        },
+        {
+            "keyword": "man",
+            "score": 0.482942083178711
+        },
+        {
+            "keyword": "male",
+            "score": 0.42547992268880197
+        },
+        {
+            "keyword": "standing",
+            "score": 0.35540688496215833
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3202128145507814
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29779684666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28765009
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27839712333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2679757333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23817048333333335
+        },
+        {
+            "keyword": "fedora",
+            "score": 0.22610143333333332
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20314279999999998
+        }
+    ]
+}

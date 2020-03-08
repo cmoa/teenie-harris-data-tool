@@ -1,0 +1,81 @@
+{
+    "objectID": 25718,
+    "irn": 25718,
+    "ecatalogue_key": 15238,
+    "TitAccessionNo": "2001.35.15268",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of photograph of two boys dressed in cowboy costumes, with boy on left holding shotgun and jug of Jack Daniels No. 7 Whiskey",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dd9fffb5-4b52-4b84-9f79-f0c84b5778b7",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 31642,
+    "MulMultiMediaRef_key": 15246,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31642/sizes/25718-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Jack Daniels"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "WHISKEY\n",
+    "subjects": [
+        "Costume",
+        "Boys",
+        "Jack, Daniel"
+    ],
+    "keywords": [
+        {
+            "keyword": "Jack Daniels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Costumes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3093401
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2828929333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26568055
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24247339999999998
+        }
+    ]
+}

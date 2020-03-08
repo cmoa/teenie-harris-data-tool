@@ -1,0 +1,107 @@
+{
+    "objectID": 5470,
+    "irn": 5470,
+    "ecatalogue_key": 3375,
+    "TitAccessionNo": "2001.35.3382",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Residential street with dumpster, tent and quonset huts in distance",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trash--Pennsylvania--Pittsburgh.Tents--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01dd7605-03c8-4be5-9ecc-30a2e8b11c71",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18628,
+    "MulMultiMediaRef_key": 3377,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18628/sizes/5470-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Refuse and refuse disposal",
+        "Tents",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "Trash",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tents",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sky",
+            "score": 0.32818238883951834
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30715737666666665
+        },
+        {
+            "keyword": "transport",
+            "score": 0.30662656666666666
+        },
+        {
+            "keyword": "road",
+            "score": 0.30350177235310866
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.2784870516642253
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27467743333333333
+        },
+        {
+            "keyword": "mailbox",
+            "score": 0.2553640747070313
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25094373333333336
+        },
+        {
+            "keyword": "tree",
+            "score": 0.23831365719197603
+        },
+        {
+            "keyword": "track",
+            "score": 0.2161801106496175
+        },
+        {
+            "keyword": "container",
+            "score": 0.20690700531005868
+        }
+    ]
+}

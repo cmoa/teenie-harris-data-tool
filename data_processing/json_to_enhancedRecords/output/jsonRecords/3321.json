@@ -1,0 +1,132 @@
+{
+    "objectID": 3321,
+    "irn": 3321,
+    "ecatalogue_key": 1879,
+    "TitAccessionNo": "2001.35.1882",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of Ms Davis and Robert Head in a domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Head, Robert.",
+    "AdmGUIDValue_tab": "019dbb17-4e9c-42aa-a436-29d77e1efec0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16215,
+    "MulMultiMediaRef_key": 1881,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16215/sizes/3321-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Ms Davis",
+        "Robert Head"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Interior architecture",
+        "Interiors",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4643254955900067
+        },
+        {
+            "keyword": "suit",
+            "score": 0.39001858734537764
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ms Davis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Robert Head",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Head, Robert",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.325951930144043
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2844929666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27332824333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27193164666666664
+        },
+        {
+            "keyword": "professional",
+            "score": 0.258236834995524
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.23771598000000002
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23643707202657063
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23218383333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20598736666666664
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 42496,
+    "irn": 42496,
+    "ecatalogue_key": 29800,
+    "TitAccessionNo": "2001.35.29833",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young man wearing faintly striped suit jacket, holding photograph, surrounded by woman in polka dot dress and pinstriped jacket, and man wearing eyeglasses standing over him, possibly in police station",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42e2d78c-a6b3-4e63-b9c5-7e621346b1ca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48887,
+    "MulMultiMediaRef_key": 29808,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48887/sizes/42496-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4655417960245767
+        },
+        {
+            "keyword": "person",
+            "score": 0.41293699577229837
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.36526740656656903
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30105555
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2808887666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26965608333333335
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24425156825897218
+        },
+        {
+            "keyword": "human",
+            "score": 0.2431518433333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24026216666666667
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23967375333333332
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22597393333333335
+        }
+    ]
+}

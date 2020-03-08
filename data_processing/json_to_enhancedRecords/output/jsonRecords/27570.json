@@ -1,0 +1,90 @@
+{
+    "objectID": 27570,
+    "irn": 27570,
+    "ecatalogue_key": 16791,
+    "TitAccessionNo": "2001.35.16821",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing number \"40\" football jersey, two girls, and two boys seated in chairs, in half circle, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1a3f774e-9f83-4ae5-8d89-b6633a626ae4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33518,
+    "MulMultiMediaRef_key": 16799,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33518/sizes/27570-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "KODAK SAFETYFILM\n16\n",
+    "subjects": [
+        "Boys",
+        "Portraits, Group",
+        "Girls",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31475573333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30316005
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2832440333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2551132333333333
+        }
+    ]
+}

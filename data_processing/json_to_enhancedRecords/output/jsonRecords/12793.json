@@ -1,0 +1,88 @@
+{
+    "objectID": 12793,
+    "irn": 12793,
+    "ecatalogue_key": 6543,
+    "TitAccessionNo": "2001.35.6554",
+    "CreDateCreated": "c. 1950",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men in suits observing boy collecting water from outdoor tap in back yard",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Laundry--Pennsylvania--Pittsburgh.Buckets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "193434be-08d4-4b7d-83c7-f093e481005d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22138,
+    "MulMultiMediaRef_key": 6551,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22138/sizes/12793-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Laundry",
+        "Pails",
+        "Men",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Laundry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buckets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.3327658098083497
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30327446666666663
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27448501333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2656524666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23326212333333332
+        }
+    ]
+}

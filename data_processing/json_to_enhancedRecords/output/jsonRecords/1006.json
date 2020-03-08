@@ -1,0 +1,113 @@
+{
+    "objectID": 1006,
+    "irn": 1006,
+    "ecatalogue_key": 223,
+    "TitAccessionNo": "2001.35.225",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman golfer putting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Golf clubs (Sporting goods)--Pennsylvania--Pittsburgh.Golf courses--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Golf balls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "69c3b0b3-b922-464a-bc70-b8aa9ff407dd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14433,
+    "MulMultiMediaRef_key": 224,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14433/sizes/1006-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Golf courses",
+        "Automobiles",
+        "Golf clubs (Sporting goods)",
+        "Women",
+        "Golf balls"
+    ],
+    "keywords": [
+        {
+            "keyword": "Golf courses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Golf clubs (Sporting goods)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Golf balls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31240471333333336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3066527666666667
+        },
+        {
+            "keyword": "sky",
+            "score": 0.3028832743306477
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2911147409598797
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28425618
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2713702333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2425921
+        },
+        {
+            "keyword": "water",
+            "score": 0.22245413333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21692747605997723
+        }
+    ]
+}

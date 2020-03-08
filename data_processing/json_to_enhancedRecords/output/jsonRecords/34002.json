@@ -1,0 +1,88 @@
+{
+    "objectID": 34002,
+    "irn": 34002,
+    "ecatalogue_key": 21954,
+    "TitAccessionNo": "2001.35.21985",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around circular banquet tables, including man in foreground wearing plaid suit jacket, in interior with square pillars and stage with dark curtain in background, possibly William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "385aa761-0237-4b9d-a93d-068dce0026c7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40505,
+    "MulMultiMediaRef_key": 21962,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40505/sizes/34002-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "William Penn Hotel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30317821
+        },
+        {
+            "keyword": "graffito",
+            "score": 0.2916514587402343
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27612586666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26213376666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2271767
+        },
+        {
+            "keyword": "event",
+            "score": 0.2115486
+        }
+    ]
+}

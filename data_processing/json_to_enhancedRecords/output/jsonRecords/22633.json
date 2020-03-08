@@ -1,0 +1,122 @@
+{
+    "objectID": 22633,
+    "irn": 22633,
+    "ecatalogue_key": 13235,
+    "TitAccessionNo": "2001.35.13265",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored suit, seated with crossed hands, on table with lamp in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4181f5e8-dab2-4354-8703-059e98dd968e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29427,
+    "MulMultiMediaRef_key": 13243,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29427/sizes/22633-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48917777515055333
+        },
+        {
+            "keyword": "person",
+            "score": 0.47383481475830064
+        },
+        {
+            "keyword": "standing",
+            "score": 0.36551392889607737
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3464612757832846
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.31638461147054037
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3028275959991455
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2916102
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2774032166666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2713350666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.2709957415574137
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2536025433333333
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23392093333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23161178666666668
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.21717538333333333
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.2127027
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "objectID": 50752,
+    "irn": 50752,
+    "ecatalogue_key": 37622,
+    "TitAccessionNo": "2001.35.37663",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing floral dress, overcoat, small dark hat with spindly feathers, and holding dark gloves, standing in interior next to bentwood chair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "19524588-2e4a-4b92-91d9-c106efd0cb2b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58301,
+    "MulMultiMediaRef_key": 37630,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58301/sizes/50752-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Hats",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.46380130815429704
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.32896261208903005
+        },
+        {
+            "keyword": "smile",
+            "score": 0.32398235222371435
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28594615471293133
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27997654666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26605475
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23417043333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21853323333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21252958
+        }
+    ]
+}

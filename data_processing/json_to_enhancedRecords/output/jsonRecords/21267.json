@@ -1,0 +1,102 @@
+{
+    "objectID": 21267,
+    "irn": 21267,
+    "ecatalogue_key": 12000,
+    "TitAccessionNo": "2001.35.12030",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of woman wearing cap and gown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "34e7f682-6d8a-4530-b355-7ca942cac3f1",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 27629,
+    "MulMultiMediaRef_key": 12008,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27629/sizes/21267-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "person",
+            "score": 0.3084583
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29909422
+        },
+        {
+            "keyword": "head",
+            "score": 0.28639378
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.28608623333333333
+        },
+        {
+            "keyword": "forehead",
+            "score": 0.25985406666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.254152
+        },
+        {
+            "keyword": "drawing",
+            "score": 0.23231538
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22573306666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21344163333333332
+        },
+        {
+            "keyword": "headgear",
+            "score": 0.21103493333333334
+        }
+    ]
+}

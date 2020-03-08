@@ -1,0 +1,127 @@
+{
+    "objectID": 56643,
+    "irn": 56643,
+    "ecatalogue_key": 43308,
+    "TitAccessionNo": "2001.35.43350",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman wearing earrings, necklace, and dark jacket with two buttons, seated in interior with light colored walls, and large hat on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3b3684fc-8a4a-4a1e-b6ae-8e1c295b1341",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64946,
+    "MulMultiMediaRef_key": 43316,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64946/sizes/56643-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hats",
+        "Portraits",
+        "Interiors",
+        "Interior architecture",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.42646744333903003
+        },
+        {
+            "keyword": "smile",
+            "score": 0.345988077404785
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.33467634320149736
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.31214570999999997
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3029514828086343
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2993931
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28542558333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2686959666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.26544383265787763
+        },
+        {
+            "keyword": "girl",
+            "score": 0.24170603333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22696244666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22228642333333334
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20915356666666665
+        }
+    ]
+}

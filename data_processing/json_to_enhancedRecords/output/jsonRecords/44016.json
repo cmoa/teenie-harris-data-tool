@@ -1,0 +1,98 @@
+{
+    "objectID": 44016,
+    "irn": 44016,
+    "ecatalogue_key": 31219,
+    "TitAccessionNo": "2001.35.31252",
+    "CreDateCreated": "c. 1944",
+    "CreEarliestDate": "1939",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing solid colored suit and fedora, shaking hands with woman wearing pinstriped suit and holding cigarette, in interior with wainscoting and pictures on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4b8e6802-5db8-4377-83b6-2e63767cb179",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50557,
+    "MulMultiMediaRef_key": 31227,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50557/sizes/44016-1680.jpg",
+    "date_timestamp_earliest": -978307200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.35297838096883133
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3320042283036297
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2976100333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2828275333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2663733166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26013295
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24395983333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22288023333333332
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.20355013333333336
+        }
+    ]
+}

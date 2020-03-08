@@ -1,0 +1,115 @@
+{
+    "objectID": 31899,
+    "irn": 31899,
+    "ecatalogue_key": 20034,
+    "TitAccessionNo": "2001.35.20065",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of baby wearing light colored dress with lace around sleeves and bonnet, lying on sofa with light colored blanket, in domestic interior with floral flooring",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a261e7a5-2927-478f-960c-c84b6864599a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37961,
+    "MulMultiMediaRef_key": 20042,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37961/sizes/31899-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Babies",
+        "Infants"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Babies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3156018
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.304845
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2817540333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2625692
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25676395333333335
+        },
+        {
+            "keyword": "towel",
+            "score": 0.24201123555501303
+        },
+        {
+            "keyword": "art",
+            "score": 0.233228624535319
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23093688333333331
+        },
+        {
+            "keyword": "human",
+            "score": 0.22981346666666666
+        },
+        {
+            "keyword": "drawing",
+            "score": 0.22069039999999998
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2206553
+        },
+        {
+            "keyword": "artwork",
+            "score": 0.21031765
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.20982134333333333
+        }
+    ]
+}

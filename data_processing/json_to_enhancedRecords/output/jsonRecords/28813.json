@@ -1,0 +1,111 @@
+{
+    "objectID": 28813,
+    "irn": 28813,
+    "ecatalogue_key": 17486,
+    "TitAccessionNo": "2001.35.17516",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and three men holding three certificates inscribed \"For Service to Children...\" from Family and Children Service, posed in hallway with paintings of street scenes and \"library\" sign in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "75f05690-03f4-4289-bdcc-dd332861463b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34595,
+    "MulMultiMediaRef_key": 17494,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34595/sizes/28813-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "CH LIBRARY\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "For Service to Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Family and Children Service",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2925774791341147
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2922926666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2896111478190104
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26857573333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24577713333333331
+        },
+        {
+            "keyword": "design",
+            "score": 0.22305335666666667
+        },
+        {
+            "keyword": "public relations",
+            "score": 0.22187823333333334
+        },
+        {
+            "keyword": "family",
+            "score": 0.21945452900085435
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21542936666666668
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20709548333333336
+        }
+    ]
+}

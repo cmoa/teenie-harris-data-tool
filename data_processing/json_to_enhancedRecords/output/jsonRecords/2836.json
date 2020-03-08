@@ -1,0 +1,100 @@
+{
+    "objectID": 2836,
+    "irn": 2836,
+    "ecatalogue_key": 1437,
+    "TitAccessionNo": "2001.35.1439",
+    "CreDateCreated": "c. 1938-1946",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman with arm resting against partial wall in tiled interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fefe5319-6419-4032-af2c-7f218a9c4b1d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13611,
+    "MulMultiMediaRef_key": 1439,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13611/sizes/2836-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "2\n",
+    "subjects": [
+        "Interiors",
+        "Portraits",
+        "Women",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3369575158325196
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2999941666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2764473
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.273596577388509
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25663868666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24024148666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.23128746666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21684974333333332
+        }
+    ]
+}

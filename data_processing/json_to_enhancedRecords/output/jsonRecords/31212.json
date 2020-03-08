@@ -1,0 +1,114 @@
+{
+    "objectID": 31212,
+    "irn": 31212,
+    "ecatalogue_key": 19365,
+    "TitAccessionNo": "2001.35.19395",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man packing pipe, seated on piano bench, in interior with bookshelves in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ff532220-38c9-41ad-8ce7-6fb419a7b260",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37282,
+    "MulMultiMediaRef_key": 19373,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37282/sizes/31212-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Books",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4062856790039063
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.392530627203369
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3290650759602865
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2825936
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.27399730973917635
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26672838
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.23919658057332369
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22898845
+        },
+        {
+            "keyword": "scholar",
+            "score": 0.22847198486328135
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22395753333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21888326666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21093933333333334
+        }
+    ]
+}

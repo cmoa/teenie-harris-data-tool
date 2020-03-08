@@ -1,0 +1,134 @@
+{
+  "objectID": 48065,
+  "irn": 48065,
+  "ecatalogue_key": 35174,
+  "TitAccessionNo": "2001.35.35211",
+  "CreDateCreated": "c. 1946-1949",
+  "CreEarliestDate": "1941",
+  "CreLatestDate": "1949",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of girl, possibly Sandy Conville wearing light colored sun dress with three tiered skirt, standing on yard with Julia Storto Conville standing on porch in background",
+  "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "257eb8e7-69c0-4af0-a588-31e3873ee043",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54959/sizes/48065-1680.jpg",
+  "datetime": "1941-01-01 00:00:00",
+  "people": [
+    "Sandy Conville",
+    "Julia Storto Conville"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "",
+  "subjects": [
+    "Girls",
+    "Portraits"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.3837043423156737
+    },
+    {
+      "keyword": "Girls",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Yards",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Houses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "child",
+      "score": 0.325562010123291
+    },
+    {
+      "keyword": "lady",
+      "score": 0.3184510998868815
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31569415333333334
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.30523302
+    },
+    {
+      "keyword": "standing",
+      "score": 0.304953
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.30224633333333334
+    },
+    {
+      "keyword": "girl",
+      "score": 0.2970084
+    },
+    {
+      "keyword": "fun",
+      "score": 0.285655034379069
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28532362
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2580802833333333
+    },
+    {
+      "keyword": "recreation",
+      "score": 0.21440121951293947
+    },
+    {
+      "keyword": "tree",
+      "score": 0.20101242961222332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54959/sizes/48065-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54959/sizes/48065-210.jpg",
+  "date_timestamp_earliest": -915148800.0,
+  "date_timestamp_latest": -662688000.0,
+  "decades": [
+    "1940s"
+  ]
+}

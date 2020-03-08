@@ -1,0 +1,84 @@
+{
+    "objectID": 25295,
+    "irn": 25295,
+    "ecatalogue_key": 15799,
+    "TitAccessionNo": "2001.35.15829",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing on left talking to men and women wearing ribbons on lapels seated in pews, with stained glass window on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fd99af00-ad15-4a17-95e1-3e30a63969b4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32974,
+    "MulMultiMediaRef_key": 15807,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32974/sizes/25295-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Interior architecture",
+        "Women",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3011186666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27040590000000003
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2658899833333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23582315333333334
+        }
+    ]
+}

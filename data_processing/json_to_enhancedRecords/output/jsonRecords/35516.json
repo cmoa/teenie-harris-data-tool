@@ -1,0 +1,79 @@
+{
+    "objectID": 35516,
+    "irn": 35516,
+    "ecatalogue_key": 23167,
+    "TitAccessionNo": "2001.35.23198",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated in wooden chairs around banquet tables, in church interior with cinder block walls and piano in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "398975f9-658e-47d6-83c1-edfad64fc6cf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41670,
+    "MulMultiMediaRef_key": 23175,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41670/sizes/35516-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Dinners and dining",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2786954333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21759061000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20526560000000002
+        }
+    ]
+}

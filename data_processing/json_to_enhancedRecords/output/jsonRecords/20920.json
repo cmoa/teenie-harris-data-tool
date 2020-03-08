@@ -1,0 +1,114 @@
+{
+    "objectID": 20920,
+    "irn": 20920,
+    "ecatalogue_key": 11677,
+    "TitAccessionNo": "2001.35.11707",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of man with moustache and diamond print tie",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c9833ded-c884-4f71-b125-07c60d3aaadc",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 16173,
+    "MulMultiMediaRef_key": 11685,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16173/sizes/20920-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK STAFETY\nFILM\n",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47757988584798167
+        },
+        {
+            "keyword": "person",
+            "score": 0.4499842948665364
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.44415875365397134
+        },
+        {
+            "keyword": "head",
+            "score": 0.3567103285339357
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30534873333333334
+        },
+        {
+            "keyword": "forehead",
+            "score": 0.29321432
+        },
+        {
+            "keyword": "chin",
+            "score": 0.2915265166666667
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.28931286666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28645265000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27183485
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26688285666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25300456666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23760616666666667
+        },
+        {
+            "keyword": "history",
+            "score": 0.20667553333333333
+        }
+    ]
+}

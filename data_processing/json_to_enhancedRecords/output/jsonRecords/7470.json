@@ -1,0 +1,108 @@
+{
+    "objectID": 7470,
+    "irn": 7470,
+    "ecatalogue_key": 4572,
+    "TitAccessionNo": "2001.35.4581",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Profile portrait of a woman wearing a tropical print top, modeling a hairstyle, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dresses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4e645844-293a-4635-8796-489690e5ca22",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19339,
+    "MulMultiMediaRef_key": 4575,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19339/sizes/7470-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits",
+        "Hairstyles",
+        "Dresses"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.41084310993367507
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dresses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3288813646199543
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3053363333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2897858667218017
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27937845333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2781392
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2764183666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.239951412637736
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23745276666666668
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.203986
+        }
+    ]
+}

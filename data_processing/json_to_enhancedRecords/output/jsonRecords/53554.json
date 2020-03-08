@@ -1,0 +1,68 @@
+{
+    "objectID": 53554,
+    "irn": 53554,
+    "ecatalogue_key": 40159,
+    "TitAccessionNo": "2001.35.40200",
+    "CreDateCreated": "c. 1930-1945",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing coat with wide collar, and light colored sweater with ship decoration, posed on porch with wooden chair in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Porches--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "420ac927-fb0d-4322-a59d-e84b1042ba66",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60415,
+    "MulMultiMediaRef_key": 40167,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60415/sizes/53554-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Porches",
+        "Portraits",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Porches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        }
+    ]
+}

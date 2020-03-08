@@ -1,0 +1,84 @@
+{
+    "objectID": 23120,
+    "irn": 23120,
+    "ecatalogue_key": 13571,
+    "TitAccessionNo": "2001.35.13601",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man directing men's choir with woman accompanying on piano, in church with stained glass window depicting cross in background, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Choirs (Music)--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9f52d547-fda6-4ec4-9daf-6adc869f1949",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29623,
+    "MulMultiMediaRef_key": 13579,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29623/sizes/23120-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 30,
+    "google_text_in_image": "",
+    "subjects": [
+        "Church buildings",
+        "Men",
+        "Women",
+        "Choirs (Music)"
+    ],
+    "keywords": [
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Choirs (Music)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2874482
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26255715
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23677320000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21782938666666665
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "objectID": 4986,
+    "irn": 4986,
+    "ecatalogue_key": 2935,
+    "TitAccessionNo": "2001.35.2941",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Elderly man seated in chair reading newspaper, and two young women, one playing piano with bust of George Washington on top, posed in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "631c9a91-24e2-4470-b4f1-c9d6156c0ce4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17424,
+    "MulMultiMediaRef_key": 2937,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17424/sizes/4986-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "George Washington"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Girls",
+        "Interiors",
+        "Teenagers",
+        "Men",
+        "Interior architecture",
+        "Newspapers",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.37906276856363935
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Teenagers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "George Washington",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.3247442160451253
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3047729533333333
+        },
+        {
+            "keyword": "chair",
+            "score": 0.30292977051595066
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28034031333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27793918
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.27726751666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "table",
+            "score": 0.2580290433333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25515896666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23789393333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22519814999999999
+        }
+    ]
+}

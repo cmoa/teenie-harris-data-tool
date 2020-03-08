@@ -1,0 +1,100 @@
+{
+  "objectID": 22245,
+  "irn": 22245,
+  "ecatalogue_key": 12878,
+  "TitAccessionNo": "2001.35.12908",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Basement with pipes, utility box, and window on left",
+  "CatSubject_tab": "Basements--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "c1a2cdde-8d67-4f96-a74c-de9dd4073253",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29001/sizes/22245-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Basements"
+  ],
+  "keywords": [
+    {
+      "keyword": "wall",
+      "score": 0.38814977545817064
+    },
+    {
+      "keyword": "Basements",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31577094333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.3029347466666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28238053333333335
+    },
+    {
+      "keyword": "light",
+      "score": 0.2802033333333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25709935
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.25167215
+    },
+    {
+      "keyword": "texture",
+      "score": 0.24471218903564465
+    },
+    {
+      "keyword": "still life photography",
+      "score": 0.20994428666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29001/sizes/22245-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29001/sizes/22245-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

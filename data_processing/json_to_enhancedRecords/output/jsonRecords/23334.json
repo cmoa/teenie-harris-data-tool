@@ -1,0 +1,128 @@
+{
+    "objectID": 23334,
+    "irn": 23334,
+    "ecatalogue_key": 13713,
+    "TitAccessionNo": "2001.35.13743",
+    "CreDateCreated": "c. 1955-1970",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing eyeglasses, striped tie, and tie bar monogrammed \"M. H. N.\" posed in room with double light switch on wall in background, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b5b776f0-608b-4bbd-9a4d-b376d601377e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29805,
+    "MulMultiMediaRef_key": 13721,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29805/sizes/23334-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "M. H. N. \""
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48193682767415363
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4424902091634113
+        },
+        {
+            "keyword": "person",
+            "score": 0.43654724524739597
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.378058153845215
+        },
+        {
+            "keyword": "standing",
+            "score": 0.35238896694335936
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.34419927269287104
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31777418416951503
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2998054
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.29751191666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2867465
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27898993333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.27321322362162265
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2706689433333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24910501666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22894886666666667
+        },
+        {
+            "keyword": "eyewear",
+            "score": 0.209129
+        }
+    ]
+}

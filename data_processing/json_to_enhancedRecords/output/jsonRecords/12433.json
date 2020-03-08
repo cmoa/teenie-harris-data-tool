@@ -1,0 +1,88 @@
+{
+    "objectID": 12433,
+    "irn": 12433,
+    "ecatalogue_key": 6244,
+    "TitAccessionNo": "2001.35.6255",
+    "CreDateCreated": "c. 1942",
+    "CreEarliestDate": "1937",
+    "CreLatestDate": "1947",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman in interior with furniture and bric-a-brac, possibly a shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Vases--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bcd33c04-82c8-4821-8512-04687bb2cbda",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21490,
+    "MulMultiMediaRef_key": 6251,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21490/sizes/12433-1680.jpg",
+    "date_timestamp_earliest": -1041379200.0,
+    "date_timestamp_latest": -725846400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Vases",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vases",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30609753333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28043445
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2721841133333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24463383333333333
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "objectID": 12419,
+    "irn": 12419,
+    "ecatalogue_key": 6230,
+    "TitAccessionNo": "2001.35.6241",
+    "CreDateCreated": "c. 1959",
+    "CreEarliestDate": "1956",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at long tables playing Bingo",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Games--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3f65364f-87dc-4b80-aca7-f7797ec1dc9e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21825,
+    "MulMultiMediaRef_key": 6237,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21825/sizes/12419-1680.jpg",
+    "date_timestamp_earliest": -441849600.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Games",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Games",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bingo",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2713283395711263
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2700747466666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26710126666666667
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.23537546666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.21583708000000001
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20097935333333336
+        }
+    ]
+}

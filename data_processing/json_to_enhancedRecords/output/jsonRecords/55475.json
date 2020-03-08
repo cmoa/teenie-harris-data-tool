@@ -1,0 +1,110 @@
+{
+    "objectID": 55475,
+    "irn": 55475,
+    "ecatalogue_key": 42054,
+    "TitAccessionNo": "2001.35.42096",
+    "CreDateCreated": "c. 1953",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, including one in center wearing dark suit, eyeglasses, and diamond patterned tie with tie bar, in hallway with marble paneling on walls and women in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Courthouses--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "03413587-e502-4b9d-91bb-3d6c1ca687d9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63529,
+    "MulMultiMediaRef_key": 42062,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63529/sizes/55475-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Corridors",
+        "Men",
+        "Women",
+        "Courthouses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Courthouses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30697405333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29307214333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2786769333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2726819133333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26988316383565264
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25303896666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2389765766666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2323879760406493
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20756938
+        }
+    ]
+}

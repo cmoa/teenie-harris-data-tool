@@ -1,0 +1,152 @@
+{
+  "objectID": 46061,
+  "irn": 46061,
+  "ecatalogue_key": 33221,
+  "TitAccessionNo": "2001.35.33256",
+  "CreDateCreated": "c. 1940-1950",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of man wearing solid colored cardigan, striped shirt, and fedora, seated beside a German Shepard mix dog on leash",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Dogs--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "26b6d7c6-7927-4529-8d29-c7542b477fda",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52694/sizes/46061-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [
+    "Shepard"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits",
+    "Dogs",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "dog",
+      "score": 0.40412586990153
+    },
+    {
+      "keyword": "man",
+      "score": 0.36527450750488266
+    },
+    {
+      "keyword": "person",
+      "score": 0.35515427545369466
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Shepard",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Dogs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "German",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "male",
+      "score": 0.311964396147868
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3111907333333333
+    },
+    {
+      "keyword": "mammal",
+      "score": 0.30885545333333336
+    },
+    {
+      "keyword": "vertebrate",
+      "score": 0.30123456666666665
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.2876309166666667
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2858017
+    },
+    {
+      "keyword": "dog like mammal",
+      "score": 0.2838869666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28231348666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27263542
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "human",
+      "score": 0.25518596666666665
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2419239
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.23964856666666667
+    },
+    {
+      "keyword": "human behavior",
+      "score": 0.2303151
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.22595523333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52694/sizes/46061-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52694/sizes/46061-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

@@ -1,0 +1,97 @@
+{
+    "objectID": 33051,
+    "irn": 33051,
+    "ecatalogue_key": 21093,
+    "TitAccessionNo": "2001.35.21124",
+    "CreDateCreated": "c. 1955-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing plaid shirt, squatting beside hot water heater, with furnace in foreground, in home possibly off Frankstown Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d82f1986-7259-4e4f-a7a5-e7c7ad7dad6f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39461,
+    "MulMultiMediaRef_key": 21101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39461/sizes/33051-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Frankstown Avenue",
+            "short_name": "Frankstown Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Basements",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Frankstown Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3106294
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2865564
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26308514666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2512828
+        }
+    ]
+}

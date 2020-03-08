@@ -1,0 +1,247 @@
+{
+  "objectID": 13123,
+  "irn": 13123,
+  "ecatalogue_key": 6774,
+  "TitAccessionNo": "2001.35.6789",
+  "CreDateCreated": "October 1960",
+  "CreEarliestDate": "1960-10-01",
+  "CreLatestDate": "1960-10-31",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 15, 1960, pg. 2 reads: \"At Mayors' Met, Discuss Urban Renewal - Shown at the Kennedy Conference of Urban Renewal, held Monday at the Hotel Penn-Sheraton and attended by mayors from 55 U.S. cities, were (first photo, left to right) Pittsburgh's Mayor Joseph M. Barr, Pennsylvania's Governor David L. Lawrence, New York's Congressman Adam C. Powell Jr., New York City's Mayor Robert Wagner...Harris Photos.\"",
+  "TitMainTitle": "Pittsburgh Mayor Joseph M. Barr, Pennsylvania Governor David L. Lawrence, New York Congressman Adam C. Powell Jr., and New York City Mayor Robert Wagner standing in Penn-Sheraton Hotel for Kennedy Conference on Urban Renewal",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Penn Sheraton Hotel (Pittsburgh, Pa.)Lawrence, David Leo, 1889-1966.Powell, Adam Clayton, 1908-1972.Mayors--Pennsylvania--Pittsburgh.Barr, Joseph M., 1906\ufffd1982.",
+  "AdmGUIDValue_tab": "8eda793f-1afb-47bf-bf95-479f6e569c29",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22781/sizes/13123-1680.jpg",
+  "datetime": "1960-10-01 00:00:00",
+  "people": [
+    "Robert Wagner",
+    "Adam C. Powell Jr.",
+    "David L. Lawrence",
+    "Joseph M. Barr"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "South Shore",
+      "short_name": "South Shore"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "sublocality",
+      "score": 60,
+      "long_name": "Manhattan",
+      "short_name": "Manhattan"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Freeport Road",
+      "short_name": "Freeport Rd"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "West 50th Street",
+      "short_name": "W 50th St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "New York",
+      "short_name": "New York"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "West Station Square Drive",
+      "short_name": "W Station Square Dr"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Grant Street",
+      "short_name": "Grant St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Lawrence",
+      "short_name": "Lawrence"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "O'Hara Township",
+      "short_name": "O'Hara Township"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Cecil Township",
+      "short_name": "Cecil Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "New York County",
+      "short_name": "New York County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Washington County",
+      "short_name": "Washington County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 5,
+  "google_text_in_image": "KODAK SAFETY FILM\n5\n",
+  "subjects": [
+    "Pittsburgh courier",
+    "Mayors",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.466824235493978
+    },
+    {
+      "keyword": ", 1906\ufffd1982",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "David L. Lawrence",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Penn Sheraton Hotel ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Kennedy Conference on Urban Renewal",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Powell, Adam Clayton, 1908-1972",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Barr, Joseph M",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "October 15, 1960",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Mayors' Met, Discuss Urban Renewal - Shown",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Hotel Penn-Sheraton",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Robert Wagner",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Kennedy Conference of Urban Renewal",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Joseph M. Barr",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Monday",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Lawrence, David Leo, 1889-1966",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Penn-Sheraton Hotel",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Mayors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28633988
+    },
+    {
+      "keyword": "professional",
+      "score": 0.2803581761494953
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26813485333333337
+    },
+    {
+      "keyword": "communication",
+      "score": 0.24529837083536798
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.23645268
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.23480603333333336
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21699021333333335
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22781/sizes/13123-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22781/sizes/13123-210.jpg",
+  "date_timestamp_earliest": -291945600.0,
+  "date_timestamp_latest": -289353600.0,
+  "decades": [
+    "1960s"
+  ]
+}

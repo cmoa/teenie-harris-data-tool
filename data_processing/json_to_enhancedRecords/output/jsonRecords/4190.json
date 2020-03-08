@@ -1,0 +1,121 @@
+{
+    "objectID": 4190,
+    "irn": 4190,
+    "ecatalogue_key": 2405,
+    "TitAccessionNo": "2001.35.2409",
+    "CreDateCreated": "c. 1938-1950",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of detective Voyle Parker",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Detectives--Pennsylvania--Pittsburgh.Parker, Voyle.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6c21f6b3-97a7-4bd7-9b45-dac618d1f492",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16768,
+    "MulMultiMediaRef_key": 2407,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16768/sizes/4190-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "Voyle Parker"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Detectives"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4521805836954753
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.391081425817871
+        },
+        {
+            "keyword": "suit",
+            "score": 0.35730127365071596
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33374390661092135
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Parker, Voyle",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Detectives",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.33103273777384434
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29998853333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2840915666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2827768533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25814946666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24682388666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22098873333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21657336666666668
+        }
+    ]
+}

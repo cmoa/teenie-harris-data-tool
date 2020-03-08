@@ -1,0 +1,101 @@
+{
+  "objectID": 4006,
+  "irn": 4006,
+  "ecatalogue_key": 2272,
+  "TitAccessionNo": "2001.35.2275",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two bartenders, one wearing bow tie, behind bar",
+  "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Bartenders--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "669e2b5a-62ef-415a-8956-213c6bd23519",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16698/sizes/4006-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "LEY\nSCHENLEY\nGIN\nsto\nPARK&\nGAR\nLEY\n",
+  "subjects": [
+    "Bartenders",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Bartenders",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bars",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "professional",
+      "score": 0.32825909944661463
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29757001
+    },
+    {
+      "keyword": "profession",
+      "score": 0.2626846333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25788263333333333
+    },
+    {
+      "keyword": "chef",
+      "score": 0.24569974333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23316631666666665
+    },
+    {
+      "keyword": "cook",
+      "score": 0.21717446666666665
+    },
+    {
+      "keyword": "bartender",
+      "score": 0.21251049041748035
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16698/sizes/4006-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16698/sizes/4006-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

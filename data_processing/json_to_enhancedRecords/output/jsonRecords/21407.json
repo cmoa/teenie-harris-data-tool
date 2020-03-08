@@ -1,0 +1,83 @@
+{
+    "objectID": 21407,
+    "irn": 21407,
+    "ecatalogue_key": 12105,
+    "TitAccessionNo": "2001.35.12135",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around folding tables and chairs in room decorated with crepe paper streamers and painting depicting dancers, possibly in Irene Kaufmann Settlement House, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Birthday parties--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "710113a7-5426-46cd-9fd4-e7fe10c83553",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27758,
+    "MulMultiMediaRef_key": 12113,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27758/sizes/21407-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 29,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Birthday parties",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Birthday parties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Irene Kaufmann Settlement House",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2724818666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2671405866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21189743333333333
+        }
+    ]
+}

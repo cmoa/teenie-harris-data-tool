@@ -1,0 +1,83 @@
+{
+    "objectID": 21945,
+    "irn": 21945,
+    "ecatalogue_key": 12640,
+    "TitAccessionNo": "2001.35.12670",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young man holding plaque standing next to chest with track and field? trophies, medallions, and small plaques",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.Awards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cedf7196-ade5-48e7-a56e-853d3e74b48f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28427,
+    "MulMultiMediaRef_key": 12648,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28427/sizes/21945-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Trophies",
+        "Awards",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Trophies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Awards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3014904666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2733369466666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26125484666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24150636666666667
+        }
+    ]
+}

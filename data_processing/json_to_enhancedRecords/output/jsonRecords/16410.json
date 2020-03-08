@@ -1,0 +1,111 @@
+{
+    "objectID": 16410,
+    "irn": 16410,
+    "ecatalogue_key": 8454,
+    "TitAccessionNo": "2001.35.8476",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Small clapboard building, possibly bar, with trim and initials H. C. in neon, street no. 2203, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8019a5d8-2a36-4193-b975-bf4372eba470",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24066,
+    "MulMultiMediaRef_key": 8462,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24066/sizes/16410-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "H. C."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "HoC\nMON\nHARL\n2203\n",
+    "subjects": [
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.3619076836275226
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "H. C.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "structure",
+            "score": 0.32503929360555
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30835118
+        },
+        {
+            "keyword": "building",
+            "score": 0.308023104654948
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29693901666666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.2947929923339843
+        },
+        {
+            "keyword": "door",
+            "score": 0.29443483249104835
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28578739999999997
+        },
+        {
+            "keyword": "facade",
+            "score": 0.26990855563964833
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26822653333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2453040333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.24398610618326833
+        }
+    ]
+}

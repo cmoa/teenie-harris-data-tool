@@ -1,0 +1,84 @@
+{
+    "objectID": 42511,
+    "irn": 42511,
+    "ecatalogue_key": 29808,
+    "TitAccessionNo": "2001.35.29841",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and a woman seated at table facing audience of women and men, in interior with twisted crepe paper streamers and composite portraits on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bd17e38d-1bf9-40df-ab87-b2331c04ff9c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48892,
+    "MulMultiMediaRef_key": 29816,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48892/sizes/42511-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 28,
+    "google_text_in_image": "",
+    "subjects": [
+        "Meetings",
+        "Congresses",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Meetings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2920142333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2701648
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2447458
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2302113
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.20989576666666665
+        }
+    ]
+}

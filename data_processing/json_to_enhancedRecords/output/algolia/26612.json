@@ -1,0 +1,105 @@
+{
+  "objectID": 26612,
+  "irn": 26612,
+  "ecatalogue_key": 16328,
+  "TitAccessionNo": "2001.35.16358",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Six men, possibly including J.H. Adams standing in background, and two women, gathered around table in office with wood paneled wall with certificate",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "b4199935-a960-42e4-80f5-609d85b27ac2",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32853/sizes/26612-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [
+    "J.H. Adams"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 8,
+  "google_text_in_image": "",
+  "subjects": [
+    "Offices",
+    "Telephone",
+    "Men",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Offices",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Telephones",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "J.H. Adams",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "communication",
+      "score": 0.30838393291422533
+    },
+    {
+      "keyword": "professional",
+      "score": 0.2947909749145507
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.2723145132588704
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26688631333333335
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2494883
+    },
+    {
+      "keyword": "public relations",
+      "score": 0.20231702
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32853/sizes/26612-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32853/sizes/26612-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

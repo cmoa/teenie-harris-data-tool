@@ -1,0 +1,127 @@
+{
+    "objectID": 19593,
+    "irn": 19593,
+    "ecatalogue_key": 10656,
+    "TitAccessionNo": "2001.35.10682",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd in Point State Park for demonstration, with flags drawn to half-staff",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Point State Park (Pittsburgh, Pa.)Hotels--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bc004d36-8416-4e03-aa0b-c9b4f59186ba",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21161,
+    "MulMultiMediaRef_key": 10664,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21161/sizes/19593-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Point State Park",
+            "short_name": "Point State Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Hotels",
+            "short_name": "Pa.)Hotels"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hotels, motels, etc",
+        "Hotels",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "city",
+            "score": 0.4751537861979167
+        },
+        {
+            "keyword": "structure",
+            "score": 0.44365408389648425
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.41583349436035166
+        },
+        {
+            "keyword": "sky",
+            "score": 0.33873861800537103
+        },
+        {
+            "keyword": "Hotels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Point State Park",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Point State Park ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Hotels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31177930000000004
+        },
+        {
+            "keyword": "metropolis",
+            "score": 0.29992461004435234
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.2979634666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29460756666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26186916666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2508518
+        },
+        {
+            "keyword": "metropolitan area",
+            "score": 0.20483404333333333
+        }
+    ]
+}

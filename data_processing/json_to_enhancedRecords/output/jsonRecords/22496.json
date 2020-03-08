@@ -1,0 +1,95 @@
+{
+    "objectID": 22496,
+    "irn": 22496,
+    "ecatalogue_key": 13143,
+    "TitAccessionNo": "2001.35.13173",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of nine women and ten men standing behind table with flower arrangements",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "044620ca-adcf-4d95-b45b-e594d4a0d9b9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29153,
+    "MulMultiMediaRef_key": 13151,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29153/sizes/22496-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 20,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits, Group",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2918118433333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2768381833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25577886666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.2322446
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.23034903333333334
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21860783333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20160046666666667
+        }
+    ]
+}

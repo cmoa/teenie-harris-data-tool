@@ -1,0 +1,241 @@
+{
+  "objectID": 65033,
+  "irn": 65033,
+  "ecatalogue_key": 50701,
+  "TitAccessionNo": "2001.35.50744",
+  "CreDateCreated": "September 1958",
+  "CreEarliestDate": "1958-09-01",
+  "CreLatestDate": "1958-09-20",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 20, 1958 pg. A16 reads: \"Wed At Home Of Bride - Mr. and Mrs. Raymond Porter were united in marriage at the home of the bride. She is the former Juanita McKinney, daughter of Mr. and Mrs. Bert McKinney.  He is the son of Mr. and Mrs. Walter Porter.  Margie Jackson and W.C. Horne were attendants. - Harris Photo.\"",
+  "TitMainTitle": "Raymond Porter and Juanita McKinney Porter, posed cutting three tiered wedding cake, in home of Mr. and Mrs. Bert McKinney, possibly 238 Burrows Street, Oakland",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "0e01c088-d409-4327-a65a-ed90862bd365",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74329/sizes/65033-1680.jpg",
+  "datetime": "1958-09-01 00:00:00",
+  "people": [
+    "A16",
+    "Walter Porter",
+    "Raymond Porter",
+    "Margie Jackson",
+    "Juanita McKinney",
+    "W.C. Horne",
+    "Juanita McKinney Porter",
+    "Bert McKinney"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "South Oakland",
+      "short_name": "South Oakland"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Burrows Street",
+      "short_name": "Burrows St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "",
+  "subjects": [
+    "Cake",
+    "Portraits, Group",
+    "Women",
+    "Interiors",
+    "Wedding costume",
+    "Interior architecture",
+    "Eyeglasses",
+    "Brides",
+    "Pittsburgh courier",
+    "Men",
+    "Bridegrooms"
+  ],
+  "keywords": [
+    {
+      "keyword": "groom",
+      "score": 0.6489039716479493
+    },
+    {
+      "keyword": "bride",
+      "score": 0.39474188067952465
+    },
+    {
+      "keyword": "man",
+      "score": 0.38857679307454435
+    },
+    {
+      "keyword": "dress",
+      "score": 0.361236499761963
+    },
+    {
+      "keyword": "wedding",
+      "score": 0.3517339514904787
+    },
+    {
+      "keyword": "marriage",
+      "score": 0.34457360884704596
+    },
+    {
+      "keyword": "standing",
+      "score": 0.336600113900757
+    },
+    {
+      "keyword": "male",
+      "score": 0.33556246623168934
+    },
+    {
+      "keyword": "A16",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Walter Porter",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "September 20, 1958",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Raymond Porter",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Wedding costume",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Eyeglasses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Brides",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "W.C. Horne",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Wed",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Burrows Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bridegrooms",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Cakes",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "ceremony",
+      "score": 0.3291244626265463
+    },
+    {
+      "keyword": "woman",
+      "score": 0.31792586666666667
+    },
+    {
+      "keyword": "gown",
+      "score": 0.3162172835437013
+    },
+    {
+      "keyword": "facial expression",
+      "score": 0.31105869999999997
+    },
+    {
+      "keyword": "wedding dress",
+      "score": 0.3081468533333333
+    },
+    {
+      "keyword": "veil",
+      "score": 0.3071464123484294
+    },
+    {
+      "keyword": "bridal clothing",
+      "score": 0.3070776866666667
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3005817
+    },
+    {
+      "keyword": "event",
+      "score": 0.28271311666666665
+    },
+    {
+      "keyword": "fashion accessory",
+      "score": 0.27780809
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27615271
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27132668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74329/sizes/65033-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74329/sizes/65033-210.jpg",
+  "date_timestamp_earliest": -357696000.0,
+  "date_timestamp_latest": -356054400.0,
+  "decades": [
+    "1950s"
+  ]
+}

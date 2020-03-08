@@ -1,0 +1,135 @@
+{
+    "objectID": 5466,
+    "irn": 5466,
+    "ecatalogue_key": 3372,
+    "TitAccessionNo": "2001.35.3379",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Residential area on hillside with children running up stairs",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bacc5c45-da6a-4a86-866b-36242f0ac71d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17709,
+    "MulMultiMediaRef_key": 3374,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17709/sizes/5466-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Stairs",
+        "Plants",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.3683177954508463
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fence",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "barrier",
+            "score": 0.32683301289876304
+        },
+        {
+            "keyword": "tree",
+            "score": 0.3251356315997313
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3149472
+        },
+        {
+            "keyword": "sky",
+            "score": 0.306959057409668
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30213626666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27436179
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.2681798923543293
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.26536135
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25852165666666665
+        },
+        {
+            "keyword": "street",
+            "score": 0.257376147172648
+        },
+        {
+            "keyword": "home",
+            "score": 0.257123721218872
+        },
+        {
+            "keyword": "road",
+            "score": 0.2567402211405437
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.24231485666666666
+        },
+        {
+            "keyword": "obstruction",
+            "score": 0.2126171875
+        },
+        {
+            "keyword": "window",
+            "score": 0.20560893592732746
+        }
+    ]
+}

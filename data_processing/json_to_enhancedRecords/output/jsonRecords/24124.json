@@ -1,0 +1,103 @@
+{
+    "objectID": 24124,
+    "irn": 24124,
+    "ecatalogue_key": 14136,
+    "TitAccessionNo": "2001.35.14166",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, one holding document, and two women gathered around desk, in office interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0b12fa10-51df-440a-98bc-74e2af4e3c64",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30410,
+    "MulMultiMediaRef_key": 14144,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30410/sizes/24124-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.30551928514811205
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2862288
+        },
+        {
+            "keyword": "technology",
+            "score": 0.28132741482828766
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27247853333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2628810044626873
+        },
+        {
+            "keyword": "design",
+            "score": 0.23634165666666665
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.23487251281738267
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22144232333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20049283333333334
+        }
+    ]
+}

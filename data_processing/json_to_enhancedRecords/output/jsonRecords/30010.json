@@ -1,0 +1,79 @@
+{
+    "objectID": 30010,
+    "irn": 30010,
+    "ecatalogue_key": 18442,
+    "TitAccessionNo": "2001.35.18472",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men and a woman, standing on stairs of stone block church with elaborate arched doorway",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ad1e3dd-5943-4649-872f-fbadcdb98094",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35959,
+    "MulMultiMediaRef_key": 18450,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35959/sizes/30010-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 34,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits, Group",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30829809999999996
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28686968333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22425055666666668
+        }
+    ]
+}

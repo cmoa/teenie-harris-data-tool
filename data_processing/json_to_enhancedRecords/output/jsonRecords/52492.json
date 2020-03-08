@@ -1,0 +1,126 @@
+{
+    "objectID": 52492,
+    "irn": 52492,
+    "ecatalogue_key": 39321,
+    "TitAccessionNo": "2001.35.39362",
+    "CreDateCreated": "c. 1935-1945",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman, wearing dark suit jacket with three large honeycomb buttons and waist pockets, posed in front of light colored background, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Studio portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ae59a86a-71cf-4aa9-b659-e39910a747ea",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60253,
+    "MulMultiMediaRef_key": 39329,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60253/sizes/52492-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4705869407348633
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.40007319485758464
+        },
+        {
+            "keyword": "standing",
+            "score": 0.353203831262207
+        },
+        {
+            "keyword": "smile",
+            "score": 0.349587063273112
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30113863333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28223183333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2766307666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2698585666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2517980698303223
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23231812333333335
+        }
+    ]
+}

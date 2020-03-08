@@ -1,0 +1,89 @@
+{
+    "objectID": 32512,
+    "irn": 32512,
+    "ecatalogue_key": 20595,
+    "TitAccessionNo": "2001.35.20626",
+    "CreDateCreated": "1969",
+    "CreEarliestDate": "1969",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men and women, most wearing name tags, including woman kneeling in front row, in interior with squiggle patterned carpet, and sunburst clock on right wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f364406a-59a2-4c8f-9cd2-56b59b04b407",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38946,
+    "MulMultiMediaRef_key": 20603,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38946/sizes/32512-1680.jpg",
+    "date_timestamp_earliest": -31536000.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 66,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3147200133333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29653783333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2740478
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2535633333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21940388333333335
+        }
+    ]
+}

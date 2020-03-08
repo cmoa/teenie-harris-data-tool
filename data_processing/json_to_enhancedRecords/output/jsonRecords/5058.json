@@ -1,0 +1,101 @@
+{
+    "objectID": 5058,
+    "irn": 5058,
+    "ecatalogue_key": 3004,
+    "TitAccessionNo": "2001.35.3011",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman lying in casket surrounded by flowers",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Dead--Pennsylvania--Pittsburgh.Caskets--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02e77bf8-fe00-47b2-973a-837e9543e1f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18279,
+    "MulMultiMediaRef_key": 3006,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18279/sizes/5058-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boxes",
+        "Dead",
+        "Chests",
+        "Women",
+        "Flowers"
+    ],
+    "keywords": [
+        {
+            "keyword": "snow",
+            "score": 0.5168496357275391
+        },
+        {
+            "keyword": "winter",
+            "score": 0.39602238312174465
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Caskets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flowers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dead",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31634083333333335
+        },
+        {
+            "keyword": "tree",
+            "score": 0.30466330087687166
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30381773333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2765842866666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2556036666666667
+        },
+        {
+            "keyword": "freezing",
+            "score": 0.24680713333333335
+        }
+    ]
+}

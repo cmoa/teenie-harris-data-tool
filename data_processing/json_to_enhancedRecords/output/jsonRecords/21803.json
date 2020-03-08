@@ -1,0 +1,118 @@
+{
+    "objectID": 21803,
+    "irn": 21803,
+    "ecatalogue_key": 12494,
+    "TitAccessionNo": "2001.35.12524",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark jacket with small lapel pin, and dark shirt without tie, posed in front of light colored background, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "eb29092b-ed0b-46ce-88f2-588b077fe1b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28338,
+    "MulMultiMediaRef_key": 12502,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28338/sizes/21803-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Harris Studio"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.495523439995931
+        },
+        {
+            "keyword": "man",
+            "score": 0.4858773883129883
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4817363560262043
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.368237160925293
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3542555544230144
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3129727697937013
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29380222
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2875169
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28225716666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2551737233333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.248010339506022
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.24490521333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22324639999999998
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "objectID": 22495,
+    "irn": 22495,
+    "ecatalogue_key": 13142,
+    "TitAccessionNo": "2001.35.13172",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of woman wearing linen dress with pleats, standing beside basket with dry flowers",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0cc9e5a3-7f7e-45b3-96bc-5987a72a5528",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 28817,
+    "MulMultiMediaRef_key": 13150,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28817/sizes/22495-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3285806580634562
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31184091333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29718705
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27888165000000004
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.26913458
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25896918600870766
+        },
+        {
+            "keyword": "human",
+            "score": 0.25827050097147625
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2413217666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22297167666666665
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.20345126666666666
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "objectID": 22837,
+    "irn": 22837,
+    "ecatalogue_key": 13402,
+    "TitAccessionNo": "2001.35.13432",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men eating at tables in interior with woman standing on right and jukebox in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.Christmas trees--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bf284dbe-3f3e-4356-ae92-45e0d904f024",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29259,
+    "MulMultiMediaRef_key": 13410,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29259/sizes/22837-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Men",
+        "Christmas trees",
+        "Clubs",
+        "Food",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christmas trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clubs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28132873333333336
+        },
+        {
+            "keyword": "communication",
+            "score": 0.277912167064616
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26606973333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22863604666666668
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22071983333333334
+        },
+        {
+            "keyword": "design",
+            "score": 0.21652865333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21460186666666667
+        }
+    ]
+}

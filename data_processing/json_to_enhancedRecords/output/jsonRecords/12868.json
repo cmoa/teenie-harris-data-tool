@@ -1,0 +1,130 @@
+{
+    "objectID": 12868,
+    "irn": 12868,
+    "ecatalogue_key": 6606,
+    "TitAccessionNo": "2001.35.6621",
+    "CreDateCreated": "c. 1955-1965",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two police officers, including James Montgomery, posed beside police car on street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Police--Pennsylvania--Pittsburgh.Police vehicles--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6db9d0ce-4825-4faa-b9aa-4f7844a71b32",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22174,
+    "MulMultiMediaRef_key": 6614,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22174/sizes/12868-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "James Montgomery"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "ITY DFITTSBURGH\nPOLICE\n",
+    "subjects": [
+        "Men",
+        "Police",
+        "Police vehicles",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.47506050559895835
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.46517489590250666
+        },
+        {
+            "keyword": "James Montgomery",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police vehicles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.32562976666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30275601
+        },
+        {
+            "keyword": "vintage car",
+            "score": 0.2749576166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27426706666666667
+        },
+        {
+            "keyword": "street",
+            "score": 0.27380620783386234
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26308723333333334
+        },
+        {
+            "keyword": "family car",
+            "score": 0.2618508
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.25070356666666666
+        },
+        {
+            "keyword": "classic",
+            "score": 0.23954051666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2218279
+        },
+        {
+            "keyword": "automotive exterior",
+            "score": 0.20301443333333333
+        }
+    ]
+}

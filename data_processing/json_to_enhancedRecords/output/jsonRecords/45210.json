@@ -1,0 +1,100 @@
+{
+    "objectID": 45210,
+    "irn": 45210,
+    "ecatalogue_key": 32438,
+    "TitAccessionNo": "2001.35.32473",
+    "CreDateCreated": "c. 1946",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Large crowd of women and men gathered in music store with labels above shelves reading \"classical records, children, foreign...\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.Stores, Retail--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "216a8881-6a0c-47ea-8232-d4c413f449a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51668,
+    "MulMultiMediaRef_key": 32446,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51668/sizes/45210-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "CLASSICAL RECORDS\n",
+    "subjects": [
+        "Men",
+        "Stores, Retail",
+        "Women",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.3772118123339843
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.3611158046559653
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stores, Retail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2952695
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27302515666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24505581333333334
+        },
+        {
+            "keyword": "audience",
+            "score": 0.2364512
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23123278333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.2062589859161377
+        }
+    ]
+}

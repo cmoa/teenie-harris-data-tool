@@ -1,0 +1,70 @@
+{
+    "objectID": 21489,
+    "irn": 21489,
+    "ecatalogue_key": 12176,
+    "TitAccessionNo": "2001.35.12206",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around tables playing cards, with two men standing in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8806c69d-42bd-48ed-b1c1-04569ecec1ce",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27821,
+    "MulMultiMediaRef_key": 12184,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27821/sizes/21489-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29254442579549167
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2648298333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.24184018333333335
+        }
+    ]
+}

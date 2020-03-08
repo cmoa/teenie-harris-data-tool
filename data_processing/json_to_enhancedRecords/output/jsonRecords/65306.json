@@ -1,0 +1,110 @@
+{
+    "objectID": 65306,
+    "irn": 65306,
+    "ecatalogue_key": 51124,
+    "TitAccessionNo": "2001.35.51167",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, including man seated in center wearing dark suit jacket, light colored button down collared shirt, patterned necktie, moustache, and eyeglasses, gathered in interior behind desk with documents and office supplies",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Office equipment and supplies--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "270dabe9-9824-4461-bafe-7c3365c26b2a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74956,
+    "MulMultiMediaRef_key": 51132,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74956/sizes/65306-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Eyeglasses",
+        "Offices",
+        "Men",
+        "Office equipment and supplies",
+        "Desks",
+        "Clothing and dress"
+    ],
+    "keywords": [
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office equipment and supplies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29980391538492834
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2927947850463867
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28418056666666663
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2796039558166503
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27379514666666666
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2665094527903239
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22506066666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20076338333333332
+        }
+    ]
+}

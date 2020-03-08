@@ -1,0 +1,81 @@
+{
+    "objectID": 16458,
+    "irn": 16458,
+    "ecatalogue_key": 8493,
+    "TitAccessionNo": "2001.35.8515",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, cooks, holding up slab of ribs, with waitress standing in front, and large iron pot",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Restaurants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a39a8e64-dfe2-477e-ab54-9d8b5200e3fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24102,
+    "MulMultiMediaRef_key": 8501,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24102/sizes/16458-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Restaurants"
+    ],
+    "keywords": [
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.31208256577372234
+        },
+        {
+            "keyword": "cook",
+            "score": 0.31012681367085776
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29032272
+        },
+        {
+            "keyword": "chef",
+            "score": 0.2586652683957927
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23763994333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2256811
+        },
+        {
+            "keyword": "food",
+            "score": 0.21341915648702003
+        }
+    ]
+}

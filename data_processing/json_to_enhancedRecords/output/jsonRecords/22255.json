@@ -1,0 +1,105 @@
+{
+    "objectID": 22255,
+    "irn": 22255,
+    "ecatalogue_key": 12888,
+    "TitAccessionNo": "2001.35.12918",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Beams and pipes along ceiling in basement",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "384a8161-984f-4b73-93b6-801100d3ebc8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28998,
+    "MulMultiMediaRef_key": 12896,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28998/sizes/22255-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "FILM\n",
+    "subjects": [
+        "Basements"
+    ],
+    "keywords": [
+        {
+            "keyword": "Beams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "wall",
+            "score": 0.33110838175415036
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31630375
+        },
+        {
+            "keyword": "light",
+            "score": 0.30766958202006034
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.307114
+        },
+        {
+            "keyword": "wood",
+            "score": 0.30014537113444
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27745062000000004
+        },
+        {
+            "keyword": "texture",
+            "score": 0.26434176277058935
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26346013333333335
+        },
+        {
+            "keyword": "metal",
+            "score": 0.23328483119323737
+        },
+        {
+            "keyword": "line",
+            "score": 0.22999476666666666
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.21093596666666667
+        },
+        {
+            "keyword": "angle",
+            "score": 0.20819096666666667
+        }
+    ]
+}

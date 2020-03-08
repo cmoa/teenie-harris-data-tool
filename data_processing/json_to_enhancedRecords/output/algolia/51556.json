@@ -1,0 +1,155 @@
+{
+  "objectID": 51556,
+  "irn": 51556,
+  "ecatalogue_key": 38409,
+  "TitAccessionNo": "2001.35.38450",
+  "CreDateCreated": "c. 1935-1945",
+  "CreEarliestDate": "1935",
+  "CreLatestDate": "1945",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of man holding pamphlets with picture of man and initials \"J.C...\" posed in front of brick building with glass blocks, and sign that reads \"Dr. Taylor Dentist,\" possibly Centre Avenue, Hill District",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Glass blocks--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "b3ed9672-5644-44c3-aa27-2c98d825c191",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60405/sizes/51556-1680.jpg",
+  "datetime": "1935-01-01 00:00:00",
+  "people": [
+    "J.C",
+    "Taylor Dentist"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Hill District",
+      "short_name": "Hill District"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "DR TAYLOR\nDENTIST\n",
+  "subjects": [
+    "Glass blocks",
+    "Plants",
+    "Portraits",
+    "Doors",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Glass blocks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "J.C",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Plants",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hill District",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Doors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "street",
+      "score": 0.3125894633728027
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30754053333333337
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.3013672333333333
+    },
+    {
+      "keyword": "standing",
+      "score": 0.29338773333333334
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2851653333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2822898
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.28184543333333334
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "road",
+      "score": 0.25648293333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24810898333333334
+    },
+    {
+      "keyword": "window",
+      "score": 0.233542667953898
+    },
+    {
+      "keyword": "house",
+      "score": 0.21120653133728026
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60405/sizes/51556-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60405/sizes/51556-210.jpg",
+  "date_timestamp_earliest": -1104537600.0,
+  "date_timestamp_latest": -788918400.0,
+  "decades": []
+}

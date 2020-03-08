@@ -1,0 +1,96 @@
+{
+    "objectID": 45411,
+    "irn": 45411,
+    "ecatalogue_key": 32671,
+    "TitAccessionNo": "2001.35.32706",
+    "CreDateCreated": "c. 1946-1950",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men wearing caps, and a woman, serving men, including one wearing striped robe, in dining room with floral curtains, possibly in veteran's hospital",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Dining rooms--Pennsylvania--Pittsburgh.Veterans--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8f341653-137b-4c58-9ab4-3c398fcab170",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 52354,
+    "MulMultiMediaRef_key": 32679,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52354/sizes/45411-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dining rooms",
+        "Men",
+        "Food",
+        "Veterans"
+    ],
+    "keywords": [
+        {
+            "keyword": "Dining rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Veterans",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.322067790351359
+        },
+        {
+            "keyword": "table",
+            "score": 0.2958362383768717
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29087158
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26748601666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2435995
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23117888
+        },
+        {
+            "keyword": "cuisine",
+            "score": 0.21190653333333334
+        }
+    ]
+}

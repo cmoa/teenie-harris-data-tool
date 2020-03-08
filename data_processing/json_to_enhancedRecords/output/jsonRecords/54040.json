@@ -1,0 +1,100 @@
+{
+    "objectID": 54040,
+    "irn": 54040,
+    "ecatalogue_key": 40605,
+    "TitAccessionNo": "2001.35.40646",
+    "CreDateCreated": "c. 1950-1955",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of six men seated behind several pushed-together tables for banquet, in interior with map reading \"Golden Triangle District, and sign reading \"Together We Organize...New Troop Progress Chart...\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "52a6b261-fd37-4905-972d-c310d181c5c5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61243,
+    "MulMultiMediaRef_key": 40613,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61243/sizes/54040-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Golden Triangle District",
+            "short_name": "Golden Triangle District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "GOLDEN\nTRIANCLE\n",
+    "subjects": [
+        "Men",
+        "Dinners and dining",
+        "Maps",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Golden Triangle District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Together We Organize...New Troop Progress Chart",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2916898133333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27388117666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25173348333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21525724666666668
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "objectID": 35874,
+    "irn": 35874,
+    "ecatalogue_key": 23495,
+    "TitAccessionNo": "2001.35.23526",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of eight men wearing light colored dinner jackets, posed in home with chandelier, possibly on Kelly Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4bea295d-40e5-404d-b625-6dff8a12fd5e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42060,
+    "MulMultiMediaRef_key": 23503,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42060/sizes/35874-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Kelly Street",
+            "short_name": "Kelly Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Wedding costume",
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4246706158040363
+        },
+        {
+            "keyword": "male",
+            "score": 0.36823655562622065
+        },
+        {
+            "keyword": "Kelly Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Wedding costume",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.319457236562093
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3029032333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.29892448666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2713132
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2697916833333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22735502333333335
+        }
+    ]
+}

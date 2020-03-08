@@ -1,0 +1,80 @@
+{
+    "objectID": 35029,
+    "irn": 35029,
+    "ecatalogue_key": 22689,
+    "TitAccessionNo": "2001.35.22720",
+    "CreDateCreated": "1965",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys and girls, including three girls holding arms up, standing in line in interior with three doors on left wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9cbf0a73-5981-46e3-88e6-c8225dc18c21",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41080,
+    "MulMultiMediaRef_key": 22697,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41080/sizes/35029-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Girls",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3109753
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2851915333333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.28314775954915367
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2746617333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25845782
+        }
+    ]
+}

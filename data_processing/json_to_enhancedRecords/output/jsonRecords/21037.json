@@ -1,0 +1,116 @@
+{
+    "objectID": 21037,
+    "irn": 21037,
+    "ecatalogue_key": 11748,
+    "TitAccessionNo": "2001.35.11778",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man, possibly Nate Harper, and woman standing in hallway, hugging one another tightly, with woman walking through doorway in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a896a713-6ca0-45a1-9f80-445fe6eff616",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18932,
+    "MulMultiMediaRef_key": 11756,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18932/sizes/21037-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Nate Harper"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nate Harper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31393385
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3049794833333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2883582887349447
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28663663333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "emotion",
+            "score": 0.26878013333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.24993904333333336
+        },
+        {
+            "keyword": "interaction",
+            "score": 0.24956370000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.247503
+        },
+        {
+            "keyword": "romance",
+            "score": 0.24063203333333336
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2225998149749757
+        },
+        {
+            "keyword": "love",
+            "score": 0.22015829139465334
+        },
+        {
+            "keyword": "hug",
+            "score": 0.21378978
+        }
+    ]
+}

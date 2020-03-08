@@ -1,0 +1,98 @@
+{
+    "objectID": 18004,
+    "irn": 18004,
+    "ecatalogue_key": 9561,
+    "TitAccessionNo": "2001.35.9587",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men standing in front of large plaque reading \"Veterans Administration Hospital, Erected 1950\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Veterans' hospitals--Pennsylvania.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c1060c7b-3963-4a12-be3c-181cd215948a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26438,
+    "MulMultiMediaRef_key": 9569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26438/sizes/18004-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "VETERANS\nADMINISTRATION\nHOSPITAL\nERECTED\n1950\n",
+    "subjects": [
+        "Veterans' hospitals",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.41512702180989597
+        },
+        {
+            "keyword": "Veterans' hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31321493655151367
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29746282
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2843826666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26128898
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25226683333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23485747999999998
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.21845165429117833
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20057656666666668
+        }
+    ]
+}

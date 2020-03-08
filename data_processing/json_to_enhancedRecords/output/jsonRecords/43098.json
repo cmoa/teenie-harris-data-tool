@@ -1,0 +1,81 @@
+{
+    "objectID": 43098,
+    "irn": 43098,
+    "ecatalogue_key": 30340,
+    "TitAccessionNo": "2001.35.30373",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing dark jacket and tooled leather purse, resting on wooden bench, in interior with blocked off stairs",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b736adf8-194e-4333-acf1-8a885847b7a7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49679,
+    "MulMultiMediaRef_key": 30348,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49679/sizes/43098-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3096661766666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2873412766666667
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.283103
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2774762
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24883576666666665
+        },
+        {
+            "keyword": "film noir",
+            "score": 0.20142696666666668
+        }
+    ]
+}

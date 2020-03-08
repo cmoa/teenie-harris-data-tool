@@ -1,0 +1,94 @@
+{
+    "objectID": 20908,
+    "irn": 20908,
+    "ecatalogue_key": 11665,
+    "TitAccessionNo": "2001.35.11695",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two boys playing ping-pong, with four boys watching",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Sports--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dfde937f-b21b-4be7-a399-d52f72e117f2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27534,
+    "MulMultiMediaRef_key": 11673,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27534/sizes/20908-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "KODAK S AFETY\nFILM\nKODAK S\n",
+    "subjects": [
+        "Sports",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3833881876261393
+        },
+        {
+            "keyword": "table",
+            "score": 0.356802893794759
+        },
+        {
+            "keyword": "Sports",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30771561333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28507963333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.284432
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23881695666666666
+        },
+        {
+            "keyword": "plucked string instruments",
+            "score": 0.21355886666666668
+        },
+        {
+            "keyword": "string instrument",
+            "score": 0.20587566666666668
+        }
+    ]
+}

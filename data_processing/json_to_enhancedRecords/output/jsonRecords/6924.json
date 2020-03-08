@@ -1,0 +1,105 @@
+{
+    "objectID": 6924,
+    "irn": 6924,
+    "ecatalogue_key": 4298,
+    "TitAccessionNo": "2001.35.4307",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman speaking on telephone in office with marble wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Office equipment and supplies--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "86defbf2-16d1-4ce0-b5f9-6290f4efbca7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19472,
+    "MulMultiMediaRef_key": 4301,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19472/sizes/6924-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Eyeglasses",
+        "Office equipment and supplies",
+        "Desks",
+        "Women",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.38305879831258133
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office equipment and supplies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29468353333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2693142333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2652100133333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.262872999987793
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24790688333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22406293333333335
+        }
+    ]
+}

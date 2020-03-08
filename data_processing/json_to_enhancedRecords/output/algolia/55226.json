@@ -1,0 +1,121 @@
+{
+  "objectID": 55226,
+  "irn": 55226,
+  "ecatalogue_key": 41894,
+  "TitAccessionNo": "2001.35.41936",
+  "CreDateCreated": "c. 1953",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1956",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Woman wearing dark coat, hat, and shoes, standing in dilapidated interior with bare light bulb hanging from ceiling and stairs on right",
+  "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "51f6767c-5425-4868-a8e3-3edad3a26755",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62880/sizes/55226-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Stairs",
+    "Interiors",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "wall",
+      "score": 0.399530651636556
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.3507286350769043
+    },
+    {
+      "keyword": "door",
+      "score": 0.3487823121875
+    },
+    {
+      "keyword": "window",
+      "score": 0.336624277507731
+    },
+    {
+      "keyword": "house",
+      "score": 0.33414862267089834
+    },
+    {
+      "keyword": "Stairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3135535133333333
+    },
+    {
+      "keyword": "light",
+      "score": 0.30415484201253257
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29679866666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2814815666666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2547411133333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25251356666666663
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62880/sizes/55226-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62880/sizes/55226-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": -441849600.0,
+  "decades": [
+    "1950s"
+  ]
+}

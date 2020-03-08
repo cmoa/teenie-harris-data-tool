@@ -1,0 +1,98 @@
+{
+    "objectID": 52782,
+    "irn": 52782,
+    "ecatalogue_key": 39567,
+    "TitAccessionNo": "2001.35.39608",
+    "CreDateCreated": "c. 1935-1945",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Landscape with flowers and plants on elevated ground; houses and trees in background and utility lines above",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Plants--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1d813276-f5eb-47bc-bb1a-9b4a1373ebe4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60025,
+    "MulMultiMediaRef_key": 39575,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60025/sizes/52782-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Trees",
+        "Plants"
+    ],
+    "keywords": [
+        {
+            "keyword": "sky",
+            "score": 0.38848870573323563
+        },
+        {
+            "keyword": "tree",
+            "score": 0.34700595336018863
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.327184154169108
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31231745
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2928321333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2651982666666667
+        },
+        {
+            "keyword": "leaf",
+            "score": 0.25732720000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25597395333333334
+        },
+        {
+            "keyword": "winter",
+            "score": 0.255803637064616
+        }
+    ]
+}

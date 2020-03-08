@@ -1,0 +1,123 @@
+{
+    "objectID": 4762,
+    "irn": 4762,
+    "ecatalogue_key": 2751,
+    "TitAccessionNo": "2001.35.2755",
+    "CreDateCreated": "c. 1947-1960",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man in a straw hat",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5b94d6ab-85be-47fb-9da5-efc894d1c0a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17343,
+    "MulMultiMediaRef_key": 2753,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17343/sizes/4762-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Hats",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4410088086669923
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.39433319244873033
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.31634704942118336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3111770566666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29528360197143555
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29416343333333334
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2852516333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28234629
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.25978736666666663
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24507833333333331
+        },
+        {
+            "keyword": "retro style",
+            "score": 0.24462688
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23858183333333335
+        },
+        {
+            "keyword": "headgear",
+            "score": 0.23122495333333334
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.21423803333333333
+        }
+    ]
+}

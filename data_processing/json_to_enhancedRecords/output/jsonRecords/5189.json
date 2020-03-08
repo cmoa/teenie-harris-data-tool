@@ -1,0 +1,100 @@
+{
+    "objectID": 5189,
+    "irn": 5189,
+    "ecatalogue_key": 3129,
+    "TitAccessionNo": "2001.35.3136",
+    "CreDateCreated": "November 1954",
+    "CreEarliestDate": "1954-11-01",
+    "CreLatestDate": "1954-11-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Pittsburgh Courier newspaper press operator, possibly William Brown, possibly printing Chicago or other Midwestern edition",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pittsburgh Courier Publishing Co.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bdc40790-e6ed-4298-8221-071a31ee51c9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17578,
+    "MulMultiMediaRef_key": 3131,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17578/sizes/5189-1680.jpg",
+    "date_timestamp_earliest": -478656000.0,
+    "date_timestamp_latest": -476409600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "William Brown"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Chicago",
+            "short_name": "Chicago"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Pittsburgh courier"
+    ],
+    "keywords": [
+        {
+            "keyword": "Midwestern",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Brown",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier Publishing Co",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3025615
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27003546666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26432436666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24370898666666665
+        },
+        {
+            "keyword": "metal",
+            "score": 0.22125082522867834
+        }
+    ]
+}

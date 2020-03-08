@@ -1,0 +1,94 @@
+{
+  "objectID": 3905,
+  "irn": 3905,
+  "ecatalogue_key": 4199,
+  "TitAccessionNo": "2001.35.4208",
+  "CreDateCreated": "c. 1945-1950",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Interior of church looking towards altar with pipe organ",
+  "CatSubject_tab": "Churches--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "af398c91-b11e-471c-8d62-449de8d9d89c",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18759/sizes/3905-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Organs",
+    "Interiors"
+  ],
+  "keywords": [
+    {
+      "keyword": "architecture",
+      "score": 0.349292272302246
+    },
+    {
+      "keyword": "Organs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3071197
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2813852233333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26815245666666665
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24937043333333334
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.22977022333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18759/sizes/3905-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18759/sizes/3905-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

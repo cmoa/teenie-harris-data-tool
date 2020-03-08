@@ -1,0 +1,113 @@
+{
+    "objectID": 21505,
+    "irn": 21505,
+    "ecatalogue_key": 12184,
+    "TitAccessionNo": "2001.35.12214",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "The names on the panel in the background read, \" Younge and J. Feigel \".",
+    "TitMainTitle": "Man wearing suit and large mask shaped medallion, with person holding microphone out in foreground, and men and women on panel on stage in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "43a0df89-5b7c-4f5d-903a-d9349b932a31",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28017,
+    "MulMultiMediaRef_key": 12192,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28017/sizes/21505-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Younge",
+        "J. Feigel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "ounque\nJ. Feigel\n",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44638444070638034
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Younge",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "J. Feigel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32606548890380865
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3114359788960773
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29429496666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27885168666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25955399
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2556049833333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.24755330133829764
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2288143
+        },
+        {
+            "keyword": "human",
+            "score": 0.2268011
+        }
+    ]
+}

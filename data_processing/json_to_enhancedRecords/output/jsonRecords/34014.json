@@ -1,0 +1,103 @@
+{
+    "objectID": 34014,
+    "irn": 34014,
+    "ecatalogue_key": 21960,
+    "TitAccessionNo": "2001.35.21991",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women seated around circular banquet tables, including woman turning in chair, wearing light colored skirt, jacket, and hat with bow, in interior with square pillars and tall curtains, possibly William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c52106d1-7500-4a23-ae30-cfeb8546cb4d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40517,
+    "MulMultiMediaRef_key": 21968,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40517/sizes/34014-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "William Penn Hotel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 24,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2790729
+        },
+        {
+            "keyword": "event",
+            "score": 0.27840201000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27101773333333334
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.26701418666666665
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.2641353
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.25453776666666666
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.2250401
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22038028666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21575243333333335
+        },
+        {
+            "keyword": "rehearsal dinner",
+            "score": 0.20203183333333333
+        },
+        {
+            "keyword": "wedding reception",
+            "score": 0.20039980000000002
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "objectID": 840,
+    "irn": 840,
+    "ecatalogue_key": 67,
+    "TitAccessionNo": "2001.35.69",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd scene in large arena",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a6c1bc4a-1b8e-41d2-8147-2c25b6944af8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14993,
+    "MulMultiMediaRef_key": 67,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14993/sizes/840-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 33,
+    "google_text_in_image": "",
+    "subjects": [
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.3475684310163371
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.31470034666666663
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3105814666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28765024666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2766054
+        },
+        {
+            "keyword": "audience",
+            "score": 0.2755923
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24949506666666665
+        }
+    ]
+}

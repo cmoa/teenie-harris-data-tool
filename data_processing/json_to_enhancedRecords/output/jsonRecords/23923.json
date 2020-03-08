@@ -1,0 +1,77 @@
+{
+    "objectID": 23923,
+    "irn": 23923,
+    "ecatalogue_key": 14189,
+    "TitAccessionNo": "2001.35.14219",
+    "CreDateCreated": "c. 1940-1965",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys lifting planks covering ditch on hillside near housing",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b10f7ba3-d670-4029-a22f-7f5f9fc32e2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30226,
+    "MulMultiMediaRef_key": 14197,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30226/sizes/23923-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31260615666666663
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29714196666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28193813333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25356433333333334
+        },
+        {
+            "keyword": "sky",
+            "score": 0.24583014736531564
+        }
+    ]
+}

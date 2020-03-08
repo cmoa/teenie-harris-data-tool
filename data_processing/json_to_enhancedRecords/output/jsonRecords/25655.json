@@ -1,0 +1,118 @@
+{
+    "objectID": 25655,
+    "irn": 25655,
+    "ecatalogue_key": 15511,
+    "TitAccessionNo": "2001.35.15541",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing striped tie and moustache, standing in front of wall with egg and dart trim",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "05ab374f-e2e0-4750-8696-8a18c546d324",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31899,
+    "MulMultiMediaRef_key": 15519,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31899/sizes/25655-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.510955898050944
+        },
+        {
+            "keyword": "person",
+            "score": 0.45288758463134765
+        },
+        {
+            "keyword": "male",
+            "score": 0.44334208324788404
+        },
+        {
+            "keyword": "suit",
+            "score": 0.41762765581868494
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3804740752034506
+        },
+        {
+            "keyword": "standing",
+            "score": 0.37122718143717437
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "elevator",
+            "score": 0.31915659586588535
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29357416666666664
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28205589999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28029741999999996
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.270967339189453
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2664454394641113
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26206161666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23461756666666667
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "objectID": 48425,
+    "irn": 48425,
+    "ecatalogue_key": 35442,
+    "TitAccessionNo": "2001.35.35479",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark bathing suit, diving backwards into pool, in indoor pool with men and boys standing along wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Diving--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Swimmers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3e35a9af-6f58-45d0-9111-a00fcb8299a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57482,
+    "MulMultiMediaRef_key": 35450,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57482/sizes/48425-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Swimmers",
+        "Men",
+        "Swimming pools",
+        "Diving",
+        "Bathing suits"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.343295584396159
+        },
+        {
+            "keyword": "Swimmers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Diving",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathing suits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31287334333333333
+        },
+        {
+            "keyword": "light",
+            "score": 0.3033723105466715
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29663259999999997
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.28740918666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2865455666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2520100333333333
+        },
+        {
+            "keyword": "sky",
+            "score": 0.2478518171343994
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.21343831333333332
+        }
+    ]
+}

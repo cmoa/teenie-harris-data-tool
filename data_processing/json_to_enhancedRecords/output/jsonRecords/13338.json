@@ -1,0 +1,82 @@
+{
+    "objectID": 13338,
+    "irn": 13338,
+    "ecatalogue_key": 6910,
+    "TitAccessionNo": "2001.35.6925",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women in front of demonstration voting machine",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Voting-machines--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "09fa66ca-172f-47d1-b00f-6809f2e92ab7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23567,
+    "MulMultiMediaRef_key": 6918,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23567/sizes/13338-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "Y COMMISSION MEMBERS AREA\nGoOSE\n",
+    "subjects": [
+        "Voting-machines",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Voting-machines",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3074000666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.288335609781901
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28175868666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27715164333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23408513333333333
+        }
+    ]
+}

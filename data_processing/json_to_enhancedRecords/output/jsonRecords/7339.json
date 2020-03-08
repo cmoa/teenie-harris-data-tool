@@ -1,0 +1,105 @@
+{
+    "objectID": 7339,
+    "irn": 7339,
+    "ecatalogue_key": 4479,
+    "TitAccessionNo": "2001.35.4488",
+    "CreDateCreated": "c. 1960-1970",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men gathered around table in room with crucifix on wall and chalkboard inscribed \"pheochromocytoma\"  in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Crucifixes--Pennsylvania--Pittsburgh.Chalkboards--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24456c4e-d387-4d69-809b-dbe2df0d5dd3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19059,
+    "MulMultiMediaRef_key": 4482,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19059/sizes/7339-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Books",
+        "Men",
+        "Neckties",
+        "Suits (Clothing)",
+        "Chairs",
+        "Blackboards",
+        "Eyeglasses",
+        "Crosses",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crucifixes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neckties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chalkboards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2627162
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22022436666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.21822051333333334
+        }
+    ]
+}

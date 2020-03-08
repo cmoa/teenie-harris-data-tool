@@ -1,0 +1,63 @@
+{
+    "objectID": 53604,
+    "irn": 53604,
+    "ecatalogue_key": 40181,
+    "TitAccessionNo": "2001.35.40222",
+    "CreDateCreated": "c. 1936-1945",
+    "CreEarliestDate": "1931",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, diagonally striped tie, and light colored fedora with dark band, posed with foot on running board of car",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47c8a7ae-d68f-4b98-9bfd-399da36ebabd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60437,
+    "MulMultiMediaRef_key": 40189,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60437/sizes/53604-1680.jpg",
+    "date_timestamp_earliest": -1230768000.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Automobiles",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        }
+    ]
+}

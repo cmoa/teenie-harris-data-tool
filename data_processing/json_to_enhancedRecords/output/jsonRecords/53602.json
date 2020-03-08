@@ -1,0 +1,63 @@
+{
+    "objectID": 53602,
+    "irn": 53602,
+    "ecatalogue_key": 40180,
+    "TitAccessionNo": "2001.35.40221",
+    "CreDateCreated": "c. 1925-1945",
+    "CreEarliestDate": "1925",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling woman wearing dark shiny jacket with puffed shoulders, posed in front of building or storefront with small balcony on second floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d38c34ad-4ff3-47b8-a2c6-9f4e742dab28",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60436,
+    "MulMultiMediaRef_key": 40188,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60436/sizes/53602-1680.jpg",
+    "date_timestamp_earliest": -1420070400.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        }
+    ]
+}

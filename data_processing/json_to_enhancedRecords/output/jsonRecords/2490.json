@@ -1,0 +1,98 @@
+{
+    "objectID": 2490,
+    "irn": 2490,
+    "ecatalogue_key": 1087,
+    "TitAccessionNo": "2001.35.1089",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Painting of a man with guitar hanging in gallery",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Paintings--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40fdce9f-056c-47ea-970f-f8db8c40d827",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18202,
+    "MulMultiMediaRef_key": 1089,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18202/sizes/2490-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "FILM\nKODAK SAFETY F\nFILM\n",
+    "subjects": [
+        "Interiors",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "art",
+            "score": 0.37228465005289696
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30587043333333336
+        },
+        {
+            "keyword": "drawing",
+            "score": 0.25964798666666666
+        },
+        {
+            "keyword": "modern art",
+            "score": 0.24602710000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23739243333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23570976666666665
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.22444586666666666
+        },
+        {
+            "keyword": "graffito",
+            "score": 0.22240608215332033
+        },
+        {
+            "keyword": "artwork",
+            "score": 0.2199711666666667
+        },
+        {
+            "keyword": "visual arts",
+            "score": 0.21237103333333332
+        }
+    ]
+}

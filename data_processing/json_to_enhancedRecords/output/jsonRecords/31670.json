@@ -1,0 +1,110 @@
+{
+    "objectID": 31670,
+    "irn": 31670,
+    "ecatalogue_key": 19859,
+    "TitAccessionNo": "2001.35.19890",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman playing piano on right, with children in room with tree mural, possibly at Trinity Episcopal Cathedral, in downtown Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trinity Episcopal Cathedral (Pittsburgh, Pa.)Churches--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cd2ecd9b-7657-40ff-8e5c-3f36231e778f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38372,
+    "MulMultiMediaRef_key": 19867,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38372/sizes/31670-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Churches",
+            "short_name": "Pa.)Churches"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "KODAK SAFETYFILM\n2\n",
+    "subjects": [
+        "Women",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trinity Episcopal Cathedral ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trinity Episcopal Cathedral",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3027689
+        },
+        {
+            "keyword": "room",
+            "score": 0.295853754679362
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2753458833333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.26860595619913735
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2674069333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.26492876892903633
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.2647235870361327
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23942233333333332
+        }
+    ]
+}

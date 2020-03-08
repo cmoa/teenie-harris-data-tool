@@ -1,0 +1,124 @@
+{
+    "objectID": 65481,
+    "irn": 65481,
+    "ecatalogue_key": 51275,
+    "TitAccessionNo": "2001.35.51318",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit and vest with chain with maltese cross, light colored button down collared shirt, dark necktie, and moustache, seated with hands clasped in front of light colored background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47c9522a-a99e-46fc-81bb-40c4f33821c3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75174,
+    "MulMultiMediaRef_key": 51283,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75174/sizes/65481-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Clothing and dress",
+        "Portraits",
+        "Men",
+        "Jewelry"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5096633944335937
+        },
+        {
+            "keyword": "man",
+            "score": 0.5083498097005207
+        },
+        {
+            "keyword": "person",
+            "score": 0.4543776150105793
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3822915626985677
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.371797461735026
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jewelry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2945453333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2853580666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27801462
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26042493333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23730326666666668
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.21805351257324235
+        },
+        {
+            "keyword": "elder",
+            "score": 0.20138911333333334
+        },
+        {
+            "keyword": "business executive",
+            "score": 0.2000410566666667
+        }
+    ]
+}

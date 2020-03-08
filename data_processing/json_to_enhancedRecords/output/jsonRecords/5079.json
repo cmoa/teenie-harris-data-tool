@@ -1,0 +1,113 @@
+{
+    "objectID": 5079,
+    "irn": 5079,
+    "ecatalogue_key": 3025,
+    "TitAccessionNo": "2001.35.3032",
+    "CreDateCreated": "May - June 1944",
+    "CreEarliestDate": "1944-05-01",
+    "CreLatestDate": "1944-06-05",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Captain and fire fighter from Engine Co. 26 with hose in New Granada Theatre",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fire fighters--Pennsylvania--Pittsburgh.Fire hose--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d6ff4c3f-26fd-427f-a0c5-4092091f3178",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17463,
+    "MulMultiMediaRef_key": 3027,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17463/sizes/5079-1680.jpg",
+    "date_timestamp_earliest": -810086400.0,
+    "date_timestamp_latest": -807062400.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Engine Co.",
+            "short_name": "Engine Co."
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Fire fighters",
+        "Men",
+        "Fire hose",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38445483972371436
+        },
+        {
+            "keyword": "Engine Co.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire fighters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire hose",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "New Granada Theatre",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30151808333333335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28312428666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26770015666666663
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26510153333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2371227
+        }
+    ]
+}

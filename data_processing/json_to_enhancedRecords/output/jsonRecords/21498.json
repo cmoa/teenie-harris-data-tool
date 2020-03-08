@@ -1,0 +1,97 @@
+{
+    "objectID": 21498,
+    "irn": 21498,
+    "ecatalogue_key": 12241,
+    "TitAccessionNo": "2001.35.12271",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around banquet table in the Grand Ballroom of the William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "William Penn Hotel (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8f2ad977-631a-4aea-ad92-9258527c1a1f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28085,
+    "MulMultiMediaRef_key": 12249,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28085/sizes/21498-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.30520020560017896
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2951372666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2634511
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26168983333333334
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2459006
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22593784333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.21068505333333332
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20476123333333332
+        }
+    ]
+}

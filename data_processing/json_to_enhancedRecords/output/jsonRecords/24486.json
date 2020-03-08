@@ -1,0 +1,93 @@
+{
+    "objectID": 24486,
+    "irn": 24486,
+    "ecatalogue_key": 14509,
+    "TitAccessionNo": "2001.35.14539",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men, one possibly minister, standing at lectern in church with glass block window and painting of last supper, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d767e292-a602-4cf8-93ce-30844548d9cd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30895,
+    "MulMultiMediaRef_key": 14517,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30895/sizes/24486-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAK SAFETY FILM\n6\n",
+    "subjects": [
+        "Men",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29811708
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2717403666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26076374333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23940978333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23311581333333334
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22483635701395668
+        }
+    ]
+}

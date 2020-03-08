@@ -1,0 +1,86 @@
+{
+  "objectID": 19518,
+  "irn": 19518,
+  "ecatalogue_key": 10215,
+  "TitAccessionNo": "2001.35.10241",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at small wooden desks with documents and brochures in classroom, possibly in insurance office",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Insurance companies--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "63cfd54b-1c5c-4ad9-8638-ed68c3bee504",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25995/sizes/19518-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 18,
+  "google_text_in_image": "",
+  "subjects": [
+    "Insurance companies",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "room",
+      "score": 0.432099173824056
+    },
+    {
+      "keyword": "classroom",
+      "score": 0.42815707212727866
+    },
+    {
+      "keyword": "Insurance companies",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2620272833333333
+    },
+    {
+      "keyword": "institution",
+      "score": 0.24095442
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25995/sizes/19518-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25995/sizes/19518-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 12197,
+    "irn": 12197,
+    "ecatalogue_key": 6054,
+    "TitAccessionNo": "2001.35.6064",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Nurse working in operating room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Nurses--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.Health care--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7c22a11a-d620-4c90-85be-6ca2f9d4ebd0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20958,
+    "MulMultiMediaRef_key": 6061,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20958/sizes/12197-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Medical care",
+        "Hospitals",
+        "Women",
+        "Nurses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Nurse",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nurses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Health care",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3003496133333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2689007133333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2555858902339681
+        },
+        {
+            "keyword": "table",
+            "score": 0.25363648
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2483531
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24574538
+        },
+        {
+            "keyword": "medical equipment",
+            "score": 0.21389686666666666
+        }
+    ]
+}

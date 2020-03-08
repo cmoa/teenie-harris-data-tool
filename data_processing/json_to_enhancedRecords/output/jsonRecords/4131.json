@@ -1,0 +1,112 @@
+{
+    "objectID": 4131,
+    "irn": 4131,
+    "ecatalogue_key": 2384,
+    "TitAccessionNo": "2001.35.2388",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing three piece suit and moustache, holding telephone and seated at desk, in an office with geometric patterned curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cb4faeb6-91fb-4061-9f3b-dadd2cdc6716",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16581,
+    "MulMultiMediaRef_key": 2386,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16581/sizes/4131-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Telephone",
+        "Windows",
+        "Draperies"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.33748340788167336
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Curtains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30392579999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2841537
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2740129978037516
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2718042533333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.255124146085612
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23239865
+        },
+        {
+            "keyword": "window",
+            "score": 0.23218085459493
+        },
+        {
+            "keyword": "house",
+            "score": 0.21432272423604334
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.20638768353373207
+        }
+    ]
+}

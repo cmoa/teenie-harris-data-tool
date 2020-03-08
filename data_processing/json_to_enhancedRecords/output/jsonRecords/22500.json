@@ -1,0 +1,80 @@
+{
+    "objectID": 22500,
+    "irn": 22500,
+    "ecatalogue_key": 13089,
+    "TitAccessionNo": "2001.35.13119",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Congregation standing in Central Baptist Church with side balcony, seen from behind minister",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42a04ef3-a603-46ac-85c6-cbc0e043a885",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28924,
+    "MulMultiMediaRef_key": 13097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28924/sizes/22500-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 29,
+    "google_text_in_image": "",
+    "subjects": [
+        "Church buildings",
+        "Men",
+        "Women",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Central Baptist Church",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2515666463523356
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2371538333333333
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "objectID": 19652,
+    "irn": 19652,
+    "ecatalogue_key": 10689,
+    "TitAccessionNo": "2001.35.10715",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, possibly bus drivers, walking around in Port Authority Transit Garage, with buses in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d4a68ae1-6ace-4f3d-b52e-3591ce6a992c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21169,
+    "MulMultiMediaRef_key": 10697,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21169/sizes/19652-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Port Authority Transit Garage",
+            "short_name": "Port Authority Transit Garage"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "0\nKIN\nFETY\nFILM\nKODAK SAFETY\nF ILM\n",
+    "subjects": [
+        "Men",
+        "Buses"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4233000380493164
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Port Authority Transit Garage",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29810556666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28255986666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.27161777931722003
+        },
+        {
+            "keyword": "fun",
+            "score": 0.25096984411722834
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2497509
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24111081999999998
+        },
+        {
+            "keyword": "ballplayer",
+            "score": 0.21788795471191402
+        },
+        {
+            "keyword": "athlete",
+            "score": 0.20802490234375
+        },
+        {
+            "keyword": "player",
+            "score": 0.20184696197509766
+        }
+    ]
+}

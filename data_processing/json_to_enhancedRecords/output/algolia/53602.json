@@ -1,0 +1,70 @@
+{
+  "objectID": 53602,
+  "irn": 53602,
+  "ecatalogue_key": 40180,
+  "TitAccessionNo": "2001.35.40221",
+  "CreDateCreated": "c. 1925-1945",
+  "CreEarliestDate": "1925",
+  "CreLatestDate": "1945",
+  "PhyMediumComments": "black-and-white: unknown nitrate film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of smiling woman wearing dark shiny jacket with puffed shoulders, posed in front of building or storefront with small balcony on second floor",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "d38c34ad-4ff3-47b8-a2c6-9f4e742dab28",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60436/sizes/53602-1680.jpg",
+  "datetime": "1925-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Buildings",
+    "Portraits"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60436/sizes/53602-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60436/sizes/53602-210.jpg",
+  "date_timestamp_earliest": -1420070400.0,
+  "date_timestamp_latest": -788918400.0,
+  "decades": []
+}

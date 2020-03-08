@@ -1,0 +1,100 @@
+{
+    "objectID": 23859,
+    "irn": 23859,
+    "ecatalogue_key": 13994,
+    "TitAccessionNo": "2001.35.14024",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, one wearing military uniform, and women, seated at banquet tables, in interior with Christmas tree on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Christmas trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "73210e07-8077-4d5b-af48-d5797a9b5147",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29998,
+    "MulMultiMediaRef_key": 14002,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29998/sizes/23859-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 19,
+    "google_text_in_image": "",
+    "subjects": [
+        "Christmas trees",
+        "Men",
+        "Women",
+        "Military uniforms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christmas",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christmas trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2907089333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27809116666666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.25832453333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2484854
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22654609
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.21484895666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20912635333333332
+        }
+    ]
+}

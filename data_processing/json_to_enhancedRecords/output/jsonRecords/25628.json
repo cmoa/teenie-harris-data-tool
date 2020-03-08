@@ -1,0 +1,106 @@
+{
+    "objectID": 25628,
+    "irn": 25628,
+    "ecatalogue_key": 15212,
+    "TitAccessionNo": "2001.35.15242",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman seated with arms crossed on top of desk, with sword on wall and flower arrangement in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "834a1eb4-ab66-4f85-9ddc-9de9fc5c31c6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31674,
+    "MulMultiMediaRef_key": 15220,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31674/sizes/25628-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.43205144651692695
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.419986313305664
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "lady",
+            "score": 0.3243276126068117
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31472784209696464
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30627066666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2850410133333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2739527333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2691613333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26592081499532066
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25668773333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24041231333333335
+        }
+    ]
+}

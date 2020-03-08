@@ -1,0 +1,102 @@
+{
+    "objectID": 25436,
+    "irn": 25436,
+    "ecatalogue_key": 15180,
+    "TitAccessionNo": "2001.35.15210",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing gown with corsage pinned on shoulder and long gloves",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4168b9de-9cf2-4ff2-859a-2afbc2947e96",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31556,
+    "MulMultiMediaRef_key": 15188,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31556/sizes/25436-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "dress",
+            "score": 0.358630752085368
+        },
+        {
+            "keyword": "standing",
+            "score": 0.34265103178873696
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "woman",
+            "score": 0.31686983333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30828863333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2864821
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2816035
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2705958333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23563783333333332
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20666163333333332
+        },
+        {
+            "keyword": "gown",
+            "score": 0.20223985
+        }
+    ]
+}

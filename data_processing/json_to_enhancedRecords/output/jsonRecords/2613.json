@@ -1,0 +1,89 @@
+{
+    "objectID": 2613,
+    "irn": 2613,
+    "ecatalogue_key": 1211,
+    "TitAccessionNo": "2001.35.1213",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man with palette and palette knife standing in front of landscape and still life paintings",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7494fe2c-0bcf-4ecd-8d4b-505ba79f88ca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15565,
+    "MulMultiMediaRef_key": 1213,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15565/sizes/2613-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30487177666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2697442
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.26618744730183935
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26405246666666665
+        },
+        {
+            "keyword": "house",
+            "score": 0.26001643329264335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2568593
+        },
+        {
+            "keyword": "window",
+            "score": 0.23677785571492502
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22774235333333334
+        }
+    ]
+}

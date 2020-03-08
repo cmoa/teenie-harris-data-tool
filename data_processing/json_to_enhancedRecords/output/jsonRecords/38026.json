@@ -1,0 +1,106 @@
+{
+    "objectID": 38026,
+    "irn": 38026,
+    "ecatalogue_key": 25616,
+    "TitAccessionNo": "2001.35.25648",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling baby, possibly from Washington family, wearing light colored dress, seated on sofa, with portrait photographs and lamp in background, possibly in Homestead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Homestead.Portraits--Pennsylvania--Homestead.Living room furniture--Pennsylvania--Homestead.",
+    "AdmGUIDValue_tab": "eed61e9b-9308-44e2-b121-abfcab47fde6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44390,
+    "MulMultiMediaRef_key": 25624,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44390/sizes/38026-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Washington",
+            "short_name": "Washington"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Homestead",
+            "short_name": "Homestead"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Living room furniture",
+        "Babies",
+        "Infants"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.391533973984782
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Living room furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Babies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31530082333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30459986666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28559013333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25052925
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.24477098579711912
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21230610000000003
+        },
+        {
+            "keyword": "armchair",
+            "score": 0.2050600560506183
+        }
+    ]
+}

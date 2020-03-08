@@ -1,0 +1,106 @@
+{
+    "objectID": 44406,
+    "irn": 44406,
+    "ecatalogue_key": 31689,
+    "TitAccessionNo": "2001.35.31724",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark double breasted suit, standing behind church pew? in interior with two toned walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "30c9b77a-1d66-40d3-9af9-1b29f3f4fa66",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51126,
+    "MulMultiMediaRef_key": 31697,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51126/sizes/44406-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.47222244218261733
+        },
+        {
+            "keyword": "suit",
+            "score": 0.46396058472819
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.33977625482177737
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33888814396464034
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29357096666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2844178866666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28211418666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.27254608173624667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25568849
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.24452123333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21499504666666666
+        }
+    ]
+}

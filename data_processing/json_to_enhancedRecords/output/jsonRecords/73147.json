@@ -1,0 +1,105 @@
+{
+    "objectID": 73147,
+    "irn": 73147,
+    "ecatalogue_key": 57534,
+    "TitAccessionNo": "2001.35.57577",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored suit, eyeglasses, and diagonally striped tie, possibly issuing oath to men gathered around him with raised right hands, in office with portrait of man on wall, and venetian blinds",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Oaths--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8054f8a2-d552-46f5-979d-ef6511596dcb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93221,
+    "MulMultiMediaRef_key": 57543,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93221/sizes/73147-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Oaths",
+        "Portraits, Group",
+        "Men",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43426860352050767
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Oaths",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.28191743854777035
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27893283333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2614630866666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24284291983032233
+        },
+        {
+            "keyword": "event",
+            "score": 0.23950263333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2139447
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20112006666666668
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 43311,
+    "irn": 43311,
+    "ecatalogue_key": 30693,
+    "TitAccessionNo": "2001.35.30726",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit with square patterned necktie, in Harris Studio with circular background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45f66574-9946-4a2e-9899-16d4a9475a9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50102,
+    "MulMultiMediaRef_key": 30701,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50102/sizes/43311-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.495751742126465
+        },
+        {
+            "keyword": "person",
+            "score": 0.45381586654052736
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3592054212687173
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2917713333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2845848
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27644423333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25880241333333337
+        },
+        {
+            "keyword": "suit",
+            "score": 0.24179550170898434
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22779003333333334
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.20898638407389333
+        }
+    ]
+}

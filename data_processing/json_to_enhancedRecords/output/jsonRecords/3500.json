@@ -1,0 +1,123 @@
+{
+    "objectID": 3500,
+    "irn": 3500,
+    "ecatalogue_key": 2046,
+    "TitAccessionNo": "2001.35.2049",
+    "CreDateCreated": "c. 1955-1959",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of four women, including Sherlynn Dudley Reid, daughter of Mary Dee, on left, Jean Bell Kelsy fourth from left, and man, standing in front Mary Dee's radio station studio door marked \"Studio Dee\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Radio stations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bb5d0acb-7012-46ef-ab9f-3f7df87db788",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16402,
+    "MulMultiMediaRef_key": 2048,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16402/sizes/3500-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": -347155200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Mary Dee",
+        "Jean Bell Kelsy",
+        "Sherlynn Dudley Reid",
+        "Mary Dee 's"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "Studio\nDet\n",
+    "subjects": [
+        "Radio stations",
+        "Women",
+        "Portraits, Group",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mary Dee",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio Dee",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Radio stations",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30069472174580897
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2881111333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27308913333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "family",
+            "score": 0.25384800528422036
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24722573333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23223093333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.22166623333333335
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21757956666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21654130000000002
+        }
+    ]
+}

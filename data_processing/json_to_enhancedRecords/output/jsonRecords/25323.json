@@ -1,0 +1,107 @@
+{
+    "objectID": 25323,
+    "irn": 25323,
+    "ecatalogue_key": 15812,
+    "TitAccessionNo": "2001.35.15842",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around banquet tables with place settings, with three cakes on table at center",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2946518f-5f83-41c7-a7d4-7c5738635219",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34849,
+    "MulMultiMediaRef_key": 15820,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34849/sizes/25323-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 24,
+    "google_text_in_image": "",
+    "subjects": [
+        "Cake",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.39799138660888667
+        },
+        {
+            "keyword": "Cakes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "room",
+            "score": 0.29393084208170567
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29343088333333334
+        },
+        {
+            "keyword": "house",
+            "score": 0.29272749547932936
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.28532365130615234
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.2791617
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26604900000000004
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25286152
+        },
+        {
+            "keyword": "chair",
+            "score": 0.224594472249349
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21237903333333333
+        },
+        {
+            "keyword": "interior",
+            "score": 0.21225673675537102
+        }
+    ]
+}

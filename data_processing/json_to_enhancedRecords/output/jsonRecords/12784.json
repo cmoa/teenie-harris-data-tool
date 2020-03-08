@@ -1,0 +1,88 @@
+{
+    "objectID": 12784,
+    "irn": 12784,
+    "ecatalogue_key": 6534,
+    "TitAccessionNo": "2001.35.6545",
+    "CreDateCreated": "c. 1955-1970",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boy seated in giant shovel with crowd in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ad1cdec1-aecc-48fa-be66-4785aacc45f4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22465,
+    "MulMultiMediaRef_key": 6542,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22465/sizes/12784-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hats",
+        "Men",
+        "Boys",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31340819999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29562103333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2635291
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25749079999999996
+        },
+        {
+            "keyword": "stone carving",
+            "score": 0.25335156666666664
+        }
+    ]
+}

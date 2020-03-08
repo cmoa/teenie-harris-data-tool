@@ -1,0 +1,110 @@
+{
+  "objectID": 8160,
+  "irn": 8160,
+  "ecatalogue_key": 5005,
+  "TitAccessionNo": "2001.35.5014",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Fire fighters from Truck Company no. 29 fighting blaze in alley with snow",
+  "CatSubject_tab": "Fire fighters--Pennsylvania--Pittsburgh.Fires--Pennsylvania--Pittsburgh.Snow--Pennsylvania--Pittsburgh.Fire trucks--Pennsylvania--Pittsburgh.Fire hose--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "bd40404c-2626-4e85-9142-5b3c7e36e695",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21916/sizes/8160-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "",
+  "subjects": [
+    "Snow",
+    "Fire hose",
+    "Automobiles",
+    "Fire fighters",
+    "Buildings",
+    "Fires",
+    "Fire engines"
+  ],
+  "keywords": [
+    {
+      "keyword": "Truck Company",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Snow",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fire hose",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Automobiles",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fire fighters",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fire trucks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fires",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3121759
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2922261666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26484775666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24746943333333335
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21916/sizes/8160-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21916/sizes/8160-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

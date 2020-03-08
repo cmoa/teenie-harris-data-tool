@@ -1,0 +1,103 @@
+{
+    "objectID": 17773,
+    "irn": 17773,
+    "ecatalogue_key": 9405,
+    "TitAccessionNo": "2001.35.9431",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman wearing striped a-line dress standing in front of Pittsburgh Courier building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57b232cb-428a-4155-82f3-21e182e1948d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26381,
+    "MulMultiMediaRef_key": 9413,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26381/sizes/17773-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "THE\nour\nBEST\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Pittsburgh courier"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.36742701219116203
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.3136105343080647
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30460383333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30210906666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2805540166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27403156666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24979153333333334
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24040164666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21023301333333333
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "objectID": 13833,
+    "irn": 13833,
+    "ecatalogue_key": 7357,
+    "TitAccessionNo": "2001.35.7374",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Caterpillar construction equipment on empty lot with railroad bridge in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Construction equipment--Pennsylvania--Pittsburgh.Construction workers--Pennsylvania--Pittsburgh.Landscape--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b9268de8-072c-49d4-b70d-42cac5ed3d8f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22981,
+    "MulMultiMediaRef_key": 7365,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22981/sizes/13833-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "CATERPILLAR\n",
+    "subjects": [
+        "Construction workers",
+        "Construction equipment"
+    ],
+    "keywords": [
+        {
+            "keyword": "vehicle",
+            "score": 0.33609531469726567
+        },
+        {
+            "keyword": "transport",
+            "score": 0.33563990859049464
+        },
+        {
+            "keyword": "Construction workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Construction equipment",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Landscape",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3059129133333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.30367096666666665
+        },
+        {
+            "keyword": "car",
+            "score": 0.3022715726552327
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27191414333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24394079999999999
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "objectID": 4132,
+    "irn": 4132,
+    "ecatalogue_key": 2385,
+    "TitAccessionNo": "2001.35.2389",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man standing next to a cigarette machine",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Cigarettes--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ebbcdf41-69be-44e9-9637-f8c940a11c76",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17213,
+    "MulMultiMediaRef_key": 2387,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17213/sizes/4132-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "FRAN K\n",
+    "subjects": [
+        "Portraits",
+        "Cigarettes",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.41418313042806004
+        },
+        {
+            "keyword": "male",
+            "score": 0.351695164202881
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cigarettes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2931548566666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28223526666666665
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2782018766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26800540953063967
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2660360666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2537736
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.2527592766666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22304632333333332
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "objectID": 42695,
+    "irn": 42695,
+    "ecatalogue_key": 29992,
+    "TitAccessionNo": "2001.35.30025",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark suit with three buttons on jacket, pearl or bead necklace, and bracelets, seated at glass covered table with drink in glass inscribed \"Try...\", in interior with floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b274adff-b891-4d53-96f8-fc9b08066fff",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49492,
+    "MulMultiMediaRef_key": 30000,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49492/sizes/42695-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3166708989449057
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29276203333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27597653333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25868524086710604
+        },
+        {
+            "keyword": "human",
+            "score": 0.2543572116547648
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2488245166666667
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23576285333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22680529000000002
+        }
+    ]
+}

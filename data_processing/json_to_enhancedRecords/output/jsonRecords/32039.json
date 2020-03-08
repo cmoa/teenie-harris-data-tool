@@ -1,0 +1,101 @@
+{
+    "objectID": 32039,
+    "irn": 32039,
+    "ecatalogue_key": 20159,
+    "TitAccessionNo": "2001.35.20190",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing striped shirt and moustache, standing behind bar with can of Miller beer and eyeglasses, in interior with wood paneling, acoustic ceiling tiles, and mug inscribed \"Alpha Kappa Alpha, Jeannine\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5fedaf06-de34-4029-a379-c34b455ff8a3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38399,
+    "MulMultiMediaRef_key": 20167,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38399/sizes/32039-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "Jeannine"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Miller",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jeannine",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Alpha Kappa Alpha",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3068363333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27629393333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27507903333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26472922
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.24507785
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24002203333333336
+        }
+    ]
+}

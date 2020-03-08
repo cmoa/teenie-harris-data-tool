@@ -1,0 +1,126 @@
+{
+    "objectID": 8799,
+    "irn": 8799,
+    "ecatalogue_key": 5483,
+    "TitAccessionNo": "2001.35.5492",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and two women in African dress gathered in domestic interior with portrait drawings on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Sofas--Pennsylvania--Pittsburgh.Televisions--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "60718095-9029-4fc6-9a77-b8d5955a9acc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21358,
+    "MulMultiMediaRef_key": 5490,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21358/sizes/8799-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Sofas",
+        "Interior architecture",
+        "Interiors",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.34560575842793767
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "African",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sofas",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Televisions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3054132666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2774427333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27709188
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23543667666666668
+        },
+        {
+            "keyword": "family",
+            "score": 0.23188140217488598
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22990343333333332
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21329710000000002
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20829598000000002
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2003564
+        }
+    ]
+}

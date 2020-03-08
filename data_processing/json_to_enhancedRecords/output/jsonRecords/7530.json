@@ -1,0 +1,106 @@
+{
+    "objectID": 7530,
+    "irn": 7530,
+    "ecatalogue_key": 4630,
+    "TitAccessionNo": "2001.35.4639",
+    "CreDateCreated": "c. 1968",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Fire fighters fighting fire at one story building, another scene",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Fire fighters--Pennsylvania--Pittsburgh.Fire hose--Pennsylvania--Pittsburgh.Fires--Pennsylvania--Pittsburgh.Fire-damage--Pennsylvania--Pittsburgh.Smoke--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40bb1009-157b-4a8c-8ab0-13300357a493",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19795,
+    "MulMultiMediaRef_key": 4633,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19795/sizes/7530-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "KODAK SAFETY FI LM\nKODAK SAFETY FILM\n",
+    "subjects": [
+        "Buildings",
+        "Men",
+        "Fire hose",
+        "Fires",
+        "Fire fighters",
+        "Smoke"
+    ],
+    "keywords": [
+        {
+            "keyword": "smoke",
+            "score": 0.33723043241170236
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire-damage",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire hose",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fires",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire fighters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Smoke",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30879606666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2825862
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2712315
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24726630000000002
+        }
+    ]
+}

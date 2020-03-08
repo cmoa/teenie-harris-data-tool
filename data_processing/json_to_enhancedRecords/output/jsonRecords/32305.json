@@ -1,0 +1,104 @@
+{
+    "objectID": 32305,
+    "irn": 32305,
+    "ecatalogue_key": 20423,
+    "TitAccessionNo": "2001.35.20454",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three women, man, and boy, holding roasting pan, cruet set, and ice bucket, posed behind table with items including framed portrait of John F. Kennedy, model airplane, and horse and rider doll",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Toys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8aa2f581-796f-40cb-b575-ecd378e1cc65",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38601,
+    "MulMultiMediaRef_key": 20431,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38601/sizes/32305-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [
+        "John F. Kennedy"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Toys",
+        "Men",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Toys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John F. Kennedy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28680102
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2767092
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23424518000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22386514999999998
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2176821
+        },
+        {
+            "keyword": "design",
+            "score": 0.21741142
+        }
+    ]
+}

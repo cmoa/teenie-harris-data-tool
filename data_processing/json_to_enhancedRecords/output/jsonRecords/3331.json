@@ -1,0 +1,125 @@
+{
+    "objectID": 3331,
+    "irn": 3331,
+    "ecatalogue_key": 1889,
+    "TitAccessionNo": "2001.35.1892",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of \"Cozy\" Harris seated at piano, in club with curved wall and glass block bar in background, possibly Stanley's Tavern",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "23c68665-c9f0-4db9-b750-8c412ece0667",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16225,
+    "MulMultiMediaRef_key": 1891,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16225/sizes/3331-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Harris",
+        "Stanley"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "piano",
+            "score": 0.6427700333333334
+        },
+        {
+            "keyword": "keyboard",
+            "score": 0.3564307114648437
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stanley",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.30100985333333335
+        },
+        {
+            "keyword": "technology",
+            "score": 0.2898915174072267
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28620821333333335
+        },
+        {
+            "keyword": "jazz pianist",
+            "score": 0.26926653333333334
+        },
+        {
+            "keyword": "player piano",
+            "score": 0.26352400000000004
+        },
+        {
+            "keyword": "musical keyboard",
+            "score": 0.25366958
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23339416666666668
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.22097118666666668
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.218109
+        },
+        {
+            "keyword": "music",
+            "score": 0.20110154081298826
+        }
+    ]
+}

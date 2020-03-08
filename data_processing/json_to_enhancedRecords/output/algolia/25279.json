@@ -1,0 +1,87 @@
+{
+  "objectID": 25279,
+  "irn": 25279,
+  "ecatalogue_key": 15787,
+  "TitAccessionNo": "2001.35.15817",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man on left talking to fifteen women and man seated in pews, including woman standing in background in church",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "1715ec56-42ef-4afd-9cb6-cdb994e9faa6",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31702/sizes/25279-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 19,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interiors",
+    "Interior architecture",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28156811
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.21664253333333336
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.20810445
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31702/sizes/25279-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31702/sizes/25279-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

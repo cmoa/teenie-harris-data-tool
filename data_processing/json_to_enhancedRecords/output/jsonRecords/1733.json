@@ -1,0 +1,123 @@
+{
+    "objectID": 1733,
+    "irn": 1733,
+    "ecatalogue_key": 399,
+    "TitAccessionNo": "2001.35.401",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Fourteen men, possibly including Carl Redwood seated in right middle, in meeting space, possibly Ammon Recreation Center",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8c8850f3-f29f-48f1-953b-d3852d163b16",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15153,
+    "MulMultiMediaRef_key": 401,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15153/sizes/1733-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Carl Redwood"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Ammon Recreation Center",
+            "short_name": "Ammon Recreation Center"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Men",
+        "Meetings",
+        "Chairs",
+        "Interior architecture",
+        "Interiors",
+        "Congresses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Meetings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ammon Recreation Center",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3150306133333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27424123333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27033973333333333
+        },
+        {
+            "keyword": "team",
+            "score": 0.2560666892647297
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24296585362569165
+        },
+        {
+            "keyword": "institution",
+            "score": 0.22909976666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2038597
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20202673333333332
+        }
+    ]
+}

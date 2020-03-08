@@ -1,0 +1,102 @@
+{
+    "objectID": 18432,
+    "irn": 18432,
+    "ecatalogue_key": 9849,
+    "TitAccessionNo": "2001.35.9875",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, two wearing suits, one wearing uniform accepting envelope, standing in front of podium, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Coca-Cola Company.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "21e0b65d-edc8-4845-9263-90acc7696ca7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25664,
+    "MulMultiMediaRef_key": 9857,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25664/sizes/18432-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Uniforms",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Coca-Cola Company",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3206609590962727
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28897488
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2816488
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.25000751
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24351028666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.21972536666666667
+        },
+        {
+            "keyword": "family",
+            "score": 0.2142352336761475
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2108610333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20628953333333333
+        }
+    ]
+}

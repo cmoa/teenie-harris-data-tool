@@ -1,0 +1,118 @@
+{
+    "objectID": 6145,
+    "irn": 6145,
+    "ecatalogue_key": 3588,
+    "TitAccessionNo": "2001.35.3596",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Bill Nunn Jr. seated on table",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Nunn, William, Jr.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0047808f-4a77-462c-9f50-1fdf58dbf983",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19162,
+    "MulMultiMediaRef_key": 3591,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19162/sizes/6145-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Bill Nunn Jr."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK S'AFETY\nFILM\n",
+    "subjects": [
+        "Interior architecture",
+        "Men",
+        "Neckties",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.455344723071289
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.37172951646728497
+        },
+        {
+            "keyword": "standing",
+            "score": 0.344572700982666
+        },
+        {
+            "keyword": "Nunn, William, Jr",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neckties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.3167398932088217
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31211288710713697
+        },
+        {
+            "keyword": "professional",
+            "score": 0.29812753156738264
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29214865
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27654932
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2754701666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24667855000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23018093333333334
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 31105,
+    "irn": 31105,
+    "ecatalogue_key": 19239,
+    "TitAccessionNo": "2001.35.19269",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, one on left wearing plaid jacket and striped tie, leaning over blueprints, in office with door in background with transom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Architectural rendering--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "95ad5ded-aaa2-412f-ada3-3ccfd2a874c9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37060,
+    "MulMultiMediaRef_key": 19247,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37060/sizes/31105-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Architectural rendering",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44144267771402995
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.361739411376953
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Architectural rendering",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28956081333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27835061
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26609576883951835
+        },
+        {
+            "keyword": "fun",
+            "score": 0.26510959907735193
+        },
+        {
+            "keyword": "human",
+            "score": 0.25778116441721594
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24220680000000003
+        },
+        {
+            "keyword": "professional",
+            "score": 0.23825529084879568
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22056057239379867
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2039498
+        }
+    ]
+}

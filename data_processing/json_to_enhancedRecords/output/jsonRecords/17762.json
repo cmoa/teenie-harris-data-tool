@@ -1,0 +1,83 @@
+{
+    "objectID": 17762,
+    "irn": 17762,
+    "ecatalogue_key": 9401,
+    "TitAccessionNo": "2001.35.9427",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior view of basement bar with washer, hot water tank, tubs, chairs, tables, cooler and bar stools",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c070ae2e-e934-4fe1-a4e1-bcbc436eacf3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26375,
+    "MulMultiMediaRef_key": 9409,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26375/sizes/17762-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [],
+    "keywords": [
+        {
+            "keyword": "chair",
+            "score": 0.554317514477539
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.429155185970052
+        },
+        {
+            "keyword": "table",
+            "score": 0.3898613889628093
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.304834
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27379363333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26466446666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23917523333333335
+        },
+        {
+            "keyword": "window",
+            "score": 0.21927396148681635
+        }
+    ]
+}

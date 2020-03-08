@@ -1,0 +1,100 @@
+{
+    "objectID": 23828,
+    "irn": 23828,
+    "ecatalogue_key": 13981,
+    "TitAccessionNo": "2001.35.14011",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men, women, and children gathered in domestic interior, with columns on left and right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6be8809f-f1e4-4f26-8c55-17d7a48b5d99",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30297,
+    "MulMultiMediaRef_key": 13989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30297/sizes/23828-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Children",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3246200866666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2934334590631103
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2746482
+        },
+        {
+            "keyword": "family",
+            "score": 0.273059500829061
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2693739133333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.24349431292277016
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22340615666666666
+        }
+    ]
+}

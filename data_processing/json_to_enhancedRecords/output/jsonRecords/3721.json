@@ -1,0 +1,80 @@
+{
+    "objectID": 3721,
+    "irn": 3721,
+    "ecatalogue_key": 2127,
+    "TitAccessionNo": "2001.35.2130",
+    "CreDateCreated": "c.1949",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women contestants in matching outfits wearing corsages with ribbons and numbers on sidelines at Forbes Field?",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c71f350d-bf47-4fb8-bdb2-28e12ee6edc6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16437,
+    "MulMultiMediaRef_key": 2129,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16437/sizes/3721-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Forbes Field",
+            "short_name": "Forbes Field"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Forbes Field",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2891433666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2367574
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2053446
+        }
+    ]
+}

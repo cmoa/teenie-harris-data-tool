@@ -1,0 +1,118 @@
+{
+    "objectID": 21704,
+    "irn": 21704,
+    "ecatalogue_key": 12371,
+    "TitAccessionNo": "2001.35.12401",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling man wearing double breasted suit, with door in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "833d8735-7036-4b3f-b011-84daf5d27877",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28177,
+    "MulMultiMediaRef_key": 12379,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28177/sizes/21704-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4788895567879233
+        },
+        {
+            "keyword": "person",
+            "score": 0.4515150073567707
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4418546359855144
+        },
+        {
+            "keyword": "standing",
+            "score": 0.364919052207438
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3622055434733073
+        },
+        {
+            "keyword": "smile",
+            "score": 0.33612292153401696
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.3115345333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29074276666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28596327666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28020382
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26437538440266933
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25189228999999996
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.25085663333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21315594666666668
+        }
+    ]
+}

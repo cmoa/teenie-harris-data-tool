@@ -1,0 +1,83 @@
+{
+    "objectID": 47308,
+    "irn": 47308,
+    "ecatalogue_key": 34301,
+    "TitAccessionNo": "2001.35.34336",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "One man standing and two men and a woman seated at bar, standing man holding glass and cigarette, in interior with dark curtains and angular light fixtures",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Drinking customs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "49dcfe7b-29ed-45c2-9963-2cd2b3bedebf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53843,
+    "MulMultiMediaRef_key": 34309,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53843/sizes/47308-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Drinking customs",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drinking customs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2956722766666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2673064
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25498898666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24069261666666666
+        }
+    ]
+}

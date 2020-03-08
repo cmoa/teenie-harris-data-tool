@@ -1,0 +1,120 @@
+{
+    "objectID": 58545,
+    "irn": 58545,
+    "ecatalogue_key": 44674,
+    "TitAccessionNo": "2001.35.44717",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark double breasted jacket, dark bow tie, eyeglasses, and dark fez inscribed \"Sahara Past Potentate\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Freemasons--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c3769caf-10f4-4826-9508-7151af8c742f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66700,
+    "MulMultiMediaRef_key": 44682,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66700/sizes/58545-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Hats",
+        "Freemasons",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.416763770839437
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Freemasons",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sahara Past Potentate",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3055140137312827
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29897201
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28623364946665447
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2842519866666667
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.28408703097025567
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2731944333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.26516993333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2586568193951417
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24503314333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22134616666666665
+        }
+    ]
+}

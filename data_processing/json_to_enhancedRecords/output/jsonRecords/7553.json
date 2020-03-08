@@ -1,0 +1,110 @@
+{
+    "objectID": 7553,
+    "irn": 7553,
+    "ecatalogue_key": 4653,
+    "TitAccessionNo": "2001.35.4662",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man in African dress speaking in an interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Public speaking--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2408fa97-4b5a-4c9d-8576-e767a267b1a0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22421,
+    "MulMultiMediaRef_key": 4656,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22421/sizes/7553-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK S'AFETY\nKODAK\n",
+    "subjects": [
+        "Hats",
+        "Oratory",
+        "Interiors",
+        "Public speaking",
+        "Men",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "African",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Public speaking",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "cap",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31043158
+        },
+        {
+            "keyword": "headdress",
+            "score": 0.31011487325032566
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29330649999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27395073333333336
+        },
+        {
+            "keyword": "human",
+            "score": 0.2736550199951173
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2539033282381183
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24760629999999997
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "objectID": 18296,
+    "irn": 18296,
+    "ecatalogue_key": 9772,
+    "TitAccessionNo": "2001.35.9798",
+    "CreDateCreated": "c. 1942",
+    "CreEarliestDate": "1937",
+    "CreLatestDate": "1947",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Soldiers setting up tents in a row on Kennard Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b106f90a-7e4c-4fd1-a9c0-a0e5a5164029",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25601,
+    "MulMultiMediaRef_key": 9780,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25601/sizes/18296-1680.jpg",
+    "date_timestamp_earliest": -1041379200.0,
+    "date_timestamp_latest": -725846400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Soldiers"
+    ],
+    "keywords": [
+        {
+            "keyword": "Kennard Field",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3154419666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.305371
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27931241333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25369825
+        },
+        {
+            "keyword": "tent",
+            "score": 0.252303230826823
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.22908157357686365
+        },
+        {
+            "keyword": "sky",
+            "score": 0.227196405078125
+        }
+    ]
+}

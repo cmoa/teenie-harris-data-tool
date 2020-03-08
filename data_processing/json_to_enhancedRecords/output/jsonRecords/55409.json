@@ -1,0 +1,107 @@
+{
+    "objectID": 55409,
+    "irn": 55409,
+    "ecatalogue_key": 42142,
+    "TitAccessionNo": "2001.35.42184",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of two men, including man on right, wearing light colored shirt, necktie with horse, and dark suit, smoking pipe, and walking through corridor, with two toned walls, and several doorways",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Smoking--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.Doorways--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2400ffdd-8ce4-47d5-ae9d-35f1389c97fe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63458,
+    "MulMultiMediaRef_key": 42150,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63458/sizes/55409-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "\u5bf812\n12.601 2.4512.30 7 2.15 12.001185 1.7OTTSST1.4011.25 T.10 T0.9510.807 0.65 70.501 0.557 0200\n",
+    "subjects": [
+        "Corridors",
+        "Interiors",
+        "Smoking",
+        "Men",
+        "Doorways",
+        "Interior architecture",
+        "Suits (Clothing)"
+    ],
+    "keywords": [
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Smoking",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doorways",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3231854325297038
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30353626666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2767321333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26395966666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24218615
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23374636666666668
+        }
+    ]
+}

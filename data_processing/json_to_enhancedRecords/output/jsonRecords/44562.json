@@ -1,0 +1,102 @@
+{
+    "objectID": 44562,
+    "irn": 44562,
+    "ecatalogue_key": 31903,
+    "TitAccessionNo": "2001.35.31938",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark double breasted suit and eyeglasses, standing over another man signing document, possibly in police station interior with bars on window and map in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "621bda1d-48f3-4ac7-97d3-b3d3d1270db5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51293,
+    "MulMultiMediaRef_key": 31911,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51293/sizes/44562-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.45967656950683605
+        },
+        {
+            "keyword": "male",
+            "score": 0.39956395280354834
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.34692895964599596
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30188028
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2753233
+        },
+        {
+            "keyword": "professional",
+            "score": 0.27164628508219396
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27067557999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2688133133333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2312909
+        },
+        {
+            "keyword": "human",
+            "score": 0.22707762333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22576838146870934
+        }
+    ]
+}

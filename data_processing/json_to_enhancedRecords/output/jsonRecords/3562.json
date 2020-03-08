@@ -1,0 +1,118 @@
+{
+    "objectID": 3562,
+    "irn": 3562,
+    "ecatalogue_key": 2108,
+    "TitAccessionNo": "2001.35.2111",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of male dancer doing splits between two chairs in interior with mandolin and floral decorations",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Dancers--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "34956e8b-8742-43e8-8104-214a552dbcea",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16315,
+    "MulMultiMediaRef_key": 2110,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16315/sizes/3562-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Chairs",
+        "Dancers",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3582272328094483
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.33750558309224443
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dancers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.31356494127197265
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3120796666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28896764999999996
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2801936666666667
+        },
+        {
+            "keyword": "chair",
+            "score": 0.2739273294708253
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23978696666666666
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.23497005333333332
+        },
+        {
+            "keyword": "couch",
+            "score": 0.2144311866666667
+        }
+    ]
+}

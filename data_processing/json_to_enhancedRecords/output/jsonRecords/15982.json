@@ -1,0 +1,112 @@
+{
+    "objectID": 15982,
+    "irn": 15982,
+    "ecatalogue_key": 8182,
+    "TitAccessionNo": "2001.35.8199",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and two women gathered around a Wurlitzer jukebox, woman holds Pittsburgh Post newspaper with headlines \"268 Drivers...\" and \"Grosso...\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Jukeboxes--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a0932701-c10b-4615-b05b-850d4e906102",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24349,
+    "MulMultiMediaRef_key": 8190,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24349/sizes/15982-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Grosso"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "hi-li\n268 Drivers\nPitlsburgh o\nGROSSO\n",
+    "subjects": [
+        "Women",
+        "Newspapers",
+        "Grosso",
+        "Jukeboxes",
+        "Wurlitzer Company",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Wurlitzer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Grosso",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jukeboxes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Post",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31094706666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2913592466666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27202322
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2548343533333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.22845663333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.22463425
+        }
+    ]
+}

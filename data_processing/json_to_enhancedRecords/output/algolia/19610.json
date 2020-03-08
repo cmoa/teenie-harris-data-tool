@@ -1,0 +1,150 @@
+{
+  "objectID": 19610,
+  "irn": 19610,
+  "ecatalogue_key": 10672,
+  "TitAccessionNo": "2001.35.10698",
+  "CreDateCreated": "c. 1955-1975",
+  "CreEarliestDate": "1955",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Crowd of people inside and outside fence looking towards school yard of A. Leo Weil school on Centre Avenue",
+  "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4857c97d-f419-4fb0-a425-a1676067557a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21100/sizes/19610-1680.jpg",
+  "datetime": "1955-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 16,
+  "google_text_in_image": "PLAYGROUND\nNO\nPARK\nANY\nSR TIME\nLM\n",
+  "subjects": [
+    "Crowds"
+  ],
+  "keywords": [
+    {
+      "keyword": "city",
+      "score": 0.3402612501371256
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Crowds",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "A. Leo Weil school",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "car",
+      "score": 0.32138516666666667
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.30549118999999997
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30464803333333335
+    },
+    {
+      "keyword": "street",
+      "score": 0.3035115328186035
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.2977781333333333
+    },
+    {
+      "keyword": "town",
+      "score": 0.28190296666666664
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26981764999999996
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26981131333333336
+    },
+    {
+      "keyword": "downtown",
+      "score": 0.263723453675944
+    },
+    {
+      "keyword": "building",
+      "score": 0.2625644590555827
+    },
+    {
+      "keyword": "sky",
+      "score": 0.24599799332071934
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24283483333333333
+    },
+    {
+      "keyword": "road",
+      "score": 0.23814692
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.23429858666666667
+    },
+    {
+      "keyword": "tree",
+      "score": 0.22869976407185874
+    },
+    {
+      "keyword": "house",
+      "score": 0.228104950787557
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.22196368333333336
+    },
+    {
+      "keyword": "metropolitan area",
+      "score": 0.21012713333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21100/sizes/19610-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21100/sizes/19610-210.jpg",
+  "date_timestamp_earliest": -473385600.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

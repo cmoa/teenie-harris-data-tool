@@ -1,0 +1,100 @@
+{
+    "objectID": 4240,
+    "irn": 4240,
+    "ecatalogue_key": 2432,
+    "TitAccessionNo": "2001.35.2436",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Photograph propped up on a table",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00175281-90de-452a-bdc4-c256d1486289",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16780,
+    "MulMultiMediaRef_key": 2434,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16780/sizes/4240-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "8\nACO\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Tables",
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3162861866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30638523333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27974686666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26423566436767576
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2564535133333333
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.2159799
+        },
+        {
+            "keyword": "photo caption",
+            "score": 0.21014826666666667
+        }
+    ]
+}

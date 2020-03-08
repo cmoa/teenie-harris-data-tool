@@ -1,0 +1,101 @@
+{
+  "objectID": 2598,
+  "irn": 2598,
+  "ecatalogue_key": 1196,
+  "TitAccessionNo": "2001.35.1198",
+  "CreDateCreated": "c. 1950-1975",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man drawing at drafting table in interior",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Drawing--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "ef8e436d-a7dd-4091-97c7-428f664ac113",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17546/sizes/2598-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Drawing",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.44448294275472006
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.37214632964681
+    },
+    {
+      "keyword": "Drawing",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3030834666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28173577666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26953943333333336
+    },
+    {
+      "keyword": "table",
+      "score": 0.2678953959065757
+    },
+    {
+      "keyword": "furniture",
+      "score": 0.26151863931427005
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24115961666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17546/sizes/2598-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17546/sizes/2598-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

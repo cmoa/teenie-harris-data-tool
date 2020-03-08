@@ -1,0 +1,85 @@
+{
+    "objectID": 23446,
+    "irn": 23446,
+    "ecatalogue_key": 13757,
+    "TitAccessionNo": "2001.35.13787",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, one wearing hardhat, shoveling gravel at construction site",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54ac6e51-6840-460c-82fb-300ea924e470",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29887,
+    "MulMultiMediaRef_key": 13765,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29887/sizes/23446-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "KODAK SAFETY\nFILM\nKODAK SAFETY FILM\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30972021666666666
+        },
+        {
+            "keyword": "television",
+            "score": 0.30885775248209635
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28469627999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2816181
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2552782333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25131142
+        },
+        {
+            "keyword": "night",
+            "score": 0.2237852089189657
+        }
+    ]
+}

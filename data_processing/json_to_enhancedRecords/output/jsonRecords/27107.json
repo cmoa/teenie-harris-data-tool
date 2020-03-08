@@ -1,0 +1,108 @@
+{
+    "objectID": 27107,
+    "irn": 27107,
+    "ecatalogue_key": 16655,
+    "TitAccessionNo": "2001.35.16685",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing a striped bow tie and eyeglasses, seated on edge of sofa, with bureau bookcase in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6b3120d9-a13d-4300-88d2-34c8a0977cf5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33266,
+    "MulMultiMediaRef_key": 16663,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33266/sizes/27107-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Portraits",
+        "Living room furniture",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4724850167960613
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4343030774332683
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3539831801163736
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Living room furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2923537994466147
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27798933333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27415979
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27176303333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22516883333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20440906666666667
+        }
+    ]
+}

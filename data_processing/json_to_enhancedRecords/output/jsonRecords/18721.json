@@ -1,0 +1,89 @@
+{
+    "objectID": 18721,
+    "irn": 18721,
+    "ecatalogue_key": 10079,
+    "TitAccessionNo": "2001.35.10105",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man shaking hands with Marion Bond Jordon and standing underneath sign painted on wall reading \"...Club Clean - Don't Spit on the Floor!\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "82116e44-b3cc-403a-ab59-18a7838a1c97",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26013,
+    "MulMultiMediaRef_key": 10087,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26013/sizes/18721-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Club Clean",
+        "Marion Bond Jordon"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "CLUB\nDont Spit on the Floor!\nCI\n",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4592590705200197
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2905722333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26681553333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2436119
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21854896666666668
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20035726666666667
+        }
+    ]
+}

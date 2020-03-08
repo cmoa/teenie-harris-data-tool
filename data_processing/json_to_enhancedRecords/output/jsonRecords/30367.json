@@ -1,0 +1,113 @@
+{
+    "objectID": 30367,
+    "irn": 30367,
+    "ecatalogue_key": 18611,
+    "TitAccessionNo": "2001.35.18641",
+    "CreDateCreated": "c. 1947-1965",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing United States Army uniform holding cigar and standing on exterior stairs of brick building, possibly Centre Avenue YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh--Portraits.",
+    "AdmGUIDValue_tab": "23109460-08fd-4b83-91b3-7ca9f9353b48",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36267,
+    "MulMultiMediaRef_key": 18619,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36267/sizes/30367-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Military uniforms",
+        "Soldiers",
+        "Automobiles"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.39618539982503265
+        },
+        {
+            "keyword": "Centre Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "United States Army",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3066667533333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2942511666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2788372833333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2767690666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2654582321435547
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24575468
+        }
+    ]
+}

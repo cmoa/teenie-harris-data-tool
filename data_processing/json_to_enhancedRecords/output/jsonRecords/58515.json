@@ -1,0 +1,139 @@
+{
+    "objectID": 58515,
+    "irn": 58515,
+    "ecatalogue_key": 44665,
+    "TitAccessionNo": "2001.35.44708",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing herringbone suit, striped tie, and holding cigarette, seated on edge of desk in office with Greater Pittsburgh neighborhood map",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Cigarettes--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "18893de2-d28d-4a40-b798-18bf61a6de0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66480,
+    "MulMultiMediaRef_key": 44673,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66480/sizes/58515-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Greater Pittsburgh",
+            "short_name": "Greater Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "TENSION\n312,\n37\n",
+    "subjects": [
+        "Offices",
+        "Portraits",
+        "Maps",
+        "Cigarettes",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.42423170022786466
+        },
+        {
+            "keyword": "person",
+            "score": 0.40952964268798836
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Greater Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cigarettes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.32818480195515964
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2907252
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2860203333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.28422138383076995
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28222873333333337
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2806939666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25580344666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25324966666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23791581333333334
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.23289338666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.21315523471303302
+        }
+    ]
+}

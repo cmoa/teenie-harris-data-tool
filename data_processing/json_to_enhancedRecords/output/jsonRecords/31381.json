@@ -1,0 +1,94 @@
+{
+    "objectID": 31381,
+    "irn": 31381,
+    "ecatalogue_key": 19424,
+    "TitAccessionNo": "2001.35.19454",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated in metal folding chairs, including woman wearing light colored top with dark stripes, pointing finger, in interior with cement block walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "905882fd-125e-49dd-8bcc-fd7e84b9de70",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37202,
+    "MulMultiMediaRef_key": 19432,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37202/sizes/31381-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "KODAK SAFETY FIL\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3008517
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2789972333333333
+        },
+        {
+            "keyword": "brass",
+            "score": 0.27379458109537763
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.26952946595621746
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26818295333333336
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23350173333333335
+        },
+        {
+            "keyword": "trombone",
+            "score": 0.23260734558105467
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22767440000000003
+        }
+    ]
+}

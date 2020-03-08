@@ -1,0 +1,82 @@
+{
+    "objectID": 25266,
+    "irn": 25266,
+    "ecatalogue_key": 15778,
+    "TitAccessionNo": "2001.35.15808",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman standing on left talking to group of women and men seated on folding chairs holding small books",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "140b737c-51fc-41ec-bb96-40f4d7f0781c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32003,
+    "MulMultiMediaRef_key": 15786,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32003/sizes/25266-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28897483333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26884025333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24212211333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22464506666666664
+        },
+        {
+            "keyword": "house",
+            "score": 0.21024641309305833
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "objectID": 21648,
+    "irn": 21648,
+    "ecatalogue_key": 12345,
+    "TitAccessionNo": "2001.35.12375",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Reverend Charles Foggie and Marietta Turner standing with man holding plaque inscribed \"National Association for the Advancement of Colored People\" at Wesley Center A.M.E. Zion Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clergy--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d8128526-e370-4686-b205-5884d0641213",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28151,
+    "MulMultiMediaRef_key": 12353,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28151/sizes/21648-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Marietta Turner",
+        "Charles Foggie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Clergy",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "religion",
+            "score": 0.36452386161905936
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "National Association for the Advancement of Colored People",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Charles Foggie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Wesley Center A.M.E. Zion Church",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "metropolitan",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31004838
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2909404666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27017988666666665
+        },
+        {
+            "keyword": "temple",
+            "score": 0.26456287753397634
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26435386666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.26181018333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24586318
+        },
+        {
+            "keyword": "event",
+            "score": 0.24101891
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.21890273333333332
+        }
+    ]
+}

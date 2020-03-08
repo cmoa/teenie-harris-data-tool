@@ -1,0 +1,121 @@
+{
+    "objectID": 2502,
+    "irn": 2502,
+    "ecatalogue_key": 1099,
+    "TitAccessionNo": "2001.35.1101",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four teenagers, possibly students, holding paintings, in classroom or meeting room with empty bookshelves in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Adolescents--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c23afe49-c9a0-44c2-9c42-65163740db46",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15536,
+    "MulMultiMediaRef_key": 1101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15536/sizes/2502-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "CEEEE232\nKODAK SAFETY FILM\n",
+    "subjects": [
+        "Portraits, Group",
+        "Classrooms",
+        "Women",
+        "Teenagers",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.3888014754292806
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Adolescents",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.32178621474324537
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30494998
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.28565563758646645
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2729662333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2636683
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23540983333333332
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22830930321044932
+        },
+        {
+            "keyword": "design",
+            "score": 0.22008816666666667
+        },
+        {
+            "keyword": "technology",
+            "score": 0.21008428
+        }
+    ]
+}

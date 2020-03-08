@@ -1,0 +1,125 @@
+{
+    "objectID": 58480,
+    "irn": 58480,
+    "ecatalogue_key": 44561,
+    "TitAccessionNo": "2001.35.44604",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored suit with leopard print collar, and wristwatch, posed in front of table with newspapers, possibly in Pittsburgh Courier Newspaper office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7010bdc5-ab52-449e-a8b6-603e9baf54c2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66317,
+    "MulMultiMediaRef_key": 44569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66317/sizes/58480-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Portraits",
+        "Interior architecture",
+        "Interiors",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier Newspaper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.321306639485677
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30646878333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29004488333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27444683333333336
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2729683154663087
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27197793333333337
+        },
+        {
+            "keyword": "human",
+            "score": 0.26069592242248535
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2546890333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24103277999999997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23483558333333332
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2247062333333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.21731668666666668
+        }
+    ]
+}

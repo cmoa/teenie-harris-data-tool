@@ -1,0 +1,87 @@
+{
+    "objectID": 42306,
+    "irn": 42306,
+    "ecatalogue_key": 29587,
+    "TitAccessionNo": "2001.35.29620",
+    "CreDateCreated": "c. 1946",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young men and women wearing dark graduation robes seated in auditorium with audience behind them",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Auditoriums--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1d43a103-430f-41e4-ad13-f7756fb1aa85",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49004,
+    "MulMultiMediaRef_key": 29595,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49004/sizes/42306-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Auditoriums",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27863353333333335
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.274348108089803
+        },
+        {
+            "keyword": "history",
+            "score": 0.24600442333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2079366
+        },
+        {
+            "keyword": "audience",
+            "score": 0.20388316666666664
+        }
+    ]
+}

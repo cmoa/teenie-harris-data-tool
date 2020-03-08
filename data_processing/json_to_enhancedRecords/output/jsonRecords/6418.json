@@ -1,0 +1,97 @@
+{
+    "objectID": 6418,
+    "irn": 6418,
+    "ecatalogue_key": 3839,
+    "TitAccessionNo": "2001.35.3848",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding scales over desk covered with drug paraphernalia",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Drug paraphernalia--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Police--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5bf083ac-2fb9-494e-adb0-b05397f7e58a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18372,
+    "MulMultiMediaRef_key": 3842,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18372/sizes/6418-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Police",
+        "Interior architecture",
+        "Desks",
+        "Drug paraphernalia"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drug paraphernalia",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.31955408304036464
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30612273333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27125731999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26193948666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24544276666666667
+        },
+        {
+            "keyword": "glass",
+            "score": 0.23516912845540364
+        },
+        {
+            "keyword": "technology",
+            "score": 0.23069798752034498
+        }
+    ]
+}

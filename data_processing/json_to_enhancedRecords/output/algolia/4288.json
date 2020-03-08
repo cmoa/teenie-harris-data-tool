@@ -1,0 +1,122 @@
+{
+  "objectID": 4288,
+  "irn": 4288,
+  "ecatalogue_key": 2473,
+  "TitAccessionNo": "2001.35.2477",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "View into cell block Levels C and D through bars from cell interior, possibly Western Pennitentary",
+  "CatSubject_tab": "Jails--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "6924bc18-e8e7-4960-a09d-c889a8148036",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16626/sizes/4288-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Marshall-Shadeland",
+      "short_name": "Marshall-Shadeland"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Beaver Avenue",
+      "short_name": "Beaver Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Jails",
+    "Interiors",
+    "Interior architecture"
+  ],
+  "keywords": [
+    {
+      "keyword": "architecture",
+      "score": 0.4169037482828777
+    },
+    {
+      "keyword": "building",
+      "score": 0.40329661541748035
+    },
+    {
+      "keyword": "structure",
+      "score": 0.37974254586100264
+    },
+    {
+      "keyword": "Western Pennitentary",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Jails",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31649086666666665
+    },
+    {
+      "keyword": "window",
+      "score": 0.310236597895101
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.30608846666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2753937
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2597736133333333
+    },
+    {
+      "keyword": "facade",
+      "score": 0.258600035201009
+    },
+    {
+      "keyword": "line",
+      "score": 0.22688043333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16626/sizes/4288-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16626/sizes/4288-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

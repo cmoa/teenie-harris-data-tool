@@ -1,0 +1,91 @@
+{
+    "objectID": 1924,
+    "irn": 1924,
+    "ecatalogue_key": 568,
+    "TitAccessionNo": "2001.35.570",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of boys from Washington School, wearing ribbons, in front of building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.School buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bd8d75b1-f0dd-4e4c-a580-377472964baf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15800,
+    "MulMultiMediaRef_key": 570,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15800/sizes/1924-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "ON\nNGTD\nTON\n",
+    "subjects": [
+        "School buildings",
+        "Boys",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "child",
+            "score": 0.33472114602742503
+        },
+        {
+            "keyword": "School buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Washington School",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "team",
+            "score": 0.3248833233333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.31848553333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26599917666666667
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2091980776260376
+        },
+        {
+            "keyword": "team sport",
+            "score": 0.20745625
+        }
+    ]
+}

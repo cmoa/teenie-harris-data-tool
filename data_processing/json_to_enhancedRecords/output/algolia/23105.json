@@ -1,0 +1,89 @@
+{
+  "objectID": 23105,
+  "irn": 23105,
+  "ecatalogue_key": 13508,
+  "TitAccessionNo": "2001.35.13538",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Ansco Supreme Pan safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of men wearing suits, gathered behind table in interior with circular patterned curtains",
+  "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "887f6062-5e95-4a0f-9775-bf4a9b57d173",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29611/sizes/23105-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 30,
+  "google_text_in_image": "",
+  "subjects": [
+    "Men",
+    "Portraits, Group"
+  ],
+  "keywords": [
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28663183333333336
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2734757
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.23680517999999998
+    },
+    {
+      "keyword": "design",
+      "score": 0.23205276666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21737096666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29611/sizes/23105-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29611/sizes/23105-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

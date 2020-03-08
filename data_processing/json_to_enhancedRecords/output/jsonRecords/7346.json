@@ -1,0 +1,88 @@
+{
+    "objectID": 7346,
+    "irn": 7346,
+    "ecatalogue_key": 4486,
+    "TitAccessionNo": "2001.35.4495",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and a woman working in a laboratory",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "118636a4-9b01-436c-a3ed-0487ba3711fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19065,
+    "MulMultiMediaRef_key": 4489,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19065/sizes/7346-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Laboratories",
+        "Women",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Laboratories",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28682483333333336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26254083333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.23779226666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22297656666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22294723333333333
+        }
+    ]
+}

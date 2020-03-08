@@ -1,0 +1,105 @@
+{
+    "objectID": 3978,
+    "irn": 3978,
+    "ecatalogue_key": 2243,
+    "TitAccessionNo": "2001.35.2246",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of butcher shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Butchers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0b534465-bc2d-4eb5-a6b4-c3983fb0c6e8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16482,
+    "MulMultiMediaRef_key": 2245,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16482/sizes/3978-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Butchers (Persons)",
+        "Interiors",
+        "Butcher shops",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38197347742716464
+        },
+        {
+            "keyword": "Butchers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3056567
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28051271
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2739525666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.255622146480306
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23600143333333334
+        },
+        {
+            "keyword": "window",
+            "score": 0.23312943333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2261348333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.20790028666666668
+        }
+    ]
+}

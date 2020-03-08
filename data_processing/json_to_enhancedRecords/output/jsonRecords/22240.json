@@ -1,0 +1,81 @@
+{
+    "objectID": 22240,
+    "irn": 22240,
+    "ecatalogue_key": 12874,
+    "TitAccessionNo": "2001.35.12904",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Basement with stone wall toilet, bathtub, and hot water tank",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9707cdf5-493f-4bf2-a95b-78bf666d25f4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29005,
+    "MulMultiMediaRef_key": 12882,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29005/sizes/22240-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Basements"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.3695004263183593
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31086439
+        },
+        {
+            "keyword": "house",
+            "score": 0.30914187304484037
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2856571866666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.2830620521809897
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2637051133333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24326573333333334
+        }
+    ]
+}

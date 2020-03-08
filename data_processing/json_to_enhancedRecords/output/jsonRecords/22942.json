@@ -1,0 +1,97 @@
+{
+    "objectID": 22942,
+    "irn": 22942,
+    "ecatalogue_key": 13437,
+    "TitAccessionNo": "2001.35.13467",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of women wearing summer dresses, and men wearing suits, gathered around sofa in hotel lobby, with large curtains in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hotels--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "658259f1-1456-47fa-b782-78f68609f298",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29245,
+    "MulMultiMediaRef_key": 13445,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29245/sizes/22942-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 32,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Hotels, motels, etc",
+        "Women",
+        "Hotels",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "summer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hotels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.287667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2771829
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.26269682333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24546394666666668
+        },
+        {
+            "keyword": "event",
+            "score": 0.23122120000000002
+        }
+    ]
+}

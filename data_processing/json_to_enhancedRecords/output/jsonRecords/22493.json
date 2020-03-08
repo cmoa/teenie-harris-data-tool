@@ -1,0 +1,90 @@
+{
+    "objectID": 22493,
+    "irn": 22493,
+    "ecatalogue_key": 13141,
+    "TitAccessionNo": "2001.35.13171",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of man wearing double breasted jacket, with hat on chair on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "11155b08-9ff1-47ac-8db7-c7580c4076c1",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 28816,
+    "MulMultiMediaRef_key": 13149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28816/sizes/22493-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.35281584846801767
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30785433333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2840008533333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27421695
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24878482000000002
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24487363143269866
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2398217
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23698033333333335
+        }
+    ]
+}

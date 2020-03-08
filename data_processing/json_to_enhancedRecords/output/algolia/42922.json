@@ -1,0 +1,101 @@
+{
+  "objectID": 42922,
+  "irn": 42922,
+  "ecatalogue_key": 30263,
+  "TitAccessionNo": "2001.35.30296",
+  "CreDateCreated": "c. 1948",
+  "CreEarliestDate": "1943",
+  "CreLatestDate": "1953",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at long rectangular tables, including woman wearing dress with sequins on shoulders, in interior with pictures on wall and second level balcony",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "a9ea2992-c1ee-4f5d-9389-747e8cfa69ab",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49608/sizes/42922-1680.jpg",
+  "datetime": "1943-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 21,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.28595648333333334
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28113483333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2693724
+    },
+    {
+      "keyword": "event",
+      "score": 0.2627193666666667
+    },
+    {
+      "keyword": "audience",
+      "score": 0.24422333333333335
+    },
+    {
+      "keyword": "function hall",
+      "score": 0.2308159333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.21674621000000002
+    },
+    {
+      "keyword": "banquet",
+      "score": 0.21302422
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.20628236666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49608/sizes/42922-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49608/sizes/42922-210.jpg",
+  "date_timestamp_earliest": -852076800.0,
+  "date_timestamp_latest": -536457600.0,
+  "decades": []
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 4888,
+    "irn": 4888,
+    "ecatalogue_key": 2875,
+    "TitAccessionNo": "2001.35.2880",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "One-armed man shaking hands with swimmer beside pool",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Swimmers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6dd36cd2-b30c-44e4-9fc1-274495192cb3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17393,
+    "MulMultiMediaRef_key": 2877,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17393/sizes/4888-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Swimmers"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.40070746901041665
+        },
+        {
+            "keyword": "people",
+            "score": 0.39178487932942696
+        },
+        {
+            "keyword": "male",
+            "score": 0.3416861463781737
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimmers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3139716
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3020966333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28634333333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2809838
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.267693706141154
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25546038
+        },
+        {
+            "keyword": "interaction",
+            "score": 0.23701930000000002
+        },
+        {
+            "keyword": "human",
+            "score": 0.2368738
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2232919382059733
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.20042963333333333
+        }
+    ]
+}

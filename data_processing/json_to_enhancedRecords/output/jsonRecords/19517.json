@@ -1,0 +1,67 @@
+{
+    "objectID": 19517,
+    "irn": 19517,
+    "ecatalogue_key": 10214,
+    "TitAccessionNo": "2001.35.10240",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around five small wooden desks lined up in a row in classroom, possibly in insurance office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Insurance companies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5eec8181-beed-48d0-8592-fcf412f7ef47",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25994,
+    "MulMultiMediaRef_key": 10222,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25994/sizes/19517-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Insurance companies",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Insurance companies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26441773333333335
+        }
+    ]
+}

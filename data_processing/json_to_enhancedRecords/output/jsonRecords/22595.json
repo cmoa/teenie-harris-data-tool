@@ -1,0 +1,125 @@
+{
+    "objectID": 22595,
+    "irn": 22595,
+    "ecatalogue_key": 13200,
+    "TitAccessionNo": "2001.35.13230",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man seated on end table, in domestic interior, with view of dining room in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ef4048ad-fafb-4b46-8edb-794a6cdd1598",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29211,
+    "MulMultiMediaRef_key": 13208,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29211/sizes/22595-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Suits (Clothing)",
+        "Interior architecture",
+        "Interiors",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.49164659903238933
+        },
+        {
+            "keyword": "male",
+            "score": 0.4199844950968423
+        },
+        {
+            "keyword": "person",
+            "score": 0.4141173708858237
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3816831501200357
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3152694289540609
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29425513333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28045254999999997
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2768085213269043
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2747081666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "suit",
+            "score": 0.26866111755371097
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25679006666666665
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.23559443155924464
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23065865
+        }
+    ]
+}

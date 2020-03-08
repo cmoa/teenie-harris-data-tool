@@ -1,0 +1,130 @@
+{
+  "objectID": 54581,
+  "irn": 54581,
+  "ecatalogue_key": 41186,
+  "TitAccessionNo": "2001.35.41228",
+  "CreDateCreated": "c. 1945-1955",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1955",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing solid colored jacket with button with two faces on lapel, light colored shirt, and solid colored fedora hat, and woman, posed on sidewalk near tall stairway and taxi on curb, two story building in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Taxicabs--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "a989dbe8-e52f-43b3-bf54-67b712b9d29a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61863/sizes/54581-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "ANT 1-8100\n",
+  "subjects": [
+    "Buildings",
+    "Taxicabs",
+    "Women",
+    "Sidewalks",
+    "Streets",
+    "Stairs",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Taxicabs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Sidewalks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Stairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3057091333333333
+    },
+    {
+      "keyword": "car",
+      "score": 0.2948980133333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2824817333333333
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2792228666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27281764999999997
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.26953268
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.2453876
+    },
+    {
+      "keyword": "vintage clothing",
+      "score": 0.22968323333333332
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2286165
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61863/sizes/54581-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61863/sizes/54581-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -473385600.0,
+  "decades": []
+}

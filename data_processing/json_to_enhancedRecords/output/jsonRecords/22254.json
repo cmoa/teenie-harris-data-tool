@@ -1,0 +1,77 @@
+{
+    "objectID": 22254,
+    "irn": 22254,
+    "ecatalogue_key": 12887,
+    "TitAccessionNo": "2001.35.12917",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Brick wall in basement with beams overhead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5734e157-f271-4073-853d-3e553c1cda95",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28999,
+    "MulMultiMediaRef_key": 12895,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28999/sizes/22254-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Basements"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.393423605517578
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3138693166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30214389999999997
+        },
+        {
+            "keyword": "texture",
+            "score": 0.28130542914835605
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2694932233333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2599378666666667
+        }
+    ]
+}

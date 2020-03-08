@@ -1,0 +1,142 @@
+{
+    "objectID": 35711,
+    "irn": 35711,
+    "ecatalogue_key": 23378,
+    "TitAccessionNo": "2001.35.23409",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man, possibly Mr. Hord, wearing houndstooth jacket, dark bow tie, and moustache, seated on wooden bench, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1ccb2760-ebe0-4641-90db-9b709d9be5ef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41897,
+    "MulMultiMediaRef_key": 23386,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41897/sizes/35711-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Hord"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.48944576780598964
+        },
+        {
+            "keyword": "man",
+            "score": 0.47285210794189464
+        },
+        {
+            "keyword": "suit",
+            "score": 0.418453023856608
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3962310545166017
+        },
+        {
+            "keyword": "standing",
+            "score": 0.34296971081624333
+        },
+        {
+            "keyword": "Hord",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2935261363596597
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2888503466666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2872108233333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28063438333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.271444709975179
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25256246666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22306368666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20374606666666664
+        }
+    ]
+}

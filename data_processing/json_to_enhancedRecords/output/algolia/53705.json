@@ -1,0 +1,119 @@
+{
+  "objectID": 53705,
+  "irn": 53705,
+  "ecatalogue_key": 40440,
+  "TitAccessionNo": "2001.35.40481",
+  "CreDateCreated": "c. 1945-1955",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1955",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing hat, geometrically patterned necktie, and striped pants, holding item, standing in doorway with bars on the window, possibly in a jail",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Doorways--Pennsylvania--Pittsburgh.Prisons--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "00db2a9d-1ff5-4980-8395-3bb95e407c28",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61042/sizes/53705-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "TICE\nLL S\n",
+  "subjects": [
+    "Prisons",
+    "Doorways",
+    "Hats",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.39986627395304364
+    },
+    {
+      "keyword": "Prisons",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Doorways",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hats",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "hat",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "headdress",
+      "score": 0.31584050496419264
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2979929666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2729266866666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "human behavior",
+      "score": 0.2626888
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26211275666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24221673333333335
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.239318346780192
+    },
+    {
+      "keyword": "clothing",
+      "score": 0.206192423502604
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61042/sizes/53705-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61042/sizes/53705-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -473385600.0,
+  "decades": []
+}

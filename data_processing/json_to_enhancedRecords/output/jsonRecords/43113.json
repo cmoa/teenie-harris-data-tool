@@ -1,0 +1,106 @@
+{
+    "objectID": 43113,
+    "irn": 43113,
+    "ecatalogue_key": 30503,
+    "TitAccessionNo": "2001.35.30536",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored, double breasted suit, with circular patterned necktie, standing in front of heating device with 1949 Pittsburgh Directory",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e9d9d67f-61d2-4651-b2d0-8e25fd517f56",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49810,
+    "MulMultiMediaRef_key": 30511,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49810/sizes/43113-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4071925410176596
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3480087333239747
+        },
+        {
+            "keyword": "suit",
+            "score": 0.34142975837443035
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "1949",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.309173716056315
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30715033333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28456549000000003
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2842615
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27751143333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26964688177083335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23783233333333334
+        }
+    ]
+}

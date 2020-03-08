@@ -1,0 +1,102 @@
+{
+    "objectID": 36000,
+    "irn": 36000,
+    "ecatalogue_key": 23690,
+    "TitAccessionNo": "2001.35.23721",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of baby wearing light colored diaper and booties, lying on back, on light colored blanket on scroll patterned bedspread, possibly in Nicken family",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e207ae3c-1a87-46a8-baa4-536be2f9a9ca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42262,
+    "MulMultiMediaRef_key": 23698,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42262/sizes/36000-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [
+        "Nicken"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Babies",
+        "Infants",
+        "Portraits",
+        "Beds"
+    ],
+    "keywords": [
+        {
+            "keyword": "Babies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nicken",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Beds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31728363333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30965229
+        },
+        {
+            "keyword": "child",
+            "score": 0.29945051507568365
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28392506666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26288263333333334
+        },
+        {
+            "keyword": "infant",
+            "score": 0.25319829669596366
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.22582191333333335
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20165
+        }
+    ]
+}

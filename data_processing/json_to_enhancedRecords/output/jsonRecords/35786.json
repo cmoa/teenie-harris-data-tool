@@ -1,0 +1,125 @@
+{
+    "objectID": 35786,
+    "irn": 35786,
+    "ecatalogue_key": 23451,
+    "TitAccessionNo": "2001.35.23482",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man, possibly Judge Nixon, wearing robe and eyeglasses, seated at bench signing document",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Judges--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1eaf556a-8b5e-42de-b7a1-55e2ad516006",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41965,
+    "MulMultiMediaRef_key": 23459,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41965/sizes/35786-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Nixon"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Judges"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4135355021533204
+        },
+        {
+            "keyword": "man",
+            "score": 0.4021072252360027
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.370824044289144
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Judges",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nixon",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30999092333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2983503662475587
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28937453333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2841439666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.27560379265238444
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2692473
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25240898
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2519964333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.227581
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.22370972333333336
+        }
+    ]
+}

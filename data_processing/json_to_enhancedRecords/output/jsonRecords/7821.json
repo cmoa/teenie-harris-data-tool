@@ -1,0 +1,68 @@
+{
+    "objectID": 7821,
+    "irn": 7821,
+    "ecatalogue_key": 4825,
+    "TitAccessionNo": "2001.35.4834",
+    "CreDateCreated": "c. 1935-1970",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women standing on sidewalk, with storefront across the street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d550af6b-17df-4be4-bb4f-e92591ffd25c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13806,
+    "MulMultiMediaRef_key": 4831,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13806/sizes/7821-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Streets",
+        "Sidewalks",
+        "Storefronts"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        }
+    ]
+}

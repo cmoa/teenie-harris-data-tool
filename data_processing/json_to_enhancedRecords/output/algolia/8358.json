@@ -1,0 +1,132 @@
+{
+  "objectID": 8358,
+  "irn": 8358,
+  "ecatalogue_key": 5153,
+  "TitAccessionNo": "2001.35.5162",
+  "CreDateCreated": "c. 1972",
+  "CreEarliestDate": "1969",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two frames on one strip of film: dead man lying face down in street with onlookers; two men examining dead man in street, possibly in St. Louis",
+  "CatSubject_tab": "Men--Missouri--St. Louis.Dead--Missouri--St. Louis.Crime scenes--Missouri--St. Louis.Roads--Missouri--St. Louis.Sidewalks--Missouri--St. Louis.",
+  "AdmGUIDValue_tab": "4fa0316a-0aab-4193-87ca-91075aed3161",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19889/sizes/8358-1680.jpg",
+  "datetime": "1969-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Clifton Heights",
+      "short_name": "Clifton Heights"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Hampton Avenue",
+      "short_name": "Hampton Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "St. Louis",
+      "short_name": "St. Louis"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburg",
+      "short_name": "Pittsburg"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Green Township",
+      "short_name": "Green Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Hickory County",
+      "short_name": "Hickory County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Missouri",
+      "short_name": "MO"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 9,
+  "google_text_in_image": "M 604\n5\n",
+  "subjects": [
+    "Dead",
+    "Roads",
+    "Men",
+    "Crime scenes",
+    "Sidewalks"
+  ],
+  "keywords": [
+    {
+      "keyword": "Dead",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Roads",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Crime scenes",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": " Louis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Sidewalks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3157922
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.30482651666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2833063666666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.26069153333333334
+    },
+    {
+      "keyword": "human",
+      "score": 0.24183694666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19889/sizes/8358-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19889/sizes/8358-210.jpg",
+  "date_timestamp_earliest": -31536000.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

@@ -1,0 +1,114 @@
+{
+  "objectID": 18219,
+  "irn": 18219,
+  "ecatalogue_key": 9713,
+  "TitAccessionNo": "2001.35.9739",
+  "CreDateCreated": "c. 1940-1960",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three men standing under sign reading, \"Perpetual Care, Restland Lincoln, Memorial ParK\", with trees in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Cemeteries--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "5bbdc274-545c-4607-b7e7-7774f28dfa41",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26004/sizes/18219-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [
+    "Memorial ParK",
+    "Restland Lincoln"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "PERPETUAL CARE\nRESTLAND\nLINCOLN\nMEMORIAL PARK\n",
+  "subjects": [
+    "Signs and signboards",
+    "Cemeteries",
+    "Men",
+    "Signs and symbols"
+  ],
+  "keywords": [
+    {
+      "keyword": "Memorial ParK",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Cemeteries",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Signs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Perpetual Care",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3100351666666667
+    },
+    {
+      "keyword": "tree",
+      "score": 0.3006474414449057
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2863404566666667
+    },
+    {
+      "keyword": "history",
+      "score": 0.27386493291422537
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2730373333333333
+    },
+    {
+      "keyword": "sky",
+      "score": 0.252585317163086
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24944673333333334
+    },
+    {
+      "keyword": "billboard",
+      "score": 0.20109879811604836
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26004/sizes/18219-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26004/sizes/18219-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

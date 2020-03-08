@@ -1,0 +1,104 @@
+{
+    "objectID": 4632,
+    "irn": 4632,
+    "ecatalogue_key": 2722,
+    "TitAccessionNo": "2001.35.2726",
+    "CreDateCreated": "c. 1947-1960",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and a woman seated at booth in bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8b5c606a-cb4b-4cba-b971-982ee958bab2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17102,
+    "MulMultiMediaRef_key": 2724,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17102/sizes/4632-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Women",
+        "Hats"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3083551133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.288004
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2801913833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24856746666666665
+        },
+        {
+            "keyword": "human",
+            "score": 0.23503116666666668
+        },
+        {
+            "keyword": "smile",
+            "score": 0.215070201993815
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20899153333333334
+        }
+    ]
+}

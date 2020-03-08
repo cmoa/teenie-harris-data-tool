@@ -1,0 +1,79 @@
+{
+    "objectID": 7822,
+    "irn": 7822,
+    "ecatalogue_key": 4826,
+    "TitAccessionNo": "2001.35.4835",
+    "CreDateCreated": "c. 1920-1950",
+    "CreEarliestDate": "1920",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Baby seated on folding chair on sidewalk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Infants--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Hand--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6b6227e3-7bf3-44b1-b967-f10c77e34d3c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13807,
+    "MulMultiMediaRef_key": 4832,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13807/sizes/7822-1680.jpg",
+    "date_timestamp_earliest": -1577923200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Babies",
+        "Hand",
+        "Portraits",
+        "Sidewalks",
+        "Infants",
+        "Chairs",
+        "Automobiles"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hand",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Infants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        }
+    ]
+}

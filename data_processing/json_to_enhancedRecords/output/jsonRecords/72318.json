@@ -1,0 +1,114 @@
+{
+    "objectID": 72318,
+    "irn": 72318,
+    "ecatalogue_key": 57074,
+    "TitAccessionNo": "2001.35.57117",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark trousers and light colored cable knit sweater, holding newspaper and lying on single bed with plaid bedspread",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ae6da4d1-1e18-403a-aeeb-a23e7e5009da",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91181,
+    "MulMultiMediaRef_key": 57083,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91181/sizes/72318-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Newspapers",
+        "Beds"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3469709991029866
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Beds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.3181825466666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3114404333333333
+        },
+        {
+            "keyword": "couch",
+            "score": 0.30739921196289066
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29092806666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2819298666666667
+        },
+        {
+            "keyword": "bed",
+            "score": 0.2703368666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2517666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24488482207031267
+        },
+        {
+            "keyword": "mattress",
+            "score": 0.22868943333333333
+        }
+    ]
+}

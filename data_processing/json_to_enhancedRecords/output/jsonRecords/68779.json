@@ -1,0 +1,125 @@
+{
+    "objectID": 68779,
+    "irn": 68779,
+    "ecatalogue_key": 54544,
+    "TitAccessionNo": "2001.35.54587",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing striped hat, jacket, and pants, holding lunch box in right hand, standing in front of garage door with small door, two windows, and graffiti that reads \"Carol\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Garages--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Graffiti--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "61820a0c-e3cc-4d75-9f3b-39706fe1505b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 80878,
+    "MulMultiMediaRef_key": 54553,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80878/sizes/68779-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [
+        "Carol"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Carol",
+        "Men",
+        "Doors",
+        "Hats",
+        "Garages",
+        "Windows",
+        "Graffiti"
+    ],
+    "keywords": [
+        {
+            "keyword": "Carol",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Garages",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graffiti",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3109738
+        },
+        {
+            "keyword": "wall",
+            "score": 0.29675899663085936
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29509047666666666
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29237002
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2867805
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2820343766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24545906666666664
+        },
+        {
+            "keyword": "street",
+            "score": 0.210494925160726
+        },
+        {
+            "keyword": "window",
+            "score": 0.20790213333333332
+        }
+    ]
+}

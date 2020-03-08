@@ -1,0 +1,110 @@
+{
+    "objectID": 55273,
+    "irn": 55273,
+    "ecatalogue_key": 42002,
+    "TitAccessionNo": "2001.35.42044",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing moustache, light colored shirt, polka dot necktie with tie chain, and dark jacket, posed on stairwell with wood railing, in interior with light colored walls, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70af4ae8-62f0-4174-ab02-89630c91243c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62847,
+    "MulMultiMediaRef_key": 42010,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62847/sizes/55273-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "2115\n",
+    "subjects": [
+        "Portraits",
+        "Interiors",
+        "Neckties",
+        "Stairs",
+        "Men",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neckties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3015560843841553
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29952548
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27427063333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2726869766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25499693333333334
+        },
+        {
+            "keyword": "speaker",
+            "score": 0.24272728918457034
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23929258333333334
+        },
+        {
+            "keyword": "public speaking",
+            "score": 0.21791573333333333
+        }
+    ]
+}

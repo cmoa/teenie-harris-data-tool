@@ -1,0 +1,130 @@
+{
+    "objectID": 26103,
+    "irn": 26103,
+    "ecatalogue_key": 16006,
+    "TitAccessionNo": "2001.35.16036",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman with short hairstyle wearing V neck dress with small round button detail",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fab95af8-79d8-4228-ba20-3708c6f8fbef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32245,
+    "MulMultiMediaRef_key": 16014,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32245/sizes/26103-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4036046361206053
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.378663114667155
+        },
+        {
+            "keyword": "lady",
+            "score": 0.35724031173706067
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3143925986745199
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3065191333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.30032064083251964
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28722785
+        },
+        {
+            "keyword": "beauty",
+            "score": 0.2861922333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.28552483333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28334909999999996
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27827841000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "hairstyle",
+            "score": 0.2693415666666667
+        },
+        {
+            "keyword": "eye",
+            "score": 0.25780977666666666
+        },
+        {
+            "keyword": "retro style",
+            "score": 0.24312603333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2362582666666667
+        },
+        {
+            "keyword": "black hair",
+            "score": 0.23390364666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21153388333333334
+        }
+    ]
+}

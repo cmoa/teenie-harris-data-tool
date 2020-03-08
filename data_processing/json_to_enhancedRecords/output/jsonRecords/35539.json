@@ -1,0 +1,114 @@
+{
+    "objectID": 35539,
+    "irn": 35539,
+    "ecatalogue_key": 23220,
+    "TitAccessionNo": "2001.35.23251",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man, possibly Douglas Simmons, wearing dark suit and bow tie, posed in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d9ee4c88-ec2b-4955-acaf-08f5d929111e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41693,
+    "MulMultiMediaRef_key": 23228,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41693/sizes/35539-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "Douglas Simmons"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "12.601 2.4512.30\n15 12.001.851\nin target due to adjusting end-points in scan based\n",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "portrait",
+            "score": 0.3481568154663086
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Douglas Simmons",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33041702407959
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3025425666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28250501666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26686861
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26133233333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24036643333333332
+        }
+    ]
+}

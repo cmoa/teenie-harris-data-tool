@@ -1,0 +1,121 @@
+{
+    "objectID": 72503,
+    "irn": 72503,
+    "ecatalogue_key": 57241,
+    "TitAccessionNo": "2001.35.57284",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored shirt, necktie, and striped jacket, standing in front of clapboard building with windows and sign that reads \"Administration Building\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "042fc17f-17fe-4af0-aed4-157ce3e65f47",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91921,
+    "MulMultiMediaRef_key": 57250,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91921/sizes/72503-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "ADMINIST ATION\n",
+    "subjects": [
+        "Buildings",
+        "Signs and signboards",
+        "Signs and symbols",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48957154119466134
+        },
+        {
+            "keyword": "male",
+            "score": 0.418485448404948
+        },
+        {
+            "keyword": "suit",
+            "score": 0.37124029699056
+        },
+        {
+            "keyword": "Administration Building",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Signs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.325295993447876
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2988706
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2861200333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.28223941615478504
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27717642000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26106391333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23778315333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.22901156666666667
+        }
+    ]
+}

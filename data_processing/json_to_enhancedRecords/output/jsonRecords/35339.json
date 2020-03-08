@@ -1,0 +1,121 @@
+{
+    "objectID": 35339,
+    "irn": 35339,
+    "ecatalogue_key": 23060,
+    "TitAccessionNo": "2001.35.23091",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark double breasted suit with two toned plaid necktie, standing in interior with \"Samson Buck Co. 1950\" calendar on wall, possibly Pittsburgh Housing Authority, closer version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d677d5aa-50c3-4a16-9eb8-87498806dfe9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41562,
+    "MulMultiMediaRef_key": 23068,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41562/sizes/35339-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "SAMSON BUICK CO\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Housing Authority of the City of Pittsburgh"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.49820135674641924
+        },
+        {
+            "keyword": "person",
+            "score": 0.4455548151407877
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.36887889535319
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3608622917468263
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Housing Authority",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Samson Buck Co.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.307078728125
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28449171666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2825140566666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2731755666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.22859111684814468
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22568259999999998
+        },
+        {
+            "keyword": "official",
+            "score": 0.21980876666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21695276666666666
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "objectID": 24062,
+    "irn": 24062,
+    "ecatalogue_key": 14240,
+    "TitAccessionNo": "2001.35.14270",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and four men gathered around table in club or restaurant with horizontal and diagonal striped walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "abb52778-6dcb-4402-89a7-4a97e9c3353e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30392,
+    "MulMultiMediaRef_key": 14248,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30392/sizes/24062-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Clubs",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clubs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2886822666666667
+        },
+        {
+            "keyword": "table",
+            "score": 0.2837141347729493
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2765456
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.2603502466666667
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.25565603333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24648576666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2358555
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.2045993
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20137165
+        }
+    ]
+}

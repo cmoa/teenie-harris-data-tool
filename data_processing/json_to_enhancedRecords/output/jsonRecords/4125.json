@@ -1,0 +1,94 @@
+{
+    "objectID": 4125,
+    "irn": 4125,
+    "ecatalogue_key": 2378,
+    "TitAccessionNo": "2001.35.2382",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman pointing to circled mark on door in narrow passageway",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "073441c1-fd60-42c3-b204-96cf9e0a2385",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17212,
+    "MulMultiMediaRef_key": 2380,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17212/sizes/4125-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Doors"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3753644063557943
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.31223114579366035
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30536012
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2810437
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2767502866666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.27545506924926766
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27003961666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24084582
+        }
+    ]
+}

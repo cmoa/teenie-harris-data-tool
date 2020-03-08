@@ -1,0 +1,104 @@
+{
+  "objectID": 68827,
+  "irn": 68827,
+  "ecatalogue_key": 54554,
+  "TitAccessionNo": "2001.35.54597",
+  "CreDateCreated": "March 1960",
+  "CreEarliestDate": "1960-03-01",
+  "CreLatestDate": "1960-03-31",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Porch with rotted stairs and missing railing posts",
+  "CatSubject_tab": "Porches--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Destroyed buildings--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "55d6b76a-f725-46b1-a248-5efdf992fe5a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80887/sizes/68827-1680.jpg",
+  "datetime": "1960-03-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Stairs",
+    "Porches",
+    "Lost architecture"
+  ],
+  "keywords": [
+    {
+      "keyword": "structure",
+      "score": 0.39218512016601564
+    },
+    {
+      "keyword": "water",
+      "score": 0.34281832400716133
+    },
+    {
+      "keyword": "Destroyed buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Stairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Porches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Houses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31296426666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29155878333333335
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2710031333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25501599999999996
+    },
+    {
+      "keyword": "step",
+      "score": 0.23868695576985668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80887/sizes/68827-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80887/sizes/68827-210.jpg",
+  "date_timestamp_earliest": -310435200.0,
+  "date_timestamp_latest": -307843200.0,
+  "decades": [
+    "1960s"
+  ]
+}

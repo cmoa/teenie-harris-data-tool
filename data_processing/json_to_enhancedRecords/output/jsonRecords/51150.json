@@ -1,0 +1,83 @@
+{
+    "objectID": 51150,
+    "irn": 51150,
+    "ecatalogue_key": 37985,
+    "TitAccessionNo": "2001.35.38026",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing at head table speaking to men and women seated at banquet tables, in interior with microphone and piano",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Dinners and dining--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "17d4945c-d023-4c8f-a3fb-ac4ea7ba1252",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58489,
+    "MulMultiMediaRef_key": 37993,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58489/sizes/51150-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 18,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Dinners and dining"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dinners and dining",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29350943333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27578028
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25045995
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23262455
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2031568234781901
+        }
+    ]
+}

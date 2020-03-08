@@ -1,0 +1,125 @@
+{
+    "objectID": 45211,
+    "irn": 45211,
+    "ecatalogue_key": 32439,
+    "TitAccessionNo": "2001.35.32474",
+    "CreDateCreated": "c. 1946",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three boys, including one wearing cast on arm and striped t-shirt, and another standing in window of brick building, possibly at Terrace Village",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1e7fa846-148a-46ee-874e-79baa5d9b97d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51669,
+    "MulMultiMediaRef_key": 32447,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51669/sizes/45211-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Terrace Village",
+            "short_name": "Terrace Village"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Windows",
+        "Boys",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3747173864379883
+        },
+        {
+            "keyword": "wall",
+            "score": 0.3457737995343017
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Terrace Village",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.32466636585591635
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30863003333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29218352
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2872053
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.28444469
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28291356666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.27123406134440103
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2487781
+        },
+        {
+            "keyword": "window",
+            "score": 0.24511616666666666
+        },
+        {
+            "keyword": "house",
+            "score": 0.22488404214457194
+        }
+    ]
+}

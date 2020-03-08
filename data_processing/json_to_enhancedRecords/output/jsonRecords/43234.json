@@ -1,0 +1,105 @@
+{
+    "objectID": 43234,
+    "irn": 43234,
+    "ecatalogue_key": 30564,
+    "TitAccessionNo": "2001.35.30597",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of bathroom with two empty towel racks, mirror, soap dish, and sink",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bathrooms--Pennsylvania--Pittsburgh.Sinks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cc0ea757-cd93-44dd-a1eb-3c8b7d66e877",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49869,
+    "MulMultiMediaRef_key": 30572,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49869/sizes/43234-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bathrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.36393809841186536
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.35730183687744127
+        },
+        {
+            "keyword": "light",
+            "score": 0.334770225152588
+        },
+        {
+            "keyword": "Sinks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30882712333333334
+        },
+        {
+            "keyword": "house",
+            "score": 0.30853385344238266
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2834080666666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.2784320696105957
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27165406666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24986771666666666
+        },
+        {
+            "keyword": "glass",
+            "score": 0.24611209287109367
+        },
+        {
+            "keyword": "daylighting",
+            "score": 0.21497256666666667
+        }
+    ]
+}

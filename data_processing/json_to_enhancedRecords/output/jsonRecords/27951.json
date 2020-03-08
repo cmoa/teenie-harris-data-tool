@@ -1,0 +1,99 @@
+{
+    "objectID": 27951,
+    "irn": 27951,
+    "ecatalogue_key": 17096,
+    "TitAccessionNo": "2001.35.17126",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at individual desks with books and documents, including woman wearing floral dress in front right, in interior with partial floral carpet, and partial hard wood floors, double exposure",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "be29944a-077e-4d4c-b823-05607f5ffeaf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33705,
+    "MulMultiMediaRef_key": 17104,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33705/sizes/27951-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Office furniture",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "barbershop",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "shop",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3024571
+        },
+        {
+            "keyword": "house",
+            "score": 0.28348925117106133
+        },
+        {
+            "keyword": "window",
+            "score": 0.27752744483439135
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27392473333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27264479999999996
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23659447666666666
+        }
+    ]
+}

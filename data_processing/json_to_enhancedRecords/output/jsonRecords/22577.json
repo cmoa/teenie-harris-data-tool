@@ -1,0 +1,130 @@
+{
+    "objectID": 22577,
+    "irn": 22577,
+    "ecatalogue_key": 13182,
+    "TitAccessionNo": "2001.35.13212",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing eyeglasses and slim striped tie, with framed painting in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0ddb3725-5fd8-4443-80fa-1755c8bcaf33",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29188,
+    "MulMultiMediaRef_key": 13190,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29188/sizes/22577-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4981905509025067
+        },
+        {
+            "keyword": "person",
+            "score": 0.441872100760091
+        },
+        {
+            "keyword": "male",
+            "score": 0.4332268156941734
+        },
+        {
+            "keyword": "suit",
+            "score": 0.42657776585286467
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.341041650448812
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32372702567545564
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31536222090250665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29300942
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2875026866666667
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.2802830333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2766047333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2550851618382772
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2521200333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.22956600000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2269061
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.21544595666666666
+        },
+        {
+            "keyword": "eyewear",
+            "score": 0.21460024666666666
+        },
+        {
+            "keyword": "executive",
+            "score": 0.21214318593343098
+        }
+    ]
+}

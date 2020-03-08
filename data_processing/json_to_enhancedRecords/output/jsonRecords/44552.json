@@ -1,0 +1,106 @@
+{
+    "objectID": 44552,
+    "irn": 44552,
+    "ecatalogue_key": 31893,
+    "TitAccessionNo": "2001.35.31928",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, one on left wearing dark suit, and one on right wearing three piece pinstriped suit, standing in interior with portrait of man on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a22feeb8-c045-4384-b9d4-efdc2c150c0a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51283,
+    "MulMultiMediaRef_key": 31901,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51283/sizes/44552-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4601705018188477
+        },
+        {
+            "keyword": "suit",
+            "score": 0.41197275471598305
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33138028187418633
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29991846666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2835126333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27900996666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27023746666666665
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25432815323689767
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23488648666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23295556666666664
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20447321666666665
+        }
+    ]
+}

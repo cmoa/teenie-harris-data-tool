@@ -1,0 +1,124 @@
+{
+    "objectID": 21557,
+    "irn": 21557,
+    "ecatalogue_key": 12209,
+    "TitAccessionNo": "2001.35.12239",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Empty room with wires sticking out of floor and wall, and radiator in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Rooms--Pennsylvania--Pittsburgh.Electric wire--Pennsylvania--Pittsburgh.Radiators--Pennsylvania--Pittsburgh.Paneling--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "794b58e2-84da-4822-8f25-3bb8f8ee6db1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28099,
+    "MulMultiMediaRef_key": 12217,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28099/sizes/21557-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Paneling",
+        "Rooms",
+        "Electric wire",
+        "Radiators"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.3869149150341797
+        },
+        {
+            "keyword": "structure",
+            "score": 0.3426732683483887
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.3414675778299967
+        },
+        {
+            "keyword": "Paneling",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Electric wire",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Radiators",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "light",
+            "score": 0.32709103215942364
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30997516666666663
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2865226
+        },
+        {
+            "keyword": "garage",
+            "score": 0.2752882385253907
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2724886
+        },
+        {
+            "keyword": "wood",
+            "score": 0.2574464573331707
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2521678666666667
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.23368236666666667
+        },
+        {
+            "keyword": "concrete",
+            "score": 0.226256467454834
+        },
+        {
+            "keyword": "window",
+            "score": 0.20807227048645036
+        }
+    ]
+}

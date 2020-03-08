@@ -1,0 +1,110 @@
+{
+    "objectID": 58081,
+    "irn": 58081,
+    "ecatalogue_key": 44243,
+    "TitAccessionNo": "2001.35.44285",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark pinstriped jacket with pen and light colored handkerchief in breast pocket, and feather and grapevine patterned tie with tie bar, posed next to window with newspaper pinned to leaf patterned curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5607a336-703a-49b7-8317-c398892f4fa0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66056,
+    "MulMultiMediaRef_key": 44251,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66056/sizes/58081-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Men",
+        "Portraits",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "portrait",
+            "score": 0.35674504265136736
+        },
+        {
+            "keyword": "standing",
+            "score": 0.352958241401774
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3066841571818033
+        },
+        {
+            "keyword": "suit",
+            "score": 0.30261749267578136
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2938207
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28409848666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25556283333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25396826666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23510830319213868
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21250486666666668
+        }
+    ]
+}

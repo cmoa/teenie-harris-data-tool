@@ -1,0 +1,110 @@
+{
+    "objectID": 20861,
+    "irn": 20861,
+    "ecatalogue_key": 11641,
+    "TitAccessionNo": "2001.35.11671",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd around woman lying in street up on one elbow, with woman holding umbrella over her and man talking to her, with Sharkey's Cigar and Cut Rate in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "699fd176-db10-471a-8672-bb7cacab98ab",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14362,
+    "MulMultiMediaRef_key": 11649,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14362/sizes/20861-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "( JT RATE\nn5\nCUT RATE\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.3815491861816407
+        },
+        {
+            "keyword": "city",
+            "score": 0.3370535310668947
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sharkey",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "town",
+            "score": 0.33051942877197266
+        },
+        {
+            "keyword": "road",
+            "score": 0.319784554047648
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3087185333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29914297666666667
+        },
+        {
+            "keyword": "public space",
+            "score": 0.29247086666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2883063166666667
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.27591503333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26955682
+        },
+        {
+            "keyword": "pedestrian",
+            "score": 0.26732890456136066
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24288663333333335
+        }
+    ]
+}

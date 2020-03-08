@@ -1,0 +1,114 @@
+{
+    "objectID": 16896,
+    "irn": 16896,
+    "ecatalogue_key": 8794,
+    "TitAccessionNo": "2001.35.8816",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Dog lying in front of door and television on floor of living room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Televisions--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2e9fd3ac-12eb-415f-86ed-467d5c59edb5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24454,
+    "MulMultiMediaRef_key": 8802,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24454/sizes/16896-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "dog",
+            "score": 0.5094631787556967
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Televisions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31640895333333335
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.31271944333333335
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30769235
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29081634666666667
+        },
+        {
+            "keyword": "dog breed",
+            "score": 0.28006206666666666
+        },
+        {
+            "keyword": "dog breed group",
+            "score": 0.2775433
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27390523333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2528078166666667
+        },
+        {
+            "keyword": "snout",
+            "score": 0.24010236666666665
+        },
+        {
+            "keyword": "technology",
+            "score": 0.23572993333333334
+        },
+        {
+            "keyword": "heater",
+            "score": 0.20837704976399732
+        }
+    ]
+}

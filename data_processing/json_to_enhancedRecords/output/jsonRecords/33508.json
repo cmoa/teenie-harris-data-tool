@@ -1,0 +1,100 @@
+{
+    "objectID": 33508,
+    "irn": 33508,
+    "ecatalogue_key": 21429,
+    "TitAccessionNo": "2001.35.21460",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of seven men, including one on right wearing plaid jacket, posed in interior with covered sofa, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2a7fb170-89e9-4549-99e7-67072ceb4dea",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39896,
+    "MulMultiMediaRef_key": 21437,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39896/sizes/33508-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "KODAK SAFETY FILM\n3\n",
+    "subjects": [
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47126356074056
+        },
+        {
+            "keyword": "male",
+            "score": 0.38311391036783865
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.30380600751057935
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27698815
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27303783333333337
+        },
+        {
+            "keyword": "family",
+            "score": 0.23486388371785483
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22133875
+        },
+        {
+            "keyword": "groom",
+            "score": 0.21441449297892254
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20825453400166835
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20226126666666666
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "objectID": 20615,
+    "irn": 20615,
+    "ecatalogue_key": 12069,
+    "TitAccessionNo": "2001.35.12099",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women standing in line and walking into building, including Anthony Fountain Jr., Thelma Lovette Morris, Morris Fountain Sr., and Miriam Sharpe Fountain in background, with cars in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f219449d-3099-493c-8ee2-173757752079",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27661,
+    "MulMultiMediaRef_key": 12077,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27661/sizes/20615-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Anthony Fountain Jr.",
+        "Miriam Sharpe Fountain",
+        "Thelma Lovette Morris"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Morris Fountain Sr.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31029483333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28390268333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27626454666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2508219
+        }
+    ]
+}

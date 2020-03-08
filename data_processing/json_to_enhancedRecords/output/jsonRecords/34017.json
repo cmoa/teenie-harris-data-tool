@@ -1,0 +1,100 @@
+{
+    "objectID": 34017,
+    "irn": 34017,
+    "ecatalogue_key": 21962,
+    "TitAccessionNo": "2001.35.21993",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men seated around circular banquet tables, including woman wearing tweed suit and hat with dark bow, in interior with square pillars and tall curtains, possibly William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c3ee2914-0245-4a1a-b769-ff3ee5f9caa5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40519,
+    "MulMultiMediaRef_key": 21970,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40519/sizes/34017-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "William Penn Hotel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "KODAK SAFETY FILM\n2\n",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.32225680530293765
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2976851188356527
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.2800123498124187
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2795786866666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2776924766666667
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.27272027666666665
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.26521404666666665
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2269591
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22135561666666667
+        }
+    ]
+}

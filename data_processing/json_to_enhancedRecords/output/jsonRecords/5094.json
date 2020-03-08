@@ -1,0 +1,115 @@
+{
+    "objectID": 5094,
+    "irn": 5094,
+    "ecatalogue_key": 3040,
+    "TitAccessionNo": "2001.35.3047",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Residential neighborhood on hillside overlooking river, seen from railroad tracks",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Neighborhoods--Pennsylvania--Pittsburgh.Rivers--Pennsylvania--Pittsburgh.Railroad tracks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "95377f78-16c2-47d0-b41c-303ba5e34f09",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17472,
+    "MulMultiMediaRef_key": 3042,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17472/sizes/5094-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Railroad tracks",
+        "Rivers",
+        "Neighborhoods"
+    ],
+    "keywords": [
+        {
+            "keyword": "sky",
+            "score": 0.37317065002644867
+        },
+        {
+            "keyword": "tree",
+            "score": 0.34802615561808264
+        },
+        {
+            "keyword": "house",
+            "score": 0.3438246767496744
+        },
+        {
+            "keyword": "town",
+            "score": 0.33746269230753567
+        },
+        {
+            "keyword": "Railroad tracks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Rivers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neighborhoods",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3138609666666667
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.312475113244629
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29929075666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2739106
+        },
+        {
+            "keyword": "history",
+            "score": 0.270733321916097
+        },
+        {
+            "keyword": "morning",
+            "score": 0.25666539
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25636149999999996
+        },
+        {
+            "keyword": "atmosphere",
+            "score": 0.23972992
+        },
+        {
+            "keyword": "cloud",
+            "score": 0.21748087666666668
+        }
+    ]
+}

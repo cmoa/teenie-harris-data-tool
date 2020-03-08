@@ -1,0 +1,115 @@
+{
+  "objectID": 20769,
+  "irn": 20769,
+  "ecatalogue_key": 11536,
+  "TitAccessionNo": "2001.35.11566",
+  "CreDateCreated": "c. 1945-1949",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1949",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing suit writing on clipboard next to man with left arm in cast seated on hospital bed",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "ee9f289f-799b-4f68-b508-4c9c791185d3",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/437/sizes/20769-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "Hospitals",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.47265480693440765
+    },
+    {
+      "keyword": "male",
+      "score": 0.38986376330159495
+    },
+    {
+      "keyword": "Hospitals",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "standing",
+      "score": 0.30490980974528
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29570243333333335
+    },
+    {
+      "keyword": "professional",
+      "score": 0.29473929833170565
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2798203833333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "smile",
+      "score": 0.26244734976806633
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25843835
+    },
+    {
+      "keyword": "human",
+      "score": 0.2362765
+    },
+    {
+      "keyword": "fun",
+      "score": 0.23377214907836916
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22203033333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/437/sizes/20769-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/437/sizes/20769-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -662688000.0,
+  "decades": [
+    "1940s"
+  ]
+}

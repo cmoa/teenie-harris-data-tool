@@ -1,0 +1,100 @@
+{
+  "objectID": 8088,
+  "irn": 8088,
+  "ecatalogue_key": 4950,
+  "TitAccessionNo": "2001.35.4959",
+  "CreDateCreated": "c. 1940-1960",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man in leather jacket seated in engineer's seat in airplane",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Airplanes--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "ce6211e9-7bf8-4b1e-b08a-d3502f151457",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20215/sizes/8088-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Airplanes",
+    "Interior architecture",
+    "Eyeglasses",
+    "Interiors",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Airplanes",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Eyeglasses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30809159999999997
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2809715
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27834878333333335
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24380406666666665
+    },
+    {
+      "keyword": "human behavior",
+      "score": 0.22848685666666668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20215/sizes/8088-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20215/sizes/8088-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

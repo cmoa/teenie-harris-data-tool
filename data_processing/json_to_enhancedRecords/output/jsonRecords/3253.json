@@ -1,0 +1,125 @@
+{
+    "objectID": 3253,
+    "irn": 3253,
+    "ecatalogue_key": 1812,
+    "TitAccessionNo": "2001.35.1814",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three musicians, including Bill Gambrell on piano, Bob Story on drums, and Jim or Billy Armstrong on saxophone, performing in paneled interior, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Gambrell, Bill.Pianos--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.Armstrong, Jim.Saxophones--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e5c5654f-c907-431e-9820-5ac949431ce6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16565,
+    "MulMultiMediaRef_key": 1814,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16565/sizes/3253-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Jim",
+        "Bob Story",
+        "Bill Gambrell",
+        "Billy Armstrong"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Portraits, Group",
+        "Musicians",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Jim",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Saxophones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Billy Armstrong",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bob Story",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gambrell, Bill",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Armstrong, Jim",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "music",
+            "score": 0.27230356666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27096295333333337
+        },
+        {
+            "keyword": "communication",
+            "score": 0.247825248505656
+        },
+        {
+            "keyword": "musician",
+            "score": 0.23778663333333336
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20745798264058432
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20609305333333336
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+  "objectID": 29488,
+  "irn": 29488,
+  "ecatalogue_key": 18087,
+  "TitAccessionNo": "2001.35.18117",
+  "CreDateCreated": "c. 1945-1965",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing grid patterned suit, presenting trophy inscribed \"Alfred B. Carl\" to tall man on left, possibly in Centre Avenue YMCA",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "69c992cc-1eb4-44ce-8077-04995ccf7973",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35598/sizes/29488-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [
+    "Alfred B. Carl"
+  ],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "ALFRED B.CARL\n",
+  "subjects": [
+    "Trophies",
+    "Portraits, Group",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.4234525173055013
+    },
+    {
+      "keyword": "male",
+      "score": 0.36249016048380533
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Alfred B. Carl",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Trophies",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28514868
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27979366666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2586578133333333
+    },
+    {
+      "keyword": "family",
+      "score": 0.2455158458333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.23661261666666666
+    },
+    {
+      "keyword": "event",
+      "score": 0.22310884666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21468631333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35598/sizes/29488-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35598/sizes/29488-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": []
+}

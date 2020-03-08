@@ -1,0 +1,82 @@
+{
+    "objectID": 17485,
+    "irn": 17485,
+    "ecatalogue_key": 9235,
+    "TitAccessionNo": "2001.35.9259",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men working on print blocks, two with cigarettes in mouth, one with a pipe",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Newspapers--Pennsylvania--Pittsburgh.Workers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dc71088f-25a0-42ab-81b0-8abac59dc73b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24901,
+    "MulMultiMediaRef_key": 9243,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24901/sizes/17485-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "KODY\nG 10\n",
+    "subjects": [
+        "Men",
+        "Newspapers"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29702603333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2764879
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24874573333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22936316666666667
+        }
+    ]
+}

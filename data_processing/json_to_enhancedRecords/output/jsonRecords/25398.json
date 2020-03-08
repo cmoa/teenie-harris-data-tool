@@ -1,0 +1,93 @@
+{
+    "objectID": 25398,
+    "irn": 25398,
+    "ecatalogue_key": 15159,
+    "TitAccessionNo": "2001.35.15189",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women seated in chairs with \"Frederick\" stenciled on the back, playing cards, with woman standing in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Playing cards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1b18d37b-fd70-4e84-a13a-3e400e46c829",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31539,
+    "MulMultiMediaRef_key": 15167,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31539/sizes/25398-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Frederick"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Frederick",
+        "Playing cards"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Frederick",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Playing cards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28400788666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2755461533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24589496666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23931196666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21669451333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20765141666666667
+        }
+    ]
+}

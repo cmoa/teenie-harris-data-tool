@@ -1,0 +1,97 @@
+{
+    "objectID": 26647,
+    "irn": 26647,
+    "ecatalogue_key": 16363,
+    "TitAccessionNo": "2001.35.16393",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Back portion of Ford, four door car, license plate inscribed \"Pennsylvania, 388-942\" and sticker inscribed \"Pittsburgh Auto Sales\" with wrecked rear right tail light, parked on belgian block street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5021812a-6c7e-4f03-83ee-20bd0ca3ed25",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33073,
+    "MulMultiMediaRef_key": 16371,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33073/sizes/26647-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.6456556333333333
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.47857790336507167
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ford",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Auto Sales",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.3263831
+        },
+        {
+            "keyword": "classic",
+            "score": 0.31658783694559733
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.2789185433333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27660795
+        },
+        {
+            "keyword": "vintage car",
+            "score": 0.25733288
+        },
+        {
+            "keyword": "full size car",
+            "score": 0.23964963333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20393328
+        }
+    ]
+}

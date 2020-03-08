@@ -1,0 +1,93 @@
+{
+    "objectID": 16777,
+    "irn": 16777,
+    "ecatalogue_key": 8625,
+    "TitAccessionNo": "2001.35.8647",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "The newspaper on the chair is the Pittsburgh Post Gazette.",
+    "TitMainTitle": "Group of men in bar standing around bar stool with rolled up newspaper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "99aa1eef-c3ec-4f4e-a12e-8e6bda2f3ef9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24285,
+    "MulMultiMediaRef_key": 8633,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24285/sizes/16777-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the Pittsburgh Post Gazette",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30673584411824534
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2785610566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27048345333333335
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24283918952351902
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22790407999999998
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22730593333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20904521
+        }
+    ]
+}

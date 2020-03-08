@@ -1,0 +1,102 @@
+{
+    "objectID": 22445,
+    "irn": 22445,
+    "ecatalogue_key": 13026,
+    "TitAccessionNo": "2001.35.13056",
+    "CreDateCreated": "c. 1968",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Reverend Harris? standing at podium inside church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clergy--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7b58b7e5-d511-459b-8bcc-e77f0f39c949",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28912,
+    "MulMultiMediaRef_key": 13034,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28912/sizes/22445-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [],
+    "people": [
+        "Harris"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Harris",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3201055091585287
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2967377
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2688888333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2625309333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23768135
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.20441903333333333
+        },
+        {
+            "keyword": "jazz pianist",
+            "score": 0.20349156666666668
+        }
+    ]
+}

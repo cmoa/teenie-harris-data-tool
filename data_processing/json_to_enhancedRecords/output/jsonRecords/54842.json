@@ -1,0 +1,121 @@
+{
+    "objectID": 54842,
+    "irn": 54842,
+    "ecatalogue_key": 41518,
+    "TitAccessionNo": "2001.35.41560",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men walking along corridor with ironwork and scaffolding, with bars obstructing view in foreground, possibly in Allegheny County Jail",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Jails--Pennsylvania--Pittsburgh.Scaffolding--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fba524f8-8f3b-451c-8bc3-47082e1b5ac3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62466,
+    "MulMultiMediaRef_key": 41526,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62466/sizes/54842-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Allegheny County Jail",
+            "short_name": "Allegheny County Jail"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Scaffolding",
+        "Jails"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.43148240617675765
+        },
+        {
+            "keyword": "structure",
+            "score": 0.3856477061340334
+        },
+        {
+            "keyword": "building",
+            "score": 0.35614608873697934
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Scaffolding",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jails",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "prison",
+            "score": 0.3280450439453127
+        },
+        {
+            "keyword": "window",
+            "score": 0.3273385508951823
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3145284666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2961985
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2742195333333333
+        },
+        {
+            "keyword": "glass",
+            "score": 0.26823133186442066
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25657223333333334
+        },
+        {
+            "keyword": "line",
+            "score": 0.22026213333333333
+        },
+        {
+            "keyword": "square",
+            "score": 0.21071494663441978
+        },
+        {
+            "keyword": "door",
+            "score": 0.20344266310119632
+        }
+    ]
+}

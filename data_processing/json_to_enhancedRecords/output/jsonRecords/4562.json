@@ -1,0 +1,87 @@
+{
+    "objectID": 4562,
+    "irn": 4562,
+    "ecatalogue_key": 2652,
+    "TitAccessionNo": "2001.35.2656",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Production of children's play in auditorium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Auditoriums--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Schoolchildren--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cc2dc82d-9172-4d9f-a4e2-6aa4b8f9a451",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17290,
+    "MulMultiMediaRef_key": 2654,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17290/sizes/4562-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Auditoriums",
+        "Audiences",
+        "School children"
+    ],
+    "keywords": [
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Schoolchildren",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30475849
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27896423333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27313218666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22663770000000003
+        }
+    ]
+}

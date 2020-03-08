@@ -1,0 +1,110 @@
+{
+    "objectID": 30952,
+    "irn": 30952,
+    "ecatalogue_key": 19144,
+    "TitAccessionNo": "2001.35.19174",
+    "CreDateCreated": "c. 1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman wearing cap and gown, and dark shoes with double ankle straps, holding diploma, posed in front of light colored rolled backdrop covering wall with beauty school schedule and pictures of hairstyles",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Graduates--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2e33dfac-a1ae-4cc5-b882-5c833dcb4124",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36881,
+    "MulMultiMediaRef_key": 19152,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36881/sizes/30952-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "WORK\nLWORK\n",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "mortarboard",
+            "score": 0.5870371333333333
+        },
+        {
+            "keyword": "graduation",
+            "score": 0.36453505344238263
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "cap",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.331916275592041
+        },
+        {
+            "keyword": "academic dress",
+            "score": 0.32879786666666666
+        },
+        {
+            "keyword": "headdress",
+            "score": 0.3225887044270833
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29441364666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2829625
+        },
+        {
+            "keyword": "robe",
+            "score": 0.27025514407958984
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.25011662801106765
+        },
+        {
+            "keyword": "costume",
+            "score": 0.2448276511462402
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22723941
+        }
+    ]
+}

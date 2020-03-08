@@ -1,0 +1,117 @@
+{
+  "objectID": 28228,
+  "irn": 28228,
+  "ecatalogue_key": 17196,
+  "TitAccessionNo": "2001.35.17226",
+  "CreDateCreated": "1969",
+  "CreEarliestDate": "1969",
+  "CreLatestDate": "1969",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Eleven men, and woman wearing hat with wide brim, walking on runway, away from airplane, reading \"United\" on side",
+  "CatSubject_tab": "Men--Pennsylvania--Allegheny County.Women--Pennsylvania--Allegheny County.Group portraits--Pennsylvania--Allegheny County.Airplanes--Pennsylvania--Allegheny County.",
+  "AdmGUIDValue_tab": "3aa05abd-1954-4b13-9a3d-0be3cd2daaf8",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33942/sizes/28228-1680.jpg",
+  "datetime": "1969-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 12,
+  "google_text_in_image": "KODAK SAFETY FILM\n6\n",
+  "subjects": [
+    "Airplanes",
+    "Portraits, Group",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Airplanes",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "United",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30780206666666665
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2826266
+    },
+    {
+      "keyword": "aviation",
+      "score": 0.27926809999999996
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2645790666666667
+    },
+    {
+      "keyword": "sky",
+      "score": 0.263866617436727
+    },
+    {
+      "keyword": "air travel",
+      "score": 0.25270281333333333
+    },
+    {
+      "keyword": "airplane",
+      "score": 0.24168009999999998
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24132601333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33942/sizes/28228-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33942/sizes/28228-210.jpg",
+  "date_timestamp_earliest": -31536000.0,
+  "date_timestamp_latest": -31536000.0,
+  "decades": [
+    "1960s"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+    "objectID": 21035,
+    "irn": 21035,
+    "ecatalogue_key": 11745,
+    "TitAccessionNo": "2001.35.11775",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of men and boys wearing overcoats standing in front of building, with car in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "21b5a916-c5b8-4656-9738-a2ae481e41e7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18904,
+    "MulMultiMediaRef_key": 11753,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18904/sizes/21035-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Men",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.28820385666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2880570333333333
+        },
+        {
+            "keyword": "car",
+            "score": 0.25757054333333335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25424189999999997
+        },
+        {
+            "keyword": "street",
+            "score": 0.24811244322224935
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23969533333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22528851000000003
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.22436841333333335
+        },
+        {
+            "keyword": "history",
+            "score": 0.20798642848917645
+        }
+    ]
+}

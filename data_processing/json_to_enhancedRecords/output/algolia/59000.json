@@ -1,0 +1,133 @@
+{
+  "objectID": 59000,
+  "irn": 59000,
+  "ecatalogue_key": 45065,
+  "TitAccessionNo": "2001.35.45108",
+  "CreDateCreated": "c. 1956",
+  "CreEarliestDate": "1953",
+  "CreLatestDate": "1959",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a young man with a small moustache wearing a light colored short sleeve shirt and pants with drawstring tie, standing in front of a stone building with left hand resting on railing",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9021f184-46c3-4dae-964f-910165f2f0c3",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66868/sizes/59000-1680.jpg",
+  "datetime": "1953-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Men",
+    "Young adults",
+    "Portraits"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.40108953373372397
+    },
+    {
+      "keyword": "man",
+      "score": 0.39277547031860366
+    },
+    {
+      "keyword": "male",
+      "score": 0.353243740677897
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Young adults",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.3120976063761393
+    },
+    {
+      "keyword": "standing",
+      "score": 0.3075122833333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30599711333333335
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.28851097666666664
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2842170666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28208227999999996
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "human",
+      "score": 0.25071207666666667
+    },
+    {
+      "keyword": "muscle",
+      "score": 0.24371254504231774
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23959305
+    },
+    {
+      "keyword": "smile",
+      "score": 0.23616710182515466
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66868/sizes/59000-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66868/sizes/59000-210.jpg",
+  "date_timestamp_earliest": -536457600.0,
+  "date_timestamp_latest": -347155200.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+    "objectID": 22224,
+    "irn": 22224,
+    "ecatalogue_key": 12858,
+    "TitAccessionNo": "2001.35.12888",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men wearing tuxedos and women wearing evening dresses and gowns seated at banquet tables, seen from above",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f69bff0b-d88d-4946-80be-b428f89e0ed6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29047,
+    "MulMultiMediaRef_key": 12866,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29047/sizes/22224-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 30,
+    "google_text_in_image": "KODAK\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30948703333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2875069
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28278386666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.27846426559488935
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.2620558333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2365541
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22910571000000002
+        }
+    ]
+}

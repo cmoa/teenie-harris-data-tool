@@ -1,0 +1,87 @@
+{
+    "objectID": 12422,
+    "irn": 12422,
+    "ecatalogue_key": 6233,
+    "TitAccessionNo": "2001.35.6244",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around bar with booths, deer head on wall, and pin ball machine with bowling game",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Restaurants--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "89fc0040-fd14-453d-946b-22bbafca1557",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21828,
+    "MulMultiMediaRef_key": 6240,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21828/sizes/12422-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Restaurants",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29112965
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26869295
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24703140999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21819744666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.20487836666666667
+        }
+    ]
+}

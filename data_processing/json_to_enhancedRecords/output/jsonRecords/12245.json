@@ -1,0 +1,108 @@
+{
+    "objectID": 12245,
+    "irn": 12245,
+    "ecatalogue_key": 6100,
+    "TitAccessionNo": "2001.35.6111",
+    "CreDateCreated": "c. 1945-1949",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Male patient hooked up to medical device administered by another man, in hospital room 3206B with inscription on wall reading \"turn off compresser unit\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Medical apparatus--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c09afa38-93aa-4254-abc2-9c70a9eee893",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21025,
+    "MulMultiMediaRef_key": 6107,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21025/sizes/12245-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "OFF\nUNIT\nTURN OFF\nCOMPRESSER UNI\n",
+    "subjects": [
+        "Medical instruments and apparatus",
+        "Interiors",
+        "Portraits, Group",
+        "Men",
+        "Interior architecture",
+        "Beds"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.423316414095052
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Medical apparatus",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Beds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30059383333333334
+        },
+        {
+            "keyword": "hospital",
+            "score": 0.29954131765238434
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26966686666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25366363333333336
+        },
+        {
+            "keyword": "room",
+            "score": 0.24002499898274735
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21791459999999999
+        }
+    ]
+}

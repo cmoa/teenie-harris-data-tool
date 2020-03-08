@@ -1,0 +1,103 @@
+{
+    "objectID": 3649,
+    "irn": 3649,
+    "ecatalogue_key": 3332,
+    "TitAccessionNo": "2001.35.3339",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of a woman seated at a desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a4666773-000a-419f-9a3b-2ccb383fe550",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 17645,
+    "MulMultiMediaRef_key": 3334,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17645/sizes/3649-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Photographs",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31286575333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30850192
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30329886666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2801144
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28002125
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24433334666666665
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23261220000000002
+        },
+        {
+            "keyword": "human",
+            "score": 0.2321865333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23013001666666666
+        }
+    ]
+}

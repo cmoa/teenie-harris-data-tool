@@ -1,0 +1,87 @@
+{
+    "objectID": 3835,
+    "irn": 3835,
+    "ecatalogue_key": 2241,
+    "TitAccessionNo": "2001.35.2244",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three young men and two young women behind a lunch counter",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3f9b3d35-06b8-4720-8542-1deac411efea",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17890,
+    "MulMultiMediaRef_key": 2243,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17890/sizes/3835-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "fried SHRIMP $\nLACK BASS FISH\nEPSI\nMEAT LOAF 90\nSEA FOODS\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Restaurants"
+    ],
+    "keywords": [
+        {
+            "keyword": "restaurant",
+            "score": 0.36468209538736973
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29295828
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2638686
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24736103333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23350682
+        }
+    ]
+}

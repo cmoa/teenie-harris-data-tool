@@ -1,0 +1,82 @@
+{
+    "objectID": 50605,
+    "irn": 50605,
+    "ecatalogue_key": 37436,
+    "TitAccessionNo": "2001.35.37476",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing shiny stiped smoking jacket, seated at table with vase of flowers, in domestic dining room with wooden cabinet with silver bar ware on top",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cc0c064f-e0e7-40b0-8a66-072062d73023",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57922,
+    "MulMultiMediaRef_key": 37444,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57922/sizes/50605-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3047470466666667
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.29740876416503903
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27159822
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2694568666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2351095
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2278777
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "objectID": 23222,
+    "irn": 23222,
+    "ecatalogue_key": 13621,
+    "TitAccessionNo": "2001.35.13651",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men and one woman standing close together in front of large ship wheel on wall, with crutches on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c53ee953-5af8-4fb2-a859-0f124bb154d4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29704,
+    "MulMultiMediaRef_key": 13629,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29704/sizes/23222-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "LD E\nKODAK SAFETY FILM\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.338860103552246
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30844472
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28543993333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28507171000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "family",
+            "score": 0.2572782723398844
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23889973333333334
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2213935
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20866089869588214
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2025569
+        }
+    ]
+}

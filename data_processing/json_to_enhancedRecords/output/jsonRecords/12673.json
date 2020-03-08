@@ -1,0 +1,99 @@
+{
+    "objectID": 12673,
+    "irn": 12673,
+    "ecatalogue_key": 6463,
+    "TitAccessionNo": "2001.35.6474",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman giving injection to small child, with boy looking on and two children waiting in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Vaccination--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6eabfc7d-f4b4-440c-b804-e5b485163d4f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22098,
+    "MulMultiMediaRef_key": 6470,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22098/sizes/12673-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Vaccination",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "child",
+            "score": 0.33348116415527335
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vaccination",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3052302
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27930748333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2750591333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24624351666666666
+        },
+        {
+            "keyword": "music",
+            "score": 0.24374198032246905
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24214564371744798
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.20459159999999998
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+  "objectID": 5138,
+  "irn": 5138,
+  "ecatalogue_key": 3083,
+  "TitAccessionNo": "2001.35.3090",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "A woman, possibly a nurse, holds a small girl as a man injects the vaccine into her arm.  A table full of syringes is in the foreground.",
+  "TitMainTitle": "Children receiving shots, possibly polio vaccine",
+  "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Poliomyelitis--Pennsylvania--Pittsburgh.Vaccination--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9e89ad6c-4e76-4979-a37d-b42a4f8bc7ad",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18303/sizes/5138-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "",
+  "subjects": [
+    "Vaccination",
+    "Women",
+    "Poliomyelitis",
+    "Men",
+    "Children"
+  ],
+  "keywords": [
+    {
+      "keyword": "Vaccination",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Poliomyelitis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30200535
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2718896333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26763038
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2408617133333333
+    },
+    {
+      "keyword": "girl",
+      "score": 0.20886893333333334
+    },
+    {
+      "keyword": "fun",
+      "score": 0.20180835333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18303/sizes/5138-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18303/sizes/5138-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+    "objectID": 21449,
+    "irn": 21449,
+    "ecatalogue_key": 12136,
+    "TitAccessionNo": "2001.35.12166",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two seated women and two standing men posing in office with wooden paneling and abstract figurative paintings",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "73139362-f956-41c2-861a-9aa91090cc3c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27780,
+    "MulMultiMediaRef_key": 12144,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27780/sizes/21449-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.3206146162272137
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29827044333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2660172333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2593911660176595
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2527793
+        },
+        {
+            "keyword": "design",
+            "score": 0.22766794666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21604693333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20880333333333334
+        }
+    ]
+}

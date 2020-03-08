@@ -1,0 +1,158 @@
+{
+  "objectID": 30345,
+  "irn": 30345,
+  "ecatalogue_key": 18589,
+  "TitAccessionNo": "2001.35.18619",
+  "CreDateCreated": "June 1952",
+  "CreEarliestDate": "1952-06-01",
+  "CreLatestDate": "1952-06-28",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 28, 1952, pg. 6 reads: \"Policeman - Samuel Wilson is planning to join the Belmar cooperative. - Harris.\"",
+  "TitMainTitle": "Portrait of Samuel Wilson wearing light colored double pocket shirt, standing outside of brick building with casement windows",
+  "CatSubject_tab": "Men--Pennsylvania--Rankin.Portraits--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9add349b-14d2-44fa-892d-6a27255e4281",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36258/sizes/30345-1680.jpg",
+  "datetime": "1952-06-01 00:00:00",
+  "people": [
+    "Samuel Wilson",
+    "Harris"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Lincoln-Lemington-Belmar",
+      "short_name": "Lincoln-Lemington-Belmar"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Portraits",
+    "Pittsburgh courier",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.3943516751342773
+    },
+    {
+      "keyword": "man",
+      "score": 0.38146280715942366
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Harris",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Policeman - Samuel Wilson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "June 28, 1952",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Samuel Wilson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "male",
+      "score": 0.32584498070983897
+    },
+    {
+      "keyword": "standing",
+      "score": 0.29790596666666663
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2924561666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28312933333333334
+    },
+    {
+      "keyword": "human",
+      "score": 0.2765974955047607
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.254118
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24529302
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.22475651117757167
+    },
+    {
+      "keyword": "street",
+      "score": 0.220860814211019
+    },
+    {
+      "keyword": "house",
+      "score": 0.21096382278330486
+    },
+    {
+      "keyword": "window",
+      "score": 0.21004846666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36258/sizes/30345-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36258/sizes/30345-210.jpg",
+  "date_timestamp_earliest": -554947200.0,
+  "date_timestamp_latest": -552614400.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+    "objectID": 22497,
+    "irn": 22497,
+    "ecatalogue_key": 13087,
+    "TitAccessionNo": "2001.35.13117",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered at meat counter, with scale and salami? in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Markets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fef5ec1e-f65b-449b-abac-224b99726d22",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28795,
+    "MulMultiMediaRef_key": 13095,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28795/sizes/22497-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Markets",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Markets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2964854433333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27797196266682933
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2644490333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2587391666666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21969801333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21786081666666668
+        }
+    ]
+}

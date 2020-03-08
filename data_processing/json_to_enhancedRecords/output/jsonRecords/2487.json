@@ -1,0 +1,129 @@
+{
+    "objectID": 2487,
+    "irn": 2487,
+    "ecatalogue_key": 1084,
+    "TitAccessionNo": "2001.35.1086",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Painting of street scene by Edouard Cortes",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Paintings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Cortes, Edouard.",
+    "AdmGUIDValue_tab": "cbece59d-cd79-40f6-840e-3ddd828be79d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18201,
+    "MulMultiMediaRef_key": 1086,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18201/sizes/2487-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Edouard Cortes"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Cortes",
+            "short_name": "Cortes"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.4027526584879557
+        },
+        {
+            "keyword": "Edouard Cortes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cortes, Edouard",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "texture",
+            "score": 0.32402084844889334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3162425
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3054431
+        },
+        {
+            "keyword": "art",
+            "score": 0.28740683086140967
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27829376666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2612825833333333
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "visual arts",
+            "score": 0.24071524666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.23731090539805097
+        },
+        {
+            "keyword": "windowsill",
+            "score": 0.21273029327392567
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.21009580000000003
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.20339910000000003
+        }
+    ]
+}

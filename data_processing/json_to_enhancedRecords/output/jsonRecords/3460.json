@@ -1,0 +1,86 @@
+{
+    "objectID": 3460,
+    "irn": 3460,
+    "ecatalogue_key": 2006,
+    "TitAccessionNo": "2001.35.2009",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Double exposure: male singer performing with piano accompaniment in club; man wearing a hat",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a3237a6f-c819-4a33-9cf4-d25d6898b898",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16261,
+    "MulMultiMediaRef_key": 2008,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16261/sizes/3460-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Microphone",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3348804575968423
+        },
+        {
+            "keyword": "Microphone",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30715598666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28464870000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2842959566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23132445333333332
+        }
+    ]
+}

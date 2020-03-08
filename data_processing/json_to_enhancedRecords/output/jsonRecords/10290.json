@@ -1,0 +1,101 @@
+{
+    "objectID": 10290,
+    "irn": 10290,
+    "ecatalogue_key": 5820,
+    "TitAccessionNo": "2001.35.5830",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of men, two handcuffed together and covering faces, all with a hand raised",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Handcuffs--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c20fc5b5-fcf8-425b-87a6-0cd7c8034ce4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21210,
+    "MulMultiMediaRef_key": 5827,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21210/sizes/10290-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hats",
+        "Interiors",
+        "Men",
+        "Handcuffs",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38651562663492833
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Handcuffs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3073105666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28186933333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27689898
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26690559537963865
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2548851317525227
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24193525333333332
+        }
+    ]
+}

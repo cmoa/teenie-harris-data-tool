@@ -1,0 +1,80 @@
+{
+    "objectID": 25827,
+    "irn": 25827,
+    "ecatalogue_key": 15628,
+    "TitAccessionNo": "2001.35.15658",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women, one wearing apron with hand in pocket, in curio or china shop, with shelves of figurines and dishware",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Stores, Retail--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9168cd8a-707c-4530-953b-7ad638cc0b75",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32432,
+    "MulMultiMediaRef_key": 15636,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32432/sizes/25827-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "china",
+            "short_name": "china"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Stores, Retail"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stores, Retail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30751663333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27386258
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27226104333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2524792166666667
+        }
+    ]
+}

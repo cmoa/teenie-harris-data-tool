@@ -1,0 +1,111 @@
+{
+    "objectID": 32248,
+    "irn": 32248,
+    "ecatalogue_key": 20377,
+    "TitAccessionNo": "2001.35.20408",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing plaid jacket, holding envelope, and writing on paper, standing in front of drums in alley, with housing with fire escapes in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trash--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.Alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4da390b1-6a44-43b9-985f-0fe4ca2f8996",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38548,
+    "MulMultiMediaRef_key": 20385,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38548/sizes/32248-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Alleys",
+        "Refuse and refuse disposal"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.33452715049886067
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trash",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Refuse and refuse disposal",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3091024333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29737383333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29187366666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28606736666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27705823333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24561121
+        },
+        {
+            "keyword": "road",
+            "score": 0.21395715
+        },
+        {
+            "keyword": "window",
+            "score": 0.21149674583841968
+        },
+        {
+            "keyword": "alley",
+            "score": 0.20053639999999998
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "objectID": 72810,
+    "irn": 72810,
+    "ecatalogue_key": 57417,
+    "TitAccessionNo": "2001.35.57460",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored lab coat, standing next to wheeled cart with tall electronic device with knobs, cords, and chart printout, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Electric apparatus and appliances--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e7ac58d8-93fa-459c-9f45-5681d5f8aa06",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 92452,
+    "MulMultiMediaRef_key": 57426,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/92452/sizes/72810-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Clothing and dress",
+        "Electric apparatus and appliances"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Electric apparatus and appliances",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "technology",
+            "score": 0.31212764690958666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2848326566666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27362702333333333
+        },
+        {
+            "keyword": "electronic device",
+            "score": 0.23921634666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.23008170056966148
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21764376666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20937873333333334
+        }
+    ]
+}

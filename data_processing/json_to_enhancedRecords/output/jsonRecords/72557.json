@@ -1,0 +1,105 @@
+{
+    "objectID": 72557,
+    "irn": 72557,
+    "ecatalogue_key": 57140,
+    "TitAccessionNo": "2001.35.57183",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing moustache and wristband, lying in hospital bed with rails, and nurse in uniform standing on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4d204c28-09ee-40ab-bb7d-dc65d1cf0497",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93470,
+    "MulMultiMediaRef_key": 57149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93470/sizes/72557-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Beds",
+        "Nurses",
+        "Women",
+        "Hospitals",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Beds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nurses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3134359
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.308356266200765
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2942285666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27923858
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.26235542848510734
+        },
+        {
+            "keyword": "human",
+            "score": 0.26041725446146646
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.251897
+        }
+    ]
+}

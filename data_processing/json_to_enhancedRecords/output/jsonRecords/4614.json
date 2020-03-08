@@ -1,0 +1,130 @@
+{
+    "objectID": 4614,
+    "irn": 4614,
+    "ecatalogue_key": 2704,
+    "TitAccessionNo": "2001.35.2708",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding guitar in room with photographs of soldiers on wall behind",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Guitars--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2cc2b455-bbac-4272-826e-de4c458e2949",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17099,
+    "MulMultiMediaRef_key": 2706,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17099/sizes/4614-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Photographs",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "string instrument",
+            "score": 0.55984203
+        },
+        {
+            "keyword": "music",
+            "score": 0.42632663131917337
+        },
+        {
+            "keyword": "musician",
+            "score": 0.3886760951448567
+        },
+        {
+            "keyword": "guitar",
+            "score": 0.3670605744222007
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Guitars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2945561
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.2787344666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2758194666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2644514333333333
+        },
+        {
+            "keyword": "banjo",
+            "score": 0.2635726420084637
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2520116766666667
+        },
+        {
+            "keyword": "violinist",
+            "score": 0.25183796666666663
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25041396247965503
+        },
+        {
+            "keyword": "plucked string instruments",
+            "score": 0.23618751666666668
+        },
+        {
+            "keyword": "guitarist",
+            "score": 0.23176036195678698
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.221468
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.21897218666666665
+        },
+        {
+            "keyword": "string instrument accessory",
+            "score": 0.21240262333333335
+        }
+    ]
+}

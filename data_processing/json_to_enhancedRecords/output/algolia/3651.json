@@ -1,0 +1,100 @@
+{
+  "objectID": 3651,
+  "irn": 3651,
+  "ecatalogue_key": 3334,
+  "TitAccessionNo": "2001.35.3341",
+  "CreDateCreated": "c. 1950-1975",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Pittsburgh seen through wooden archway, possibly from Mount Washington",
+  "CatSubject_tab": "Landscape--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "604389ea-48f0-4332-95e0-f3a38a720b8c",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17647/sizes/3651-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Mount Washington",
+      "short_name": "Mt Washington"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [],
+  "keywords": [
+    {
+      "keyword": "Mount Washington",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Landscape",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31445412
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.30432194333333334
+    },
+    {
+      "keyword": "sky",
+      "score": 0.29769463333333335
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2733761666666667
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.27059289999999997
+    },
+    {
+      "keyword": "structure",
+      "score": 0.26330753333333334
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2486785
+    },
+    {
+      "keyword": "arch",
+      "score": 0.2419806
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17647/sizes/3651-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17647/sizes/3651-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

@@ -1,0 +1,125 @@
+{
+  "objectID": 22168,
+  "irn": 22168,
+  "ecatalogue_key": 12820,
+  "TitAccessionNo": "2001.35.12850",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Ansco safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of eleven men seated around table in Centre Avenue YMCA, with Henry O. Tanner painting, \"Christ and His Mother\" in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "fd45d8c9-252b-4434-ac57-fd09fcaa7168",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28474/sizes/22168-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [
+    "Henry O. Tanner"
+  ],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 12,
+  "google_text_in_image": "",
+  "subjects": [
+    "Offices",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Christ and His Mother",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Henry O. Tanner",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Offices",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "brass",
+      "score": 0.293886693318685
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29099488333333334
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.283084279570516
+    },
+    {
+      "keyword": "communication",
+      "score": 0.27941867604166665
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2694127
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25361788333333335
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.24737053333333334
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21772311
+    },
+    {
+      "keyword": "human behavior",
+      "score": 0.20115446666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28474/sizes/22168-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28474/sizes/22168-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

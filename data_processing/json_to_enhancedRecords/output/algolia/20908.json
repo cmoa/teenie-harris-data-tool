@@ -1,0 +1,101 @@
+{
+  "objectID": 20908,
+  "irn": 20908,
+  "ecatalogue_key": 11665,
+  "TitAccessionNo": "2001.35.11695",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two boys playing ping-pong, with four boys watching",
+  "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Sports--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "dfde937f-b21b-4be7-a399-d52f72e117f2",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27534/sizes/20908-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "KODAK S AFETY\nFILM\nKODAK S\n",
+  "subjects": [
+    "Boys",
+    "Sports"
+  ],
+  "keywords": [
+    {
+      "keyword": "sitting",
+      "score": 0.3833881876261393
+    },
+    {
+      "keyword": "table",
+      "score": 0.356802893794759
+    },
+    {
+      "keyword": "Boys",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Sports",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30771561333333336
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28507963333333336
+    },
+    {
+      "keyword": "photography",
+      "score": 0.284432
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23881695666666666
+    },
+    {
+      "keyword": "plucked string instruments",
+      "score": 0.21355886666666668
+    },
+    {
+      "keyword": "string instrument",
+      "score": 0.20587566666666668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27534/sizes/20908-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27534/sizes/20908-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

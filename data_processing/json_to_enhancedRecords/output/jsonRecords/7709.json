@@ -1,0 +1,116 @@
+{
+    "objectID": 7709,
+    "irn": 7709,
+    "ecatalogue_key": 4807,
+    "TitAccessionNo": "2001.35.4816",
+    "CreDateCreated": "c. 1935-1970",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two portraits of a man standing in front of dirt slope and apartment building?",
+    "CreCountry_tab": "",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9979d484-b35c-47f7-b0e3-d9ef46335fb3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20204,
+    "MulMultiMediaRef_key": 4813,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20204/sizes/7709-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Suits (Clothing)",
+        "Men",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.41662160805501297
+        },
+        {
+            "keyword": "standing",
+            "score": 0.341668550817871
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.33148248540242503
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31209449
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29557113333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2839792666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27222371
+        },
+        {
+            "keyword": "human",
+            "score": 0.2610266308436076
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24614113333333332
+        },
+        {
+            "keyword": "shadow",
+            "score": 0.206433158739624
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 16404,
+    "irn": 16404,
+    "ecatalogue_key": 8448,
+    "TitAccessionNo": "2001.35.8470",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men with felled tree, one in 18th century costume, the other in raccoon hat",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0ee1d688-0c1a-4799-aa35-b2ab424246e5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24057,
+    "MulMultiMediaRef_key": 8456,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24057/sizes/16404-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Costume",
+        "Men",
+        "Trees"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.43952995280436197
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "18th century",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Costumes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31412036666666665
+        },
+        {
+            "keyword": "woody plant",
+            "score": 0.3077006666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29713374333333337
+        },
+        {
+            "keyword": "plant",
+            "score": 0.28620495333333335
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.285962550048828
+        },
+        {
+            "keyword": "plow",
+            "score": 0.27471308390299465
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26789256666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24987820000000002
+        },
+        {
+            "keyword": "tool",
+            "score": 0.2281214396158853
+        },
+        {
+            "keyword": "woodland",
+            "score": 0.20963083333333332
+        }
+    ]
+}

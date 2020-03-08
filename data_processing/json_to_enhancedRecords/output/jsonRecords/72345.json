@@ -1,0 +1,120 @@
+{
+    "objectID": 72345,
+    "irn": 72345,
+    "ecatalogue_key": 57044,
+    "TitAccessionNo": "2001.35.57087",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing striped suit jacket and lapel pin inscribed \"Ingalls Visitor\", seated at desk with blueprint, in office interior with Burlington calendar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Blueprints--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "76cc6db8-6bb7-47b9-8e26-e2786dfcc883",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91289,
+    "MulMultiMediaRef_key": 57053,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91289/sizes/72345-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Burlington",
+            "short_name": "Burlington"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "BURLINGTON\n",
+    "subjects": [
+        "Offices",
+        "Clothing and dress",
+        "Blueprints",
+        "Men",
+        "Desks",
+        "Calendars"
+    ],
+    "keywords": [
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ingalls Visitor",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Blueprints",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Calendars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3049159
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2808055666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27288085333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2572171967814127
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24479021666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.23711031666666668
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.21573488531595864
+        }
+    ]
+}

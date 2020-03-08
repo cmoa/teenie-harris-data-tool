@@ -1,0 +1,113 @@
+{
+    "objectID": 35505,
+    "irn": 35505,
+    "ecatalogue_key": 23159,
+    "TitAccessionNo": "2001.35.23190",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing in center, and thirteen women, leaning over table with toys, possibly in interior of A. Leo Weil School with floral arrangement painting in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "A. Leo Weil Elementary School (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Toys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c364a09e-5788-4491-bf0d-0d52e78d0742",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41659,
+    "MulMultiMediaRef_key": 23167,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41659/sizes/35505-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Women",
+            "short_name": "Pa.)Women"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Toys"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.3557412101131183
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "A",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": " Leo Weil Elementary School ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Toys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "A. Leo Weil School",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30123518
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.285688018798828
+        },
+        {
+            "keyword": "room",
+            "score": 0.275315704345703
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.271885
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26697276666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2271316
+        }
+    ]
+}

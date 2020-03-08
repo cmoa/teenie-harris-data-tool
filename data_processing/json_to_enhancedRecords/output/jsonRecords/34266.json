@@ -1,0 +1,98 @@
+{
+    "objectID": 34266,
+    "irn": 34266,
+    "ecatalogue_key": 22271,
+    "TitAccessionNo": "2001.35.22302",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and two men, possibly including Dr. Oswald Nickens standing in center, gathered around rectangular table, including woman wearing two toned hat, signing document, in interior with portrait of man at desk on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7f0aae7a-cac9-42b9-8dba-86c8b10a866d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40723,
+    "MulMultiMediaRef_key": 22279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40723/sizes/34266-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "Oswald Nickens"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.33530243607137034
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28521114666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27606516666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2716064157714843
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2533465833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23489893333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23283696666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21412251333333332
+        }
+    ]
+}

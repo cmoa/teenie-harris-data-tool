@@ -1,0 +1,113 @@
+{
+    "objectID": 32918,
+    "irn": 32918,
+    "ecatalogue_key": 20980,
+    "TitAccessionNo": "2001.35.21011",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing dark tie and jacket, standing between electrical box and \"Gentlemen\" restroom, in bar, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Rest rooms--Pennsylvania.Bars--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "deb3067d-5785-4128-bd09-543599b49219",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39300,
+    "MulMultiMediaRef_key": 20988,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39300/sizes/32918-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Restrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.512411626131185
+        },
+        {
+            "keyword": "man",
+            "score": 0.47502728982910164
+        },
+        {
+            "keyword": "person",
+            "score": 0.45947205760904936
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.34040486856485996
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Rest rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3285308075174967
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27865806666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2784689866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2673728
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21427503333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20886703333333334
+        }
+    ]
+}

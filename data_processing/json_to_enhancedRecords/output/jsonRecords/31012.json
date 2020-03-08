@@ -1,0 +1,107 @@
+{
+    "objectID": 31012,
+    "irn": 31012,
+    "ecatalogue_key": 19039,
+    "TitAccessionNo": "2001.35.19069",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing clerical collar and robe, standing in pulpit with dome shaped stained glass window in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "74fc9f2b-9903-48de-8f11-6ff502fb91ee",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36728,
+    "MulMultiMediaRef_key": 19047,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36728/sizes/31012-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK SAFETY FILM\n7\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.36945564576782236
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31216188333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29431856666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.28640686598917636
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27930798
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26360893333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23973029999999998
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21363476666666667
+        },
+        {
+            "keyword": "gramophone",
+            "score": 0.20831878662109368
+        }
+    ]
+}

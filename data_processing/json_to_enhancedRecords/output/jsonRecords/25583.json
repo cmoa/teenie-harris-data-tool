@@ -1,0 +1,126 @@
+{
+    "objectID": 25583,
+    "irn": 25583,
+    "ecatalogue_key": 15457,
+    "TitAccessionNo": "2001.35.15487",
+    "CreDateCreated": "1959",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Sidewalk with patched pavement and sewer drain, with Belgian block street and stop sign in background, possibly Herron Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Sidewalks--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ad09ae7d-6680-419f-a3b4-2d9f9c146db2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32029,
+    "MulMultiMediaRef_key": 15465,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32029/sizes/25583-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -347155200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Herron Avenue",
+            "short_name": "Herron Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "STOP\n",
+    "subjects": [
+        "Sidewalks",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "sidewalk",
+            "score": 0.388946446883138
+        },
+        {
+            "keyword": "tree",
+            "score": 0.377033985747884
+        },
+        {
+            "keyword": "Belgian",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Herron Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.32770088536783865
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3127735466666667
+        },
+        {
+            "keyword": "public space",
+            "score": 0.30869023333333334
+        },
+        {
+            "keyword": "street",
+            "score": 0.30055130692036935
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29116946666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28841044666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26988701
+        },
+        {
+            "keyword": "lane",
+            "score": 0.25806548333333335
+        },
+        {
+            "keyword": "road surface",
+            "score": 0.25548968666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25446603333333334
+        },
+        {
+            "keyword": "asphalt",
+            "score": 0.20313978333333335
+        }
+    ]
+}

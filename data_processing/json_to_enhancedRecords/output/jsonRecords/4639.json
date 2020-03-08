@@ -1,0 +1,107 @@
+{
+    "objectID": 4639,
+    "irn": 4639,
+    "ecatalogue_key": 2729,
+    "TitAccessionNo": "2001.35.2733",
+    "CreDateCreated": "c. 1947-1960",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man seated in a chair and holding a pipe",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c09eeafb-6043-46fe-a350-7b67c04efbe3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17333,
+    "MulMultiMediaRef_key": 2731,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17333/sizes/4639-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4532731445817057
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.33572235868937167
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3049673
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.29618469600463865
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28647496666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2811299333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28057356666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2576523488726807
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2528744533333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22363149999999998
+        }
+    ]
+}

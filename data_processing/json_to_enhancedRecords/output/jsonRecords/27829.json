@@ -1,0 +1,101 @@
+{
+    "objectID": 27829,
+    "irn": 27829,
+    "ecatalogue_key": 17057,
+    "TitAccessionNo": "2001.35.17087",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at rectangular table holding writing utensils, including Rev. Bill Powell standing and leaning on table, in interior with paper streamers hung from ceiling",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c4afdcca-af5c-4266-8c98-108857a16500",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33654,
+    "MulMultiMediaRef_key": 17065,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33654/sizes/27829-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Bill Powell"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bill Powell",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2755065890283203
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27327629999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27156247666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21116106666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20275491333333331
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20161889
+        },
+        {
+            "keyword": "table",
+            "score": 0.2001853368684896
+        }
+    ]
+}

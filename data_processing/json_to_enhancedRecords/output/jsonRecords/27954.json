@@ -1,0 +1,99 @@
+{
+    "objectID": 27954,
+    "irn": 27954,
+    "ecatalogue_key": 17097,
+    "TitAccessionNo": "2001.35.17127",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at individual desks with books and documents, including woman wearing floral dress in front right, in interior with partial floral carpet, and partial hard wood floors, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "18d43d73-e650-4baf-99d1-3a12319d4e7e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33708,
+    "MulMultiMediaRef_key": 17105,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33708/sizes/27954-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Office furniture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "room",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2989484466666667
+        },
+        {
+            "keyword": "house",
+            "score": 0.29812501595987967
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2633261333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2589012766666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23250297666666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.23067144992268865
+        }
+    ]
+}

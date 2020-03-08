@@ -1,0 +1,100 @@
+{
+    "objectID": 18014,
+    "irn": 18014,
+    "ecatalogue_key": 9603,
+    "TitAccessionNo": "2001.35.9629",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Soldiers marching in a parade, with color guard in front, on tree lined residential street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a1ad4e52-a0da-4de1-b896-f6525febbbcd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25453,
+    "MulMultiMediaRef_key": 9611,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25453/sizes/18014-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Parades",
+        "Military uniforms",
+        "Soldiers",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Parades",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.3305687673209637
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3166733766666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3078859
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2777676666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26174496666666663
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.23786683333333333
+        },
+        {
+            "keyword": "history",
+            "score": 0.20738655333333333
+        }
+    ]
+}

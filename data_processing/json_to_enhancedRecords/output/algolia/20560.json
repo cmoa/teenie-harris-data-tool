@@ -1,0 +1,110 @@
+{
+  "objectID": 20560,
+  "irn": 20560,
+  "ecatalogue_key": 11352,
+  "TitAccessionNo": "2001.35.11380",
+  "CreDateCreated": "c. 1950-1965",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three women, one a Red Cross nurse holding child, in gymnasium with cots",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "3b0937a5-ef02-49c8-bf25-912cc6868ceb",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27417/sizes/20560-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "FOUR\n",
+  "subjects": [
+    "Children",
+    "Women",
+    "Nurses"
+  ],
+  "keywords": [
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Nurses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Red Cross",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "table",
+      "score": 0.3221286221862793
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3024864333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28096566666666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25745063333333335
+    },
+    {
+      "keyword": "furniture",
+      "score": 0.24612595666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23943736666666668
+    },
+    {
+      "keyword": "design",
+      "score": 0.23079955666666666
+    },
+    {
+      "keyword": "chair",
+      "score": 0.21029205393371567
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27417/sizes/20560-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27417/sizes/20560-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": []
+}

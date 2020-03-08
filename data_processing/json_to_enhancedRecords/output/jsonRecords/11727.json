@@ -1,0 +1,103 @@
+{
+    "objectID": 11727,
+    "irn": 11727,
+    "ecatalogue_key": 5978,
+    "TitAccessionNo": "2001.35.5988",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Back porches and fire escapes of tenements and apartment building with cinder block steps, and woman, man, and child below",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Stairs--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d13ccde3-51bf-4e7d-abbd-288710d50beb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21628,
+    "MulMultiMediaRef_key": 5985,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21628/sizes/11727-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Stairs",
+        "Men",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "structure",
+            "score": 0.4251602071289063
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.39357548797851566
+        },
+        {
+            "keyword": "building",
+            "score": 0.35544497981770834
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30648925
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.28422413333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28106888
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24567612000000003
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.2243742
+        },
+        {
+            "keyword": "metropolis",
+            "score": 0.21264014666666667
+        },
+        {
+            "keyword": "water",
+            "score": 0.20218092586059566
+        }
+    ]
+}

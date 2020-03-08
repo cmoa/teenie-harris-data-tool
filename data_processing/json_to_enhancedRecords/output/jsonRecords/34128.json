@@ -1,0 +1,112 @@
+{
+    "objectID": 34128,
+    "irn": 34128,
+    "ecatalogue_key": 22167,
+    "TitAccessionNo": "2001.35.22198",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored, horizontal stripe dress with square neck and covered buttons, in interior with Sweetheart Mother Goose Drinking Straws on table",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "220b5f9e-8858-4a82-94ca-e942589853f8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40636,
+    "MulMultiMediaRef_key": 22175,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40636/sizes/34128-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Mother Goose Drinking Straws"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "DRINKING STRAW\n",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.41087336838785804
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31691140706014
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.31108563333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3065366
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30260628333333334
+        },
+        {
+            "keyword": "smile",
+            "score": 0.3018004239756266
+        },
+        {
+            "keyword": "human",
+            "score": 0.298765801767985
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2786619
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2781377
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23953566666666667
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23816212
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2156707
+        }
+    ]
+}

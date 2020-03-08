@@ -1,0 +1,81 @@
+{
+    "objectID": 800,
+    "irn": 800,
+    "ecatalogue_key": 27,
+    "TitAccessionNo": "2001.35.29",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of bowling alley with sign mounted near ceiling reading \"Please observe foul line\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bowling alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bd8c8a32-e1f8-4cbb-851e-63289d8e320a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14955,
+    "MulMultiMediaRef_key": 27,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14955/sizes/800-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bowling alleys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3094886333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2889455166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2746671
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2525672
+        },
+        {
+            "keyword": "bowling",
+            "score": 0.24297516666666666
+        },
+        {
+            "keyword": "line",
+            "score": 0.22324443333333333
+        }
+    ]
+}

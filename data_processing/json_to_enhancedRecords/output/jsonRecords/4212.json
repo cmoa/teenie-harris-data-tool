@@ -1,0 +1,101 @@
+{
+    "objectID": 4212,
+    "irn": 4212,
+    "ecatalogue_key": 2421,
+    "TitAccessionNo": "2001.35.2425",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Photograph of John F. Kennedy and police officer Oliver Mason resting on a flowered tablecloth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.Kennedy, John F. (John Fitzgerald), 1917-1963.Police--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "656b5de9-6be6-40b6-90dc-d1a549428ff1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16599,
+    "MulMultiMediaRef_key": 2423,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16599/sizes/4212-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "John F. Kennedy",
+        "Oliver Mason"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Police",
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kennedy, John F",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Oliver Mason",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John F. Kennedy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": " ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "television",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31418301666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2974624666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28644134666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24184751666666668
+        }
+    ]
+}

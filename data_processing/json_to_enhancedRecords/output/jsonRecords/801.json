@@ -1,0 +1,85 @@
+{
+    "objectID": 801,
+    "irn": 801,
+    "ecatalogue_key": 28,
+    "TitAccessionNo": "2001.35.30",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of bowling alley with sign mounted near ceiling reading \"Please observe foul line\" and woman seated to the right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bowling alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "14c20ae0-34c1-4e60-873c-ba17f00e7185",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14956,
+    "MulMultiMediaRef_key": 28,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14956/sizes/801-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bowling alleys"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.3915404811401367
+        },
+        {
+            "keyword": "structure",
+            "score": 0.3360195472005207
+        },
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3100299
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2892686666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28531886666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27434188
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.244479
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "objectID": 23724,
+    "irn": 23724,
+    "ecatalogue_key": 13948,
+    "TitAccessionNo": "2001.35.13978",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of three young men wearing military uniforms seated on stool in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a2280bf6-efd0-4abc-9ad5-2af96c641cef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30021,
+    "MulMultiMediaRef_key": 13956,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30021/sizes/23724-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Military uniforms",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29257444666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26740763333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2648565
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24663003333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23042054999999997
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21920836666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21114736666666667
+        }
+    ]
+}

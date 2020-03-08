@@ -1,0 +1,123 @@
+{
+    "objectID": 24600,
+    "irn": 24600,
+    "ecatalogue_key": 14632,
+    "TitAccessionNo": "2001.35.14662",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of infant seated on bed with chenille bedspread, with woman on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Infants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b8261f84-3131-4839-ae7b-2fc5199f2833",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30977,
+    "MulMultiMediaRef_key": 14640,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30977/sizes/24600-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Infants",
+        "Portraits",
+        "Babies"
+    ],
+    "keywords": [
+        {
+            "keyword": "child",
+            "score": 0.5679945701220703
+        },
+        {
+            "keyword": "person",
+            "score": 0.40914773724568704
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3747832425964357
+        },
+        {
+            "keyword": "Infants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3132855
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2989713666666667
+        },
+        {
+            "keyword": "infant",
+            "score": 0.2855215087168377
+        },
+        {
+            "keyword": "human",
+            "score": 0.2836553396413167
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28222379999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26812581333333335
+        },
+        {
+            "keyword": "eye",
+            "score": 0.26785943333333334
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2591220324076333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25112783333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23436662068806968
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2327842
+        },
+        {
+            "keyword": "toddler",
+            "score": 0.2305537276224773
+        }
+    ]
+}

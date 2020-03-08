@@ -1,0 +1,110 @@
+{
+    "objectID": 20012,
+    "irn": 20012,
+    "ecatalogue_key": 10920,
+    "TitAccessionNo": "2001.35.10946",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "A Mellon bank calendar is hanging on the back wall.",
+    "TitMainTitle": "Man reading slip of paper to woman, another man with crossed arms standing next to them in a courtroom with tape recorder in lower left corner",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4617d0e7-9b08-4b26-a756-d178ccd689c5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26895,
+    "MulMultiMediaRef_key": 10928,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26895/sizes/20012-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.464306147249349
+        },
+        {
+            "keyword": "male",
+            "score": 0.39137940284423833
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mellon",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2943832
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2828823866485595
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.25713235
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25618978333333337
+        },
+        {
+            "keyword": "family",
+            "score": 0.24344115182332368
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23828489535318997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23403157666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20541864666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20141951333333333
+        }
+    ]
+}

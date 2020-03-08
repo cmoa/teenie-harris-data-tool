@@ -1,0 +1,121 @@
+{
+    "objectID": 34000,
+    "irn": 34000,
+    "ecatalogue_key": 21952,
+    "TitAccessionNo": "2001.35.21983",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Seven women, and four men, including Henry R. Smith Jr. seated second from left, at banquet table in William Penn Hotel, wider version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.William Penn Hotel (Pittsburgh, Pa.)Smith, Henry R. Jr.",
+    "AdmGUIDValue_tab": "4a9c7494-eb4f-4f46-b884-0b6cc6ea4485",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40504,
+    "MulMultiMediaRef_key": 21960,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40504/sizes/34000-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Henry R. Smith Jr."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "William Penn Hotel",
+            "short_name": "William Penn Hotel"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Smith",
+            "short_name": "Pa.)Smith"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "KODAK SAFETY FILM\n8\n",
+    "subjects": [
+        "Men",
+        "Dinners and dining",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": " Jr",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Smith, Henry R",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.27706565333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2724103666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26573938
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.26568512
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.26169622
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.2345273
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.21909151333333332
+        }
+    ]
+}

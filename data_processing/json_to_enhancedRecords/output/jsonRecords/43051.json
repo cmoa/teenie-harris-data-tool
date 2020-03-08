@@ -1,0 +1,122 @@
+{
+    "objectID": 43051,
+    "irn": 43051,
+    "ecatalogue_key": 30313,
+    "TitAccessionNo": "2001.35.30346",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing faintly striped suit, seated in armchair with leg crossed over knee, in interior with floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "30832e5e-d9e4-4eb2-b865-1b873ea6ec9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49653,
+    "MulMultiMediaRef_key": 30321,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49653/sizes/43051-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.42069706145629865
+        },
+        {
+            "keyword": "person",
+            "score": 0.4160264787304686
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29544339999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28049228666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2697279967010497
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.26532035582600905
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2640048366678874
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25715492333333334
+        },
+        {
+            "keyword": "armchair",
+            "score": 0.24651710510253902
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2343851
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22125645333333332
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21917531999999998
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21822118666666668
+        },
+        {
+            "keyword": "professional",
+            "score": 0.21453636643829346
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20164703333333334
+        }
+    ]
+}

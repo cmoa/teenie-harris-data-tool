@@ -1,0 +1,131 @@
+{
+    "objectID": 12750,
+    "irn": 12750,
+    "ecatalogue_key": 6502,
+    "TitAccessionNo": "2001.35.6513",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two girls playing on abstract playground object on playground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Playgrounds--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "23ff91ce-4c8b-4a5a-92da-ca09de8727b7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23558,
+    "MulMultiMediaRef_key": 6509,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23558/sizes/12750-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Children",
+        "Playgrounds"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.377476428939616
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Playgrounds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.32919436773111965
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30980406666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28797873333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2877342333333333
+        },
+        {
+            "keyword": "car",
+            "score": 0.2860175
+        },
+        {
+            "keyword": "child",
+            "score": 0.28557058493143733
+        },
+        {
+            "keyword": "public space",
+            "score": 0.28125473333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27735930000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.263845039702352
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25210507666666665
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.22333426666666667
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.22174796666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.215007689642334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21010833333333334
+        },
+        {
+            "keyword": "swing",
+            "score": 0.20949180603027337
+        }
+    ]
+}

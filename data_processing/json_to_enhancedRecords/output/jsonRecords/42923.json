@@ -1,0 +1,86 @@
+{
+    "objectID": 42923,
+    "irn": 42923,
+    "ecatalogue_key": 30264,
+    "TitAccessionNo": "2001.35.30297",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at long rectangular tables, including woman wearing dark jacket over shoulders, in interior with pictures on wall and second level balcony",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2f73bf70-a34d-4cf2-87df-ced3580d6424",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49609,
+    "MulMultiMediaRef_key": 30272,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49609/sizes/42923-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28845613333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26891349999999997
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.24457291666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23393984666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2315734
+        },
+        {
+            "keyword": "audience",
+            "score": 0.2275535
+        },
+        {
+            "keyword": "event",
+            "score": 0.2109495
+        }
+    ]
+}

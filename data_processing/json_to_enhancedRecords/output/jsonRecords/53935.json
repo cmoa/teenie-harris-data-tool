@@ -1,0 +1,108 @@
+{
+    "objectID": 53935,
+    "irn": 53935,
+    "ecatalogue_key": 41819,
+    "TitAccessionNo": "2001.35.41861",
+    "CreDateCreated": "c. 1945-1955",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man, wearing solid colored suit with breast pocket, light colored shirt, and patterned necktie, posed seated in interior, patterned curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4701220d-0a08-4266-a207-8cecc555a3fc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62945,
+    "MulMultiMediaRef_key": 41827,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62945/sizes/53935-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Portraits",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5072613000122069
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4750122453466797
+        },
+        {
+            "keyword": "person",
+            "score": 0.4600283928507487
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.32957224096272797
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3283941904703777
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31667857937011734
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27756271666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26493479999999997
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26456056666666666
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.206283925374349
+        }
+    ]
+}

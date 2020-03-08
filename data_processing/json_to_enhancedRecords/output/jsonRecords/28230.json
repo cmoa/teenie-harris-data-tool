@@ -1,0 +1,117 @@
+{
+    "objectID": 28230,
+    "irn": 28230,
+    "ecatalogue_key": 17197,
+    "TitAccessionNo": "2001.35.17227",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Joan Bolden (James) wearing graduation gown and mortar board, holding rolled document, standing at base of stairs in home",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c8f86ea8-edfc-4d3b-a6b2-74159289ad20",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34401,
+    "MulMultiMediaRef_key": 17205,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34401/sizes/28230-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Joan Bolden",
+        "James"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "mortarboard",
+            "score": 0.58359595
+        },
+        {
+            "keyword": "graduation",
+            "score": 0.392687314811198
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "James",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33061149128417966
+        },
+        {
+            "keyword": "academic dress",
+            "score": 0.30518023333333333
+        },
+        {
+            "keyword": "cap",
+            "score": 0.29927538553873695
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29203106666666667
+        },
+        {
+            "keyword": "gown",
+            "score": 0.26593221028645836
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2625713
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2310053333333333
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.22195515950520836
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20178174999999998
+        }
+    ]
+}

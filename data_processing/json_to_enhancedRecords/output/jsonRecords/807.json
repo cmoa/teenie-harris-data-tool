@@ -1,0 +1,85 @@
+{
+    "objectID": 807,
+    "irn": 807,
+    "ecatalogue_key": 34,
+    "TitAccessionNo": "2001.35.36",
+    "CreDateCreated": "c. 1938-1955",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man with moustache bowling duckpins",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bowling alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9421d48f-f468-4509-aa5f-f49d5e79eb3b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14963,
+    "MulMultiMediaRef_key": 34,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14963/sizes/807-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bowling alleys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3061678666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28408928666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2745323766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.24625570516581233
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24620516666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20321288527119954
+        },
+        {
+            "keyword": "floor",
+            "score": 0.2020828
+        }
+    ]
+}

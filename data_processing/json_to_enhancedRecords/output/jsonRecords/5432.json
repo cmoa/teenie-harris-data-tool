@@ -1,0 +1,95 @@
+{
+    "objectID": 5432,
+    "irn": 5432,
+    "ecatalogue_key": 3341,
+    "TitAccessionNo": "2001.35.3348",
+    "CreDateCreated": "c. 1940-1975",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of a naval landing vessel with sign reading: Meet your Fleet, United States Navy Exhibition...Buhl Planetarium, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.United States. Navy.",
+    "AdmGUIDValue_tab": "d7103ed7-0ec5-4669-8b5a-3951091d040c",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 18044,
+    "MulMultiMediaRef_key": 3343,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18044/sizes/5432-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "United States",
+            "short_name": "United States"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "512\nMEET YOUR FLEET\n",
+    "subjects": [
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buhl Planetarium",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "United States Navy Exhibition",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "United States",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": " Navy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31168214333333333
+        },
+        {
+            "keyword": "mode of transport",
+            "score": 0.29165603333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2806090666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2625678
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2399429
+        }
+    ]
+}

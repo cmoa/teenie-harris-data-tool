@@ -1,0 +1,108 @@
+{
+  "objectID": 30551,
+  "irn": 30551,
+  "ecatalogue_key": 18696,
+  "TitAccessionNo": "2001.35.18726",
+  "CreDateCreated": "c. 1964",
+  "CreEarliestDate": "1961",
+  "CreLatestDate": "1967",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Six men standing around work tables, using tools, in workshop with two toned walls and barred windows",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Tools--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "c1270221-452e-48c4-a501-6829cf300f17",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37980/sizes/30551-1680.jpg",
+  "datetime": "1961-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "",
+  "subjects": [
+    "Tools",
+    "Implements",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Tools",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "room",
+      "score": 0.3175384775797527
+    },
+    {
+      "keyword": "furniture",
+      "score": 0.31102812927653
+    },
+    {
+      "keyword": "table",
+      "score": 0.30284107491861967
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29535696666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2725442833333333
+    },
+    {
+      "keyword": "classroom",
+      "score": 0.2690909322102863
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26127551
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23292541666666666
+    },
+    {
+      "keyword": "chair",
+      "score": 0.21941073099772135
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37980/sizes/30551-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37980/sizes/30551-210.jpg",
+  "date_timestamp_earliest": -283996800.0,
+  "date_timestamp_latest": -94694400.0,
+  "decades": [
+    "1960s"
+  ]
+}

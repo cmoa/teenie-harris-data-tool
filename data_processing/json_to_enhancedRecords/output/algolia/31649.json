@@ -1,0 +1,119 @@
+{
+  "objectID": 31649,
+  "irn": 31649,
+  "ecatalogue_key": 19852,
+  "TitAccessionNo": "2001.35.19883",
+  "CreDateCreated": "1971",
+  "CreEarliestDate": "1971",
+  "CreLatestDate": "1971",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Minister standing in pulpit of Trinity Episcopal Cathedral, in downtown Pittsburgh",
+  "CatSubject_tab": "Trinity Episcopal Cathedral (Pittsburgh, Pa.)Churches--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "3da60530-c582-442e-bd48-cf7782c0025c",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37689/sizes/31649-1680.jpg",
+  "datetime": "1971-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "South Side Flats",
+      "short_name": "South Side Flats"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "South 26th Street",
+      "short_name": "S 26th St"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "KODAK SAFETYFILM\n10\n",
+  "subjects": [
+    "Clergy",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "architecture",
+      "score": 0.35533075982991535
+    },
+    {
+      "keyword": "Clergy",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Trinity Episcopal Cathedral ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Trinity Episcopal Cathedral",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3133847
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29696651333333335
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2800874
+    },
+    {
+      "keyword": "structure",
+      "score": 0.2637186833333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24679046666666668
+    },
+    {
+      "keyword": "window",
+      "score": 0.23961024735351566
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37689/sizes/31649-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37689/sizes/31649-210.jpg",
+  "date_timestamp_earliest": 31536000.0,
+  "date_timestamp_latest": 31536000.0,
+  "decades": [
+    "1970s"
+  ]
+}

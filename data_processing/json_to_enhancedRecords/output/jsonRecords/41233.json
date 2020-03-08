@@ -1,0 +1,65 @@
+{
+    "objectID": 41233,
+    "irn": 41233,
+    "ecatalogue_key": 28541,
+    "TitAccessionNo": "2001.35.28573",
+    "CreDateCreated": "c. 1944",
+    "CreEarliestDate": "1939",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Twelve men gathered around large oval table, three looking at documents, in interior with bookshelf in front of doors, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "18f4baaa-691d-45e9-8835-57f8461df8c3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47492,
+    "MulMultiMediaRef_key": 28549,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47492/sizes/41233-1680.jpg",
+    "date_timestamp_earliest": -978307200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.25416569
+        },
+        {
+            "keyword": "communication",
+            "score": 0.25223318666666666
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23356233333333332
+        }
+    ]
+}

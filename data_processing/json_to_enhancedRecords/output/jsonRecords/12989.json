@@ -1,0 +1,95 @@
+{
+    "objectID": 12989,
+    "irn": 12989,
+    "ecatalogue_key": 6676,
+    "TitAccessionNo": "2001.35.6691",
+    "CreDateCreated": "c. 1941",
+    "CreEarliestDate": "1936",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Ninth cavalry soldiers wearing uniforms, carrying rifles, walking through train station",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.Military weapons--Pennsylvania.Trains--Pennsylvania--Pittsburgh.Railroad stations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bd105705-e72f-4374-84af-e8deef8f409f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22217,
+    "MulMultiMediaRef_key": 6684,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22217/sizes/12989-1680.jpg",
+    "date_timestamp_earliest": -1073001600.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Soldiers",
+        "Railroad stations",
+        "Military weapons"
+    ],
+    "keywords": [
+        {
+            "keyword": "Trains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Railroad stations",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military weapons",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29987768333333337
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2703624
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.265971431097412
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2628292
+        },
+        {
+            "keyword": "train",
+            "score": 0.24698017632120764
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23286018666666666
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "objectID": 68290,
+    "irn": 68290,
+    "ecatalogue_key": 54001,
+    "TitAccessionNo": "2001.35.54044",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of boy wearing light colored jacket and dark plaid tie, posed in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0347aa53-edcc-4491-af7a-51781b5163a8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79140,
+    "MulMultiMediaRef_key": 54010,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79140/sizes/68290-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Portraits",
+        "Interiors",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4805849957877603
+        },
+        {
+            "keyword": "person",
+            "score": 0.4578720585139973
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3463557351249187
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.33910072053019197
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.32254219132486966
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30304211333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2815029
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2767367
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27073756666666665
+        },
+        {
+            "keyword": "human",
+            "score": 0.265969516860962
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25918508953959135
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24211388666666667
+        }
+    ]
+}

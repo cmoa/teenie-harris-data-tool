@@ -1,0 +1,116 @@
+{
+    "objectID": 30995,
+    "irn": 30995,
+    "ecatalogue_key": 19029,
+    "TitAccessionNo": "2001.35.19059",
+    "CreDateCreated": "1968",
+    "CreEarliestDate": "1968",
+    "CreLatestDate": "1968",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Morris Fountain Sr., seated on railing in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e99420c8-ebb1-4ea2-8d8b-0ab711ab12fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36836,
+    "MulMultiMediaRef_key": 19037,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36836/sizes/30995-1680.jpg",
+    "date_timestamp_earliest": -63158400.0,
+    "date_timestamp_latest": -63158400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4638866855997719
+        },
+        {
+            "keyword": "man",
+            "score": 0.4468547000773113
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4190344016438803
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3525639149902344
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.338927975427246
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29261875
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28672253333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27847769
+        },
+        {
+            "keyword": "human",
+            "score": 0.27382084818135566
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25770736666666666
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.2527653166666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23045936666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.22582494449259435
+        }
+    ]
+}

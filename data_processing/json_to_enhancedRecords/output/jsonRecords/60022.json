@@ -1,0 +1,108 @@
+{
+    "objectID": 60022,
+    "irn": 60022,
+    "ecatalogue_key": 45933,
+    "TitAccessionNo": "2001.35.45976",
+    "CreDateCreated": "c. 1957",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored short sleeved dress and wristwatch, posed leaning on counter in front of mural of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5ec3e3e5-ca4e-4ace-8ae9-96439b946bd0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67914,
+    "MulMultiMediaRef_key": 45941,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67914/sizes/60022-1680.jpg",
+    "date_timestamp_earliest": -504921600.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.3947863764587403
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31566159827880863
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3123211866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30064976666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2875217
+        },
+        {
+            "keyword": "human",
+            "score": 0.2741436588368733
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2643619227254233
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25309770000000004
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2079889766666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.20179031333333333
+        }
+    ]
+}

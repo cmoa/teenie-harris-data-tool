@@ -1,0 +1,143 @@
+{
+    "objectID": 18700,
+    "irn": 18700,
+    "ecatalogue_key": 9988,
+    "TitAccessionNo": "2001.35.10014",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "There is a United Way bumper sticker on the building and graffitti that reads \"Mange!\"",
+    "TitMainTitle": "Two men standing on porch of Miners Memorial Center",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania.",
+    "AdmGUIDValue_tab": "05439af1-a3e4-4d7a-af8f-ee8ff062cf07",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25887,
+    "MulMultiMediaRef_key": 9996,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25887/sizes/18700-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Miners Memorial Center",
+            "short_name": "Miners Memorial Center"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "United Way",
+            "short_name": "United Way"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {
+        "cutline": [
+            "Mange!"
+        ]
+    },
+    "people_count": 2,
+    "google_text_in_image": "NME\nKODAK SAFETY FILM\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.344326582011312
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Miners Memorial Center",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "signboard",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "billboard",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.3168439125172933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3124869866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29491985
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2906007166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2801168333333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.27602863540995265
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.27403231333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "structure",
+            "score": 0.259934056599935
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25783858666666665
+        },
+        {
+            "keyword": "street",
+            "score": 0.22798374062194834
+        },
+        {
+            "keyword": "poster",
+            "score": 0.2268339
+        },
+        {
+            "keyword": "house",
+            "score": 0.22418796786315934
+        },
+        {
+            "keyword": "building",
+            "score": 0.22342902603251133
+        },
+        {
+            "keyword": "window",
+            "score": 0.21081976310628256
+        },
+        {
+            "keyword": "angle",
+            "score": 0.20012424333333334
+        }
+    ]
+}

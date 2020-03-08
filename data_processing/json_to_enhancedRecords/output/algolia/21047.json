@@ -1,0 +1,116 @@
+{
+  "objectID": 21047,
+  "irn": 21047,
+  "ecatalogue_key": 11753,
+  "TitAccessionNo": "2001.35.11783",
+  "CreDateCreated": "c. 1960-1970",
+  "CreEarliestDate": "1960",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group of men and boys wearing overcoats standing in front of the Loendi Club on Ledlie Street, with car in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4d08ff7f-04bc-4b14-a4c7-9050896ace94",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19726/sizes/21047-1680.jpg",
+  "datetime": "1960-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Ledlie Street",
+      "short_name": "Ledlie St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 18,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Men",
+    "Boys"
+  ],
+  "keywords": [
+    {
+      "keyword": "Ledlie Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Loendi Club",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Boys",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30442669
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.29319506666666667
+    },
+    {
+      "keyword": "car",
+      "score": 0.28306286666666663
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2742059333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27364862
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24313628666666667
+    },
+    {
+      "keyword": "street",
+      "score": 0.23672798363647465
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.21915308666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19726/sizes/21047-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19726/sizes/21047-210.jpg",
+  "date_timestamp_earliest": -315619200.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

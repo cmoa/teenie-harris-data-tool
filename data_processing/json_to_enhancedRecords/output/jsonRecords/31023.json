@@ -1,0 +1,93 @@
+{
+    "objectID": 31023,
+    "irn": 31023,
+    "ecatalogue_key": 19174,
+    "TitAccessionNo": "2001.35.19204",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Male students gathered around laboratory table with books, in classroom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.Students--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "46d83136-7592-45fd-8cfc-e384f8aec580",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37006,
+    "MulMultiMediaRef_key": 19182,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37006/sizes/31023-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Classrooms",
+        "Men",
+        "Students",
+        "Laboratories",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.34846521578369133
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Students",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Laboratories",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28196515666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21077193333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20794995666666669
+        },
+        {
+            "keyword": "institution",
+            "score": 0.20595042
+        }
+    ]
+}

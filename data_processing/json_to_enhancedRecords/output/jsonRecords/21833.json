@@ -1,0 +1,100 @@
+{
+    "objectID": 21833,
+    "irn": 21833,
+    "ecatalogue_key": 12507,
+    "TitAccessionNo": "2001.35.12537",
+    "CreDateCreated": "c. 1940-1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Exterior of burned building, with trash can and Red Rock Cola sign",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Housing--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "682b260c-dc41-49e1-b933-012998850753",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28046,
+    "MulMultiMediaRef_key": 12515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28046/sizes/21833-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Housing"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.3340990183522543
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Red Rock Cola",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Housing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.312074245606486
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3111677566666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29094553333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26768777666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2514016333333333
+        },
+        {
+            "keyword": "brick",
+            "score": 0.2387712
+        },
+        {
+            "keyword": "alley",
+            "score": 0.22537132
+        },
+        {
+            "keyword": "house",
+            "score": 0.21964193333333334
+        }
+    ]
+}

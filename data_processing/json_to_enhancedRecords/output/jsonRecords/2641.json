@@ -1,0 +1,95 @@
+{
+    "objectID": 2641,
+    "irn": 2641,
+    "ecatalogue_key": 1239,
+    "TitAccessionNo": "2001.35.1241",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Student artwork laid out on walls and floor in school hallway",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children's art--Pennsylvania--Pittsburgh.School buildings--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c772e707-ffa2-42b7-a809-3c70374b4048",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13520,
+    "MulMultiMediaRef_key": 1241,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13520/sizes/2641-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Clocks and watches",
+        "School buildings",
+        "Children's art"
+    ],
+    "keywords": [
+        {
+            "keyword": "Clocks and watches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "School buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children's art",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31176579
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2916247
+        },
+        {
+            "keyword": "floor",
+            "score": 0.28474287051961267
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2738396533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25486997666666666
+        },
+        {
+            "keyword": "flooring",
+            "score": 0.22701039999999997
+        },
+        {
+            "keyword": "street",
+            "score": 0.21196459773254397
+        }
+    ]
+}

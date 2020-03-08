@@ -1,0 +1,85 @@
+{
+    "objectID": 22109,
+    "irn": 22109,
+    "ecatalogue_key": 12714,
+    "TitAccessionNo": "2001.35.12744",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of photograph of museum interior, with large murals on left, people seated on granite benches, and large windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fd1e7a89-e018-464f-bd6a-ca16d3ec9349",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 28672,
+    "MulMultiMediaRef_key": 12722,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28672/sizes/22109-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.3555705465067547
+        },
+        {
+            "keyword": "structure",
+            "score": 0.3439092716593423
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30897426666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.3048882259521483
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27809353333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27584933333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24752142
+        }
+    ]
+}

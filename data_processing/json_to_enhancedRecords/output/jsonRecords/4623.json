@@ -1,0 +1,100 @@
+{
+    "objectID": 4623,
+    "irn": 4623,
+    "ecatalogue_key": 2713,
+    "TitAccessionNo": "2001.35.2717",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man holding Pittsburgh newspaper in bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a3720463-0705-4226-a425-47c181bddf23",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17324,
+    "MulMultiMediaRef_key": 2715,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17324/sizes/4623-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "STANBACK\nSE\nNOTICE\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Newspapers",
+        "Hats"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3113444
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30331026666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.27222365
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2693295666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2641108833333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22676606666666665
+        }
+    ]
+}

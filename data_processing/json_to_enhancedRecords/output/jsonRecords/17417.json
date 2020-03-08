@@ -1,0 +1,99 @@
+{
+    "objectID": 17417,
+    "irn": 17417,
+    "ecatalogue_key": 9101,
+    "TitAccessionNo": "2001.35.9124",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding pipe and Hazel Garland holding paper, in Pittsburgh Courier newspaper office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "be08e5d7-4650-4dcb-85b3-d1ddb917946a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24823,
+    "MulMultiMediaRef_key": 9109,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24823/sizes/17417-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "5\n4\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Pittsburgh courier"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hazel Garland",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29756984999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2741848666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2595794666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2574779333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2160442
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21582663003743488
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20117801333333332
+        }
+    ]
+}

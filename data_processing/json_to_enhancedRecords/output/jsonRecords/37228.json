@@ -1,0 +1,113 @@
+{
+    "objectID": 37228,
+    "irn": 37228,
+    "ecatalogue_key": 24766,
+    "TitAccessionNo": "2001.35.24798",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing suit and eyeglasses, standing with arm on wooden bookshelf",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0f171a6f-2f63-475e-830b-ead67f36a07f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43342,
+    "MulMultiMediaRef_key": 24774,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43342/sizes/37228-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6416372466666667
+        },
+        {
+            "keyword": "man",
+            "score": 0.4874879383276367
+        },
+        {
+            "keyword": "male",
+            "score": 0.4300628611287433
+        },
+        {
+            "keyword": "standing",
+            "score": 0.38651993356119796
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.312533874551595
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29756075
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28870073333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2849007666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26492897666666665
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.25900933333333337
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23440106666666669
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22446678
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.20290133333333335
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.20197973333333333
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "objectID": 22923,
+    "irn": 22923,
+    "ecatalogue_key": 13430,
+    "TitAccessionNo": "2001.35.13460",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of man wearing eyeglasses and minister's or choir robe",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clergy--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9a28f731-ae03-44a7-9326-e825437215cb",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 29520,
+    "MulMultiMediaRef_key": 13438,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29520/sizes/22923-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Clergy",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4449168877441407
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.44425382374348965
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3036680333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28605359999999996
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27074186666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26393110000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24187431666666667
+        },
+        {
+            "keyword": "elder",
+            "score": 0.24056861666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23642573333333336
+        },
+        {
+            "keyword": "official",
+            "score": 0.20837078333333334
+        }
+    ]
+}

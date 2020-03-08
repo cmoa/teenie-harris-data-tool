@@ -1,0 +1,115 @@
+{
+    "objectID": 64633,
+    "irn": 64633,
+    "ecatalogue_key": 50468,
+    "TitAccessionNo": "2001.35.50511",
+    "CreDateCreated": "December 1958",
+    "CreEarliestDate": "1958-12-01",
+    "CreLatestDate": "1958-12-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Hillside with dirt path, sidewalk, and street, houses in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Landscape--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4a76ca83-938f-45b1-a915-5f34f4344c30",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74524,
+    "MulMultiMediaRef_key": 50476,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74524/sizes/64633-1680.jpg",
+    "date_timestamp_earliest": -349833600.0,
+    "date_timestamp_latest": -347241600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "Landscape",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fountain",
+            "score": 0.33180732727050766
+        },
+        {
+            "keyword": "track",
+            "score": 0.3248581
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3129513666666667
+        },
+        {
+            "keyword": "sky",
+            "score": 0.30672828588134765
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29104711666666666
+        },
+        {
+            "keyword": "transport",
+            "score": 0.28560023333333334
+        },
+        {
+            "keyword": "water",
+            "score": 0.2842664686513263
+        },
+        {
+            "keyword": "road",
+            "score": 0.28422176666666665
+        },
+        {
+            "keyword": "tree",
+            "score": 0.28220633333333334
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.2798153583150227
+        },
+        {
+            "keyword": "structure",
+            "score": 0.2660172017415363
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25457956666666665
+        },
+        {
+            "keyword": "lane",
+            "score": 0.24211369000000002
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "objectID": 70188,
+    "irn": 70188,
+    "ecatalogue_key": 55425,
+    "TitAccessionNo": "2001.35.55468",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored nubby jacket or dress, with rectangular brooch, posed holding telephone and seated at desk with eyeglasses, and documents",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "63ef260b-eaaa-4471-8aff-bce1cdb0eeae",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83863,
+    "MulMultiMediaRef_key": 55434,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83863/sizes/70188-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Portraits",
+        "Desks",
+        "Women",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3834644623168946
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29979098
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2802285666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2660572308532713
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26412445333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23604955905059813
+        },
+        {
+            "keyword": "human",
+            "score": 0.23540963333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23512665333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.235038
+        },
+        {
+            "keyword": "design",
+            "score": 0.23225046666666668
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23092695
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22561003908813468
+        }
+    ]
+}

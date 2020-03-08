@@ -1,0 +1,114 @@
+{
+    "objectID": 2600,
+    "irn": 2600,
+    "ecatalogue_key": 1198,
+    "TitAccessionNo": "2001.35.1200",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman in smock painting cloth with lobster and scroll pattern",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Painting--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "78ca3e2d-e59e-4fe7-ae00-6c11718a6140",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14807,
+    "MulMultiMediaRef_key": 1200,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14807/sizes/2600-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Painting"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Painting",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "art",
+            "score": 0.32126723374918636
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3165604
+        },
+        {
+            "keyword": "design",
+            "score": 0.309141899469401
+        },
+        {
+            "keyword": "drawing",
+            "score": 0.30893630265096034
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29675843333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27480695666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2588243866666667
+        },
+        {
+            "keyword": "pattern",
+            "score": 0.2582820870981853
+        },
+        {
+            "keyword": "artwork",
+            "score": 0.23104349999999998
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22909428983866365
+        },
+        {
+            "keyword": "visual arts",
+            "score": 0.2218073
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21407586666666667
+        },
+        {
+            "keyword": "figure drawing",
+            "score": 0.20716768666666666
+        },
+        {
+            "keyword": "font",
+            "score": 0.20324426666666665
+        }
+    ]
+}

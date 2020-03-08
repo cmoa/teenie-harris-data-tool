@@ -1,0 +1,107 @@
+{
+    "objectID": 45399,
+    "irn": 45399,
+    "ecatalogue_key": 32661,
+    "TitAccessionNo": "2001.35.32696",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of young man wearing dark cardigan sweater with \"Hi - Y\" triangular patch, posed beside wicker desk with globe, in interior with large world map in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24d4a8d2-aa74-4a2a-9e35-b42987a0d71b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51863,
+    "MulMultiMediaRef_key": 32669,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51863/sizes/45399-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "WORLD\nATLANTIc\nA N\nA N\nA TL\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Maps"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3629516380981446
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31299933333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29622004333333335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29383453333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28610221666666663
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2586083539326986
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25274141666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21989302
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21651469999999998
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.209362949093628
+        }
+    ]
+}

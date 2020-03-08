@@ -1,0 +1,104 @@
+{
+    "objectID": 37107,
+    "irn": 37107,
+    "ecatalogue_key": 24693,
+    "TitAccessionNo": "2001.35.24725",
+    "CreDateCreated": "c. 1951",
+    "CreEarliestDate": "1948",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man, possibly Vincent Scales, wearing dark double breasted suit with polka dot bow tie, in bar interior with dark stripe along wall and game machine on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e6295ca9-600a-4a6a-8981-24c50a8823db",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43262,
+    "MulMultiMediaRef_key": 24701,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43262/sizes/37107-1680.jpg",
+    "date_timestamp_earliest": -694310400.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [
+        "Vincent Scales"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.494506851241862
+        },
+        {
+            "keyword": "suit",
+            "score": 0.413048705020345
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.323160248502604
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29941107666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2855919644429523
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28228761666666663
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2805403
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2730843233333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2722482147013347
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23675616666666666
+        }
+    ]
+}

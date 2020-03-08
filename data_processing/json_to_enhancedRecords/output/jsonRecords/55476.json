@@ -1,0 +1,110 @@
+{
+    "objectID": 55476,
+    "irn": 55476,
+    "ecatalogue_key": 42055,
+    "TitAccessionNo": "2001.35.42097",
+    "CreDateCreated": "c. 1953",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing polka dot dress and holding small shoes, seated in cane wheel chair, in front of brick building with door with high mail slot and lace curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Wheelchairs--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Shoes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "024a475b-7e6a-4476-9635-f783b9780bdf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63530,
+    "MulMultiMediaRef_key": 42063,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63530/sizes/55476-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Shoes",
+        "Wheelchairs",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Shoes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Wheelchairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "chair",
+            "score": 0.3225812416430663
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31338673333333333
+        },
+        {
+            "keyword": "product",
+            "score": 0.31325898571858735
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.30617693333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2896872166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27783884666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27473376666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24686575
+        },
+        {
+            "keyword": "window",
+            "score": 0.21032566666666666
+        }
+    ]
+}

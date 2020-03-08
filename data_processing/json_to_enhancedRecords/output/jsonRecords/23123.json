@@ -1,0 +1,101 @@
+{
+    "objectID": 23123,
+    "irn": 23123,
+    "ecatalogue_key": 13523,
+    "TitAccessionNo": "2001.35.13553",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "\"Colao Studios Pittsburgh, PA\" is professionally stamped on the bottom right.",
+    "TitMainTitle": "Copy of portrait of young man with message that reads, \"To the most wonderful parents a son could ever have, Gary\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0ddc5b61-05e9-4b68-b147-c63eba38a4cc",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 29629,
+    "MulMultiMediaRef_key": 13531,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29629/sizes/23123-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Gary"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "PTTSSURGH, PA\n",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Gary"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.440647390193685
+        },
+        {
+            "keyword": "male",
+            "score": 0.4260402099991863
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.394094478458659
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Colao Studios Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gary",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2846491666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2791497
+        },
+        {
+            "keyword": "forehead",
+            "score": 0.25399925333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21084575000000003
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20789462333333333
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "objectID": 36823,
+    "irn": 36823,
+    "ecatalogue_key": 24391,
+    "TitAccessionNo": "2001.35.24423",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of five men, possibly including Ted Page fourth from left, and Bennie Taylor on right end, holding bowling balls, standing in ascending height in lane, in bowling alley",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bowling alleys--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0b432fe6-5457-4613-8390-fbd2e2c3b402",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42956,
+    "MulMultiMediaRef_key": 24399,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42956/sizes/36823-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Ted Page",
+        "Bennie Taylor"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Bowling alleys",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3050077857398478
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30189188333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27407766666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25904272
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23361833333333334
+        }
+    ]
+}

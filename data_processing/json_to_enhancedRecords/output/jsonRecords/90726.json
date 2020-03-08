@@ -1,0 +1,79 @@
+{
+    "objectID": 90726,
+    "irn": 90726,
+    "ecatalogue_key": 57766,
+    "TitAccessionNo": "2001.35.70932",
+    "CreDateCreated": "August 11, 1964",
+    "CreEarliestDate": "1964-08-11",
+    "CreLatestDate": "1964-08-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Pittsburgh Pirates baseball player, possibly no. 34 pitcher Al McBean, wearing glove and posed in throwing stance on Forbes Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Forbes Field (Pittsburgh, Pa.)Baseball players--Pennsylvania--Pittsburgh.Pittsburgh Pirates (Baseball team)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fcfb84ec-62d1-403f-a96f-765b8940aed4",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 126530,
+    "MulMultiMediaRef_key": 57775,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/126530/sizes/90726-1680.jpg",
+    "date_timestamp_earliest": -170121600.0,
+    "date_timestamp_latest": -170121600.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "Al McBean"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Baseball players"
+    ],
+    "keywords": [
+        {
+            "keyword": "Forbes Field ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Baseball players",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Forbes Field",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Pirates (Baseball team)Men",
+            "score": 0.3333333333333333
+        }
+    ]
+}

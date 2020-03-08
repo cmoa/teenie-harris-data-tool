@@ -1,0 +1,110 @@
+{
+  "objectID": 5040,
+  "irn": 5040,
+  "ecatalogue_key": 2986,
+  "TitAccessionNo": "2001.35.2993",
+  "CreDateCreated": "c. 1945-1950",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of two men, including one on left wearing military uniform and knitted scarf, and woman wearing ruffled blouse, seated at table, in bar with paneling, oval window or mirror, and drop ceiling",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "36b83853-71e3-409a-86bb-4ce0161aeca6",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17445/sizes/5040-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 4,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Uniforms",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.47396683672688805
+    },
+    {
+      "keyword": "Bars",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Uniforms",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.3313825385050457
+    },
+    {
+      "keyword": "fun",
+      "score": 0.29050581265441894
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2826405
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27824483333333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.23614356666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2301014
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.2195866333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17445/sizes/5040-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17445/sizes/5040-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

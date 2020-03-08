@@ -1,0 +1,111 @@
+{
+    "objectID": 26469,
+    "irn": 26469,
+    "ecatalogue_key": 16199,
+    "TitAccessionNo": "2001.35.16229",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing vertical stripe tie with tie bar, standing in front of shelf with books: \"Standard Pennsylvania Practice,\" in interior with framed mirror and painting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "77e9be70-a613-41e3-9b0e-7dae46c582d6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32811,
+    "MulMultiMediaRef_key": 16207,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32811/sizes/26469-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "NDEX 1 2\n",
+    "subjects": [
+        "Portraits",
+        "Books",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5941869233333333
+        },
+        {
+            "keyword": "man",
+            "score": 0.49138305854085296
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3402753698343914
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Standard Pennsylvania Practice",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3117633384318033
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2839276333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2795450666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2698786
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.23895738666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2322788
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20931840000000002
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.209003651936849
+        }
+    ]
+}

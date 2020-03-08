@@ -1,0 +1,87 @@
+{
+    "objectID": 34263,
+    "irn": 34263,
+    "ecatalogue_key": 22270,
+    "TitAccessionNo": "2001.35.22301",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six women and two men, possibly including Dr. Oswald Nickens, right rear, seated around rectangular table, in interior with three maps of Pittsburgh on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.Nickens, Oswald.",
+    "AdmGUIDValue_tab": "4fcf5ed9-72ac-4dff-b2da-979d9c8637dc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40808,
+    "MulMultiMediaRef_key": 22278,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40808/sizes/34263-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "Oswald Nickens"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Maps"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nickens, Oswald",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.301371405806478
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2643491333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2566358275941976
+        },
+        {
+            "keyword": "professional",
+            "score": 0.250372086862386
+        }
+    ]
+}

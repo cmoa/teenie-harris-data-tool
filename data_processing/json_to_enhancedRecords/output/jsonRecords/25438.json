@@ -1,0 +1,102 @@
+{
+    "objectID": 25438,
+    "irn": 25438,
+    "ecatalogue_key": 15181,
+    "TitAccessionNo": "2001.35.15211",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at tables in banquet hall or hotel ballroom, with head table in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "675fe030-ae09-4332-8e07-5d5368b03782",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31557,
+    "MulMultiMediaRef_key": 15189,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31557/sizes/25438-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 20,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29593763333333334
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2783915666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2735803666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2698792425679523
+        },
+        {
+            "keyword": "event",
+            "score": 0.26872466666666667
+        },
+        {
+            "keyword": "audience",
+            "score": 0.26218863333333337
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.2594764
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25510084666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.21169452
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21166738
+        }
+    ]
+}

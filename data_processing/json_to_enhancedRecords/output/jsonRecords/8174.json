@@ -1,0 +1,124 @@
+{
+    "objectID": 8174,
+    "irn": 8174,
+    "ecatalogue_key": 5019,
+    "TitAccessionNo": "2001.35.5028",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Fire fighters, possibly from company no. 46, at house with blown-out side wall on residential street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Fire fighters--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Dogs--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0f749ed2-c7d2-41ae-8366-5595b8db61c9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20655,
+    "MulMultiMediaRef_key": 5025,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20655/sizes/8174-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAKSAFETYFILM\n",
+    "subjects": [
+        "Men",
+        "Sidewalks",
+        "Dogs",
+        "Fire fighters"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.4390223493855793
+        },
+        {
+            "keyword": "home",
+            "score": 0.3786743037556966
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.36143020140380866
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire fighters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "46",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.33043136209513335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31153508
+        },
+        {
+            "keyword": "building",
+            "score": 0.3066020636979167
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28967953333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.268177
+        },
+        {
+            "keyword": "facade",
+            "score": 0.25206498543599437
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24559
+        },
+        {
+            "keyword": "street",
+            "score": 0.23861748215433765
+        },
+        {
+            "keyword": "tree",
+            "score": 0.23831883931559247
+        }
+    ]
+}

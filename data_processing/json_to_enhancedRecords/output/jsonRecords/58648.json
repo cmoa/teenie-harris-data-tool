@@ -1,0 +1,94 @@
+{
+    "objectID": 58648,
+    "irn": 58648,
+    "ecatalogue_key": 44742,
+    "TitAccessionNo": "2001.35.44785",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Hazel Garland wearing organic patterned sweater and dark cardigan sweater, posed in front of light colored wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Garland, Hazel.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1ba89377-16e0-44fb-b571-2230521ba803",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66441,
+    "MulMultiMediaRef_key": 44750,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66441/sizes/58648-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.42803039211832666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3959088349812827
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Garland, Hazel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.29739923518676764
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29114466666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27388491333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2306041
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22313831333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21466313333333334
+        }
+    ]
+}

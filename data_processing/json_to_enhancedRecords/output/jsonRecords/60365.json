@@ -1,0 +1,132 @@
+{
+    "objectID": 60365,
+    "irn": 60365,
+    "ecatalogue_key": 46437,
+    "TitAccessionNo": "2001.35.46480",
+    "CreDateCreated": "July 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-07-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper July 20, 1957, pg. A3, reads: \"Takes Skill - Raymond Wharton displays his skill in upholstering in his workshop in the basement of City Hall. - Harris Photo.\"",
+    "TitMainTitle": "Pittsburgh city upholsterer Raymond Wharton working on bench with City Hall superintendent Martin McTighe standing in background, in basement of City Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Benches--Pennsylvania--Pittsburgh.Tools--Pennsylvania--Pittsburgh.Workshops--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c46487af-ad5c-4aad-b9a8-792cc3a80998",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68522,
+    "MulMultiMediaRef_key": 46445,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68522/sizes/60365-1680.jpg",
+    "date_timestamp_earliest": -394588800.0,
+    "date_timestamp_latest": -392947200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Raymond Wharton",
+        "Martin McTighe"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "City Hall",
+            "short_name": "City Hall"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {
+        "publication": [
+            "Pittsburgh Courier"
+        ],
+        "date": [
+            "July 20, 1957"
+        ],
+        "page": [],
+        "cutline": [
+            "Takes Skill - Raymond Wharton displays his skill in upholstering in his workshop in the basement of City Hall. - Harris Photo."
+        ]
+    },
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Benches",
+        "Implements",
+        "Pittsburgh courier",
+        "Tools",
+        "Men",
+        "Workshops"
+    ],
+    "keywords": [
+        {
+            "keyword": "Benches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Takes Skill - Raymond Wharton",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "July 20, 1957",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workshops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "City Hall",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "A3",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30409352
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2740612233333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26600098666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23660218666666666
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "objectID": 21507,
+    "irn": 21507,
+    "ecatalogue_key": 12185,
+    "TitAccessionNo": "2001.35.12215",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, one holding raised bag with lid, other man looking on, with trash cans on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f2a0a8b2-1f42-47e7-975f-72f4a2afe3f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28016,
+    "MulMultiMediaRef_key": 12193,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28016/sizes/21507-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31202046666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3036646433333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29547493333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2822189666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24885896666666665
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.24411624666666668
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21717623333333333
+        }
+    ]
+}

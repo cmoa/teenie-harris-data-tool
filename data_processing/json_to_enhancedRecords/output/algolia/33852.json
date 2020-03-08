@@ -1,0 +1,123 @@
+{
+  "objectID": 33852,
+  "irn": 33852,
+  "ecatalogue_key": 21791,
+  "TitAccessionNo": "2001.35.21822",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two women standing in doorway, with feet on telephone chair, including one wearing floral dress, in domestic interior, possibly in Bullard home at 2801 Bedford Avenue",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "c9f34dc5-824f-447f-9e65-00c88397c8d4",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40238/sizes/33852-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [
+    "Bullard"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Bedford Dwellings",
+      "short_name": "Bedford Dwellings"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Bedford Avenue",
+      "short_name": "Bedford Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Telephone"
+  ],
+  "keywords": [
+    {
+      "keyword": "2801 Bedford Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Telephones",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bullard",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30323525333333334
+    },
+    {
+      "keyword": "girl",
+      "score": 0.2826857333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2806056
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27969953333333336
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "human",
+      "score": 0.27035349964396166
+    },
+    {
+      "keyword": "fun",
+      "score": 0.2509185
+    },
+    {
+      "keyword": "smile",
+      "score": 0.2384884418660483
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21765502333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40238/sizes/33852-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40238/sizes/33852-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

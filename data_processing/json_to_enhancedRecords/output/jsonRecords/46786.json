@@ -1,0 +1,118 @@
+{
+    "objectID": 46786,
+    "irn": 46786,
+    "ecatalogue_key": 33775,
+    "TitAccessionNo": "2001.35.33810",
+    "CreDateCreated": "c. 1937-1950",
+    "CreEarliestDate": "1937",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark pinstriped suit, holding object, and standing beside 1937 Pittsburgh City Directory",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bbd44e40-02f7-45d2-8b4b-64f7eac4d63f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53218,
+    "MulMultiMediaRef_key": 33783,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53218/sizes/46786-1680.jpg",
+    "date_timestamp_earliest": -1041379200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "2 A30A\n",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.46131801522298166
+        },
+        {
+            "keyword": "man",
+            "score": 0.4555650617667643
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "1937",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh City Directory",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.321744216345215
+        },
+        {
+            "keyword": "professional",
+            "score": 0.29037236731323235
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28977953333333334
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.28114603551228834
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2805345866666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27610165000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23631441666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22816431666666667
+        },
+        {
+            "keyword": "executive",
+            "score": 0.209973398844401
+        },
+        {
+            "keyword": "public speaking",
+            "score": 0.20319767666666666
+        }
+    ]
+}

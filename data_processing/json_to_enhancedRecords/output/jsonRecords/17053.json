@@ -1,0 +1,113 @@
+{
+    "objectID": 17053,
+    "irn": 17053,
+    "ecatalogue_key": 8908,
+    "TitAccessionNo": "2001.35.8930",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing floral dress and dark apron, holding pan on stove, in domestic kitchen with floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Domestic life--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6acd410c-f506-4733-8042-0d42b178201b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25099,
+    "MulMultiMediaRef_key": 8916,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25099/sizes/17053-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.40695374484863267
+        },
+        {
+            "keyword": "Domestic life",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "refrigerator",
+            "score": 0.32841415975341803
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30880003333333333
+        },
+        {
+            "keyword": "home appliance",
+            "score": 0.2892707
+        },
+        {
+            "keyword": "house",
+            "score": 0.28324401458903004
+        },
+        {
+            "keyword": "major appliance",
+            "score": 0.2818123
+        },
+        {
+            "keyword": "clothes dryer",
+            "score": 0.27946065000000003
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2777034333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2647119333333333
+        },
+        {
+            "keyword": "laundry",
+            "score": 0.2581279
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23537985333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.22892939999999998
+        },
+        {
+            "keyword": "microwave oven",
+            "score": 0.21800873333333334
+        },
+        {
+            "keyword": "kitchen appliance",
+            "score": 0.21084737666666667
+        }
+    ]
+}

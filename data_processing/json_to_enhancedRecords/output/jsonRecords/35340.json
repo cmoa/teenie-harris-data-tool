@@ -1,0 +1,121 @@
+{
+    "objectID": 35340,
+    "irn": 35340,
+    "ecatalogue_key": 23061,
+    "TitAccessionNo": "2001.35.23092",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing eyeglasses, double breasted suit, and bold patterned necktie, seated on desk, in interior, possibly Pittsburgh Housing Authority",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ce745f7-7380-49c2-9f97-1e369394e613",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41563,
+    "MulMultiMediaRef_key": 23069,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41563/sizes/35340-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Housing Authority of the City of Pittsburgh",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5279681235432944
+        },
+        {
+            "keyword": "man",
+            "score": 0.47317596430257164
+        },
+        {
+            "keyword": "person",
+            "score": 0.468911374194336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.383163539219157
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3553709010294597
+        },
+        {
+            "keyword": "professional",
+            "score": 0.336703203881836
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Housing Authority",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2995603466666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2791245766666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2782346666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26583143881530763
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26431523333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24062578
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21067218
+        }
+    ]
+}

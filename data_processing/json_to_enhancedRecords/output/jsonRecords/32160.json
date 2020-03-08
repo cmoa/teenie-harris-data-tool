@@ -1,0 +1,104 @@
+{
+    "objectID": 32160,
+    "irn": 32160,
+    "ecatalogue_key": 20234,
+    "TitAccessionNo": "2001.35.20265",
+    "CreDateCreated": "1964",
+    "CreEarliestDate": "1964",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark robe with light colored shirt and collar, in corner of interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "84183cef-b5d9-4aa8-af3c-f8e82bcc59b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38351,
+    "MulMultiMediaRef_key": 20242,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38351/sizes/32160-1680.jpg",
+    "date_timestamp_earliest": -189388800.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.341176092417399
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.3371621366210937
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "academic dress",
+            "score": 0.2993875
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2984306
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.29369457803548166
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2773275333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2696922666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22886023333333336
+        },
+        {
+            "keyword": "covering",
+            "score": 0.22501243591308598
+        },
+        {
+            "keyword": "cloak",
+            "score": 0.2179854838053387
+        },
+        {
+            "keyword": "phd",
+            "score": 0.20094098666666668
+        }
+    ]
+}

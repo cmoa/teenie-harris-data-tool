@@ -1,0 +1,104 @@
+{
+    "objectID": 57722,
+    "irn": 57722,
+    "ecatalogue_key": 44049,
+    "TitAccessionNo": "2001.35.44091",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of young man wearing faintly striped suit, light colored shirt, and floral tie, posed in front of light colored brick wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c7a623f1-2e1c-47c7-bf72-abf731c553c3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65862,
+    "MulMultiMediaRef_key": 44057,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65862/sizes/57722-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.529510529951172
+        },
+        {
+            "keyword": "man",
+            "score": 0.49282888843994127
+        },
+        {
+            "keyword": "male",
+            "score": 0.42460329237874334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3521426771362304
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2968129133333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28458198
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.281185231056722
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27044019999999996
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25887866666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22642910000000002
+        }
+    ]
+}

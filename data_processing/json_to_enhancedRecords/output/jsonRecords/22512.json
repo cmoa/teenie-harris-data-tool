@@ -1,0 +1,98 @@
+{
+    "objectID": 22512,
+    "irn": 22512,
+    "ecatalogue_key": 13151,
+    "TitAccessionNo": "2001.35.13181",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of a smiling woman, with mural of trees in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fa8de492-b3e7-4070-a53e-03e0162d436b",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 28822,
+    "MulMultiMediaRef_key": 13159,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28822/sizes/22512-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.3535304435799153
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.332738142380778
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3123651333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2986082
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2958117533333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2830065
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25548034999999997
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24558651333333334
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.2200941
+        }
+    ]
+}

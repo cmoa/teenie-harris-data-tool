@@ -1,0 +1,97 @@
+{
+    "objectID": 44380,
+    "irn": 44380,
+    "ecatalogue_key": 31669,
+    "TitAccessionNo": "2001.35.31704",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men seated at table, man on left holding fork, in interior with dark stripe around room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64d28fbc-c6e3-40a0-8826-2a8483b61cfa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51107,
+    "MulMultiMediaRef_key": 31677,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51107/sizes/44380-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47879246735432934
+        },
+        {
+            "keyword": "male",
+            "score": 0.4108794928181967
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.31618846465454103
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2963521
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2818720533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26639589999999996
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25921555333333335
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22309945
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22130390269795733
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2192221
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "objectID": 25638,
+    "irn": 25638,
+    "ecatalogue_key": 15218,
+    "TitAccessionNo": "2001.35.15248",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Bob Lavelle seated with his hands clasped on desk in office, with curtains in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Lavelle, Frank.Offices--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "07628f9a-a0c8-4d2b-9863-2aee20e898c1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31668,
+    "MulMultiMediaRef_key": 15226,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31668/sizes/25638-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Bob Lavelle"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "ODAK SAFETY\nFILM\n",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4255862004720054
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.3647046183854166
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.33956978143514
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Lavelle, Frank",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.326886000126953
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2985252
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.2969132
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2802362
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27398854333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.27135214256144197
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.26793064666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26454031333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23602727999999998
+        }
+    ]
+}

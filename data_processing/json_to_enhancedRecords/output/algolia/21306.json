@@ -1,0 +1,99 @@
+{
+  "objectID": 21306,
+  "irn": 21306,
+  "ecatalogue_key": 11963,
+  "TitAccessionNo": "2001.35.11993",
+  "CreDateCreated": "1972",
+  "CreEarliestDate": "1972",
+  "CreLatestDate": "1972",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at banquet tables in interior with stage in background and broad chandelier or lighting fixture",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "f0e80e37-59b7-40d4-95c3-98b28a3b66eb",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27669/sizes/21306-1680.jpg",
+  "datetime": "1972-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 16,
+  "google_text_in_image": "KODAKSAFETY FILN\n",
+  "subjects": [
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29988221333333337
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27415198
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2723707166666667
+    },
+    {
+      "keyword": "event",
+      "score": 0.2513455666666667
+    },
+    {
+      "keyword": "fun",
+      "score": 0.2350345061151123
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23068653333333333
+    },
+    {
+      "keyword": "ceremony",
+      "score": 0.2217842
+    },
+    {
+      "keyword": "rehearsal dinner",
+      "score": 0.20026068
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27669/sizes/21306-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27669/sizes/21306-210.jpg",
+  "date_timestamp_earliest": 63072000.0,
+  "date_timestamp_latest": 63072000.0,
+  "decades": [
+    "1970s"
+  ]
+}

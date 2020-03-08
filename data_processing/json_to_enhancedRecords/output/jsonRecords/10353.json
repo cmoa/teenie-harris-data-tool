@@ -1,0 +1,110 @@
+{
+    "objectID": 10353,
+    "irn": 10353,
+    "ecatalogue_key": 6206,
+    "TitAccessionNo": "2001.35.6217",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man in suit shaking hands and giving watch to another man in uniform wearing hat embroidered with \"Burt's Shoes\" standing in front of Burt's Shoe Store",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Shoes--Pennsylvania--Pittsburgh.Store windows--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "85079d43-3d16-49fe-96e0-cf0b349765c0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 8070,
+    "MulMultiMediaRef_key": 6213,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/8070/sizes/10353-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Burt"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "BURTS SHOES\nWEAR\nOUNTPRICES\nTAUS\nSELL\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Shoes",
+        "Burt"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Store windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Shoe Store",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Burt's Shoes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Shoes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Burt",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30324996666666665
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2950124533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26856015
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26259516666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.24926720614827466
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24592351999999998
+        }
+    ]
+}

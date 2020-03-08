@@ -1,0 +1,83 @@
+{
+    "objectID": 26370,
+    "irn": 26370,
+    "ecatalogue_key": 15872,
+    "TitAccessionNo": "2001.35.15902",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four women wearing hats, and a minister, seated at table in interior with double rows of curtains with eyelet borders",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f0cd045e-4355-470d-aefa-d202aad88c6a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33003,
+    "MulMultiMediaRef_key": 15880,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33003/sizes/26370-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29083399
+        },
+        {
+            "keyword": "table",
+            "score": 0.28737054143554697
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2684883866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2457522
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21453015
+        }
+    ]
+}

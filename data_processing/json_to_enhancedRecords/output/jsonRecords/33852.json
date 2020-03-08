@@ -1,0 +1,110 @@
+{
+    "objectID": 33852,
+    "irn": 33852,
+    "ecatalogue_key": 21791,
+    "TitAccessionNo": "2001.35.21822",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women standing in doorway, with feet on telephone chair, including one wearing floral dress, in domestic interior, possibly in Bullard home at 2801 Bedford Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c9f34dc5-824f-447f-9e65-00c88397c8d4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40238,
+    "MulMultiMediaRef_key": 21799,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40238/sizes/33852-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Bullard"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "2801 Bedford Avenue",
+            "short_name": "2801 Bedford Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "2801 Bedford Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bullard",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30323525333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2826857333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2806056
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27969953333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.27035349964396166
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2509185
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2384884418660483
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21765502333333334
+        }
+    ]
+}

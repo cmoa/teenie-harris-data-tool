@@ -1,0 +1,92 @@
+{
+    "objectID": 21306,
+    "irn": 21306,
+    "ecatalogue_key": 11963,
+    "TitAccessionNo": "2001.35.11993",
+    "CreDateCreated": "1972",
+    "CreEarliestDate": "1972",
+    "CreLatestDate": "1972",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at banquet tables in interior with stage in background and broad chandelier or lighting fixture",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f0e80e37-59b7-40d4-95c3-98b28a3b66eb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27669,
+    "MulMultiMediaRef_key": 11971,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27669/sizes/21306-1680.jpg",
+    "date_timestamp_earliest": 63072000.0,
+    "date_timestamp_latest": 63072000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "KODAKSAFETY FILN\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29988221333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27415198
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2723707166666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.2513455666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2350345061151123
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23068653333333333
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2217842
+        },
+        {
+            "keyword": "rehearsal dinner",
+            "score": 0.20026068
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "objectID": 31255,
+    "irn": 31255,
+    "ecatalogue_key": 19378,
+    "TitAccessionNo": "2001.35.19408",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark graduation gown and mortar board, holding document, standing in front of light colored curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ff03025b-02dd-462f-98b4-8e95762ba630",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37310,
+    "MulMultiMediaRef_key": 19386,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37310/sizes/31255-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "outerwear",
+            "score": 0.3575214867447916
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3350245115183512
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2871822333333333
+        },
+        {
+            "keyword": "mortarboard",
+            "score": 0.2765875244140627
+        },
+        {
+            "keyword": "academic dress",
+            "score": 0.27499081666666664
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "cap",
+            "score": 0.23747479756673165
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2362634
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2194092
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21521726666666666
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.21114059448242198
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20635181666666666
+        }
+    ]
+}

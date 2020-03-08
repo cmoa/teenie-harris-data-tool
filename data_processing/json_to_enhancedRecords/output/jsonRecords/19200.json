@@ -1,0 +1,109 @@
+{
+    "objectID": 19200,
+    "irn": 19200,
+    "ecatalogue_key": 10411,
+    "TitAccessionNo": "2001.35.10437",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men seated at table with name tags: Mr. John Brewer, Negro; Mr. Talehiko Matsuda, Japan; and Mr. P. L. Prattis, India",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6f6fd634-3b9a-49e1-850a-87fea826b67d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26444,
+    "MulMultiMediaRef_key": 10419,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26444/sizes/19200-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "P. L. Prattis",
+        "John Brewer",
+        "Talehiko Matsuda"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Japan",
+            "short_name": "Japan"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "India",
+            "short_name": "India"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "2\nMTALE HIKO\nPL PRATTIS\nMATSUDA\nBREWER\nINDIA\nMEGRo\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44949967525634765
+        },
+        {
+            "keyword": "male",
+            "score": 0.3744566855326333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "P. L. Prattis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Negro",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John Brewer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3030364
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27715138666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2747859166666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24886396666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24051556666666665
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+  "objectID": 68272,
+  "irn": 68272,
+  "ecatalogue_key": 54067,
+  "TitAccessionNo": "2001.35.54110",
+  "CreDateCreated": "c. 1954",
+  "CreEarliestDate": "1951",
+  "CreLatestDate": "1957",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Construction site with bulldozer, tractor, and construction workers, two men standing on right, one in front holding child, houses and trees in distance, possibly in Belmar Gardens",
+  "CatSubject_tab": "Belmar Gardens (Pittsburgh, Pa.)Construction equipment--Pennsylvania--Pittsburgh.Construction and demolition debris--Pennsylvania--Pittsburgh.Construction workers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Trucks--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "29f689d2-6ae4-4afd-b11d-9ab6e503d280",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79790/sizes/68272-1680.jpg",
+  "datetime": "1951-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Liberty Avenue",
+      "short_name": "Liberty Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Children",
+    "Construction and demolition debris",
+    "Men",
+    "Construction workers",
+    "Construction equipment",
+    "Trucks"
+  ],
+  "keywords": [
+    {
+      "keyword": "sky",
+      "score": 0.3514597118693033
+    },
+    {
+      "keyword": ")Construction equipment",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Belmar Gardens ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Belmar Gardens",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Construction and demolition debris",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Construction workers",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Trucks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31245807666666664
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29395546666666666
+    },
+    {
+      "keyword": "landscape",
+      "score": 0.289929981191813
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26902736666666666
+    },
+    {
+      "keyword": "sea",
+      "score": 0.26056135941569
+    },
+    {
+      "keyword": "horizon",
+      "score": 0.25838430262858075
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2513242666666667
+    },
+    {
+      "keyword": "tree",
+      "score": 0.24180936615498863
+    },
+    {
+      "keyword": "atmosphere",
+      "score": 0.23506311666666668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79790/sizes/68272-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79790/sizes/68272-210.jpg",
+  "date_timestamp_earliest": -599616000.0,
+  "date_timestamp_latest": -410227200.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+    "objectID": 33270,
+    "irn": 33270,
+    "ecatalogue_key": 21293,
+    "TitAccessionNo": "2001.35.21324",
+    "CreDateCreated": "1966",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men holding framed wooden panel, in workshop with star, books, and tools in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Tools--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a4c882f8-f36e-4db6-af64-1fc870ec4bc3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39603,
+    "MulMultiMediaRef_key": 21301,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39603/sizes/33270-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "NAILS\n",
+    "subjects": [
+        "Tools",
+        "Implements",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Tools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3049018333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2648146
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2646661
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.25313066978352866
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24613084333333335
+        }
+    ]
+}

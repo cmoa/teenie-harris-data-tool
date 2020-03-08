@@ -1,0 +1,99 @@
+{
+    "objectID": 13633,
+    "irn": 13633,
+    "ecatalogue_key": 7189,
+    "TitAccessionNo": "2001.35.7205",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men reading blueprints for office or school building at table in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Blueprints--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70374695-d2e2-4bc0-aa28-315576752395",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22670,
+    "MulMultiMediaRef_key": 7197,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22670/sizes/13633-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices",
+        "Blueprints"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Blueprints",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.30760721303263333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29760226666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2807869
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25660171
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.22322285333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.221792943912557
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21729314333333336
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20532545184122733
+        }
+    ]
+}

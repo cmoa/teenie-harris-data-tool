@@ -1,0 +1,107 @@
+{
+    "objectID": 42505,
+    "irn": 42505,
+    "ecatalogue_key": 29805,
+    "TitAccessionNo": "2001.35.29838",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four clowns and a woman holding hula hoop, in interior with children seated at long tables, possibly church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clowns--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7b25d356-39f6-46e3-8c0a-e3c18417152d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48891,
+    "MulMultiMediaRef_key": 29813,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48891/sizes/42505-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Children",
+        "Clowns"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clowns",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2955776866666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29210733333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.2838890333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27748873333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.25206862
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24674836666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23985783333333333
+        },
+        {
+            "keyword": "wedding reception",
+            "score": 0.2140103
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20809231333333333
+        }
+    ]
+}

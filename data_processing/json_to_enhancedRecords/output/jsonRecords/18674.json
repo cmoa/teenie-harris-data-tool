@@ -1,0 +1,90 @@
+{
+    "objectID": 18674,
+    "irn": 18674,
+    "ecatalogue_key": 9973,
+    "TitAccessionNo": "2001.35.9999",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing apron with multiple pockets standing over young man working in wood shop, with list of flammable materials written on chalkboard in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "95b56753-4af8-405b-9653-c113257ce119",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25868,
+    "MulMultiMediaRef_key": 9981,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25868/sizes/18674-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30099342333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2821420141866047
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26959289999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26530242
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24620733333333333
+        },
+        {
+            "keyword": "marimba",
+            "score": 0.21307132720947264
+        },
+        {
+            "keyword": "professional",
+            "score": 0.21025114972534178
+        }
+    ]
+}

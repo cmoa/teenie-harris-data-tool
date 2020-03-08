@@ -1,0 +1,128 @@
+{
+    "objectID": 67611,
+    "irn": 67611,
+    "ecatalogue_key": 53434,
+    "TitAccessionNo": "2001.35.53477",
+    "CreDateCreated": "c. 1969",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1972",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark suit standing next to man wearing eyeglasses, seated at desk with double lamp, looking at magazine, in interior with framed landscape on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Lamps--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3f34e33a-42dd-4b02-9e1b-a0f1b82e0f93",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78019,
+    "MulMultiMediaRef_key": 53443,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78019/sizes/67611-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": 63072000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Lamps",
+        "Eyeglasses",
+        "Men",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.338861723815918
+        },
+        {
+            "keyword": "Lamps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.3242648613972983
+        },
+        {
+            "keyword": "suit",
+            "score": 0.32307032635904936
+        },
+        {
+            "keyword": "business",
+            "score": 0.3196358021687827
+        },
+        {
+            "keyword": "table",
+            "score": 0.303043703297933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2964603333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.276904
+        },
+        {
+            "keyword": "professional",
+            "score": 0.27300761008178703
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.269935107573649
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2633413666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26132615333333337
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2573978
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.247113
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2307806
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21485773333333333
+        }
+    ]
+}

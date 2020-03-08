@@ -1,0 +1,109 @@
+{
+    "objectID": 22125,
+    "irn": 22125,
+    "ecatalogue_key": 12799,
+    "TitAccessionNo": "2001.35.12829",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing with woman and boy in boat, with license number Pennsylvania 8045 D, next to dock",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Boats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "53cddb5f-ae1c-4e08-8540-9087cf89ae95",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28486,
+    "MulMultiMediaRef_key": 12807,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28486/sizes/22125-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "A 193\nPA 8 45\n",
+    "subjects": [
+        "Boats and boating",
+        "Women",
+        "Boats",
+        "Boys",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.3483707428686524
+        },
+        {
+            "keyword": "Pennsylvania 8045",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.31498016372884097
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3138490666666667
+        },
+        {
+            "keyword": "boat",
+            "score": 0.2958090666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29408592
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27959423333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.250984
+        },
+        {
+            "keyword": "watercraft",
+            "score": 0.21330753333333333
+        }
+    ]
+}

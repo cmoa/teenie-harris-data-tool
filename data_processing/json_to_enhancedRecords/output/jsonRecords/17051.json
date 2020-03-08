@@ -1,0 +1,89 @@
+{
+    "objectID": 17051,
+    "irn": 17051,
+    "ecatalogue_key": 8907,
+    "TitAccessionNo": "2001.35.8929",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing patterned apron putting casserole dish in oven, in domestic kitchen",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Domestic life--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e2c82d55-6d66-4e6e-bb10-2e4d3fbf1f0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25098,
+    "MulMultiMediaRef_key": 8915,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25098/sizes/17051-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.3797152482950847
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Domestic life",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31331963333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2935661666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27979992000000004
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.267820025608317
+        },
+        {
+            "keyword": "girl",
+            "score": 0.26565303333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24248892
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 14397,
+    "irn": 14397,
+    "ecatalogue_key": 7687,
+    "TitAccessionNo": "2001.35.7704",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman pointing at pock marks in wall of domestic interior with dressing table",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "38607c05-dbef-4691-8f6c-b1b5ced1dbbe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23606,
+    "MulMultiMediaRef_key": 7695,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23606/sizes/14397-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Interior architecture",
+        "Tables",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.3129373421875
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30769776666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28175278666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2809701333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28017418777160646
+        },
+        {
+            "keyword": "house",
+            "score": 0.27604257097635904
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "elevator",
+            "score": 0.26611971537272133
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23473076666666667
+        }
+    ]
+}

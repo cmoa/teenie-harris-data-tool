@@ -1,0 +1,93 @@
+{
+    "objectID": 18645,
+    "irn": 18645,
+    "ecatalogue_key": 9959,
+    "TitAccessionNo": "2001.35.9985",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "The machine was manufactured in Newark, New Jersey.",
+    "TitMainTitle": "Two young men, one wearing goggles on his forehead examining Gould & Eberhardt machine, in workshop or machine shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "513548a5-f6b7-4a3d-9195-2e28d012f743",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25844,
+    "MulMultiMediaRef_key": 9967,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25844/sizes/18645-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Newark",
+            "short_name": "Newark"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "New Jersey",
+            "short_name": "New Jersey"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "factory",
+            "score": 0.3513137271931967
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gould & Eberhardt",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3045368666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26407385
+        },
+        {
+            "keyword": "technology",
+            "score": 0.24674587719523114
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24225256666666664
+        },
+        {
+            "keyword": "machinist",
+            "score": 0.21199738999999998
+        }
+    ]
+}

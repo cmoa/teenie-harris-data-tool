@@ -1,0 +1,101 @@
+{
+    "objectID": 3985,
+    "irn": 3985,
+    "ecatalogue_key": 2250,
+    "TitAccessionNo": "2001.35.2253",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men at a bar with two men behind counter",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "389b1fcd-7667-410d-b8ec-2e9e77b4172f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17072,
+    "MulMultiMediaRef_key": 2252,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17072/sizes/3985-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "LORD CALVERT\nPHI\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "restaurant",
+            "score": 0.3943964841918946
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "bar",
+            "score": 0.316072005434672
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29825292
+        },
+        {
+            "keyword": "counter",
+            "score": 0.255833485921224
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25202186666666665
+        },
+        {
+            "keyword": "interior design",
+            "score": 0.24411426666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23106190000000001
+        },
+        {
+            "keyword": "table",
+            "score": 0.21798837499796533
+        },
+        {
+            "keyword": "pub",
+            "score": 0.2055473
+        },
+        {
+            "keyword": "caf\u00e9",
+            "score": 0.20502801666666667
+        },
+        {
+            "keyword": "coffeehouse",
+            "score": 0.2035815
+        }
+    ]
+}

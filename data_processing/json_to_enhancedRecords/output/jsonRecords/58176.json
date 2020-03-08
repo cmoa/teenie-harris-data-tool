@@ -1,0 +1,113 @@
+{
+    "objectID": 58176,
+    "irn": 58176,
+    "ecatalogue_key": 44360,
+    "TitAccessionNo": "2001.35.44402",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of young woman wearing two toned pleated skirt, dark top with five light colored buttons and tabs at neck, posed seated on wooden folding chair with books on lap, in interior with door with window with chicken wire",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5df1fb88-3243-45aa-9163-1083917fcb2e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66138,
+    "MulMultiMediaRef_key": 44368,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66138/sizes/58176-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Books",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.43393024278645836
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3972099578816733
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3014211866666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29010532333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28373891
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2644532
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.26037408667907697
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23809731
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2144557
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.20513423333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2044123
+        }
+    ]
+}

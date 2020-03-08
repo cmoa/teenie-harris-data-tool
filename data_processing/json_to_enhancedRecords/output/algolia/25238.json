@@ -1,0 +1,103 @@
+{
+  "objectID": 25238,
+  "irn": 25238,
+  "ecatalogue_key": 15767,
+  "TitAccessionNo": "2001.35.15797",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated in pews inside church, with men standing against wall in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "94ac46a7-5b4d-4b2f-ad1c-6ca03b8f82ac",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32525/sizes/25238-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 37,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Men",
+    "Women",
+    "Interiors"
+  ],
+  "keywords": [
+    {
+      "keyword": "people",
+      "score": 0.36834787819946296
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.3636321490519207
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "audience",
+      "score": 0.31570136666666665
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2508328166666667
+    },
+    {
+      "keyword": "event",
+      "score": 0.24838314333333333
+    },
+    {
+      "keyword": "auditorium",
+      "score": 0.23367778333333333
+    },
+    {
+      "keyword": "convention",
+      "score": 0.20570943333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32525/sizes/25238-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32525/sizes/25238-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

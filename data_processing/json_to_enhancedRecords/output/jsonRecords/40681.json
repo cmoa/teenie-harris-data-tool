@@ -1,0 +1,98 @@
+{
+    "objectID": 40681,
+    "irn": 40681,
+    "ecatalogue_key": 28056,
+    "TitAccessionNo": "2001.35.28088",
+    "CreDateCreated": "c. 1943",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1948",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark double breasted pinstriped suit, eyeglasses, moustache, light colored two toned striped shirt, and dark tie with dotted square pattern, posed in front of light colored wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "172f47ab-1ca2-4832-b8ae-e9cef17e72c8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47355,
+    "MulMultiMediaRef_key": 28064,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47355/sizes/40681-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -694310400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5051019271321613
+        },
+        {
+            "keyword": "person",
+            "score": 0.4527072365600587
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3559963510457356
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32508535348917633
+        },
+        {
+            "keyword": "professional",
+            "score": 0.30922565071411134
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2864505666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28267085666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27158918
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22300436666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2071992566666667
+        }
+    ]
+}

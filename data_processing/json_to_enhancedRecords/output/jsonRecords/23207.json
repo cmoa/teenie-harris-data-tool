@@ -1,0 +1,94 @@
+{
+    "objectID": 23207,
+    "irn": 23207,
+    "ecatalogue_key": 13611,
+    "TitAccessionNo": "2001.35.13641",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of girl wearing floral dress and ribbon in her hair, with swollen eye and stitches in eyebrow",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c39a0b3f-0f92-4616-93f3-ffa205c53974",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29648,
+    "MulMultiMediaRef_key": 13619,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29648/sizes/23207-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "lady",
+            "score": 0.35107280951131203
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3482328180419923
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3089107466666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28605783333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2772587
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.25343561333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22369760000000002
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20910716666666665
+        }
+    ]
+}

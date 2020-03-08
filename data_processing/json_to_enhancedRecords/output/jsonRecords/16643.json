@@ -1,0 +1,75 @@
+{
+    "objectID": 16643,
+    "irn": 16643,
+    "ecatalogue_key": 8566,
+    "TitAccessionNo": "2001.35.8588",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man handing woman pamphlet on heart disease with men looking on inside of grocery store",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Grocery stores--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "296963af-cb24-47c8-986f-1be04d416082",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24227,
+    "MulMultiMediaRef_key": 8574,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24227/sizes/16643-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "ISLE\nLD SUPPL\n",
+    "subjects": [
+        "Grocery trade",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Grocery stores",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2984501
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26066186666666663
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23891602
+        }
+    ]
+}

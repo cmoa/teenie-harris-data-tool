@@ -1,0 +1,83 @@
+{
+    "objectID": 20566,
+    "irn": 20566,
+    "ecatalogue_key": 11356,
+    "TitAccessionNo": "2001.35.11384",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Premature infant lying in incubator?",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Hospitals--Pennsylvania--Pittsburgh.Infants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3e6a4c7d-38a3-44ae-a73d-40e8d9eb0985",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27311,
+    "MulMultiMediaRef_key": 11364,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27311/sizes/20566-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Babies",
+        "Infants",
+        "Hospitals"
+    ],
+    "keywords": [
+        {
+            "keyword": "Infants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3143493333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2907434666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28092873333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2563546666666667
+        },
+        {
+            "keyword": "product design",
+            "score": 0.22113718666666668
+        }
+    ]
+}

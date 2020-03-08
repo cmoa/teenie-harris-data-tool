@@ -1,0 +1,109 @@
+{
+    "objectID": 30371,
+    "irn": 30371,
+    "ecatalogue_key": 18613,
+    "TitAccessionNo": "2001.35.18643",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three boys and three girls holding large envelopes, two nuns, and a woman standing on platform, wearing military uniform, and holding a portrait of George Washington, in interior with small stage in background, American flags, and a crucifix",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Nuns--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3a86df29-bf8a-402e-8310-424386fc02f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36646,
+    "MulMultiMediaRef_key": 18621,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36646/sizes/30371-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "George Washington"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boys",
+        "Nuns",
+        "American",
+        "Military uniforms",
+        "Women",
+        "Flags",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nuns",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "George Washington",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29448859
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26888483333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24858293333333334
+        },
+        {
+            "keyword": "performing arts",
+            "score": 0.22287708666666664
+        },
+        {
+            "keyword": "dance",
+            "score": 0.20929174689961752
+        }
+    ]
+}

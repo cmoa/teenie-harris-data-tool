@@ -1,0 +1,86 @@
+{
+    "objectID": 21883,
+    "irn": 21883,
+    "ecatalogue_key": 12540,
+    "TitAccessionNo": "2001.35.12570",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man seated at desk with telephone, and blotter, in office with wooden paneling",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d76b3d6d-4c68-43fa-9c16-b29899e5c302",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28372,
+    "MulMultiMediaRef_key": 12548,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28372/sizes/21883-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3470772017822266
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2961873
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27302181666666664
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27194810529581703
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2524131333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22743539999999998
+        },
+        {
+            "keyword": "laptop",
+            "score": 0.22662956237792967
+        }
+    ]
+}

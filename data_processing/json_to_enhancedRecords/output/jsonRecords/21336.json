@@ -1,0 +1,99 @@
+{
+    "objectID": 21336,
+    "irn": 21336,
+    "ecatalogue_key": 11987,
+    "TitAccessionNo": "2001.35.12017",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men posed in office with wooden paneling, map of Pittsburgh, and individual ward maps hanging on walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1d355ce3-747c-45d7-a139-cd1064cec912",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27695,
+    "MulMultiMediaRef_key": 11995,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27695/sizes/21336-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "SOUNDATION\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46194278124593097
+        },
+        {
+            "keyword": "male",
+            "score": 0.39116689102783203
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.30910713484395336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3061374711914063
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29794095
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27924920000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "suit",
+            "score": 0.27057904003214517
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26803692333333334
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26256831333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23026321333333333
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "objectID": 52999,
+    "irn": 52999,
+    "ecatalogue_key": 39725,
+    "TitAccessionNo": "2001.35.39766",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark necktie with tie clip, and light colored double breasted jacket, seated on bench in front of light colored background in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Benches--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a773c51b-6c7e-4d00-8d76-1a392c4c8e3b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60601,
+    "MulMultiMediaRef_key": 39733,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60601/sizes/52999-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [
+        "Harris Studio"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Benches"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5011817151171873
+        },
+        {
+            "keyword": "person",
+            "score": 0.450915325390625
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.41379917491292334
+        },
+        {
+            "keyword": "suit",
+            "score": 0.38443366400960305
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3686963658858236
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Benches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3005869
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28622759999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2816845333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27526143333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23486696666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22748426666666666
+        }
+    ]
+}

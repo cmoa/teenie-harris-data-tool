@@ -1,0 +1,98 @@
+{
+    "objectID": 44374,
+    "irn": 44374,
+    "ecatalogue_key": 31664,
+    "TitAccessionNo": "2001.35.31699",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored shirt, bowling in lane, at bowling alley with two toned brick walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bowling alleys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3479b5f3-2576-451d-a82b-937650c30d37",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51102,
+    "MulMultiMediaRef_key": 31672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51102/sizes/44374-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Bowling alleys"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.390100186928304
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "day",
+            "score": 0.330051119237264
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29277333333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28587646666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2765382724049887
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25537198666666666
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.23866794242146813
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23142504666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22311899999999998
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+  "objectID": 22291,
+  "irn": 22291,
+  "ecatalogue_key": 12924,
+  "TitAccessionNo": "2001.35.12954",
+  "CreDateCreated": "c. 1939-1945",
+  "CreEarliestDate": "1934",
+  "CreLatestDate": "1945",
+  "PhyMediumComments": "black-and-white: Ansco safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man speaking at banquet table, with Ira Lewis, Jessie Vann, unknown man, and Rev. Charles Foggie seated on left, in Centre Avenue YMCA",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "5a01a7cc-1809-4f0a-b46b-84618dee6876",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29123/sizes/22291-1680.jpg",
+  "datetime": "1934-01-01 00:00:00",
+  "people": [
+    "Unknown",
+    "Ira Lewis",
+    "Charles Foggie",
+    "Jessie Vann"
+  ],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "MJ13 YT33A2 002MA\n",
+  "subjects": [
+    "Food",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Ira Lewis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Jessie Vann",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Food",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Unknown",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Charles Foggie",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.300368
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2797639766666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2672160333333333
+    },
+    {
+      "keyword": "table",
+      "score": 0.26249791217041
+    },
+    {
+      "keyword": "communication",
+      "score": 0.23211600205586766
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21841071
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.2157715166666667
+    },
+    {
+      "keyword": "event",
+      "score": 0.2038067
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29123/sizes/22291-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29123/sizes/22291-210.jpg",
+  "date_timestamp_earliest": -1136073600.0,
+  "date_timestamp_latest": -788918400.0,
+  "decades": []
+}

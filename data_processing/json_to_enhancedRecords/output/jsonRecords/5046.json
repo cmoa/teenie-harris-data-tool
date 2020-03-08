@@ -1,0 +1,114 @@
+{
+    "objectID": 5046,
+    "irn": 5046,
+    "ecatalogue_key": 2992,
+    "TitAccessionNo": "2001.35.2999",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding newspapers, walking out of Pittsburgh Courier Newspaper office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Pittsburgh Courier Newspaper.",
+    "AdmGUIDValue_tab": "5bdac50c-bc47-4a29-b87b-e53f593759a0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18273,
+    "MulMultiMediaRef_key": 2994,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18273/sizes/5046-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Newspapers",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Pittsburgh Courier Newspaper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Newspapers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.313877308106486
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31019358
+        },
+        {
+            "keyword": "door",
+            "score": 0.3022876187601727
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29803749
+        },
+        {
+            "keyword": "turnstile",
+            "score": 0.29597129821777335
+        },
+        {
+            "keyword": "house",
+            "score": 0.28098167576700833
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26963418666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.258145
+        },
+        {
+            "keyword": "gate",
+            "score": 0.24212478637695298
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22642263333333335
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21538196666666667
+        },
+        {
+            "keyword": "street",
+            "score": 0.20639822902119953
+        }
+    ]
+}

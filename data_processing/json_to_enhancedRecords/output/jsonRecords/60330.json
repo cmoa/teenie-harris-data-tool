@@ -1,0 +1,121 @@
+{
+    "objectID": 60330,
+    "irn": 60330,
+    "ecatalogue_key": 46336,
+    "TitAccessionNo": "2001.35.46379",
+    "CreDateCreated": "c. 1957",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored shirt and dark jeans, standing with left hand on bell of fire truck in garage interior with light colored walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Fire trucks--Pennsylvania--Pittsburgh.Garages--Pennsylvania--Pittsburgh.Bells--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1926646b-2430-48d3-8d0f-89b9591f4a44",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68748,
+    "MulMultiMediaRef_key": 46344,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68748/sizes/60330-1680.jpg",
+    "date_timestamp_earliest": -504921600.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bells",
+        "Portraits",
+        "Men",
+        "Garages",
+        "Fire engines"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.36171729934611
+        },
+        {
+            "keyword": "Bells",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire trucks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Garages",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "car",
+            "score": 0.32485358000000003
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.3247760533333333
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.30413020417887365
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30353216666666666
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.28914263333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28041424333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27303893333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "automotive lighting",
+            "score": 0.23673049999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2328612
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22110490000000002
+        }
+    ]
+}

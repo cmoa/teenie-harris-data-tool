@@ -1,0 +1,94 @@
+{
+    "objectID": 24112,
+    "irn": 24112,
+    "ecatalogue_key": 14131,
+    "TitAccessionNo": "2001.35.14161",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Nine women and six men gathered in room with checkered floor, and glass block windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "84ecaa2c-a84b-47bd-bfa2-85197493fbf9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30547,
+    "MulMultiMediaRef_key": 14139,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30547/sizes/24112-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 17,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29410538441619877
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2851359
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26792414999999997
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2540392379089355
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2332822
+        },
+        {
+            "keyword": "family",
+            "score": 0.21859894596862794
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2120931
+        },
+        {
+            "keyword": "event",
+            "score": 0.20790366666666668
+        }
+    ]
+}

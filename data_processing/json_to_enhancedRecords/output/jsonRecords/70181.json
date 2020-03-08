@@ -1,0 +1,121 @@
+{
+    "objectID": 70181,
+    "irn": 70181,
+    "ecatalogue_key": 55524,
+    "TitAccessionNo": "2001.35.55567",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing moustache and dark striped suit jacket, standing in interior in front of upholstered chair and bed",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "93654a4a-098b-4c9d-bb43-abeac68e1b92",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83790,
+    "MulMultiMediaRef_key": 55533,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83790/sizes/70181-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Furniture",
+        "Interior architecture",
+        "Interiors",
+        "Clothing and dress",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5257202086458334
+        },
+        {
+            "keyword": "man",
+            "score": 0.4980198930826823
+        },
+        {
+            "keyword": "person",
+            "score": 0.442115109407552
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3584158756835936
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31544449330159496
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28761724666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28756388
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27923568
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24843478333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.2477559433333333
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.22951368333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22379976666666668
+        }
+    ]
+}

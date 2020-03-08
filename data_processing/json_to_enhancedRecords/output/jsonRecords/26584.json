@@ -1,0 +1,83 @@
+{
+    "objectID": 26584,
+    "irn": 26584,
+    "ecatalogue_key": 16300,
+    "TitAccessionNo": "2001.35.16330",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men, some wearing ribbons and sashes, posed behind banquet table, possibly in church interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2a734baf-d664-4a7e-9a1f-d6296e6998c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33044,
+    "MulMultiMediaRef_key": 16308,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33044/sizes/26584-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Dinners and dining",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3068343
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27936076666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27284973333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23621230000000001
+        }
+    ]
+}

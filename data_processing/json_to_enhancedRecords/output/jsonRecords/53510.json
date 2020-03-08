@@ -1,0 +1,128 @@
+{
+    "objectID": 53510,
+    "irn": 53510,
+    "ecatalogue_key": 40138,
+    "TitAccessionNo": "2001.35.40179",
+    "CreDateCreated": "c. 1930-1945",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored shoes, dark trousers, vest, and double breasted jacket, standing in front of brick building with double doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "880ebb57-a889-41ba-9c7d-21c8557398cd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59893,
+    "MulMultiMediaRef_key": 40146,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59893/sizes/53510-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Men",
+        "Portraits",
+        "Doors"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.4177024069295247
+        },
+        {
+            "keyword": "window",
+            "score": 0.3882004812491864
+        },
+        {
+            "keyword": "door",
+            "score": 0.36167109773763034
+        },
+        {
+            "keyword": "building",
+            "score": 0.34732672950032567
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30927333333333334
+        },
+        {
+            "keyword": "home",
+            "score": 0.300913222314453
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29626965666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2875706
+        },
+        {
+            "keyword": "facade",
+            "score": 0.284041128630371
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28298046666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27911369999999996
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.26866605
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23829653333333334
+        },
+        {
+            "keyword": "street",
+            "score": 0.23721218088684068
+        }
+    ]
+}

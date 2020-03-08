@@ -1,0 +1,95 @@
+{
+    "objectID": 54528,
+    "irn": 54528,
+    "ecatalogue_key": 41040,
+    "TitAccessionNo": "2001.35.41082",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark belted dress with gathered sleeves, light colored cap, and necklace with teardrop shapes, posed in front of light colored wall and window with venetian blind",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4eee8b79-9164-4091-a688-375a7d3f3e3d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62005,
+    "MulMultiMediaRef_key": 41048,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62005/sizes/54528-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Hats",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.345469421454061
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.32745606480916334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29544186666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27680140000000003
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2725765333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25714573333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21724105000000002
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "objectID": 68109,
+    "irn": 68109,
+    "ecatalogue_key": 53861,
+    "TitAccessionNo": "2001.35.53904",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark suit standing in brick paved yard with debris, graffiti on left reading \"Rudy Estes,\" and clapboard row houses in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Housing--Pennsylvania--Pittsburgh.Litter (Trash)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b3efdb43-86fd-48c1-82f0-1c061504e056",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79282,
+    "MulMultiMediaRef_key": 53870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79282/sizes/68109-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Rudy Estes"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Housing",
+        "Men",
+        "Fences",
+        "Litter (Trash)"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.407901023018392
+        },
+        {
+            "keyword": "house",
+            "score": 0.3830271074951173
+        },
+        {
+            "keyword": "town",
+            "score": 0.3781460396993
+        },
+        {
+            "keyword": "building",
+            "score": 0.3489871361816406
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Housing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Litter (Trash)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.32369577079467765
+        },
+        {
+            "keyword": "alley",
+            "score": 0.31496172104593917
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31151698
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29340686666666665
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2895157
+        },
+        {
+            "keyword": "home",
+            "score": 0.27939605687764496
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.27547366666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26926495666666667
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.26409293333333334
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.2504570666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24807135333333333
+        },
+        {
+            "keyword": "facade",
+            "score": 0.22586696666666664
+        },
+        {
+            "keyword": "road",
+            "score": 0.2193878613342287
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "objectID": 20780,
+    "irn": 20780,
+    "ecatalogue_key": 11541,
+    "TitAccessionNo": "2001.35.11571",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men seated on cots in gymnasium, with man standing in front of doors in background and bucket and stretchers in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c3c4ea84-ed73-4e4a-ab7c-ab96998df6bb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 464,
+    "MulMultiMediaRef_key": 11549,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/464/sizes/20780-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "BEHRHORST\nTOES\n",
+    "subjects": [
+        "Men",
+        "Gymnasiums"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.378887770304362
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30819036666666666
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30756624666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28131671666666663
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27943855666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.243890844958496
+        },
+        {
+            "keyword": "house",
+            "score": 0.24210656464335134
+        },
+        {
+            "keyword": "table",
+            "score": 0.24063152961832668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23762686666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.23762105
+        },
+        {
+            "keyword": "chair",
+            "score": 0.232745486488851
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 38121,
+    "irn": 38121,
+    "ecatalogue_key": 25593,
+    "TitAccessionNo": "2001.35.25625",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of boy wearing plaid shirt, holding birthday hat, seated behind birthday cake in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f045c00f-2015-40d4-9d51-2f5da4d5b6d4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44477,
+    "MulMultiMediaRef_key": 25601,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44477/sizes/38121-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boys",
+        "Portraits",
+        "Cake"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.357847908343506
+        },
+        {
+            "keyword": "Cakes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31258776666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29814152
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.28402318666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2786714
+        },
+        {
+            "keyword": "human",
+            "score": 0.27427294119262696
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25510783333333337
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25444243333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.220864718526408
+        },
+        {
+            "keyword": "smile",
+            "score": 0.20704170230305993
+        },
+        {
+            "keyword": "fun",
+            "score": 0.202664081616211
+        }
+    ]
+}

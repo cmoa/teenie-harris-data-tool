@@ -1,0 +1,85 @@
+{
+    "objectID": 16878,
+    "irn": 16878,
+    "ecatalogue_key": 8703,
+    "TitAccessionNo": "2001.35.8725",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing in front of lion cage, with male and female lions, at zoo",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Zoos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "780ea0a1-fee4-44e3-b2f7-4991b70fef89",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24441,
+    "MulMultiMediaRef_key": 8711,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24441/sizes/16878-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "LION\nELIS LEO\nAFRICA\n",
+    "subjects": [
+        "Zoos"
+    ],
+    "keywords": [
+        {
+            "keyword": "Zoos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31655872
+        },
+        {
+            "keyword": "animal shelter",
+            "score": 0.31628436666666665
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30855226666666663
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29984905333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2669863
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26224374666666667
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.22310743333333335
+        },
+        {
+            "keyword": "cage",
+            "score": 0.21291186666666664
+        }
+    ]
+}

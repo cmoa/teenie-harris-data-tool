@@ -1,0 +1,100 @@
+{
+  "objectID": 58941,
+  "irn": 58941,
+  "ecatalogue_key": 45003,
+  "TitAccessionNo": "2001.35.45046",
+  "CreDateCreated": "c. 1945-1965",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of ten women, including one seated on left wearing gingham or check dress, eyeglasses, and dark straw hat, seated on park bench with swings in background, possibly Lemington Home event",
+  "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Swings--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "40ad1ac6-f2e2-4cb9-98e1-c83194e041af",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66888/sizes/58941-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "establishment",
+      "score": 90,
+      "long_name": "Lincoln Ave at Lemington Home Drvwy",
+      "short_name": "Lincoln Ave at Lemington Home Drvwy"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Lincoln-Lemington-Belmar",
+      "short_name": "Lincoln-Lemington-Belmar"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Trees",
+    "Women",
+    "Older people",
+    "Swings",
+    "Portraits, Group"
+  ],
+  "keywords": [
+    {
+      "keyword": "Trees",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Elderly people",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Lemington Home",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Swings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Yards",
+      "score": 0.3333333333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66888/sizes/58941-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66888/sizes/58941-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": []
+}

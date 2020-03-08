@@ -1,0 +1,79 @@
+{
+    "objectID": 23861,
+    "irn": 23861,
+    "ecatalogue_key": 14070,
+    "TitAccessionNo": "2001.35.14100",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys and young men, including boy in center wearing plaid shirt, posing on stage with landscape backdrop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Auditoriums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "56fc35f3-95f5-48d6-a32c-ec5cafcc0cbb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30310,
+    "MulMultiMediaRef_key": 14078,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30310/sizes/23861-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Auditoriums",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.31562213333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27093513333333336
+        },
+        {
+            "keyword": "stage",
+            "score": 0.23130390999999997
+        }
+    ]
+}

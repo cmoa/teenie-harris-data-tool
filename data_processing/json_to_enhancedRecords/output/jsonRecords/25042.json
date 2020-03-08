@@ -1,0 +1,106 @@
+{
+    "objectID": 25042,
+    "irn": 25042,
+    "ecatalogue_key": 14912,
+    "TitAccessionNo": "2001.35.14942",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women seated at desk looking at paper, with three women standing in background looking on and large windows on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3fd92d3e-10ea-4aed-89f6-288f395fa535",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31356,
+    "MulMultiMediaRef_key": 14920,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31356/sizes/25042-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.35366441853434233
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28873102
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2748392233333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2549249
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.25231510755187986
+        },
+        {
+            "keyword": "communication",
+            "score": 0.25107820922851565
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23573855666666665
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2291211333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22687179000000002
+        },
+        {
+            "keyword": "design",
+            "score": 0.22510439999999998
+        },
+        {
+            "keyword": "smile",
+            "score": 0.21617911162923165
+        }
+    ]
+}

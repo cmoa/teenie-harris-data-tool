@@ -1,0 +1,130 @@
+{
+  "objectID": 29743,
+  "irn": 29743,
+  "ecatalogue_key": 18201,
+  "TitAccessionNo": "2001.35.18231",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Four women and two men wearing coats, standing in front of building at Bedford Dwellings",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Bedford Dwellings (Pittsburgh, Pa.)Housing--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "5695e192-61cb-4c7e-8e8b-173befc04f3e",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35675/sizes/29743-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Bedford Dwellings",
+      "short_name": "Bedford Dwellings"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Ross Street",
+      "short_name": "Ross St"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Reserve Township",
+      "short_name": "Reserve Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Housing",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": ")Housing",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bedford Dwellings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bedford Dwellings ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3133593333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.30058362
+    },
+    {
+      "keyword": "standing",
+      "score": 0.29071901333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2811336
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2569685
+    },
+    {
+      "keyword": "phenomenon",
+      "score": 0.2515883
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35675/sizes/29743-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35675/sizes/29743-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

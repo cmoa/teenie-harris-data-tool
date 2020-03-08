@@ -1,0 +1,114 @@
+{
+  "objectID": 4639,
+  "irn": 4639,
+  "ecatalogue_key": 2729,
+  "TitAccessionNo": "2001.35.2733",
+  "CreDateCreated": "c. 1947-1960",
+  "CreEarliestDate": "1942",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a man seated in a chair and holding a pipe",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "c09eeafb-6043-46fe-a350-7b67c04efbe3",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17333/sizes/4639-1680.jpg",
+  "datetime": "1942-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits",
+    "Chairs",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.4532731445817057
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.33572235868937167
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Chairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3049673
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.29618469600463865
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.28647496666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2811299333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28057356666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "smile",
+      "score": 0.2576523488726807
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2528744533333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22363149999999998
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17333/sizes/4639-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17333/sizes/4639-210.jpg",
+  "date_timestamp_earliest": -883612800.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

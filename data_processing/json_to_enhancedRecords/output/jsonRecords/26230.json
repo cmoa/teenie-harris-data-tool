@@ -1,0 +1,101 @@
+{
+    "objectID": 26230,
+    "irn": 26230,
+    "ecatalogue_key": 16106,
+    "TitAccessionNo": "2001.35.16136",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing suit and beard, posing in office with anchor shaped lamp",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "94273adb-4f3e-4c60-8807-713fa55dc59e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32992,
+    "MulMultiMediaRef_key": 16114,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32992/sizes/26230-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK SAFETYFILM\n9\n",
+    "subjects": [
+        "Men",
+        "Office furniture",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.34327503674011234
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30389293333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2829983
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26783133333333337
+        },
+        {
+            "keyword": "table",
+            "score": 0.24091857119750978
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22430924666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.22342894333333332
+        },
+        {
+            "keyword": "window",
+            "score": 0.2038029
+        }
+    ]
+}

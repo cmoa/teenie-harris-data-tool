@@ -1,0 +1,118 @@
+{
+    "objectID": 55931,
+    "irn": 55931,
+    "ecatalogue_key": 42625,
+    "TitAccessionNo": "2001.35.42667",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark pinstriped double breasted jacket, and diagonally striped tie with tie chain, posed in front of church or other brick building with stained glass windows and globe sconce",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Stained glass--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bae280d4-b700-4631-9d76-5aabed10f48d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64128,
+    "MulMultiMediaRef_key": 42633,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64128/sizes/55931-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Glass painting and staining",
+        "Men",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.354220539726766
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stained glass",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30399604666666663
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29867673333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.2922138802378337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2847098
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28461053333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26593273333333334
+        },
+        {
+            "keyword": "suit",
+            "score": 0.25174310823994966
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2315649333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22346214333333334
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.20583631666666666
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "objectID": 1701,
+    "irn": 1701,
+    "ecatalogue_key": 379,
+    "TitAccessionNo": "2001.35.381",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Formal meeting, two men seated at table with audience, American flag in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6e5c85ba-fd28-4c22-b1ce-2e0a84021d55",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15781,
+    "MulMultiMediaRef_key": 381,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15781/sizes/1701-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 54,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "American",
+        "Men",
+        "Meetings",
+        "Congresses",
+        "Flags",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Meetings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.3130329882273356
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27760428333333337
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.275469
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23228188106587724
+        },
+        {
+            "keyword": "audience",
+            "score": 0.22904449999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22505646666666668
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22256853333333335
+        },
+        {
+            "keyword": "design",
+            "score": 0.21902983333333334
+        },
+        {
+            "keyword": "event",
+            "score": 0.2131932796895345
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "objectID": 23860,
+    "irn": 23860,
+    "ecatalogue_key": 14069,
+    "TitAccessionNo": "2001.35.14099",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Small orchestra seated in front of stage with mountain landscape backdrop, in auditorium, seen from above",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Orchestra--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Auditoriums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0d2d2e20-d8e2-4f4b-b83b-5d649b629649",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30309,
+    "MulMultiMediaRef_key": 14077,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30309/sizes/23860-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Musicians",
+        "Orchestra",
+        "Auditoriums"
+    ],
+    "keywords": [
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Orchestra",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30249343333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2709563
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26366416666666664
+        },
+        {
+            "keyword": "stage",
+            "score": 0.23969196666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22787469999999999
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2226163
+        }
+    ]
+}

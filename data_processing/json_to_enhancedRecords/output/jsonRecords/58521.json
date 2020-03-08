@@ -1,0 +1,127 @@
+{
+    "objectID": 58521,
+    "irn": 58521,
+    "ecatalogue_key": 44667,
+    "TitAccessionNo": "2001.35.44710",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit with handkerchief in breast pocket, moustache, and diagonally striped tie, seated at desk with smoking cigarette in tray and opened magazine with text reading \"First week with Kennedy\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Cigarettes--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a38a9562-e4fe-4fa1-b355-947255dbb15f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66721,
+    "MulMultiMediaRef_key": 44675,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66721/sizes/58521-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Kennedy"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "'EBSTE\n",
+    "subjects": [
+        "Portraits",
+        "Kennedy",
+        "Offices",
+        "Men",
+        "Cigarettes"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46002411026611334
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.37118282588500967
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kennedy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cigarettes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "First week",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.29466305535074866
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29046815666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2751768233333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2687493
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.262790699726359
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24376679999999998
+        },
+        {
+            "keyword": "communication",
+            "score": 0.235376150859782
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2168705466666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2081536542348226
+        }
+    ]
+}

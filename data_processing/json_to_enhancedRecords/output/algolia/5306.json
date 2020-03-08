@@ -1,0 +1,90 @@
+{
+  "objectID": 5306,
+  "irn": 5306,
+  "ecatalogue_key": 3200,
+  "TitAccessionNo": "2001.35.3207",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Altar boys having their feet washed in church",
+  "CatSubject_tab": "Altar boys--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "a9a71f41-b4c9-4b15-96ee-a9588a1f6e83",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17811/sizes/5306-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 5,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Interiors",
+    "Acolytes"
+  ],
+  "keywords": [
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Altar boys",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3019501333333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27695564333333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.270443
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23374198000000002
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17811/sizes/5306-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17811/sizes/5306-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

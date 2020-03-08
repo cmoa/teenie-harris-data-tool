@@ -1,0 +1,111 @@
+{
+    "objectID": 54397,
+    "irn": 54397,
+    "ecatalogue_key": 40988,
+    "TitAccessionNo": "2001.35.41030",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing sleeveless grid patterned blouse with two dark tabs on collar and small brooch, posed clasping forearms, on stoop of brick building with drainpipe on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cb2e1a9e-fadc-453e-82d8-cf7ba393459f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62029,
+    "MulMultiMediaRef_key": 40996,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62029/sizes/54397-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.47192736861979173
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.34177705086364735
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.322353748936971
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.309103215612793
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29908303333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2777227566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26624051666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22330143333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.21813410129699706
+        },
+        {
+            "keyword": "adolescent",
+            "score": 0.20320910135904935
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2018386
+        }
+    ]
+}

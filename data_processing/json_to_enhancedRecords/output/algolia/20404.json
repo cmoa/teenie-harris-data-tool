@@ -1,0 +1,168 @@
+{
+  "objectID": 20404,
+  "irn": 20404,
+  "ecatalogue_key": 11292,
+  "TitAccessionNo": "2001.35.11320",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Cars driving down street, including open vehicle with soldiers? in front of large building with fire escape and businesses, possibly in Detroit",
+  "CatSubject_tab": "Buildings.",
+  "AdmGUIDValue_tab": "15315610-2857-4b45-9915-e72b4051ed84",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27400/sizes/20404-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Chateau",
+      "short_name": "Chateau"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Beaver Avenue",
+      "short_name": "Beaver Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings"
+  ],
+  "keywords": [
+    {
+      "keyword": "car",
+      "score": 0.4434322680379233
+    },
+    {
+      "keyword": "street",
+      "score": 0.41447149387044263
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.40695973171386735
+    },
+    {
+      "keyword": "road",
+      "score": 0.4013818002115887
+    },
+    {
+      "keyword": "transport",
+      "score": 0.3915766470629883
+    },
+    {
+      "keyword": "town",
+      "score": 0.338661692678833
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "handcart",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "motor vehicle",
+      "score": 0.3251598
+    },
+    {
+      "keyword": "traffic",
+      "score": 0.309564465846761
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30519996666666666
+    },
+    {
+      "keyword": "metropolitan area",
+      "score": 0.30346436666666665
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.29316406666666667
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.2917728
+    },
+    {
+      "keyword": "mode of transport",
+      "score": 0.29173048333333335
+    },
+    {
+      "keyword": "lane",
+      "score": 0.28886264666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2755123166666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "family car",
+      "score": 0.2550980666666667
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.25443166666666667
+    },
+    {
+      "keyword": "luxury vehicle",
+      "score": 0.24346693333333333
+    },
+    {
+      "keyword": "residential area",
+      "score": 0.2322497
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22898028333333334
+    },
+    {
+      "keyword": "downtown",
+      "score": 0.22672748666666667
+    },
+    {
+      "keyword": "classic",
+      "score": 0.21418172
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27400/sizes/20404-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27400/sizes/20404-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

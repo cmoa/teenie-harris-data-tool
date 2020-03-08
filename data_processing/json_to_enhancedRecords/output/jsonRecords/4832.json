@@ -1,0 +1,115 @@
+{
+    "objectID": 4832,
+    "irn": 4832,
+    "ecatalogue_key": 2819,
+    "TitAccessionNo": "2001.35.2824",
+    "CreDateCreated": "c. 1953-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman at table in Hurricane Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Hurricane Club (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8a058350-9a24-4c5c-939e-fbc322915224",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17152,
+    "MulMultiMediaRef_key": 2821,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17152/sizes/4832-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 94694400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Hats",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.413711133211263
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hurricane Club ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hurricane Club",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29205352
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2798724166666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2697136693155923
+        },
+        {
+            "keyword": "emotion",
+            "score": 0.266955
+        },
+        {
+            "keyword": "fun",
+            "score": 0.25905501999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24717501666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.22771673333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22553303333333333
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "objectID": 23698,
+    "irn": 23698,
+    "ecatalogue_key": 13932,
+    "TitAccessionNo": "2001.35.13962",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of young men, young women, boy, and elderly woman standing around table with gifts and cake, with streamers overhead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e3fb6edd-b31d-4fbf-96af-bb0c346f0af1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30040,
+    "MulMultiMediaRef_key": 13940,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30040/sizes/23698-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group",
+        "Women",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3106415666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2921515333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28183605333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24155344666666667
+        }
+    ]
+}

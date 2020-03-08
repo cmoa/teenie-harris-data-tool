@@ -1,0 +1,104 @@
+{
+    "objectID": 20766,
+    "irn": 20766,
+    "ecatalogue_key": 11534,
+    "TitAccessionNo": "2001.35.11564",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman and man, possibly nurses or doctor, holding girl on examination table in hospital",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6212bdba-f7be-44e0-85d2-566855860968",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 414,
+    "MulMultiMediaRef_key": 11542,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/414/sizes/20766-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hospitals",
+        "Men",
+        "Children",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30840206666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30673030380045574
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2859581666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28208182333333337
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "interaction",
+            "score": 0.24326806666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23946230000000002
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2380563
+        },
+        {
+            "keyword": "dishwasher",
+            "score": 0.219194107055664
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "objectID": 53263,
+    "irn": 53263,
+    "ecatalogue_key": 39816,
+    "TitAccessionNo": "2001.35.39857",
+    "CreDateCreated": "c. 1935-1945",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Sidewalk with uneven and broken pavement, and block street with car tire in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Streets--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Sewers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d3438b03-957f-4732-8f57-61dd5306deb2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60527,
+    "MulMultiMediaRef_key": 39824,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60527/sizes/53263-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Sewerage",
+        "Sidewalks",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "texture",
+            "score": 0.375445201135254
+        },
+        {
+            "keyword": "wall",
+            "score": 0.3720733641377767
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sewers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3161934
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30385118666666666
+        },
+        {
+            "keyword": "light",
+            "score": 0.3007453691914876
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2826764333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26235377666666665
+        },
+        {
+            "keyword": "line",
+            "score": 0.22049206666666665
+        },
+        {
+            "keyword": "concrete",
+            "score": 0.21941725049235028
+        },
+        {
+            "keyword": "road surface",
+            "score": 0.21841233333333332
+        }
+    ]
+}

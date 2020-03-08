@@ -1,0 +1,91 @@
+{
+  "objectID": 22015,
+  "irn": 22015,
+  "ecatalogue_key": 12719,
+  "TitAccessionNo": "2001.35.12749",
+  "CreDateCreated": "1965",
+  "CreEarliestDate": "1965",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at banquet tables, possibly in Bethel Church, with lectern on left",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "7b325a29-5fe2-4967-9cc3-5d20cab56842",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28611/sizes/22015-1680.jpg",
+  "datetime": "1965-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 24,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bethel Church",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "restaurant",
+      "score": 0.268511002322998
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.26391695
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2612315233333333
+    },
+    {
+      "keyword": "function hall",
+      "score": 0.24337558
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.23962271333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28611/sizes/22015-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28611/sizes/22015-210.jpg",
+  "date_timestamp_earliest": -157766400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": [
+    "1960s"
+  ]
+}

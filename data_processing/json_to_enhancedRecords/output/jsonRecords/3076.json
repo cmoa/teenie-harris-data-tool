@@ -1,0 +1,126 @@
+{
+    "objectID": 3076,
+    "irn": 3076,
+    "ecatalogue_key": 1646,
+    "TitAccessionNo": "2001.35.1648",
+    "CreDateCreated": "c. 1935-1945",
+    "CreEarliestDate": "1925",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman posed at a microphone in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Gowns, Evening--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Microscopes--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1e699c12-b330-4417-8e0b-66ead689ef98",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16196,
+    "MulMultiMediaRef_key": 1648,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16196/sizes/3076-1680.jpg",
+    "date_timestamp_earliest": -1420070400.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris",
+            "short_name": "Harris"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Evening gowns",
+        "Portraits",
+        "Women",
+        "Microscopes"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3655947411031087
+        },
+        {
+            "keyword": "dress",
+            "score": 0.348888228844401
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Microscopes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gowns, Evening",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "lady",
+            "score": 0.3279249980173747
+        },
+        {
+            "keyword": "woman",
+            "score": 0.3177354666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30595682
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28382003333333333
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.27604443333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.26748346295939135
+        },
+        {
+            "keyword": "girl",
+            "score": 0.24920469999999997
+        },
+        {
+            "keyword": "gown",
+            "score": 0.24493126666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24223508333333332
+        }
+    ]
+}

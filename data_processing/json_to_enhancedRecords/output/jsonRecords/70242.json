@@ -1,0 +1,107 @@
+{
+    "objectID": 70242,
+    "irn": 70242,
+    "ecatalogue_key": 55443,
+    "TitAccessionNo": "2001.35.55486",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling young man wearing eyeglasses, light colored striped shirt, and dark tie, holding abstract painting in front of two toned wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f193b1fd-62c2-4b4d-a070-7110277842a4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83881,
+    "MulMultiMediaRef_key": 55452,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83881/sizes/70242-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Eyeglasses",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3926393203031413
+        },
+        {
+            "keyword": "standing",
+            "score": 0.337430949204305
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30720955
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28253883333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27903106666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.25740142740417477
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2573978666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22984043001790366
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.20256972333333334
+        }
+    ]
+}

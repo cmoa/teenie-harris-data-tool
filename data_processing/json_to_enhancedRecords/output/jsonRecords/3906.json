@@ -1,0 +1,105 @@
+{
+    "objectID": 3906,
+    "irn": 3906,
+    "ecatalogue_key": 4200,
+    "TitAccessionNo": "2001.35.4209",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Row of clergymen on chancel steps, with seated bishop and man at desk at top of steps, in large church interior, possibly St. Charles Lwanga",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Churches--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Stained glass--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "93535baf-271b-4f5b-9f80-c34435872b2b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18760,
+    "MulMultiMediaRef_key": 4203,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18760/sizes/3906-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "St. Charles Lwanga"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "St. Charles Lwanga",
+            "short_name": "St. Charles Lwanga"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "KODAK SAFETYFIL\n3\n",
+    "subjects": [
+        "Glass painting and staining",
+        "Organs",
+        "Interiors",
+        "Clergy",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Stained glass",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Organs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "St. Charles Lwanga",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30679847666666665
+        },
+        {
+            "keyword": "religion",
+            "score": 0.2977323349772137
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28187181666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2712173666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23693626666666667
+        }
+    ]
+}

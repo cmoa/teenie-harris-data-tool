@@ -1,0 +1,116 @@
+{
+    "objectID": 30016,
+    "irn": 30016,
+    "ecatalogue_key": 18350,
+    "TitAccessionNo": "2001.35.18380",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two girls wearing plaid dresses holding hands and walking down brick steps in garden",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Gardens--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "73a9a600-f83c-49d8-976a-8397dfb0de6f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36222,
+    "MulMultiMediaRef_key": 18358,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36222/sizes/30016-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Girls",
+        "Flowers",
+        "Plants",
+        "Gardens"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.3663950983947753
+        },
+        {
+            "keyword": "memorial",
+            "score": 0.3619621959838866
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flowers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gardens",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3163018
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3083627
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28546256666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28412106666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25864172
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.252398346809896
+        },
+        {
+            "keyword": "monument",
+            "score": 0.23724636666666665
+        },
+        {
+            "keyword": "statue",
+            "score": 0.23051802333333335
+        },
+        {
+            "keyword": "grass",
+            "score": 0.22650604555582668
+        },
+        {
+            "keyword": "plant",
+            "score": 0.20092813333333334
+        }
+    ]
+}

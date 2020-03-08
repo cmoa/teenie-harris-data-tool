@@ -1,0 +1,100 @@
+{
+    "objectID": 21624,
+    "irn": 21624,
+    "ecatalogue_key": 12334,
+    "TitAccessionNo": "2001.35.12364",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man handing envelope to woman wearing coat, with Reverend Charles Foggie in center looking on, and painting of Christ and sheep on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3796f077-9ede-44a1-80cb-42b7cbb9b32e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28136,
+    "MulMultiMediaRef_key": 12342,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28136/sizes/21624-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Charles Foggie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Charles Foggie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28144838333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2693523666666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24019354666666667
+        },
+        {
+            "keyword": "accordion",
+            "score": 0.23149411519368499
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23112653333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.21844897297261565
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21290416666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20276000000000002
+        }
+    ]
+}

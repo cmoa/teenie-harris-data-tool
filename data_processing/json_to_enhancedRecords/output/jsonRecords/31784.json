@@ -1,0 +1,101 @@
+{
+    "objectID": 31784,
+    "irn": 31784,
+    "ecatalogue_key": 19825,
+    "TitAccessionNo": "2001.35.19856",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "One man and nine women, including one seated far left wearing tall hat with feathers on top, gathered behind rectangular table with light colored tablecloth and flowers in interior with second table in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6f021424-5e0e-4d90-a336-0a8185452f57",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37647,
+    "MulMultiMediaRef_key": 19833,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37647/sizes/31784-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "KODAK SAFETY FILM\n6\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Flowers"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flowers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2908012
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27806421
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.24281853333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24153723333333332
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23266148666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.228376
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22801915173055
+        },
+        {
+            "keyword": "human",
+            "score": 0.22706820000000003
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "objectID": 36498,
+    "irn": 36498,
+    "ecatalogue_key": 24125,
+    "TitAccessionNo": "2001.35.24156",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man, possibly Mr. Burgette, wearing double breasted suit jacket, diagonally striped squiggle patterned necktie, and eyeglasses, posed behind chair in interior with casement window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d7fc3b6a-f1c6-4106-a1ae-8a6fb984c070",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42712,
+    "MulMultiMediaRef_key": 24133,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42712/sizes/36498-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Burgette"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "Oa\n",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48724700120849596
+        },
+        {
+            "keyword": "suit",
+            "score": 0.44117155354329435
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Burgette",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3219474207503257
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32114047837972
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2949451406107583
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2843535
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2764860333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27526074666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.23305916666666668
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23248646666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21317472
+        }
+    ]
+}

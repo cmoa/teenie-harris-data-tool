@@ -1,0 +1,106 @@
+{
+    "objectID": 22613,
+    "irn": 22613,
+    "ecatalogue_key": 13218,
+    "TitAccessionNo": "2001.35.13248",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man smoking pipe, in room with end table with lamp, telephone, and books and chair on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "931aa447-0bf9-4437-8e3c-d0f86c18278a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29447,
+    "MulMultiMediaRef_key": 13226,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29447/sizes/22613-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47745839368815096
+        },
+        {
+            "keyword": "person",
+            "score": 0.4372519836995443
+        },
+        {
+            "keyword": "suit",
+            "score": 0.376682812927246
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3699929307250977
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29072476666666663
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2877714
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27020094666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24834066666666665
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24761942309570298
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24214043581746433
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.21348581666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21323903333333336
+        }
+    ]
+}

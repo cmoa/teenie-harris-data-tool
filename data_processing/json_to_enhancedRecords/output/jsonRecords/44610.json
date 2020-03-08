@@ -1,0 +1,87 @@
+{
+    "objectID": 44610,
+    "irn": 44610,
+    "ecatalogue_key": 31789,
+    "TitAccessionNo": "2001.35.31824",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of eight women, including two seated behind table wearing light colored dresses, posed in front of large glass block window, possibly in Loendi Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Glass blocks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "04886f7d-b117-47e7-b8e1-2be5ef642c6c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51330,
+    "MulMultiMediaRef_key": 31797,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51330/sizes/44610-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Glass blocks",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Glass blocks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.307093911849772
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2837369
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2695566
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.26523637076883966
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23443366666666665
+        }
+    ]
+}

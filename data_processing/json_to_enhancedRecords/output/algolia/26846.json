@@ -1,0 +1,101 @@
+{
+  "objectID": 26846,
+  "irn": 26846,
+  "ecatalogue_key": 16514,
+  "TitAccessionNo": "2001.35.16544",
+  "CreDateCreated": "1964",
+  "CreEarliestDate": "1964",
+  "CreLatestDate": "1964",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of twenty seven women standing at altar of church, with five other women and one man seated in rows of pews in foreground, hymn board mounted on wall, and two biblical images with cross in middle, on wall in background, another version",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "420c8006-5bdc-4e12-ba4a-b67b55633704",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33241/sizes/26846-1680.jpg",
+  "datetime": "1964-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 31,
+  "google_text_in_image": "",
+  "subjects": [
+    "Men",
+    "Women",
+    "Portraits, Group",
+    "Flags"
+  ],
+  "keywords": [
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Flags",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Churches",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29544824333333336
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26609055333333337
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2561176233333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22914333333333334
+    },
+    {
+      "keyword": "classroom",
+      "score": 0.2181532287597657
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33241/sizes/26846-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33241/sizes/26846-210.jpg",
+  "date_timestamp_earliest": -189388800.0,
+  "date_timestamp_latest": -189388800.0,
+  "decades": [
+    "1960s"
+  ]
+}

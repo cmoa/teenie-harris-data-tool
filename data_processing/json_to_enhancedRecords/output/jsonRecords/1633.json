@@ -1,0 +1,110 @@
+{
+    "objectID": 1633,
+    "irn": 1633,
+    "ecatalogue_key": 336,
+    "TitAccessionNo": "2001.35.338",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men with golf trophies standing in front of portico at North Park golf course",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Golf courses--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a34ca919-f7e0-4f5f-8e9e-5a27bfaa6560",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15107,
+    "MulMultiMediaRef_key": 338,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15107/sizes/1633-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 94694400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "North Park",
+            "short_name": "North Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Trophies",
+        "Golf courses"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3698678320007323
+        },
+        {
+            "keyword": "male",
+            "score": 0.333348258811442
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "North Park",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trophies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Golf courses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2995317766666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29453483333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2722217833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25716167666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24595564666666667
+        }
+    ]
+}

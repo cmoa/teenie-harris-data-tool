@@ -1,0 +1,83 @@
+{
+    "objectID": 24836,
+    "irn": 24836,
+    "ecatalogue_key": 14791,
+    "TitAccessionNo": "2001.35.14821",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing military uniform turning dial on machine with instructions on right and containers on floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Military uniforms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Machine shops--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6c39249d-fbeb-4263-94a5-f2be7a62492f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31214,
+    "MulMultiMediaRef_key": 14799,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31214/sizes/24836-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Machine shops",
+        "Military uniforms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Machine shops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29883045
+        },
+        {
+            "keyword": "technology",
+            "score": 0.29359955072835303
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26729980999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24975786666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23595069999999999
+        }
+    ]
+}

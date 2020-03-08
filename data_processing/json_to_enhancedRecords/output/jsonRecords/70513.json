@@ -1,0 +1,117 @@
+{
+    "objectID": 70513,
+    "irn": 70513,
+    "ecatalogue_key": 55859,
+    "TitAccessionNo": "2001.35.55902",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark blouse and jeweled necklace, seated at desk holding hankerchief",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "62a3ced5-f828-4cd1-9b81-d61a5b903fbb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 85129,
+    "MulMultiMediaRef_key": 55868,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/85129/sizes/70513-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Jewelry",
+        "Women",
+        "Offices",
+        "Clothing and dress",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.46323217928059907
+        },
+        {
+            "keyword": "man",
+            "score": 0.38584150434407566
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.344585288433838
+        },
+        {
+            "keyword": "Jewelry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.308147021413981
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29347678
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27406543333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.25432362214253745
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25390424333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.24326898172810865
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23028031999999998
+        }
+    ]
+}

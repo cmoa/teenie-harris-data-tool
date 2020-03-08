@@ -1,0 +1,96 @@
+{
+    "objectID": 23194,
+    "irn": 23194,
+    "ecatalogue_key": 13603,
+    "TitAccessionNo": "2001.35.13633",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman and seven men behind long table with striped tablecloth in American Legion Sportsmen's Post 913 hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.American Legion--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bcece025-23ec-41eb-840a-3d0e8da38220",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29759,
+    "MulMultiMediaRef_key": 13611,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29759/sizes/23194-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Post 913",
+            "short_name": "Post 913"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "KODAK SA FETY FILM\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Post 913",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American Legion",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American Legion Sportsmen's",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30672907666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27351853333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2734588766666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23605496666666667
+        },
+        {
+            "keyword": "team",
+            "score": 0.20753417612101235
+        }
+    ]
+}

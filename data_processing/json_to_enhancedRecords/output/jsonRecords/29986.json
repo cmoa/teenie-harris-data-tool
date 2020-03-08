@@ -1,0 +1,91 @@
+{
+    "objectID": 29986,
+    "irn": 29986,
+    "ecatalogue_key": 18425,
+    "TitAccessionNo": "2001.35.18455",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated in chairs around perimeter of room, with table, decorative tablecloth, punch bowl, and flowers, in interior with shiny block walls, and stage with curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54b7af69-18f7-40ef-9d86-670ba0628f17",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36047,
+    "MulMultiMediaRef_key": 18433,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36047/sizes/29986-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Gymnasiums",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "stage",
+            "score": 0.31783461668294266
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29507792
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2717350333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24576430000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22853373333333335
+        },
+        {
+            "keyword": "performance",
+            "score": 0.21117263333333333
+        }
+    ]
+}

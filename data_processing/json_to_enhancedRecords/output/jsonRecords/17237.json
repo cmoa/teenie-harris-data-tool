@@ -1,0 +1,99 @@
+{
+    "objectID": 17237,
+    "irn": 17237,
+    "ecatalogue_key": 8945,
+    "TitAccessionNo": "2001.35.8967",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man in plaid shirt and suit jacket, singing behind microphone, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Singers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "61be7df2-353e-47c0-9a01-c9864bee11af",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24538,
+    "MulMultiMediaRef_key": 8953,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24538/sizes/17237-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Singers"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.33536318986022934
+        },
+        {
+            "keyword": "Singers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3009176866666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.279141288087972
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2789299333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2719810821557616
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27096963333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2641843
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23111136666666665
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "objectID": 40259,
+    "irn": 40259,
+    "ecatalogue_key": 27594,
+    "TitAccessionNo": "2001.35.27626",
+    "CreDateCreated": "c. 1939",
+    "CreEarliestDate": "1934",
+    "CreLatestDate": "1944",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women walking down path, including woman in center wearing plaid dress, with brick buildings and trees around perimeter, possibly West Virginia State or Virginia State campus",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--West Virginia--Institute.Women--West Virginia--Institute.Men--West Virginia--Institute.",
+    "AdmGUIDValue_tab": "d2b8bd42-ff79-4425-b924-038ef1dc5141",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 46443,
+    "MulMultiMediaRef_key": 27602,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/46443/sizes/40259-1680.jpg",
+    "date_timestamp_earliest": -1136073600.0,
+    "date_timestamp_latest": -820540800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "West Virginia State",
+            "short_name": "West Virginia State"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Virginia State",
+            "short_name": "Virginia State"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "West Virginia",
+            "short_name": "West Virginia"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sky",
+            "score": 0.36744608080037433
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "town",
+            "score": 0.3251285092600503
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31489898666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3020232
+        },
+        {
+            "keyword": "street",
+            "score": 0.29580226470275867
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29425324999999997
+        },
+        {
+            "keyword": "car",
+            "score": 0.2867411166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27871836666666666
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.2779620666666667
+        },
+        {
+            "keyword": "road",
+            "score": 0.27778801829549166
+        },
+        {
+            "keyword": "history",
+            "score": 0.274224895098877
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2562081333333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2443467592366537
+        },
+        {
+            "keyword": "house",
+            "score": 0.22302299050903332
+        }
+    ]
+}

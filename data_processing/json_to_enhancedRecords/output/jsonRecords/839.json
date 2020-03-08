@@ -1,0 +1,99 @@
+{
+    "objectID": 839,
+    "irn": 839,
+    "ecatalogue_key": 66,
+    "TitAccessionNo": "2001.35.68",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Cheerleaders and crowd at Herron Hill gym",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cheerleading--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "949096df-e05b-41f3-8cf6-8d4fc3f8289f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15913,
+    "MulMultiMediaRef_key": 66,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15913/sizes/839-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Herron Hill",
+            "short_name": "Herron Hill"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "HERRON\nHILL\nHERR\n",
+    "subjects": [
+        "Cheerleading"
+    ],
+    "keywords": [
+        {
+            "keyword": "crowd",
+            "score": 0.3597465313273113
+        },
+        {
+            "keyword": "Cheerleading",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Herron Hill",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3116052166666667
+        },
+        {
+            "keyword": "audience",
+            "score": 0.28191451333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2611983
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.25140148333333334
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23231851643168133
+        },
+        {
+            "keyword": "team",
+            "score": 0.22961564185180663
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2284161295349121
+        },
+        {
+            "keyword": "institution",
+            "score": 0.21632953333333335
+        }
+    ]
+}

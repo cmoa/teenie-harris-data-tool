@@ -1,0 +1,80 @@
+{
+    "objectID": 53605,
+    "irn": 53605,
+    "ecatalogue_key": 40182,
+    "TitAccessionNo": "2001.35.40223",
+    "CreDateCreated": "c. 1930-1945",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored suit, dark blouse, light colored shoes with crossed straps, and holding purse, posed on hill overlooking Oakland and Soldiers and Sailors Memorial Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Oakland (Pittsburgh, Pa.)Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)University of Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "048f5102-e462-4a61-94f0-1f7908b6366a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60438,
+    "MulMultiMediaRef_key": 40190,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60438/sizes/53605-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Oakland",
+            "short_name": "Oakland"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Oakland ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")University of Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Soldiers and Sailors Memorial Hall ",
+            "score": 0.3333333333333333
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "objectID": 68738,
+    "irn": 68738,
+    "ecatalogue_key": 54486,
+    "TitAccessionNo": "2001.35.54529",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of seven women, facing two women wearing light colored dresses seated at desk, in interior with patterned linoleum floor and frosted windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "84e20e07-4ed5-4920-a5ce-36059490be06",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 80947,
+    "MulMultiMediaRef_key": 54495,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80947/sizes/68738-1680.jpg",
+    "date_timestamp_earliest": -347155200.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Clothing and dress",
+        "Telephone",
+        "Hats",
+        "Windows",
+        "Desks",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.33879178731770837
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.33067347208658865
+        },
+        {
+            "keyword": "communication",
+            "score": 0.30419749254313166
+        },
+        {
+            "keyword": "professional",
+            "score": 0.297049243453776
+        },
+        {
+            "keyword": "room",
+            "score": 0.27025126139322936
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.25297983333333335
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2369081402323405
+        },
+        {
+            "keyword": "institution",
+            "score": 0.20083868666666668
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "objectID": 46575,
+    "irn": 46575,
+    "ecatalogue_key": 33605,
+    "TitAccessionNo": "2001.35.33640",
+    "CreDateCreated": "1956",
+    "CreEarliestDate": "1956",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of nine women, one wearing striped dress, and three men, gathered at table in interior with Hill City signs on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fd03685a-65bc-40a1-afe6-c260c21680c2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53012,
+    "MulMultiMediaRef_key": 33613,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53012/sizes/46575-1680.jpg",
+    "date_timestamp_earliest": -441849600.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill City",
+            "short_name": "Hill City"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "HILL CITY ORGANIZATION\nTURNER'S FUNERAL CHAPE\n1956 NOVEMBER 95\nL CITY'S AIMS AND OBJECTIVES\n4 5 6 7\n11 12 13 14 15 16 17\n8 19 20 21 22 23 24\n25 26 27 28 29 30\n9 10\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2649624666666667
+        }
+    ]
+}

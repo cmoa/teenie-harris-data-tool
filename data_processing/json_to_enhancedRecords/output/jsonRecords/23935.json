@@ -1,0 +1,103 @@
+{
+    "objectID": 23935,
+    "irn": 23935,
+    "ecatalogue_key": 14197,
+    "TitAccessionNo": "2001.35.14227",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and a woman standing in front of large earth moving or construction equipment",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Construction--Pennsylvania--Pittsburgh.Workers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "04e560f9-bd8c-4044-893f-a77008053524",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30234,
+    "MulMultiMediaRef_key": 14205,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30234/sizes/23935-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Construction"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.38764142970784504
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.34076652573038735
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Construction",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.32582078333333336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3152142333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3019577466666667
+        },
+        {
+            "keyword": "mode of transport",
+            "score": 0.2916534
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.28503495333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26451493333333337
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25740754666666665
+        }
+    ]
+}

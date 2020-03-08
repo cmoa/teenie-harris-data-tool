@@ -1,0 +1,102 @@
+{
+    "objectID": 30838,
+    "irn": 30838,
+    "ecatalogue_key": 18989,
+    "TitAccessionNo": "2001.35.19019",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys and girls standing on either side of pennants inscribed \"Pittsburgh, NAACP, Branch, 50th, Anniversary\" with stone church? in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.",
+    "AdmGUIDValue_tab": "e13d5a99-e700-44cc-9bf9-dd1c2f056c46",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36713,
+    "MulMultiMediaRef_key": 18997,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36713/sizes/30838-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "PITTSBURGH\nNAACP\nBRANCI\n50\n",
+    "subjects": [
+        "Girls",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Branch",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "National Association for the Advancement of Colored People",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "NAACP",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3168722666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3099790333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28524989
+        },
+        {
+            "keyword": "religion",
+            "score": 0.2762223973617554
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26526184999999997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2606719
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        }
+    ]
+}

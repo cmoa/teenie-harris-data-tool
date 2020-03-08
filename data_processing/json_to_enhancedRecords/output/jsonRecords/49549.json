@@ -1,0 +1,87 @@
+{
+    "objectID": 49549,
+    "irn": 49549,
+    "ecatalogue_key": 36301,
+    "TitAccessionNo": "2001.35.36341",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women standing on stage including woman on left wearing striped dress, and another man and woman standing at edge of orchestra pit directing them",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Orchestra--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "850965c4-0331-4cf6-877f-7c1553206b57",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 56644,
+    "MulMultiMediaRef_key": 36309,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/56644/sizes/49549-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Orchestra"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Orchestra",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2899893333333333
+        },
+        {
+            "keyword": "stage",
+            "score": 0.27964066519694
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26824323333333333
+        },
+        {
+            "keyword": "performance",
+            "score": 0.25827433333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23541154333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20513833333333334
+        }
+    ]
+}

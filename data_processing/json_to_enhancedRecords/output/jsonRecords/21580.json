@@ -1,0 +1,117 @@
+{
+    "objectID": 21580,
+    "irn": 21580,
+    "ecatalogue_key": 12229,
+    "TitAccessionNo": "2001.35.12259",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, one wearing eyeglasses, the other with hand in his pocket, with paintings on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3b4c6cff-c903-462c-8d7c-d91e0629b494",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28024,
+    "MulMultiMediaRef_key": 12237,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28024/sizes/21580-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4195471462890627
+        },
+        {
+            "keyword": "person",
+            "score": 0.3930924007531737
+        },
+        {
+            "keyword": "standing",
+            "score": 0.36780133075561533
+        },
+        {
+            "keyword": "male",
+            "score": 0.353343747845459
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2963621
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2820692905822753
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28156942
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2798662969543457
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2688814911732991
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2684219666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23898746666666668
+        },
+        {
+            "keyword": "family",
+            "score": 0.23770212472229002
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23760308666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23327799999999999
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20273765
+        }
+    ]
+}

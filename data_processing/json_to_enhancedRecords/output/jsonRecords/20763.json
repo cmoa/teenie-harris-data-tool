@@ -1,0 +1,95 @@
+{
+    "objectID": 20763,
+    "irn": 20763,
+    "ecatalogue_key": 11531,
+    "TitAccessionNo": "2001.35.11561",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and a woman, nurses? standing in front of x-ray machine, with large fan on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ef81ffa7-fa17-407d-8681-574dbe93def0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 411,
+    "MulMultiMediaRef_key": 11539,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/411/sizes/20763-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Hospitals",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4642836998697917
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3433445106058757
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29288410000000004
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28822544919128434
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2682986333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24373026666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22409526666666668
+        }
+    ]
+}

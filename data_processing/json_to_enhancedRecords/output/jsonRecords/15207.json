@@ -1,0 +1,102 @@
+{
+    "objectID": 15207,
+    "irn": 15207,
+    "ecatalogue_key": 8084,
+    "TitAccessionNo": "2001.35.8101",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, one with moustache, one wearing eyeglasses, in large recording studio with audio tape library",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "51345141-943c-48f5-bfe2-faa1ddaa8b68",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13294,
+    "MulMultiMediaRef_key": 8092,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13294/sizes/15207-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "technology",
+            "score": 0.390310042340088
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "center",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "electronic device",
+            "score": 0.2998472466666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.278016
+        },
+        {
+            "keyword": "communication",
+            "score": 0.26618397633565266
+        },
+        {
+            "keyword": "record producer",
+            "score": 0.260799
+        },
+        {
+            "keyword": "studio",
+            "score": 0.22366659
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.22059595666666665
+        },
+        {
+            "keyword": "audio engineer",
+            "score": 0.21503385
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21057466666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2023459466666667
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "objectID": 32144,
+    "irn": 32144,
+    "ecatalogue_key": 20286,
+    "TitAccessionNo": "2001.35.20317",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and boys gathered around back yard barbecue, with shed in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "18357711-ce73-4aff-8320-af8bca7e21ab",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38459,
+    "MulMultiMediaRef_key": 20294,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38459/sizes/32144-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Food"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.3636741097391763
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Yards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fountain",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "structure",
+            "score": 0.3132972717285157
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.307161
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28327283333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28263873333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.243823089123535
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2409952466666667
+        },
+        {
+            "keyword": "plant",
+            "score": 0.20899085333333334
+        }
+    ]
+}

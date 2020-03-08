@@ -1,0 +1,101 @@
+{
+    "objectID": 6586,
+    "irn": 6586,
+    "ecatalogue_key": 3997,
+    "TitAccessionNo": "2001.35.4006",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man in elaborately embroidered vestments and rectangular headdress holding two vases in domestic hallway near stairs",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Hallways--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Vases--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "04d73a5f-ab1c-4da1-9a4f-3b77ab7cb0e6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19714,
+    "MulMultiMediaRef_key": 4000,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19714/sizes/6586-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Corridors",
+        "Vases",
+        "Men",
+        "Stairs",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hallways",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vases",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31012211333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28375406666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2716016766666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24933278666666667
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.24833076666666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.22860563133951836
+        }
+    ]
+}

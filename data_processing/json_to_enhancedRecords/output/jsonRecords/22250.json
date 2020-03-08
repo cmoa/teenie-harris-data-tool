@@ -1,0 +1,79 @@
+{
+    "objectID": 22250,
+    "irn": 22250,
+    "ecatalogue_key": 12883,
+    "TitAccessionNo": "2001.35.12913",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Room with burned planks on floor, burned beams on wall, and buckling ceiling",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ae6c27d-a2dc-4a4d-b9f3-c7797100a811",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28880,
+    "MulMultiMediaRef_key": 12891,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28880/sizes/22250-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [],
+    "keywords": [
+        {
+            "keyword": "structure",
+            "score": 0.342680293971761
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30659918
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27611591333333335
+        },
+        {
+            "keyword": "wood",
+            "score": 0.24581690598571768
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.245263
+        },
+        {
+            "keyword": "house",
+            "score": 0.24381102035013835
+        },
+        {
+            "keyword": "fence",
+            "score": 0.20767585754394535
+        }
+    ]
+}

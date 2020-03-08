@@ -1,0 +1,85 @@
+{
+    "objectID": 3825,
+    "irn": 3825,
+    "ecatalogue_key": 2231,
+    "TitAccessionNo": "2001.35.2234",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of basketball team with \"W\" on jerseys",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1cb10f05-ca00-4753-b2fa-1c055dd293f2",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 17061,
+    "MulMultiMediaRef_key": 2233,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17061/sizes/3825-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Photographs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3023900666666667
+        },
+        {
+            "keyword": "social group",
+            "score": 0.30228731999999997
+        },
+        {
+            "keyword": "human",
+            "score": 0.27271527424845365
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26931095
+        },
+        {
+            "keyword": "team",
+            "score": 0.26744473333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26511086666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23267163333333332
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.22600699999999999
+        }
+    ]
+}

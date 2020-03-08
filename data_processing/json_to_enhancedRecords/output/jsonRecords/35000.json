@@ -1,0 +1,98 @@
+{
+    "objectID": 35000,
+    "irn": 35000,
+    "ecatalogue_key": 22673,
+    "TitAccessionNo": "2001.35.22704",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of five men, and eleven women, including one wearing light colored top, laughing and signing document, gathered in interior with exposed brick walls and casement windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "04f053a4-ec65-4bf7-9ed3-498fe7816989",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41199,
+    "MulMultiMediaRef_key": 22681,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41199/sizes/35000-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 17,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "woman",
+            "score": 0.31291453333333336
+        },
+        {
+            "keyword": "social group",
+            "score": 0.30424650000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2691485866666667
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2462504
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2438792333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.23832315333333332
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.21212365333333336
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20477144638122557
+        },
+        {
+            "keyword": "family",
+            "score": 0.20277478333333332
+        }
+    ]
+}

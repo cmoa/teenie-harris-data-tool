@@ -1,0 +1,111 @@
+{
+    "objectID": 32285,
+    "irn": 32285,
+    "ecatalogue_key": 20419,
+    "TitAccessionNo": "2001.35.20450",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women, men, and children seated in pews, with children in front, in small church with drop ceiling, possibly on Trent Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Churches--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7be713f8-be78-4509-843d-be8f7fda4ab9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38583,
+    "MulMultiMediaRef_key": 20427,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38583/sizes/32285-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Trent Street",
+            "short_name": "Trent Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 37,
+    "google_text_in_image": "",
+    "subjects": [
+        "Children",
+        "Men",
+        "Women",
+        "Girls",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trent Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "room",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27407453333333337
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.21269636666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20553008666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20453125333333333
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "objectID": 56619,
+    "irn": 56619,
+    "ecatalogue_key": 43223,
+    "TitAccessionNo": "2001.35.43265",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing flecked, belted dress, and hat, holding flecked scarf with dark fringe, walking up stairs  in hall with high wainscoting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fa1bf17b-9661-43fc-aee5-7ef1ca0d0ffe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65272,
+    "MulMultiMediaRef_key": 43231,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65272/sizes/56619-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Stairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31815356611531564
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3109112
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28565883333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2817832
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2687372
+        },
+        {
+            "keyword": "wood",
+            "score": 0.24893376666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23691243333333334
+        }
+    ]
+}

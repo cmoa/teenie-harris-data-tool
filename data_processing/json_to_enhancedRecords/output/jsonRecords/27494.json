@@ -1,0 +1,123 @@
+{
+    "objectID": 27494,
+    "irn": 27494,
+    "ecatalogue_key": 16747,
+    "TitAccessionNo": "2001.35.16777",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, women, girls, and boys, standing in background next to brick building with large stained glass windows, with group in foreground, including man and woman holding shovel, possibly Saint James Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c560733a-1992-4804-b506-b50c1890c9ec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33317,
+    "MulMultiMediaRef_key": 16755,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33317/sizes/27494-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 18,
+    "google_text_in_image": "",
+    "subjects": [
+        "Church buildings",
+        "Men",
+        "Women",
+        "Girls",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Saint James Church",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "uniform",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30564218666666665
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2916855333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2829256866666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2729823
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25032915666666666
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.24562652587890635
+        },
+        {
+            "keyword": "street",
+            "score": 0.24165985328877768
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24013416666666665
+        },
+        {
+            "keyword": "event",
+            "score": 0.23430711
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.22113153333333332
+        }
+    ]
+}

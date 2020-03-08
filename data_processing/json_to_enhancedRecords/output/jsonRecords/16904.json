@@ -1,0 +1,99 @@
+{
+    "objectID": 16904,
+    "irn": 16904,
+    "ecatalogue_key": 8800,
+    "TitAccessionNo": "2001.35.8822",
+    "CreDateCreated": "c. 1948-1970",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Dog, possibly Boston Terrier mix, seated on steps of brick house with two decorative concrete planters on porch",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "88663f75-14f7-43ee-bc20-f5ba3af8858c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24462,
+    "MulMultiMediaRef_key": 8808,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24462/sizes/16904-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": 94694400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Boston",
+            "short_name": "Boston"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.3450641466552733
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31680576666666665
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30844136666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3018776166666667
+        },
+        {
+            "keyword": "dog",
+            "score": 0.29149189999999997
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.2855144333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28010683333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2615096
+        }
+    ]
+}

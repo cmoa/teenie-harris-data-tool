@@ -1,0 +1,100 @@
+{
+    "objectID": 44116,
+    "irn": 44116,
+    "ecatalogue_key": 31430,
+    "TitAccessionNo": "2001.35.31463",
+    "CreDateCreated": "c. 1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men, including William Nunn standing, and woman seated in chairs on stage behind small table with beverages",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Nunn, William G.",
+    "AdmGUIDValue_tab": "6d062889-7c52-4a4b-a615-a4d15b4f6b45",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51629,
+    "MulMultiMediaRef_key": 31438,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51629/sizes/44116-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "William Nunn"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.410112029704183
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nunn, William G",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Nunn",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28502903333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2743592866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23657906666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22955318333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21596837902323404
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.21349747308247882
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "objectID": 33701,
+    "irn": 33701,
+    "ecatalogue_key": 21722,
+    "TitAccessionNo": "2001.35.21753",
+    "CreDateCreated": "1968",
+    "CreEarliestDate": "1968",
+    "CreLatestDate": "1968",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing solid colored, shiny robe, and crown with stars, in interior, standing in front of bookshelf of encyclopedias",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Crowns--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "09ce3595-1cda-4f0c-b4eb-5d8f8c8a86f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40139,
+    "MulMultiMediaRef_key": 21730,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40139/sizes/33701-1680.jpg",
+    "date_timestamp_earliest": -63158400.0,
+    "date_timestamp_latest": -63158400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Crowns"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowns",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31050890000000003
+        },
+        {
+            "keyword": "art",
+            "score": 0.286187778326416
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28579266666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28405215333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27163129999999996
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2508645
+        }
+    ]
+}

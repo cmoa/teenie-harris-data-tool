@@ -1,0 +1,95 @@
+{
+    "objectID": 21961,
+    "irn": 21961,
+    "ecatalogue_key": 12647,
+    "TitAccessionNo": "2001.35.12677",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, and one woman wearing eyeglasses and striped top, seated a desk looking at bound papers, with blinds on window in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "48a80a4a-bef1-4ab5-94d4-62735948647b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28575,
+    "MulMultiMediaRef_key": 12655,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28575/sizes/21961-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.3271524231933593
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28648481666666664
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2801078226826987
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2799401866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2672786906911214
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23405236666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21257610999999998
+        }
+    ]
+}

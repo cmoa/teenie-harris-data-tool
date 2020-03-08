@@ -1,0 +1,103 @@
+{
+    "objectID": 4501,
+    "irn": 4501,
+    "ecatalogue_key": 2591,
+    "TitAccessionNo": "2001.35.2595",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman pointing to painting on wall in domestic interior, possibly Billy Conn's house",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Painting--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "38c803cd-b07d-4d6f-8589-a9b14b9f3834",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17268,
+    "MulMultiMediaRef_key": 2593,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17268/sizes/4501-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [
+        "Billy Conn 's"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Wallpaper",
+        "Interior architecture",
+        "Painting",
+        "Interiors",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Wallpaper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Painting",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31447895333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.3069921173985799
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2974963333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2558385
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.25504706666666666
+        },
+        {
+            "keyword": "art",
+            "score": 0.23081692900187165
+        },
+        {
+            "keyword": "backboard",
+            "score": 0.229949671427409
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "objectID": 25735,
+    "irn": 25735,
+    "ecatalogue_key": 15557,
+    "TitAccessionNo": "2001.35.15587",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a boy wearing a light colored short sleeved shirt, seated with left leg tucked beneath him",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7c9921b9-547f-45db-ad81-71fef753a64a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31930,
+    "MulMultiMediaRef_key": 15565,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31930/sizes/25735-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.45070081289794933
+        },
+        {
+            "keyword": "man",
+            "score": 0.42555622220459005
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.39953004555460603
+        },
+        {
+            "keyword": "male",
+            "score": 0.3735189135253907
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.35620033013916
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3247059125516763
+        },
+        {
+            "keyword": "smile",
+            "score": 0.319288258557129
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29779648666666664
+        },
+        {
+            "keyword": "human",
+            "score": 0.29218153231709804
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2803585533333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2766434566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24112756666666668
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23198656666666664
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2145734661610921
+        }
+    ]
+}

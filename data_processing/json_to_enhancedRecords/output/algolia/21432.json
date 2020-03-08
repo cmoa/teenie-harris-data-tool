@@ -1,0 +1,131 @@
+{
+  "objectID": 21432,
+  "irn": 21432,
+  "ecatalogue_key": 12123,
+  "TitAccessionNo": "2001.35.12153",
+  "CreDateCreated": "1971",
+  "CreEarliestDate": "1971",
+  "CreLatestDate": "1971",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man and woman posing, with woman wearing knotted pearl necklace seated on arm of sofa",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "bcd50bc5-0c88-4905-bc9e-e36c1da99af3",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27874/sizes/21432-1680.jpg",
+  "datetime": "1971-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "ILM\n",
+  "subjects": [
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.454593466813151
+    },
+    {
+      "keyword": "standing",
+      "score": 0.37340387675781267
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.36048335998535164
+    },
+    {
+      "keyword": "smile",
+      "score": 0.34783184125569666
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "facial expression",
+      "score": 0.31231918
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30813982
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2911226666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28231044666666666
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.2789022133333333
+    },
+    {
+      "keyword": "family",
+      "score": 0.272900917629191
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "vintage clothing",
+      "score": 0.27225073333333333
+    },
+    {
+      "keyword": "fun",
+      "score": 0.2695735184987387
+    },
+    {
+      "keyword": "human",
+      "score": 0.26878942119649246
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2415244666666667
+    },
+    {
+      "keyword": "girl",
+      "score": 0.22710986666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27874/sizes/21432-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27874/sizes/21432-210.jpg",
+  "date_timestamp_earliest": 31536000.0,
+  "date_timestamp_latest": 31536000.0,
+  "decades": [
+    "1970s"
+  ]
+}

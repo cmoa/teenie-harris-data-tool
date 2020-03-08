@@ -1,0 +1,113 @@
+{
+    "objectID": 42606,
+    "irn": 42606,
+    "ecatalogue_key": 29947,
+    "TitAccessionNo": "2001.35.29980",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing hats, including one on left wearing leaf patterned dress and long dark gloves, in receiving line, possibly in William Penn Hotel with floral carpeting and plants",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Hotels--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0e19df45-f8b3-4ac8-87bb-4ae94c9856d7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49970,
+    "MulMultiMediaRef_key": 29955,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49970/sizes/42606-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "William Penn Hotel",
+            "short_name": "William Penn Hotel"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Hotels",
+        "Hotels, motels, etc"
+    ],
+    "keywords": [
+        {
+            "keyword": "dress",
+            "score": 0.3381618613765463
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hotels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30290483333333335
+        },
+        {
+            "keyword": "religion",
+            "score": 0.27508491667785634
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.27379996666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2717663666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26121322333333336
+        },
+        {
+            "keyword": "tradition",
+            "score": 0.2579260666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2261560566666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.22134864333333334
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21801382333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21286006666666668
+        }
+    ]
+}

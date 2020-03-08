@@ -1,0 +1,109 @@
+{
+    "objectID": 25146,
+    "irn": 25146,
+    "ecatalogue_key": 14963,
+    "TitAccessionNo": "2001.35.14993",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing blouse with abstract print and skirt, seated with hands clasped, in interior with rounded wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16513c93-bc76-400b-8a86-a755065fdb70",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31438,
+    "MulMultiMediaRef_key": 14971,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31438/sizes/25146-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.39656990207926435
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.37525119387207034
+        },
+        {
+            "keyword": "lady",
+            "score": 0.36868369668457035
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.30918576223429367
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30693181333333336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29689139999999997
+        },
+        {
+            "keyword": "girl",
+            "score": 0.28616945
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2852926666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27857788333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.27519312083129865
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.271211407758789
+        },
+        {
+            "keyword": "human body",
+            "score": 0.24705879
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2367448666666667
+        }
+    ]
+}

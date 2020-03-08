@@ -1,0 +1,122 @@
+{
+    "objectID": 4371,
+    "irn": 4371,
+    "ecatalogue_key": 2546,
+    "TitAccessionNo": "2001.35.2550",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boxer Joe Louis with Ella Burgess in kitchen",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Louis, Joe, 1914-Women--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Refrigerators--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8a2191c8-fb5b-412e-b26d-373597f9d58d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17235,
+    "MulMultiMediaRef_key": 2548,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17235/sizes/4371-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Joe Louis"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Ella Burgess",
+            "short_name": "Ella Burgess"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Kitchens",
+        "Refrigerators"
+    ],
+    "keywords": [
+        {
+            "keyword": "Joe Louis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ella Burgess",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kitchens",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Louis, Joe, 1914-Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Refrigerators",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2912714277638753
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.289771
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2795457833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.23606986666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23338685333333334
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22884708666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.225691523416748
+        },
+        {
+            "keyword": "suit",
+            "score": 0.22510493053690603
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20277226666666667
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.20238475
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "objectID": 26361,
+    "irn": 26361,
+    "ecatalogue_key": 16168,
+    "TitAccessionNo": "2001.35.16198",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of four men, one standing at podium handing flower? to another",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "535ecd68-f1a7-4a6e-b8ca-0cdb15b49373",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 32769,
+    "MulMultiMediaRef_key": 16176,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32769/sizes/26361-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAK SAFETY FILM\n5\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3081450666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2840025333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2815166915456137
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2678909333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26744413333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2386682887827555
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23657246666666668
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21812830000000002
+        }
+    ]
+}

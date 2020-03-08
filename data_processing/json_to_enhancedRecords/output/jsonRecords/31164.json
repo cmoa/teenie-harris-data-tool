@@ -1,0 +1,91 @@
+{
+    "objectID": 31164,
+    "irn": 31164,
+    "ecatalogue_key": 19338,
+    "TitAccessionNo": "2001.35.19368",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men standing and exchanging document, including one on left wearing suspenders, posed in front of dark curtain, possibly in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ff32fef1-2af9-4d4c-b28f-f65d7884cc5a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37267,
+    "MulMultiMediaRef_key": 19346,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37267/sizes/31164-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.349076983215332
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28207773333333336
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2651273540181477
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26319583333333335
+        },
+        {
+            "keyword": "communication",
+            "score": 0.23680528
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21873944999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21734718333333333
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "objectID": 33336,
+    "irn": 33336,
+    "ecatalogue_key": 21357,
+    "TitAccessionNo": "2001.35.21388",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored blouse with brooch at neck, posed in office with florescent overhead lights",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b6a7d998-ff60-4178-81b4-dba550631d88",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39719,
+    "MulMultiMediaRef_key": 21365,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39719/sizes/33336-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.34765696745239266
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.324749713655599
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31172263333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29891223333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27752663333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26436491597086603
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24225066666666664
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21074225666666668
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "objectID": 31208,
+    "irn": 31208,
+    "ecatalogue_key": 19284,
+    "TitAccessionNo": "2001.35.19314",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing eyeglasses and bow tie, standing in between American flag and book truck",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9f0f5ab8-53e0-4db8-9005-6ba3a2aa8d03",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37158,
+    "MulMultiMediaRef_key": 19292,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37158/sizes/31208-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Books",
+        "Portraits",
+        "Men",
+        "American",
+        "Flags"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5952352
+        },
+        {
+            "keyword": "man",
+            "score": 0.47471001716389966
+        },
+        {
+            "keyword": "professional",
+            "score": 0.34266003677978496
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3248365813924153
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32063817431152336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2876116
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2809688833333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27747241666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26046041555379235
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23872673333333336
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22739545077107734
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.22726502
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21784983333333333
+        },
+        {
+            "keyword": "garment",
+            "score": 0.20457832336425766
+        },
+        {
+            "keyword": "public speaking",
+            "score": 0.20432124666666665
+        }
+    ]
+}

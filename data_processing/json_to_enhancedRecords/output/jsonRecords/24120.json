@@ -1,0 +1,107 @@
+{
+    "objectID": 24120,
+    "irn": 24120,
+    "ecatalogue_key": 14134,
+    "TitAccessionNo": "2001.35.14164",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man seated behind desk with two men and one woman standing around him, with woman seated in front of desk on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "899be201-fcfb-43fc-82eb-66ce933c8256",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30406,
+    "MulMultiMediaRef_key": 14142,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30406/sizes/24120-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "technology",
+            "score": 0.3278205217537434
+        },
+        {
+            "keyword": "office",
+            "score": 0.31423758522542333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29360735674438465
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28153596666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27079018
+        },
+        {
+            "keyword": "professional",
+            "score": 0.26270318372192364
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.231107140041097
+        },
+        {
+            "keyword": "job",
+            "score": 0.23056465675557467
+        },
+        {
+            "keyword": "electronic device",
+            "score": 0.2275376
+        },
+        {
+            "keyword": "design",
+            "score": 0.22718416666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20815432
+        }
+    ]
+}

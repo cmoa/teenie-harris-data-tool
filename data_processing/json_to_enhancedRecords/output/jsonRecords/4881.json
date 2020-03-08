@@ -1,0 +1,127 @@
+{
+    "objectID": 4881,
+    "irn": 4881,
+    "ecatalogue_key": 2868,
+    "TitAccessionNo": "2001.35.2873",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Jean Wilds posed on pool ladder, possibly at Ammon Recreation Center swimming pool",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Ladders--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e1847d80-5586-47e5-bcbd-566103a2a344",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17186,
+    "MulMultiMediaRef_key": 2870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17186/sizes/4881-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Jean Wilds"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Ammon Recreation Center",
+            "short_name": "Ammon Recreation Center"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Ladders",
+        "Women",
+        "Swimming pools"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.362147834169515
+        },
+        {
+            "keyword": "Jean Wilds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ammon Recreation Center",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ladders",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31100875
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30951359
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2880933666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28386896666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "sky",
+            "score": 0.26630851585693366
+        },
+        {
+            "keyword": "street",
+            "score": 0.2402922107196045
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23966211
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.23447098333333335
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.22798730545369464
+        },
+        {
+            "keyword": "crutch",
+            "score": 0.215034891764323
+        }
+    ]
+}

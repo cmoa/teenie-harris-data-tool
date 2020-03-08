@@ -1,0 +1,119 @@
+{
+    "objectID": 42463,
+    "irn": 42463,
+    "ecatalogue_key": 29781,
+    "TitAccessionNo": "2001.35.29814",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark bow tie and light colored loose jacket with \"2\" button, standing in hallway with two toned walls and sign reading \"keep this door shut\" on door on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ebd881b5-9f3c-4e5d-b295-878d1c5ef113",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48868,
+    "MulMultiMediaRef_key": 29789,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48868/sizes/42463-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Corridors",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43022252534830735
+        },
+        {
+            "keyword": "person",
+            "score": 0.398594750917562
+        },
+        {
+            "keyword": "male",
+            "score": 0.35374983616739897
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3472538938328043
+        },
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30432822333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28499581333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28228803333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24765910160013835
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24749127641906735
+        },
+        {
+            "keyword": "smile",
+            "score": 0.24619859948221834
+        },
+        {
+            "keyword": "human",
+            "score": 0.24408456666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24074653333333332
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22623053333333332
+        }
+    ]
+}

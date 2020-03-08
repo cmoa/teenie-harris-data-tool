@@ -1,0 +1,90 @@
+{
+    "objectID": 31050,
+    "irn": 31050,
+    "ecatalogue_key": 19201,
+    "TitAccessionNo": "2001.35.19231",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing work clothes and cap, standing in basement with stone walls, pointing to boarded up window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ba638dc3-d5d7-41b9-b490-d5c8f52b66a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37015,
+    "MulMultiMediaRef_key": 19209,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37015/sizes/31050-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Basements"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.385396903458659
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3112600833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29368404666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27629041666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27117985333333333
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2477294
+        }
+    ]
+}

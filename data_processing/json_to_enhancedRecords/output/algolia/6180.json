@@ -1,0 +1,100 @@
+{
+  "objectID": 6180,
+  "irn": 6180,
+  "ecatalogue_key": 3623,
+  "TitAccessionNo": "2001.35.3631",
+  "CreDateCreated": "September 1938",
+  "CreEarliestDate": "1938-09-01",
+  "CreLatestDate": "1938-09-30",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group including boxer Joe Louis, and woman, possibly seated in courtroom, another version",
+  "CatSubject_tab": "Louis, Joe, 1914-Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "d33316d6-2d8c-43ba-932c-275ff1d19093",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18729/sizes/6180-1680.jpg",
+  "datetime": "1938-09-01 00:00:00",
+  "people": [
+    "Joe Louis"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 12,
+  "google_text_in_image": "",
+  "subjects": [
+    "Desks",
+    "Interior architecture",
+    "Windows",
+    "Women",
+    "Interiors"
+  ],
+  "keywords": [
+    {
+      "keyword": "Desks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Windows",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Joe Louis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Louis, Joe, 1914-Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.26245715333333336
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26158713333333333
+    },
+    {
+      "keyword": "communication",
+      "score": 0.24055409118347168
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18729/sizes/6180-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18729/sizes/6180-210.jpg",
+  "date_timestamp_earliest": -988848000.0,
+  "date_timestamp_latest": -986342400.0,
+  "decades": [
+    "1930s"
+  ]
+}

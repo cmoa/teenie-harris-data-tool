@@ -1,0 +1,93 @@
+{
+    "objectID": 32602,
+    "irn": 32602,
+    "ecatalogue_key": 20735,
+    "TitAccessionNo": "2001.35.20766",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six men and four women standing around table with cards in rows, in interior with piano and sign on wall titled \"The Adverb\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a9d37c77-7773-4554-a382-ca07be4c1a49",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38997,
+    "MulMultiMediaRef_key": 20743,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38997/sizes/32602-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "KODAK SAFETY FILM\n9\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Classrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29606526666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2706219
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26584669
+        },
+        {
+            "keyword": "marimba",
+            "score": 0.22188830057779932
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21140063333333334
+        }
+    ]
+}

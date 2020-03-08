@@ -1,0 +1,111 @@
+{
+    "objectID": 7908,
+    "irn": 7908,
+    "ecatalogue_key": 4891,
+    "TitAccessionNo": "2001.35.4900",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of bearded man wearing religious robes with mitre headdress, and bare feet, holding shepherd's crook, standing in the snow",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Snow--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Religious groups--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b734ea57-70a4-469f-985e-5f8e2fc186d3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19783,
+    "MulMultiMediaRef_key": 4897,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19783/sizes/7908-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Costume",
+        "Snow"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3376694668691
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Costumes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Religious groups",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Snow",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "wall",
+            "score": 0.3172581711855063
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31509292
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3031373
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28130338666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26020686666666665
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "snow",
+            "score": 0.25060753333333335
+        },
+        {
+            "keyword": "winter",
+            "score": 0.22365429
+        },
+        {
+            "keyword": "freezing",
+            "score": 0.21289235333333334
+        }
+    ]
+}

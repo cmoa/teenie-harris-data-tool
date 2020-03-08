@@ -1,0 +1,93 @@
+{
+    "objectID": 12498,
+    "irn": 12498,
+    "ecatalogue_key": 6303,
+    "TitAccessionNo": "2001.35.6314",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man behind counter in shop with sign reading \"A Small Deposit Will Hold Any Article Not Called For\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d9435e71-5543-4664-ac56-ef5d629159d2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22027,
+    "MulMultiMediaRef_key": 6310,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22027/sizes/12498-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "1I 12\nIO\nWill Hold\nANY ARTICLE\nCalted Sor\n",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Signs and signboards",
+        "Hats",
+        "Signs and symbols"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Signs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "\"A Small Deposit Will Hold Any Article Not Called For",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30548121666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2750730333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27469631
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.25669535
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25144895
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "objectID": 24086,
+    "irn": 24086,
+    "ecatalogue_key": 14257,
+    "TitAccessionNo": "2001.35.14287",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing pinstriped suit and crucifix, standing next to man wearing tuxedo, in front of doorway with top hat decoration",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a8007d07-f9ff-4280-9974-3eb2c8f35d70",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30255,
+    "MulMultiMediaRef_key": 14265,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30255/sizes/24086-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5103132471272787
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "necktie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3189540446036783
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.30536206666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2926747333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28338996666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26934093333333337
+        },
+        {
+            "keyword": "garment",
+            "score": 0.2675212860107423
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25262823333333334
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.24283188666666666
+        },
+        {
+            "keyword": "socialite",
+            "score": 0.22374971666666665
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.20330636342366534
+        }
+    ]
+}

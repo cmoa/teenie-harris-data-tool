@@ -1,0 +1,99 @@
+{
+    "objectID": 18023,
+    "irn": 18023,
+    "ecatalogue_key": 9573,
+    "TitAccessionNo": "2001.35.9599",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man surrounded by eight women in an office, handing a pack of cigarettes to a woman seated at desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "402468e8-3e36-470c-be35-b8c9df2237aa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25460,
+    "MulMultiMediaRef_key": 9581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25460/sizes/18023-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27769356666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2725722333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.2547659699666341
+        },
+        {
+            "keyword": "table",
+            "score": 0.250378442142334
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2407655117698161
+        },
+        {
+            "keyword": "communication",
+            "score": 0.23504284448323567
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20513715333333335
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2017725480214437
+        }
+    ]
+}

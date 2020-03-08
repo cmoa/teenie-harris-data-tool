@@ -1,0 +1,104 @@
+{
+    "objectID": 27577,
+    "irn": 27577,
+    "ecatalogue_key": 16798,
+    "TitAccessionNo": "2001.35.16828",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark dress and pearls, in interior with church pews on right and linoleum floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2a3af13e-6512-4565-9b7b-b60a9acd143c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33522,
+    "MulMultiMediaRef_key": 16806,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33522/sizes/27577-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "AK SAFETYFILM\n",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3745773359232583
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31213603333333334
+        },
+        {
+            "keyword": "day",
+            "score": 0.29585514333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29463616666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28715721666666666
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.28120813333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "shoulder",
+            "score": 0.2595311
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24725853333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2230112
+        }
+    ]
+}

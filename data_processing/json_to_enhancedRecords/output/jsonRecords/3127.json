@@ -1,0 +1,101 @@
+{
+    "objectID": 3127,
+    "irn": 3127,
+    "ecatalogue_key": 1697,
+    "TitAccessionNo": "2001.35.1699",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1933",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of men, including boxer Billy Conn, seated in restaurant",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Tables--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8fe32ba7-ad98-4e61-839d-3f1e6c922b38",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16019,
+    "MulMultiMediaRef_key": 1699,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16019/sizes/3127-1680.jpg",
+    "date_timestamp_earliest": -1167609600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [
+        "Billy Conn"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Tables",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Billy Conn",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29690916666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27428168
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2542065666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22734091666666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22220305228190104
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22019334666666668
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20957929
+        }
+    ]
+}

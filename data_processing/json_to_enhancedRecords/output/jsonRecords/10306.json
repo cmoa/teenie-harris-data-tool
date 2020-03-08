@@ -1,0 +1,165 @@
+{
+    "objectID": 10306,
+    "irn": 10306,
+    "ecatalogue_key": 5829,
+    "TitAccessionNo": "2001.35.5839",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3, reads: \"Home Destroyed - Cornelius Stribling and his wife lost their home Tuesday afternoon despite efforts of three volunteer fire departments and two city fire companies. The picture shows Lincoln Place firemen watering down the fire at 254 Columbia Avenue which scorched the nearby home of Thomas Worthey and did a considerable amount of damage to the house on the opposite side owned by Kenneth Yuille. - Harris Photo.\"",
+    "TitMainTitle": "Fire fighters from companies 38 and 5 battling smoky fire at home of Cornelius Stribling, 254 Columbia Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Smoke--Pennsylvania--Pittsburgh.Fire fighters--Pennsylvania--Pittsburgh.Fire hose--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b01a45e7-6edd-460f-8567-e81715969c48",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21213,
+    "MulMultiMediaRef_key": 5836,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21213/sizes/10306-1680.jpg",
+    "date_timestamp_earliest": -441849600.0,
+    "date_timestamp_latest": -440121600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Thomas Worthey",
+        "Cornelius Stribling",
+        "Kenneth Yuille"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Columbia Avenue",
+            "short_name": "Columbia Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "254 Columbia Avenue",
+            "short_name": "254 Columbia Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {
+        "publication": [
+            "Pittsburgh Courier"
+        ],
+        "date": [
+            "January 21, 1956"
+        ],
+        "page": [
+            "3"
+        ],
+        "cutline": [
+            "Home Destroyed - Cornelius Stribling and his wife lost their home Tuesday afternoon despite efforts of three volunteer fire departments and two city fire companies. The picture shows Lincoln Place firemen watering down the fire at 254 Columbia Avenue which scorched the nearby home of Thomas Worthey and did a considerable amount of damage to the house on the opposite side owned by Kenneth Yuille. - Harris Photo."
+        ]
+    },
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Pittsburgh courier",
+        "Men",
+        "Fire hose",
+        "Women",
+        "Fire fighters",
+        "Smoke"
+    ],
+    "keywords": [
+        {
+            "keyword": "smoke",
+            "score": 0.33650262100219736
+        },
+        {
+            "keyword": "afternoon",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Lincoln Place",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Columbia Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "January 21, 1956",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tuesday",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "254 Columbia Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire hose",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire fighters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Smoke",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "water",
+            "score": 0.3300198327829997
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31114479
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.291372
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27667756666666665
+        },
+        {
+            "keyword": "sky",
+            "score": 0.27340905491739903
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24172763333333333
+        },
+        {
+            "keyword": "cloud",
+            "score": 0.20429846666666665
+        }
+    ]
+}

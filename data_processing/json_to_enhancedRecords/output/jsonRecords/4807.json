@@ -1,0 +1,94 @@
+{
+    "objectID": 4807,
+    "irn": 4807,
+    "ecatalogue_key": 2794,
+    "TitAccessionNo": "2001.35.2799",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of two men seated at bar with bandstand in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "293f891c-6c9f-479a-b44c-2864ea641003",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17384,
+    "MulMultiMediaRef_key": 2796,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17384/sizes/4807-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4493624314737956
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.3208099137705487
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2882237833333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27714431333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27234647666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2503371833333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2334897
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22221344666666668
+        }
+    ]
+}

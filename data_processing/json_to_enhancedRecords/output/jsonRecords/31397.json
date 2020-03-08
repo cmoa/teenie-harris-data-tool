@@ -1,0 +1,111 @@
+{
+    "objectID": 31397,
+    "irn": 31397,
+    "ecatalogue_key": 19440,
+    "TitAccessionNo": "2001.35.19470",
+    "CreDateCreated": "c. 1940-1970",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing plaid suit, standing on sidewalk with hand in pocket, and doorway in background with signs overhead inscribed \"Doctor W. C. Melchor\" and \"Dr. Douglas Dentist\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Medical offices--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "abc6b077-d14a-4044-9f56-c54841766b7d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37204,
+    "MulMultiMediaRef_key": 19448,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37204/sizes/31397-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "W. C. Melchor",
+        "Douglas Dentist"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "MELCHOR\nDR. DOUGLASS\nDENTIST\nAL\nBeaut\nLO\nup Sairs\nCE CREAN SHERBET\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Sidewalks",
+        "Medical offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.366190809942627
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Medical offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.3168820666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31167343333333336
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.30037733333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2952361666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28413526666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28231608999999996
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.27303853333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2529346666666667
+        }
+    ]
+}

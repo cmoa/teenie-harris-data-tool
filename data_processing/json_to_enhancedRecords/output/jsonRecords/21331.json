@@ -1,0 +1,113 @@
+{
+    "objectID": 21331,
+    "irn": 21331,
+    "ecatalogue_key": 11982,
+    "TitAccessionNo": "2001.35.12012",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing eyeglasses seated behind desk with woman wearing plaid suit at the Centre Avenue YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Young Men's Christian Association (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "78779d86-d21f-4e55-8bee-91acc9a2b69f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27690,
+    "MulMultiMediaRef_key": 11990,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27690/sizes/21331-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Centre Avenue",
+            "short_name": "Centre Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.36078079422607434
+        },
+        {
+            "keyword": "Young Men's Christian Association ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Centre Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3075453072347007
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.30680069530639636
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29554779999999997
+        },
+        {
+            "keyword": "table",
+            "score": 0.27494384504394537
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2745041
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25599314666666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2551803138834637
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21499006666666667
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "objectID": 33552,
+    "irn": 33552,
+    "ecatalogue_key": 21615,
+    "TitAccessionNo": "2001.35.21646",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing eyeglasses, speaking at podium, front view, in office with alternating block patterned linoleum floor and venetian blinds, possibly at Westinghouse Corporation",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3ec614a1-d189-4f07-b928-9a148c4e70c5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40161,
+    "MulMultiMediaRef_key": 21623,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40161/sizes/33552-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "KODAK SAFETY FILM\n4\n",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Westinghouse Corporation",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.2843081347920737
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2772132566666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26736943333333335
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22948175974426266
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21811966666666668
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21695474666666667
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2088302333333333
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "objectID": 44332,
+    "irn": 44332,
+    "ecatalogue_key": 31623,
+    "TitAccessionNo": "2001.35.31658",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing eyeglasses, morning suit, and watch chain, standing in front of block building, possibly church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "80b74a8f-e762-442a-8816-47fe893bc974",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50783,
+    "MulMultiMediaRef_key": 31631,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50783/sizes/44332-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6369732666666666
+        },
+        {
+            "keyword": "man",
+            "score": 0.4807585377034507
+        },
+        {
+            "keyword": "standing",
+            "score": 0.35803444434611004
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "morning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3266462515563963
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2977370833333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2865398333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28529461333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2713115812530517
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2694393666666667
+        },
+        {
+            "keyword": "groom",
+            "score": 0.251943242541504
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.24193034666666668
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.23482374333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22331826666666665
+        },
+        {
+            "keyword": "garment",
+            "score": 0.20306559244791667
+        }
+    ]
+}

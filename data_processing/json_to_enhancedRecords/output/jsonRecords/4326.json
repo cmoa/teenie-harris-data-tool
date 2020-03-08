@@ -1,0 +1,97 @@
+{
+    "objectID": 4326,
+    "irn": 4326,
+    "ecatalogue_key": 2501,
+    "TitAccessionNo": "2001.35.2505",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "View down steps into restaurant and bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Stairs--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cb69077b-d9bf-4be1-8db4-ee025adbece0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16650,
+    "MulMultiMediaRef_key": 2503,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16650/sizes/4326-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Restaurants",
+        "Stairs",
+        "Plants",
+        "Chairs",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.3523465991992187
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3092952
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28821055
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2769124
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25040103333333336
+        },
+        {
+            "keyword": "street",
+            "score": 0.24404205827331535
+        }
+    ]
+}

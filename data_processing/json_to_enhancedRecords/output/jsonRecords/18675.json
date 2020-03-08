@@ -1,0 +1,89 @@
+{
+    "objectID": 18675,
+    "irn": 18675,
+    "ecatalogue_key": 9974,
+    "TitAccessionNo": "2001.35.10000",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men standing in front of machine or display panel with vials and gauges?",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8207a971-d4a3-4f1c-b8ea-b7badceb3e66",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25869,
+    "MulMultiMediaRef_key": 9982,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25869/sizes/18675-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.376364255082194
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.32754316400756833
+        },
+        {
+            "keyword": "standing",
+            "score": 0.314317210494995
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29437399000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2664327
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2483814666666667
+        },
+        {
+            "keyword": "locker",
+            "score": 0.24338071187337237
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22041654666666666
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "objectID": 2931,
+    "irn": 2931,
+    "ecatalogue_key": 1531,
+    "TitAccessionNo": "2001.35.1533",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six men at a bar, possibly Reverend Upshur holding microphone, with Rev. Bill Powell, standing on right, and two men seated in foreground, including Bobby Fickland on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Powell, Bill.Fickland, Bobby.Group portraits--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "82ed87af-7cf0-4a76-92f3-f84c9e4438a5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15863,
+    "MulMultiMediaRef_key": 1533,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15863/sizes/2931-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Upshur",
+        "Bobby Fickland",
+        "Bill Powell"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Mirrors",
+        "Microphone",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.425170538313802
+        },
+        {
+            "keyword": "Microphone",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bill Powell",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Powell, Bill",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Upshur",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mirrors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fickland, Bobby",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28508169411722833
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2821737
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28033464999999996
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22785096666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20038702
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "objectID": 29187,
+    "irn": 29187,
+    "ecatalogue_key": 17752,
+    "TitAccessionNo": "2001.35.17782",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around long rectangular banquet tables, in interior with three sets of double doors on back wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ac54be6c-1f80-4bcc-878e-590623ab73d5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35022,
+    "MulMultiMediaRef_key": 17760,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35022/sizes/29187-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 23,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Dinners and dining"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3072357333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.29186072
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2884705
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2750833
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25099488
+        },
+        {
+            "keyword": "audience",
+            "score": 0.21447795666666666
+        }
+    ]
+}

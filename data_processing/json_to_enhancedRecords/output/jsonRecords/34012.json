@@ -1,0 +1,108 @@
+{
+    "objectID": 34012,
+    "irn": 34012,
+    "ecatalogue_key": 21958,
+    "TitAccessionNo": "2001.35.21989",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around circular banquet tables, including standing woman wearing light colored dress, holding towel, in interior with square pillars and tall curtains, possibly William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "07e6e216-284d-4819-a1b1-445163f68270",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40515,
+    "MulMultiMediaRef_key": 21966,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40515/sizes/34012-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "William Penn Hotel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "KODAK SAFETY FILM\n5\n",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.29746844333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2967539
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.28205886666666663
+        },
+        {
+            "keyword": "event",
+            "score": 0.2794119333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26982633333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2577837
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.24455516666666666
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.23826732333333334
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22584376666666664
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.21901571666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21490146666666665
+        }
+    ]
+}

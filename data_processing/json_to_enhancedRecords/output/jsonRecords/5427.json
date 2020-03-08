@@ -1,0 +1,108 @@
+{
+    "objectID": 5427,
+    "irn": 5427,
+    "ecatalogue_key": 3321,
+    "TitAccessionNo": "2001.35.3328",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man in a domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ffae0db1-3085-4cbf-83fe-7427eefc653f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17862,
+    "MulMultiMediaRef_key": 3323,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17862/sizes/5427-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Men",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5608857666666667
+        },
+        {
+            "keyword": "man",
+            "score": 0.48774897969156905
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.331222692632243
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2849163579459637
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28264588
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27894347999999997
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27543466666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23616856666666666
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.232776107788086
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21508274333333333
+        }
+    ]
+}

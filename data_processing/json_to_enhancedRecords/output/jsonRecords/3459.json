@@ -1,0 +1,107 @@
+{
+    "objectID": 3459,
+    "irn": 3459,
+    "ecatalogue_key": 2005,
+    "TitAccessionNo": "2001.35.2008",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of male performer kneeling with arms outstretched in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e9e1c7bf-71b5-435b-ac22-481eb7a76c8f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16260,
+    "MulMultiMediaRef_key": 2007,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16260/sizes/3459-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Neckties"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.41342028773396805
+        },
+        {
+            "keyword": "man",
+            "score": 0.40882112308959967
+        },
+        {
+            "keyword": "male",
+            "score": 0.340126863782552
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neckties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31421758666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3011296666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2866157
+        },
+        {
+            "keyword": "human",
+            "score": 0.282060619011434
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28101788
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2652428
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2445044133333333
+        }
+    ]
+}

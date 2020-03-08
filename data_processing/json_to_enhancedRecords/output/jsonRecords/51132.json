@@ -1,0 +1,90 @@
+{
+    "objectID": 51132,
+    "irn": 51132,
+    "ecatalogue_key": 37971,
+    "TitAccessionNo": "2001.35.38012",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1939",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men standing at table with microscopes, petri dishes, and books, in laboratory with animal kingdom chart on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "563848fd-9ad5-4821-9750-f84b7b018d6b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58480,
+    "MulMultiMediaRef_key": 37979,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58480/sizes/51132-1680.jpg",
+    "date_timestamp_earliest": -978307200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "MI3 YT33A2 00211\n",
+    "subjects": [
+        "Laboratories",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Laboratories",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3010966
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27950120850016275
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2782017666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26349912000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22912246666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.21605263333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.21246812970499665
+        }
+    ]
+}

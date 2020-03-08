@@ -1,0 +1,116 @@
+{
+    "objectID": 18500,
+    "irn": 18500,
+    "ecatalogue_key": 9937,
+    "TitAccessionNo": "2001.35.9963",
+    "CreDateCreated": "c. 1964-1975",
+    "CreEarliestDate": "1964",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two story brick building with boarded windows on Linton Street, possibly in back of Irene Kaufmann Settlement buildings",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Architecture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "611d682a-fe07-4ab7-b024-c3451b6e3990",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25805,
+    "MulMultiMediaRef_key": 9945,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25805/sizes/18500-1680.jpg",
+    "date_timestamp_earliest": -189388800.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Linton Street",
+            "short_name": "Linton Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "KODAK SAFETY\nKODAK SAFE\n",
+    "subjects": [
+        "Architecture",
+        "Irene Kaufmann Settlement"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.42458415248209636
+        },
+        {
+            "keyword": "building",
+            "score": 0.39820149951578765
+        },
+        {
+            "keyword": "house",
+            "score": 0.39058737237752267
+        },
+        {
+            "keyword": "facade",
+            "score": 0.33484106409505193
+        },
+        {
+            "keyword": "Architecture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Linton Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Irene Kaufmann Settlement",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.33244657941894534
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3140792
+        },
+        {
+            "keyword": "home",
+            "score": 0.30181658626322433
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29885745
+        },
+        {
+            "keyword": "window",
+            "score": 0.29867685714721665
+        },
+        {
+            "keyword": "history",
+            "score": 0.26804910959391265
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2669958333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25144313333333335
+        }
+    ]
+}

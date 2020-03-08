@@ -1,0 +1,100 @@
+{
+    "objectID": 40357,
+    "irn": 40357,
+    "ecatalogue_key": 27793,
+    "TitAccessionNo": "2001.35.27825",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark jacket, circle or medallion pattern tie, and holding eyeglasses, seated behind desk or table with documents and telephone, in office with floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ddd6cb6c-7ba4-457e-97ef-5da1ace12666",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 46641,
+    "MulMultiMediaRef_key": 27801,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/46641/sizes/40357-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Telephone",
+        "Portraits",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3873982560432943
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2950682333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.279489
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.26031767185668936
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25128974666666665
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24891775261230464
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21888459999999998
+        }
+    ]
+}

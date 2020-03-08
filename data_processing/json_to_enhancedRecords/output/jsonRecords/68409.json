@@ -1,0 +1,122 @@
+{
+    "objectID": 68409,
+    "irn": 68409,
+    "ecatalogue_key": 54182,
+    "TitAccessionNo": "2001.35.54225",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored suit, necktie with clip, and eyeglasses, standing in office interior with filing cabinets, bookcase, books, framed landscape, and window with venetian blind",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1f5b687f-66c4-481e-a605-3784ea69d9fe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 80164,
+    "MulMultiMediaRef_key": 54191,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80164/sizes/68409-1680.jpg",
+    "date_timestamp_earliest": -378691200.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Eyeglasses",
+        "Offices",
+        "Books",
+        "Men",
+        "Office furniture",
+        "Clothing and dress"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4593258667073567
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3118977292486573
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.285901
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2802654
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.26539857799072264
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2505534823923747
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23700486666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23624884999999998
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21987333333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21814809999999998
+        }
+    ]
+}

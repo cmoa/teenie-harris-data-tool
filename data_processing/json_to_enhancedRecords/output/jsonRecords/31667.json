@@ -1,0 +1,126 @@
+{
+    "objectID": 31667,
+    "irn": 31667,
+    "ecatalogue_key": 19858,
+    "TitAccessionNo": "2001.35.19889",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women behind counter with male customer, in book or music store, possibly at Trinity Episcopal Cathedral, in downtown Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trinity Episcopal Cathedral (Pittsburgh, Pa.)Churches--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e4148d71-6aab-4fa8-80cf-ace7e3b68f84",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38010,
+    "MulMultiMediaRef_key": 19866,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38010/sizes/31667-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Churches",
+            "short_name": "Pa.)Churches"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "KODAK SAFETYFILM\n6\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Trinity Episcopal Cathedral ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trinity Episcopal Cathedral",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.3106614817677817
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3068731
+        },
+        {
+            "keyword": "house",
+            "score": 0.2929743949605306
+        },
+        {
+            "keyword": "design",
+            "score": 0.28264097037150065
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2791784666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2783723866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25856361666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24358284333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.23548739676513666
+        },
+        {
+            "keyword": "room",
+            "score": 0.21788050333658868
+        },
+        {
+            "keyword": "window",
+            "score": 0.2171518421984863
+        }
+    ]
+}

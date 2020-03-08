@@ -1,0 +1,105 @@
+{
+    "objectID": 24625,
+    "irn": 24625,
+    "ecatalogue_key": 14656,
+    "TitAccessionNo": "2001.35.14686",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man presenting item with bow to another man, in office with two women and other men surrounding them, and clock on back wall reading 11:23",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "44443bf3-8040-4d95-aa94-2150236b180c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30999,
+    "MulMultiMediaRef_key": 14664,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30999/sizes/24625-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43684875921223965
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "11:23",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.2979369
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27573051
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2746813
+        },
+        {
+            "keyword": "event",
+            "score": 0.2723137666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.26442569300944013
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2393044666666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.23871272081705733
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21726864666666668
+        }
+    ]
+}

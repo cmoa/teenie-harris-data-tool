@@ -1,0 +1,100 @@
+{
+    "objectID": 6413,
+    "irn": 6413,
+    "ecatalogue_key": 3834,
+    "TitAccessionNo": "2001.35.3843",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Police officers in uniforms entering church, seen at an angle",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Police--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dd5d8b1f-cbf3-4b2f-8193-1800d5b3ecd6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18481,
+    "MulMultiMediaRef_key": 3837,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18481/sizes/6413-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Church buildings",
+        "Men",
+        "Police",
+        "Uniforms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "light",
+            "score": 0.322925243918864
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31563335666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3060311
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28820761
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26419756666666666
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2410672
+        }
+    ]
+}

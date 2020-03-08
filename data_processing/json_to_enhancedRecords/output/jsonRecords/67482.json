@@ -1,0 +1,115 @@
+{
+    "objectID": 67482,
+    "irn": 67482,
+    "ecatalogue_key": 53216,
+    "TitAccessionNo": "2001.35.53259",
+    "CreDateCreated": "c. 1950",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing trench coat and moustache, seated in front of light colored background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8ee8d127-efed-49e9-aae0-80252f0eb4a3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77613,
+    "MulMultiMediaRef_key": 53224,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77613/sizes/67482-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Clothing and dress"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.487830620340983
+        },
+        {
+            "keyword": "person",
+            "score": 0.429242753942871
+        },
+        {
+            "keyword": "male",
+            "score": 0.42759536722005204
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.4016978264322917
+        },
+        {
+            "keyword": "standing",
+            "score": 0.337561328612264
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.32928027796630865
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3083267333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2922751333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2844259
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2551506666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.24885457666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24731062
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "objectID": 17522,
+    "irn": 17522,
+    "ecatalogue_key": 9259,
+    "TitAccessionNo": "2001.35.9283",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Pittsburgh Courier reporter Hazel Garland seated at desk, with Frank Bolden seated in background, and Jessie Vann partially visible on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b778f57b-2e34-43b3-8fcd-6d21861b275c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25186,
+    "MulMultiMediaRef_key": 9267,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25186/sizes/17522-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Frank Bolden",
+        "Hazel Garland",
+        "Jessie Vann"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Pittsburgh courier"
+    ],
+    "keywords": [
+        {
+            "keyword": "Jessie Vann",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hazel Garland",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Frank Bolden",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30031389000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2732355
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2611594666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22834239999999997
+        },
+        {
+            "keyword": "communication",
+            "score": 0.224967676013387
+        }
+    ]
+}

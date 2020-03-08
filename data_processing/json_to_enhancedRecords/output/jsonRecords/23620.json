@@ -1,0 +1,104 @@
+{
+    "objectID": 23620,
+    "irn": 23620,
+    "ecatalogue_key": 13888,
+    "TitAccessionNo": "2001.35.13918",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boy wearing short sleeved shirt, seated in Harris studio with circular background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f4b5c25b-1354-41dd-b00c-cc1cf299d32c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31252,
+    "MulMultiMediaRef_key": 13896,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31252/sizes/23620-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris",
+            "short_name": "Harris"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30103576666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27250945666666665
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2627511
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25415516666666665
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2538807
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22273391333333334
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20079382333333332
+        }
+    ]
+}

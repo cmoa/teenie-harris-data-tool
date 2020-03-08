@@ -1,0 +1,107 @@
+{
+    "objectID": 33600,
+    "irn": 33600,
+    "ecatalogue_key": 21630,
+    "TitAccessionNo": "2001.35.21661",
+    "CreDateCreated": "1969",
+    "CreEarliestDate": "1969",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman, possibly Marie Jane Brown, wearing striped shirt, holding eyeglasses, and seated on wood trimmed sofa, in living room with wood paneling, geometric patterned curtain, and coffee table with magazines and ash trays, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "acb9edf2-cf4c-408f-a692-d23867e03f71",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40175,
+    "MulMultiMediaRef_key": 21638,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40175/sizes/33600-1680.jpg",
+    "date_timestamp_earliest": -31536000.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "Marie Jane Brown"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Women",
+        "Living rooms",
+        "Living room furniture"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.41410393216959634
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.367058729123942
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Living room furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3127897333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29030638999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28001371999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2648532333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2587450333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24535864666666665
+        },
+        {
+            "keyword": "room",
+            "score": 0.22606971740722667
+        }
+    ]
+}

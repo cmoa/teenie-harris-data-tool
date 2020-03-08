@@ -1,0 +1,113 @@
+{
+    "objectID": 67264,
+    "irn": 67264,
+    "ecatalogue_key": 52936,
+    "TitAccessionNo": "2001.35.52979",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of fourteen young women bathing caps, in swimming pool decorated with bunting and balloons",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "aaef8860-e005-40c6-8d96-d5dc998c8434",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77717,
+    "MulMultiMediaRef_key": 52944,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77717/sizes/67264-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Swimming pools",
+        "Teenagers",
+        "Portraits, Group",
+        "Women",
+        "Bathing suits"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.43384803857828763
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Teenagers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathing suits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3160968
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3038667666666667
+        },
+        {
+            "keyword": "reflection",
+            "score": 0.2871763471659344
+        },
+        {
+            "keyword": "sky",
+            "score": 0.285635308610026
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27867762333333335
+        },
+        {
+            "keyword": "river",
+            "score": 0.26995648166015634
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25973783333333333
+        },
+        {
+            "keyword": "wave",
+            "score": 0.25383237883931475
+        },
+        {
+            "keyword": "water bird",
+            "score": 0.24753526666666667
+        }
+    ]
+}

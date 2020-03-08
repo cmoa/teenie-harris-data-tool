@@ -1,0 +1,115 @@
+{
+    "objectID": 19594,
+    "irn": 19594,
+    "ecatalogue_key": 10657,
+    "TitAccessionNo": "2001.35.10683",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd of people in Point State Park, with American and Pennsylvania state flags overhead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Point State Park (Pittsburgh, Pa.)Flags--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8da55145-7b15-422e-979b-fe0af045c7fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21162,
+    "MulMultiMediaRef_key": 10665,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21162/sizes/19594-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Point State Park",
+            "short_name": "Point State Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Flags",
+            "short_name": "Pa.)Flags"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Flags",
+        "American",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "structure",
+            "score": 0.3778556587797037
+        },
+        {
+            "keyword": "sky",
+            "score": 0.3463368992696127
+        },
+        {
+            "keyword": "water",
+            "score": 0.33724103716837567
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Point State Park",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Point State Park ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3055155333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27348878
+        },
+        {
+            "keyword": "city",
+            "score": 0.271136206451416
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2482858
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2387221594748943
+        }
+    ]
+}

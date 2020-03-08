@@ -1,0 +1,84 @@
+{
+    "objectID": 21819,
+    "irn": 21819,
+    "ecatalogue_key": 12470,
+    "TitAccessionNo": "2001.35.12500",
+    "CreDateCreated": "c. 1960-1970",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men and three women seated at banquet table in Loendi Club with rose and square patterned carpeting and horizontal banks of windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e6ef15aa-b2fb-4034-b55a-13a1f172c0f6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28057,
+    "MulMultiMediaRef_key": 12478,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28057/sizes/21819-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Loendi Club",
+            "short_name": "Loendi Club"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28917579
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27267178
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24585330000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22115951666666667
+        }
+    ]
+}

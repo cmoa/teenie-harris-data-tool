@@ -1,0 +1,100 @@
+{
+    "objectID": 21515,
+    "irn": 21515,
+    "ecatalogue_key": 12190,
+    "TitAccessionNo": "2001.35.12220",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding hat, kissing woman on cheek, with another woman wearing polka-dot dress looking on laughing, and United Airline airplanes in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Allegheny County.Women--Pennsylvania--Allegheny County.Airplanes--Pennsylvania--Allegheny County.",
+    "AdmGUIDValue_tab": "7f3470eb-2c9c-4460-be47-f8a7374b3ba5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27816,
+    "MulMultiMediaRef_key": 12198,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27816/sizes/21515-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Allegheny County",
+            "short_name": "Allegheny County"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "United Airlines",
+        "Women",
+        "Airplanes"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.42761709497558603
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "United Airline",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Airplanes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30880061666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3056708472401937
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2908241166666667
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2905248221720376
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28450932
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24513906666666666
+        }
+    ]
+}

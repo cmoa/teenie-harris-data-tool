@@ -1,0 +1,86 @@
+{
+    "objectID": 22325,
+    "irn": 22325,
+    "ecatalogue_key": 12955,
+    "TitAccessionNo": "2001.35.12985",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Bricks falling from street down hillside, with makeshift fence, and truck in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Streets--Pennsylvania--Pittsburgh.Trucks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3e2a633d-145f-4c78-b1c3-5e5ff6d2936f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29012,
+    "MulMultiMediaRef_key": 12963,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29012/sizes/22325-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Streets",
+        "Trucks"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.35282675970052074
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trucks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31214006666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29057883333333334
+        },
+        {
+            "keyword": "wood",
+            "score": 0.26777145808715835
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26298736666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2549439666666667
+        },
+        {
+            "keyword": "water",
+            "score": 0.24439487532267254
+        }
+    ]
+}

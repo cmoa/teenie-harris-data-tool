@@ -1,0 +1,95 @@
+{
+    "objectID": 22511,
+    "irn": 22511,
+    "ecatalogue_key": 13150,
+    "TitAccessionNo": "2001.35.13180",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of photograph of two women and a child, with trees and building in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "20a5f62d-4762-4b6c-8885-5adfae955c48",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 28821,
+    "MulMultiMediaRef_key": 13158,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28821/sizes/22511-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Children",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31691314666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30763062
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28806211666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2621289
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2603997666666667
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.25358088666666667
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.22724014666666667
+        }
+    ]
+}

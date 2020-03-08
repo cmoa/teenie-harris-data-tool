@@ -1,0 +1,95 @@
+{
+    "objectID": 22540,
+    "irn": 22540,
+    "ecatalogue_key": 13160,
+    "TitAccessionNo": "2001.35.13190",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men, and five women wearing hats, gathered at table covered with papers, in interior with high wood wainscoting and doors in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "18dd49c1-7398-4098-9a62-d37e57823052",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29165,
+    "MulMultiMediaRef_key": 13168,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29165/sizes/22540-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 9,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Hats"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.45448039910888666
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28317062
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2781847333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23194855333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22857465333333335
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22388756666666665
+        },
+        {
+            "keyword": "event",
+            "score": 0.21937826666666668
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21449635934183764
+        }
+    ]
+}

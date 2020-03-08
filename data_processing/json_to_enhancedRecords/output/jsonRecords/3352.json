@@ -1,0 +1,114 @@
+{
+    "objectID": 3352,
+    "irn": 3352,
+    "ecatalogue_key": 1910,
+    "TitAccessionNo": "2001.35.1913",
+    "CreDateCreated": "c. 1940-1970",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man playing drums, \"Donnee G\" on bass drum",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d8f188c8-3d44-4c26-80ab-32488167a0ab",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16245,
+    "MulMultiMediaRef_key": 1912,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16245/sizes/3352-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "drum",
+            "score": 0.43474630223795563
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29856731333333336
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.27805853333333336
+        },
+        {
+            "keyword": "drums",
+            "score": 0.27263296666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26959266666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2523417
+        },
+        {
+            "keyword": "bass drum",
+            "score": 0.24512246666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24114467666666664
+        },
+        {
+            "keyword": "music",
+            "score": 0.22114579999999998
+        },
+        {
+            "keyword": "skin head percussion instrument",
+            "score": 0.22045846666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21884731333333332
+        },
+        {
+            "keyword": "drummer",
+            "score": 0.21372904333333334
+        },
+        {
+            "keyword": "tom tom drum",
+            "score": 0.20431331666666666
+        }
+    ]
+}

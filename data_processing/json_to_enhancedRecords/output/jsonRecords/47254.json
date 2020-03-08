@@ -1,0 +1,102 @@
+{
+    "objectID": 47254,
+    "irn": 47254,
+    "ecatalogue_key": 34282,
+    "TitAccessionNo": "2001.35.34317",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit and striped tie, standing behind carved wooden chair, in interior with circular serving platter in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70d30bee-0d8f-4330-abd6-f4c4818d075b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53829,
+    "MulMultiMediaRef_key": 34290,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53829/sizes/47254-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44117657643554703
+        },
+        {
+            "keyword": "person",
+            "score": 0.43848047939860035
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.363924649342041
+        },
+        {
+            "keyword": "standing",
+            "score": 0.338173327191162
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29021501666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2756501433333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2726712
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.24742613333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24137730000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23036990000000002
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "objectID": 7314,
+    "irn": 7314,
+    "ecatalogue_key": 4454,
+    "TitAccessionNo": "2001.35.4463",
+    "CreDateCreated": "c. 1966",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of women and two men seated in classroom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Skirts--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d7c20e67-3cd7-4ce8-a9ac-628cd830ae79",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19044,
+    "MulMultiMediaRef_key": 4457,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19044/sizes/7314-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Classrooms",
+        "Men",
+        "Desks",
+        "Women",
+        "Skirts"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.42800185490804027
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.3997156033984373
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Skirts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2537552
+        },
+        {
+            "keyword": "institution",
+            "score": 0.24082946666666669
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22162357861348467
+        },
+        {
+            "keyword": "class",
+            "score": 0.2095112558349609
+        },
+        {
+            "keyword": "drum",
+            "score": 0.20385070800781266
+        }
+    ]
+}

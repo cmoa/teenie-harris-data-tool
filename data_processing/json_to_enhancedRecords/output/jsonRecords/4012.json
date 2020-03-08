@@ -1,0 +1,121 @@
+{
+    "objectID": 4012,
+    "irn": 4012,
+    "ecatalogue_key": 2277,
+    "TitAccessionNo": "2001.35.2280",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Dilapidated interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Doorways--Pennsylvania--Pittsburgh.Ceilings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ea5fdbbd-130f-4b69-8e3d-6229c889c75b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16700,
+    "MulMultiMediaRef_key": 2279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16700/sizes/4012-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Ceilings",
+        "Doorways",
+        "Interior architecture",
+        "Interiors",
+        "Doors"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.386342591743978
+        },
+        {
+            "keyword": "wall",
+            "score": 0.340621629218343
+        },
+        {
+            "keyword": "Ceilings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doorways",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "garage",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "structure",
+            "score": 0.330187777619222
+        },
+        {
+            "keyword": "house",
+            "score": 0.324561381031494
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3126166866666667
+        },
+        {
+            "keyword": "light",
+            "score": 0.30647525468037934
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29605563333333335
+        },
+        {
+            "keyword": "window",
+            "score": 0.27427477634684233
+        },
+        {
+            "keyword": "wood",
+            "score": 0.273681831624349
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2729221333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24822193333333334
+        },
+        {
+            "keyword": "concrete",
+            "score": 0.20997260662556969
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 43004,
+    "irn": 43004,
+    "ecatalogue_key": 30298,
+    "TitAccessionNo": "2001.35.30331",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark three piece suit, and eyeglasses, seated in armchair beside window, in interior with mirror on left, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cfedd1c6-2c2e-44b5-b32b-13fff0919066",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49641,
+    "MulMultiMediaRef_key": 30306,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49641/sizes/43004-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.44032370448404934
+        },
+        {
+            "keyword": "man",
+            "score": 0.4383065502270507
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.35316473669413234
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31962729544270835
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31452183212178536
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.297436
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2839822766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.27015820827026366
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26807353333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26560235
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23893330428568535
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22980813333333336
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20584170000000002
+        }
+    ]
+}

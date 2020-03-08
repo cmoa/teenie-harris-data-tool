@@ -1,0 +1,101 @@
+{
+  "objectID": 22475,
+  "irn": 22475,
+  "ecatalogue_key": 13132,
+  "TitAccessionNo": "2001.35.13162",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at banquet tables with number cards, long head table in background, in banquet hall or hotel ballroom",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "df0d9d82-48ab-4acf-9c36-cf7d896cbd4a",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30491/sizes/22475-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 21,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29981613333333335
+    },
+    {
+      "keyword": "event",
+      "score": 0.29352917849629734
+    },
+    {
+      "keyword": "function hall",
+      "score": 0.2744648333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2681465533333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2680436666666667
+    },
+    {
+      "keyword": "ceremony",
+      "score": 0.26503899999999997
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.23757681291097
+    },
+    {
+      "keyword": "wedding",
+      "score": 0.21025066666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.20083886666666664
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30491/sizes/22475-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30491/sizes/22475-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

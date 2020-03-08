@@ -1,0 +1,113 @@
+{
+  "objectID": 58365,
+  "irn": 58365,
+  "ecatalogue_key": 44486,
+  "TitAccessionNo": "2001.35.44529",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a man wearing a light colored lab coat, standing at work table in chemistry lab with light colored walls and glass block windows with blinds",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Glass blocks--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Blinds--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4804772d-7e40-4d8e-958e-d642db937b40",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66352/sizes/58365-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Blinds",
+    "Interior architecture",
+    "Laboratories",
+    "Glass blocks",
+    "Men",
+    "Interiors",
+    "Windows",
+    "Portraits"
+  ],
+  "keywords": [
+    {
+      "keyword": "Blinds",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Laboratories",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Glass blocks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Windows",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3018944866666667
+    },
+    {
+      "keyword": "factory",
+      "score": 0.26125258073669433
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.24982311333333332
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23198576666666668
+    },
+    {
+      "keyword": "engineering",
+      "score": 0.21184364114563
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66352/sizes/58365-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66352/sizes/58365-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+    "objectID": 7465,
+    "irn": 7465,
+    "ecatalogue_key": 4567,
+    "TitAccessionNo": "2001.35.4576",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Press safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a seated woman in floral top with lace collar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dresses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d63aff5d-8c35-40ee-89f8-3b77a2e29cec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20105,
+    "MulMultiMediaRef_key": 4570,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20105/sizes/7465-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hairstyles",
+        "Dresses",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.386352625756836
+        },
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dresses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32361108250223797
+        },
+        {
+            "keyword": "smile",
+            "score": 0.32230118853841133
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.316445842244466
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.31235616666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30391361333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.28685489999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28503108
+        },
+        {
+            "keyword": "human",
+            "score": 0.281266747345988
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27932214666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2448646
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22675163333333334
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.21199558333333335
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20607313333333332
+        }
+    ]
+}

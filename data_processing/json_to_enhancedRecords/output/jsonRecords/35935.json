@@ -1,0 +1,106 @@
+{
+    "objectID": 35935,
+    "irn": 35935,
+    "ecatalogue_key": 23578,
+    "TitAccessionNo": "2001.35.23609",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Seven men, including man wearing three piece suit, leaning on desk, gathered around desk in interior with cross and globe near window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c63f8de8-a1dd-400b-bb58-90e7cbfdfb10",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42137,
+    "MulMultiMediaRef_key": 23586,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42137/sizes/35935-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Church buildings",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44780004187011735
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31790429697672534
+        },
+        {
+            "keyword": "table",
+            "score": 0.300695403902181
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29447246666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27581062
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2532113145843506
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25231578
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23837278333333334
+        },
+        {
+            "keyword": "family",
+            "score": 0.23764644247639966
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.23472223333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20473680000000002
+        }
+    ]
+}

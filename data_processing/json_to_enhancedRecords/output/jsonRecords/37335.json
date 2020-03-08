@@ -1,0 +1,119 @@
+{
+    "objectID": 37335,
+    "irn": 37335,
+    "ecatalogue_key": 24895,
+    "TitAccessionNo": "2001.35.24927",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling woman wearing V neck, long sleeved top with bow, posed seated in chair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "096ef53a-253d-4c8e-926a-24fb609f0bdf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43504,
+    "MulMultiMediaRef_key": 24903,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43504/sizes/37335-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Living rooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4221258069498697
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.350865918778483
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3444408295206707
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "lady",
+            "score": 0.327642495119222
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.3113029
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31105601666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.3004605931569417
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.296944
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27388593333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2643754407692464
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24718662
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2042611666666667
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20182718666666666
+        }
+    ]
+}

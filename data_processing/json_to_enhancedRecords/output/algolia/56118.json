@@ -1,0 +1,134 @@
+{
+  "objectID": 56118,
+  "irn": 56118,
+  "ecatalogue_key": 42735,
+  "TitAccessionNo": "2001.35.42777",
+  "CreDateCreated": "c. 1954",
+  "CreEarliestDate": "1951",
+  "CreLatestDate": "1957",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a woman, wearing blouse with brooch at collar, and light colored skirt, standing in interior with light colored walls, wood post, and large object obstructing woman on left",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Blouses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "33aaa14e-debc-47e0-a98e-7fbca5facb7d",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64044/sizes/56118-1680.jpg",
+  "datetime": "1951-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Women",
+    "Interior architecture",
+    "Portraits",
+    "Interiors",
+    "Blouses"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.40220064856567367
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.3549424765820313
+    },
+    {
+      "keyword": "standing",
+      "score": 0.3483964259938557
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Blouses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.3164651320871989
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30180446666666666
+    },
+    {
+      "keyword": "human",
+      "score": 0.27978800477498367
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27974184333333335
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27484203333333335
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "smile",
+      "score": 0.2588332721791587
+    },
+    {
+      "keyword": "vintage clothing",
+      "score": 0.24179666666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23861152
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.23244802
+    },
+    {
+      "keyword": "girl",
+      "score": 0.20888703333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64044/sizes/56118-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64044/sizes/56118-210.jpg",
+  "date_timestamp_earliest": -599616000.0,
+  "date_timestamp_latest": -410227200.0,
+  "decades": [
+    "1950s"
+  ]
+}

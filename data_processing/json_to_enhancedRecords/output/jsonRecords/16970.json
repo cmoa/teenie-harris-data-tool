@@ -1,0 +1,111 @@
+{
+    "objectID": 16970,
+    "irn": 16970,
+    "ecatalogue_key": 8833,
+    "TitAccessionNo": "2001.35.8855",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man with six boys and young men aiming guns, beside municipal steps and houses, with snow",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Firearms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8952c8fb-03df-412d-b90a-8441a636761b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25063,
+    "MulMultiMediaRef_key": 8841,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25063/sizes/16970-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Boys",
+        "Firearms"
+    ],
+    "keywords": [
+        {
+            "keyword": "snow",
+            "score": 0.40387992034505205
+        },
+        {
+            "keyword": "winter",
+            "score": 0.3806828535750327
+        },
+        {
+            "keyword": "tree",
+            "score": 0.3639595823059083
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Firearms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3050944
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26519566666666666
+        },
+        {
+            "keyword": "uniform",
+            "score": 0.2619519805908203
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2613969333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24144317666666668
+        },
+        {
+            "keyword": "freezing",
+            "score": 0.22809289
+        },
+        {
+            "keyword": "troop",
+            "score": 0.22483742333333334
+        },
+        {
+            "keyword": "soldier",
+            "score": 0.21856790081888833
+        },
+        {
+            "keyword": "militia",
+            "score": 0.21566726666666666
+        }
+    ]
+}

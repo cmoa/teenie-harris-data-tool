@@ -1,0 +1,99 @@
+{
+    "objectID": 31010,
+    "irn": 31010,
+    "ecatalogue_key": 19038,
+    "TitAccessionNo": "2001.35.19068",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing clerical collar and robe, standing at pulpit with hymn board reading \"Hymns 339, 172\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3c85c960-8c6d-4c45-858e-62a7103ad461",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36727,
+    "MulMultiMediaRef_key": 19046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36727/sizes/31010-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "22L\n6EE\nSNWAH\nKODAK SAFETY FILM\n6\n",
+    "subjects": [
+        "Portraits",
+        "Clergy",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31666256146647137
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31175153333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29227563333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28213913333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26683093333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2538210166666667
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.20554018
+        }
+    ]
+}

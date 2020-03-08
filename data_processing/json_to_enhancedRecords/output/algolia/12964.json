@@ -1,0 +1,109 @@
+{
+  "objectID": 12964,
+  "irn": 12964,
+  "ecatalogue_key": 6651,
+  "TitAccessionNo": "2001.35.6666",
+  "CreDateCreated": "May 1960",
+  "CreEarliestDate": "1960-05-01",
+  "CreLatestDate": "1960-05-21",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three men posed in USS Triton nuclear submarine",
+  "CatSubject_tab": "Men--Connecticut.Military uniforms--Connecticut.Submarines (Ships).",
+  "AdmGUIDValue_tab": "27eda8a9-f38f-4659-a79d-e584c67d03d7",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22727/sizes/12964-1680.jpg",
+  "datetime": "1960-05-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "South Center Street",
+      "short_name": "S Center St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Windsor Locks",
+      "short_name": "Windsor Locks"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Hartford County",
+      "short_name": "Hartford County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Connecticut",
+      "short_name": "CT"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "KODAK SAFETYFILM\n3\n",
+  "subjects": [
+    "Military uniforms",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Submarines ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Military uniforms",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "USS Triton",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31168826666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.292221
+    },
+    {
+      "keyword": "standing",
+      "score": 0.28864765619710303
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27451363333333334
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25545865333333334
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.2227817
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22727/sizes/12964-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22727/sizes/12964-210.jpg",
+  "date_timestamp_earliest": -305164800.0,
+  "date_timestamp_latest": -303436800.0,
+  "decades": [
+    "1960s"
+  ]
+}

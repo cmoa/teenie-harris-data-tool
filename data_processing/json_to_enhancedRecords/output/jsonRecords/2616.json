@@ -1,0 +1,92 @@
+{
+    "objectID": 2616,
+    "irn": 2616,
+    "ecatalogue_key": 1214,
+    "TitAccessionNo": "2001.35.1216",
+    "CreDateCreated": "c. 1955-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Children drawing and painting in art studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Drawing--Pennsylvania--Pittsburgh.Painting--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "56fc0816-844f-4e78-bbc0-c48ea51f6231",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15568,
+    "MulMultiMediaRef_key": 1216,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15568/sizes/2616-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Children",
+        "Drawing",
+        "Painting",
+        "Classrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drawing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Painting",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30270554666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2786727
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.266381205291748
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2628149
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24099513333333333
+        }
+    ]
+}

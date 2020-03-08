@@ -1,0 +1,111 @@
+{
+    "objectID": 25782,
+    "irn": 25782,
+    "ecatalogue_key": 15596,
+    "TitAccessionNo": "2001.35.15626",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, one wearing bow tie, seated at desk with telephone and copy of Business Week magazine",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f9240e57-6a3d-4b45-9393-b796994508cb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32077,
+    "MulMultiMediaRef_key": 15604,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32077/sizes/25782-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Telephone",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "professional",
+            "score": 0.38130146745605464
+        },
+        {
+            "keyword": "suit",
+            "score": 0.3354921484354653
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Business Week",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.3187339847009277
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.28622865203857434
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27965728333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27628844999999996
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24209706666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22356311333333334
+        },
+        {
+            "keyword": "office",
+            "score": 0.217661412556966
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20432104666666664
+        },
+        {
+            "keyword": "businessperson",
+            "score": 0.20269908949361168
+        }
+    ]
+}

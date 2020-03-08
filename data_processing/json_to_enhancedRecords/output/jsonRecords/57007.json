@@ -1,0 +1,109 @@
+{
+    "objectID": 57007,
+    "irn": 57007,
+    "ecatalogue_key": 43631,
+    "TitAccessionNo": "2001.35.43673",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman wearing dark suits standing at head of classroom with girls and boys, including boy wearing light colored suit seated in foreground, with snowflake decorations and painting of Conestoga wagons, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Classrooms--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5aa47ca6-d9c1-4ff3-bd0d-e2515a2df14e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65114,
+    "MulMultiMediaRef_key": 43639,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65114/sizes/57007-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Conestoga",
+            "short_name": "Conestoga"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 40,
+    "google_text_in_image": "",
+    "subjects": [
+        "Classrooms",
+        "Women",
+        "Boys",
+        "Girls",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.5403143354736327
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.46314460118815104
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.25152035666666667
+        },
+        {
+            "keyword": "institution",
+            "score": 0.24099264666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.228084818633016
+        },
+        {
+            "keyword": "class",
+            "score": 0.21405154333333332
+        }
+    ]
+}

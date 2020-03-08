@@ -1,0 +1,102 @@
+{
+    "objectID": 56726,
+    "irn": 56726,
+    "ecatalogue_key": 43236,
+    "TitAccessionNo": "2001.35.43278",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing moustache and long dark robe, with darker trim, and full cuffed sleeves, standing at podium, in church with pipe organ",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7e20387e-1634-478e-b8e5-9d57722bf16e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65260,
+    "MulMultiMediaRef_key": 43244,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65260/sizes/56726-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Organs",
+        "Microphone",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.343249016946411
+        },
+        {
+            "keyword": "Organs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Microphone",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27908162333333336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27752328
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27029573333333334
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25668773333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21407026666666665
+        }
+    ]
+}

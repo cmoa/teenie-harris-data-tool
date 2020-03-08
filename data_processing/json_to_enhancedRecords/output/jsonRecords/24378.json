@@ -1,0 +1,87 @@
+{
+    "objectID": 24378,
+    "irn": 24378,
+    "ecatalogue_key": 14467,
+    "TitAccessionNo": "2001.35.14497",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men seated in pews of small church with arched stained glass windows, seen from right of altar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2c22d693-c987-49b4-a126-e5214c0ef0b8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30725,
+    "MulMultiMediaRef_key": 14475,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30725/sizes/24378-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 30,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29104922333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2658142333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23629156666666665
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.2265283203125
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2156719566666667
+        },
+        {
+            "keyword": "audience",
+            "score": 0.20126033855489098
+        }
+    ]
+}

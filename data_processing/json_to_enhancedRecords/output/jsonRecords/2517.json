@@ -1,0 +1,116 @@
+{
+    "objectID": 2517,
+    "irn": 2517,
+    "ecatalogue_key": 1115,
+    "TitAccessionNo": "2001.35.1117",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men looking at paintings in exhibition at Halfway Art Gallery",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Art exhibitions--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Halfway Art Gallery (Pittsburgh, PA.)Sculpture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5b828d06-e394-4a5e-ac03-6a680ad571f7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15543,
+    "MulMultiMediaRef_key": 1117,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15543/sizes/2517-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Halfway Art Gallery",
+            "short_name": "Halfway Art Gallery"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Sculpture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Halfway Art Gallery",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Sculpture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Halfway Art Gallery ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Art exhibitions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30819448
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27941028333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2738996533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "exhibition",
+            "score": 0.26974723333333334
+        },
+        {
+            "keyword": "art",
+            "score": 0.2640396333333333
+        },
+        {
+            "keyword": "art gallery",
+            "score": 0.24998812
+        },
+        {
+            "keyword": "art exhibition",
+            "score": 0.24886326666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2399727
+        }
+    ]
+}

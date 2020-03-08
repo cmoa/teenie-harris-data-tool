@@ -1,0 +1,130 @@
+{
+  "objectID": 25389,
+  "irn": 25389,
+  "ecatalogue_key": 15323,
+  "TitAccessionNo": "2001.35.15353",
+  "CreDateCreated": "1969",
+  "CreEarliestDate": "1969",
+  "CreLatestDate": "1969",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man, possibly Reverend Williams, posed in living room with ornately carved table, and carved figures on wall",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "914e47a6-d476-48ef-bce5-10ca626e632f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31703/sizes/25389-1680.jpg",
+  "datetime": "1969-01-01 00:00:00",
+  "people": [
+    "Williams"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits",
+    "Williams",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.49745530660807297
+    },
+    {
+      "keyword": "suit",
+      "score": 0.4405912280403646
+    },
+    {
+      "keyword": "person",
+      "score": 0.43552460450439473
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.3433287763020833
+    },
+    {
+      "keyword": "standing",
+      "score": 0.3403472960713703
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Williams",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "executive",
+      "score": 0.3043326314290363
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2934262
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.2827736
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27847343333333335
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25703148000000003
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23561356666666666
+    },
+    {
+      "keyword": "facial hair",
+      "score": 0.2233375333333333
+    },
+    {
+      "keyword": "businessman",
+      "score": 0.21805959065755198
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31703/sizes/25389-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31703/sizes/25389-210.jpg",
+  "date_timestamp_earliest": -31536000.0,
+  "date_timestamp_latest": -31536000.0,
+  "decades": [
+    "1960s"
+  ]
+}

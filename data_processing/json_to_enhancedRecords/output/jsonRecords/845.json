@@ -1,0 +1,90 @@
+{
+    "objectID": 845,
+    "irn": 845,
+    "ecatalogue_key": 72,
+    "TitAccessionNo": "2001.35.74",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd on basketball court, seen from above",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6d27bec8-9b30-4c01-bfff-ff76bcbb0b06",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14996,
+    "MulMultiMediaRef_key": 72,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14996/sizes/845-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Gymnasiums",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.38852102685953765
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.3525599924875895
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.31879563333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2685197
+        },
+        {
+            "keyword": "event",
+            "score": 0.23537670518798828
+        },
+        {
+            "keyword": "convention",
+            "score": 0.21838758333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21362885
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.20247564951578767
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 6278,
+    "irn": 6278,
+    "ecatalogue_key": 3716,
+    "TitAccessionNo": "2001.35.3725",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man seated at grand piano",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0087b4f7-6fc8-47f4-8001-fad23e500ec4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19154,
+    "MulMultiMediaRef_key": 3719,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19154/sizes/6278-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Musicians",
+        "Portraits",
+        "Men",
+        "Neckties",
+        "Interior architecture",
+        "Interiors",
+        "Draperies"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.3538052927693684
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Neckties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Curtains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31183826666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2903904666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28172298333333334
+        },
+        {
+            "keyword": "technology",
+            "score": 0.2632512334482829
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2425552
+        },
+        {
+            "keyword": "product design",
+            "score": 0.20575068333333335
+        }
+    ]
+}

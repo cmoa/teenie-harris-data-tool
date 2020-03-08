@@ -1,0 +1,99 @@
+{
+    "objectID": 40667,
+    "irn": 40667,
+    "ecatalogue_key": 28052,
+    "TitAccessionNo": "2001.35.28084",
+    "CreDateCreated": "c. 1943",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1948",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark three piece pinstriped suit and plaid tie, seated at keyboard, surrounded by printing equipment",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Printing presses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4333e71d-6136-4468-a918-f1e28d262421",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47351,
+    "MulMultiMediaRef_key": 28060,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47351/sizes/40667-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -694310400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Printing presses",
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "machine",
+            "score": 0.47823482905761727
+        },
+        {
+            "keyword": "factory",
+            "score": 0.3497896515625
+        },
+        {
+            "keyword": "Printing presses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "printer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "industry",
+            "score": 0.3175175716959637
+        },
+        {
+            "keyword": "engineering",
+            "score": 0.3115481016560873
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3020559333333333
+        },
+        {
+            "keyword": "technology",
+            "score": 0.2650980135679117
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25864756666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24500219999999998
+        }
+    ]
+}

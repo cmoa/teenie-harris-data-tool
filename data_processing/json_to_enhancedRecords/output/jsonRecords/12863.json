@@ -1,0 +1,95 @@
+{
+    "objectID": 12863,
+    "irn": 12863,
+    "ecatalogue_key": 6601,
+    "TitAccessionNo": "2001.35.6616",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Detective? reaching into coat pocket of another man outside jail cells, with other men watching",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Prisons--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a15e56a0-bb3b-4c89-94f4-5dfb10641826",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22759,
+    "MulMultiMediaRef_key": 6609,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22759/sizes/12863-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Prisons",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.37101053380126964
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Prisons",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29719103333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27728665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26662681666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2573467333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23676931999999998
+        },
+        {
+            "keyword": "house",
+            "score": 0.23434466974080403
+        }
+    ]
+}

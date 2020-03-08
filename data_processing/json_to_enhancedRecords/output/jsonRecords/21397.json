@@ -1,0 +1,108 @@
+{
+    "objectID": 21397,
+    "irn": 21397,
+    "ecatalogue_key": 12047,
+    "TitAccessionNo": "2001.35.12077",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man in Knights of Columbus uniform, standing in front of steps",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Secret societies--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b7f931c6-85f4-4cea-ad1f-f15204efe748",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27749,
+    "MulMultiMediaRef_key": 12055,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27749/sizes/21397-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Uniforms",
+        "Knights of Columbus",
+        "Secret societies",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3634176477659097
+        },
+        {
+            "keyword": "Uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Knights of Columbus",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Secret societies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3053783
+        },
+        {
+            "keyword": "street",
+            "score": 0.2872038351257324
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27362016666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26456946666666664
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.25089053333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24877950000000001
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23585056666666668
+        },
+        {
+            "keyword": "uniform",
+            "score": 0.23474159000000003
+        }
+    ]
+}

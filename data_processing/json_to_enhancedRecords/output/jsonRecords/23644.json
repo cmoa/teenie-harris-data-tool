@@ -1,0 +1,102 @@
+{
+    "objectID": 23644,
+    "irn": 23644,
+    "ecatalogue_key": 13903,
+    "TitAccessionNo": "2001.35.13933",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Little girl holding stuffed bear, seated on top of piano in living room with floral curtains and sofa",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a89be6ba-ed62-485a-8cfd-e374a74988fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30061,
+    "MulMultiMediaRef_key": 13911,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30061/sizes/23644-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.35115551562418634
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3116876
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28770840000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28332183333333333
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.27729559
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.25614487999999996
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2550668333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24955210000000003
+        },
+        {
+            "keyword": "window",
+            "score": 0.21182307817688004
+        }
+    ]
+}

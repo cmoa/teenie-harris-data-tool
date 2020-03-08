@@ -1,0 +1,104 @@
+{
+    "objectID": 53543,
+    "irn": 53543,
+    "ecatalogue_key": 40216,
+    "TitAccessionNo": "2001.35.40257",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored short sleeved shirt, laying bricks, in interior with stacks of bricks, brick wall, and large round metal pole",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Construction--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "35aa0ac6-e5d1-4a23-9646-28d6227cd664",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60961,
+    "MulMultiMediaRef_key": 40224,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60961/sizes/53543-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Brick walls",
+        "Construction",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.37642163282918295
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Brick walls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Construction",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31149146666666666
+        },
+        {
+            "keyword": "male",
+            "score": 0.30592110071146633
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2889753766666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28299488666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.2790006256947837
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2693995433333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24738513333333334
+        }
+    ]
+}

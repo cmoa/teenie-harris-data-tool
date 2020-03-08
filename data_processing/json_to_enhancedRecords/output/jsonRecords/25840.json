@@ -1,0 +1,111 @@
+{
+    "objectID": 25840,
+    "irn": 25840,
+    "ecatalogue_key": 15641,
+    "TitAccessionNo": "2001.35.15671",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five girls, three wearing eyeglasses, holding books and standing on steps of school building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Schoolchildren--Pennsylvania--Pittsburgh.School buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9ea4dec0-229d-4114-af5d-61b7cee70f8b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32117,
+    "MulMultiMediaRef_key": 15649,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32117/sizes/25840-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "School buildings",
+        "School children",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.33362320334859197
+        },
+        {
+            "keyword": "School buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Schoolchildren",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3046612
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2957421
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2739165666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2616800866666667
+        },
+        {
+            "keyword": "family",
+            "score": 0.25250663269144696
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24876357999999998
+        },
+        {
+            "keyword": "girl",
+            "score": 0.24401793333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2310749
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22947538
+        },
+        {
+            "keyword": "street",
+            "score": 0.21640124696044924
+        }
+    ]
+}

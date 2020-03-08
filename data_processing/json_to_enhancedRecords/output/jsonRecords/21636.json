@@ -1,0 +1,83 @@
+{
+    "objectID": 21636,
+    "irn": 21636,
+    "ecatalogue_key": 12284,
+    "TitAccessionNo": "2001.35.12314",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men seated at rectangular wooden tables for banquet, woman in center wearing dress with flamingos",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Courthouses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "77e5c72c-3d09-4537-a980-7972d81153b6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28306,
+    "MulMultiMediaRef_key": 12292,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28306/sizes/21636-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 29,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Courthouses",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Courthouses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2722137333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2661958
+        },
+        {
+            "keyword": "communication",
+            "score": 0.246913985707601
+        },
+        {
+            "keyword": "event",
+            "score": 0.22755132
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2062359
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "objectID": 16748,
+    "irn": 16748,
+    "ecatalogue_key": 8614,
+    "TitAccessionNo": "2001.35.8636",
+    "CreDateCreated": "c. 1955-1975",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "One woman has large, multiple strands of pearls around her neck.",
+    "TitMainTitle": "Group portrait of three men, including Joe Palmer on left, and man in center wearing plaid jacket, and two women, seated at table with food, in interior with large windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a99d2755-0c29-415e-ac07-eb70d6b1f0f2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24366,
+    "MulMultiMediaRef_key": 8622,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24366/sizes/16748-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Joe Palmer"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "KODAK SAFETYFILM\n",
+    "subjects": [
+        "Men",
+        "Food",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Joe Palmer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27950576666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27668271333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.26148070010782876
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2286198
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.219867
+        },
+        {
+            "keyword": "fun",
+            "score": 0.205431
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2048768333333333
+        }
+    ]
+}

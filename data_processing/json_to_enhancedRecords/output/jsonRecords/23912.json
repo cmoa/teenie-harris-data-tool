@@ -1,0 +1,99 @@
+{
+    "objectID": 23912,
+    "irn": 23912,
+    "ecatalogue_key": 14093,
+    "TitAccessionNo": "2001.35.14123",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of four women wearing corsages, standing behind table with plates, jars, and serving dishes",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fa24c17d-4e79-454c-82b4-9ec96c2d7c37",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30353,
+    "MulMultiMediaRef_key": 14101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30353/sizes/23912-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Food",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30552488666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.283097
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2733444333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2712967028462728
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25716330835367834
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24510178999999999
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2314357879933675
+        },
+        {
+            "keyword": "girl",
+            "score": 0.22158153333333333
+        }
+    ]
+}

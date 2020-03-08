@@ -1,0 +1,128 @@
+{
+    "objectID": 23440,
+    "irn": 23440,
+    "ecatalogue_key": 13784,
+    "TitAccessionNo": "2001.35.13814",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Howard McKinney, wearing suit and necktie with diamond pattern, with blinds at window in background, possibly Hill City",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.McKinney, Howard.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a0198355-9296-494c-8a5c-9b15f0cf9e79",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29883,
+    "MulMultiMediaRef_key": 13792,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29883/sizes/23440-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Howard McKinney"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill City",
+            "short_name": "Hill City"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "McKinney",
+            "short_name": "McKinney"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4990122954085287
+        },
+        {
+            "keyword": "person",
+            "score": 0.4824025001993817
+        },
+        {
+            "keyword": "male",
+            "score": 0.422530133601888
+        },
+        {
+            "keyword": "standing",
+            "score": 0.34189044679565433
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Howard McKinney",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "McKinney, Howard",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2998368548828127
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28570785
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2829389929901123
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2828657
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25161313333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23010124666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21750591333333333
+        }
+    ]
+}

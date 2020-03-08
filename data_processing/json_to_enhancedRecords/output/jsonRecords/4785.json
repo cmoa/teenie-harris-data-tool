@@ -1,0 +1,115 @@
+{
+    "objectID": 4785,
+    "irn": 4785,
+    "ecatalogue_key": 2772,
+    "TitAccessionNo": "2001.35.2777",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing tuxedo with snap tie, standing in interior with light colored walls and geometric patterned floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "95739fa4-a1c1-47dc-b3e3-17df15b4091e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17123,
+    "MulMultiMediaRef_key": 2774,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17123/sizes/4785-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Suits (Clothing)"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6604091333333333
+        },
+        {
+            "keyword": "man",
+            "score": 0.4451972802693683
+        },
+        {
+            "keyword": "standing",
+            "score": 0.40242720761515294
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.3167071533333333
+        },
+        {
+            "keyword": "fashion",
+            "score": 0.307767334107666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3040542333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2897110766666667
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.28588177666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28071638
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.280538
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.24071073333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22624956666666665
+        }
+    ]
+}

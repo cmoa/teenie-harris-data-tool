@@ -1,0 +1,83 @@
+{
+    "objectID": 42993,
+    "irn": 42993,
+    "ecatalogue_key": 30295,
+    "TitAccessionNo": "2001.35.30328",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and five women seated at rectangular table including woman on right wearing dark hat with light colored tulle detail, in interior with tall door and cross on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f498a3cd-9496-4fe4-a832-8de5c58a92d9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49638,
+    "MulMultiMediaRef_key": 30303,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49638/sizes/42993-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3087242666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.282153
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28142221666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24637025666666668
+        }
+    ]
+}

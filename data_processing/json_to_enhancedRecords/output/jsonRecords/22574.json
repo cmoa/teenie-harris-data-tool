@@ -1,0 +1,106 @@
+{
+    "objectID": 22574,
+    "irn": 22574,
+    "ecatalogue_key": 13179,
+    "TitAccessionNo": "2001.35.13209",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing eyeglasses and suit with pen in lapel pocket, with lamp and painting of Christ in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fefd4f41-a591-402b-b496-a037253ac489",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29185,
+    "MulMultiMediaRef_key": 13187,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29185/sizes/22574-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47461608007324235
+        },
+        {
+            "keyword": "suit",
+            "score": 0.38654331866048164
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33800754548339834
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31192208674723304
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.30195163333333336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29812677666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2820024
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27843809999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2627714666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24334143333333333
+        }
+    ]
+}

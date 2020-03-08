@@ -1,0 +1,103 @@
+{
+    "objectID": 5448,
+    "irn": 5448,
+    "ecatalogue_key": 3355,
+    "TitAccessionNo": "2001.35.3362",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women standing at the end of a bookshelf with Pittsburgh map in Carnegie Library of Pittsburgh Main branch",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.Carnegie Library of Pittsburgh.",
+    "AdmGUIDValue_tab": "14b8324b-0f73-48d6-b90b-61a7c93dfa44",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17702,
+    "MulMultiMediaRef_key": 3357,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17702/sizes/5448-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Books",
+        "Maps"
+    ],
+    "keywords": [
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Carnegie Library of Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Carnegie Library of Pittsburgh Main",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3062492666666667
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.28682136666666663
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2826825766666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2821202333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.26606134354512534
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23455613333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.23219967657877602
+        }
+    ]
+}

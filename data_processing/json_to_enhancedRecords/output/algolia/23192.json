@@ -1,0 +1,104 @@
+{
+  "objectID": 23192,
+  "irn": 23192,
+  "ecatalogue_key": 13601,
+  "TitAccessionNo": "2001.35.13631",
+  "CreDateCreated": "c. 1969",
+  "CreEarliestDate": "1966",
+  "CreLatestDate": "1972",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing apron and bow tie seated in chair, in interior with cinder block walls, house plants, and bank of horizontal windows",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "6f1c2695-3d6d-422d-a939-3a606a8a7f23",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29757/sizes/23192-1680.jpg",
+  "datetime": "1966-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "KODAK SAFETYFILM\n6\n",
+  "subjects": [
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "sitting",
+      "score": 0.35893611766357436
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3067528
+    },
+    {
+      "keyword": "furniture",
+      "score": 0.30343895151652034
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28278029
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2751730866666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "table",
+      "score": 0.26317150998535166
+    },
+    {
+      "keyword": "standing",
+      "score": 0.24697868
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24400206666666668
+    },
+    {
+      "keyword": "human",
+      "score": 0.23693383333333332
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.20009886666666665
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29757/sizes/23192-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29757/sizes/23192-210.jpg",
+  "date_timestamp_earliest": -126230400.0,
+  "date_timestamp_latest": 63072000.0,
+  "decades": []
+}

@@ -1,0 +1,127 @@
+{
+    "objectID": 35051,
+    "irn": 35051,
+    "ecatalogue_key": 22759,
+    "TitAccessionNo": "2001.35.22790",
+    "CreDateCreated": "1966",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman wearing dark belted dress, light colored gloves, and necklace of multiple strands of pearls or beads, standing at base of stairs outside of Webster Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c2ff17bc-9286-4afe-8348-a0b5e9fbe382",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41228,
+    "MulMultiMediaRef_key": 22767,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41228/sizes/35051-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Webster Hall",
+            "short_name": "Webster Hall"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Stairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.34473840006998696
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Webster Hall",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Webster Hall ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3084538333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2971787
+        },
+        {
+            "keyword": "wall",
+            "score": 0.2903821103383382
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28700135
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2852523666666667
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2792254422196451
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26250322053324365
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2532388666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24556333333333333
+        }
+    ]
+}

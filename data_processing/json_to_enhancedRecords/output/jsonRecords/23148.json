@@ -1,0 +1,104 @@
+{
+    "objectID": 23148,
+    "irn": 23148,
+    "ecatalogue_key": 13592,
+    "TitAccessionNo": "2001.35.13622",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of ten women and five men, with front row seated on metal folding chairs, in room with horizontal windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "481e263c-3152-4ae1-b4c9-743f98c7e944",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29641,
+    "MulMultiMediaRef_key": 13600,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29641/sizes/23148-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "KODAK SAFETY\nFILM\nKODAK SAFETY\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.44425673946126293
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.32554096666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29841806666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27442658000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "room",
+            "score": 0.27087636311848967
+        },
+        {
+            "keyword": "family",
+            "score": 0.26949284333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2653316866666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22693156666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20849243333333334
+        }
+    ]
+}

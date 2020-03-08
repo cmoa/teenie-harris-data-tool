@@ -1,0 +1,82 @@
+{
+    "objectID": 17378,
+    "irn": 17378,
+    "ecatalogue_key": 9079,
+    "TitAccessionNo": "2001.35.9102",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior view of office with men and women seated at desks typing, reading conferring and talking on the phone",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Workers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7e6d03cc-1f60-4bd9-8e56-2abfde2e83bc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24799,
+    "MulMultiMediaRef_key": 9087,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24799/sizes/17378-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3004958833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26490243333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2618176
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24241981999999998
+        }
+    ]
+}

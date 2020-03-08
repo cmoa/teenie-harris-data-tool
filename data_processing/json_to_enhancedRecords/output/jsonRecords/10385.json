@@ -1,0 +1,89 @@
+{
+    "objectID": 10385,
+    "irn": 10385,
+    "ecatalogue_key": 5848,
+    "TitAccessionNo": "2001.35.5858",
+    "CreDateCreated": "c. 1952",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man repairing woman's shoe in cobbler shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Shoes--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Cobblers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "001a19d1-2b67-4a7a-a926-775f1aa4548f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20877,
+    "MulMultiMediaRef_key": 5855,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20877/sizes/10385-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Shoes",
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Shoemakers"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cobblers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Shoes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "factory",
+            "score": 0.32091032576192235
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2911105666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23933601333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2163898333333333
+        },
+        {
+            "keyword": "machinist",
+            "score": 0.20500161333333333
+        }
+    ]
+}

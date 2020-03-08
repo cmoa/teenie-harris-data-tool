@@ -1,0 +1,102 @@
+{
+    "objectID": 3324,
+    "irn": 3324,
+    "ecatalogue_key": 1882,
+    "TitAccessionNo": "2001.35.1885",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Club scene, men and women seated at table with drinks, cigarettes, and daisy patterned paper cups",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "75518266-89d2-41db-8776-90d45ae9268b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16218,
+    "MulMultiMediaRef_key": 1884,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16218/sizes/3324-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "DLD\nHESTER\nCROW\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.39900343482055667
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.32545100760091134
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2964887
+        },
+        {
+            "keyword": "event",
+            "score": 0.2853383333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2744448666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2618082
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2264879
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.22359346666666668
+        },
+        {
+            "keyword": "party",
+            "score": 0.21407425084228496
+        }
+    ]
+}

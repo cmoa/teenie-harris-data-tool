@@ -1,0 +1,127 @@
+{
+    "objectID": 29271,
+    "irn": 29271,
+    "ecatalogue_key": 17884,
+    "TitAccessionNo": "2001.35.17914",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man, possibly Mr. Hines, seated at desk dialing telephone, in office with plant on top of low filing cabinets",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c26906a4-9dca-40c5-80fa-28c2c9cfd56c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35041,
+    "MulMultiMediaRef_key": 17892,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35041/sizes/29271-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Hines"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Men",
+        "Plants",
+        "Office furniture",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44357931818766266
+        },
+        {
+            "keyword": "male",
+            "score": 0.38201032349528
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hines",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3098604466666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28087656666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2788659133333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "table",
+            "score": 0.27234606268839534
+        },
+        {
+            "keyword": "human",
+            "score": 0.2661649004925537
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24647448333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2182087
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.21088868333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20842666666666665
+        }
+    ]
+}

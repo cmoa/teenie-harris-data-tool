@@ -1,0 +1,83 @@
+{
+    "objectID": 5306,
+    "irn": 5306,
+    "ecatalogue_key": 3200,
+    "TitAccessionNo": "2001.35.3207",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Altar boys having their feet washed in church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Altar boys--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a9a71f41-b4c9-4b15-96ee-a9588a1f6e83",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17811,
+    "MulMultiMediaRef_key": 3202,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17811/sizes/5306-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Interior architecture",
+        "Acolytes"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Altar boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3019501333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27695564333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.270443
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23374198000000002
+        }
+    ]
+}

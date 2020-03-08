@@ -1,0 +1,230 @@
+{
+    "objectID": 14484,
+    "irn": 14484,
+    "ecatalogue_key": 7783,
+    "TitAccessionNo": "2001.35.7800",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Intersection of Centre Avenue and Arthur Street with Centre Grill, Maxie's Loans, and advertisement on building for Tom Tucker Ginger Ale, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Centre Avenue (Pittsburgh, Pa.)Streets--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Advertising--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4cc46373-490f-4ce4-8fc9-7236b9e9c598",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23473,
+    "MulMultiMediaRef_key": 7791,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23473/sizes/14484-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Tom Tucker Ginger Ale"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Arthur Street",
+            "short_name": "Arthur Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Centre Grill",
+            "short_name": "Centre Grill"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill District",
+            "short_name": "Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Centre Avenue",
+            "short_name": "Centre Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "T0\nTUCKER\nSTORE R\nGNGER ALE\n",
+    "subjects": [
+        "Storefronts",
+        "Streets",
+        "Advertising",
+        "Restaurants"
+    ],
+    "keywords": [
+        {
+            "keyword": "building",
+            "score": 0.579463609991862
+        },
+        {
+            "keyword": "city",
+            "score": 0.4709624710294597
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.46524548102620433
+        },
+        {
+            "keyword": "car",
+            "score": 0.3936250137186687
+        },
+        {
+            "keyword": "street",
+            "score": 0.3849464985791016
+        },
+        {
+            "keyword": "town",
+            "score": 0.37294745826375336
+        },
+        {
+            "keyword": "landmark",
+            "score": 0.35812162116088864
+        },
+        {
+            "keyword": ")Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Centre Grill",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Arthur Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Intersection of Centre Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maxie's Loans",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Advertising",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Centre Avenue ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.318216335293579
+        },
+        {
+            "keyword": "downtown",
+            "score": 0.317587387612915
+        },
+        {
+            "keyword": "house",
+            "score": 0.31272714107360833
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30844009
+        },
+        {
+            "keyword": "metropolitan area",
+            "score": 0.3011158
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29966940000000003
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.29694706666666665
+        },
+        {
+            "keyword": "family car",
+            "score": 0.29591863333333335
+        },
+        {
+            "keyword": "luxury vehicle",
+            "score": 0.28999596666666666
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.289779
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28762279
+        },
+        {
+            "keyword": "cinema",
+            "score": 0.28683275858561197
+        },
+        {
+            "keyword": "metropolis",
+            "score": 0.28577020000000003
+        },
+        {
+            "keyword": "facade",
+            "score": 0.27962560121053065
+        },
+        {
+            "keyword": "window",
+            "score": 0.2754984246582031
+        },
+        {
+            "keyword": "lane",
+            "score": 0.26541791333333337
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.25501063333333335
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.2504646333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24555041333333336
+        },
+        {
+            "keyword": "theater",
+            "score": 0.226914316813151
+        },
+        {
+            "keyword": "structure",
+            "score": 0.20341143290201832
+        }
+    ]
+}

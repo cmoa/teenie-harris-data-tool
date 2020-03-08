@@ -1,0 +1,128 @@
+{
+    "objectID": 43260,
+    "irn": 43260,
+    "ecatalogue_key": 30580,
+    "TitAccessionNo": "2001.35.30613",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing three piece pinstriped suit, seated on bench with crossed hands on crossed leg, in Harris Studio with circular background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b7fcf025-0ce3-4507-8a58-70b77bb4d57d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49884,
+    "MulMultiMediaRef_key": 30588,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49884/sizes/43260-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4369223297688803
+        },
+        {
+            "keyword": "person",
+            "score": 0.4068545952534994
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.348330580464681
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3340718201660157
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30619755978393565
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2995732233333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2893081
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2814877833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27510256666666666
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.24307893333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24203853333333333
+        },
+        {
+            "keyword": "elder",
+            "score": 0.21523821333333334
+        }
+    ]
+}

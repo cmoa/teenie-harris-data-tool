@@ -1,0 +1,130 @@
+{
+    "objectID": 35381,
+    "irn": 35381,
+    "ecatalogue_key": 23016,
+    "TitAccessionNo": "2001.35.23047",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man, possibly Mr. Love, wearing moustache, light colored shirt, and herringbone jacket, posed in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7eab59ab-7371-42e9-b2d0-9695e51858c7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41528,
+    "MulMultiMediaRef_key": 23024,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41528/sizes/35381-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Love"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5061291983504234
+        },
+        {
+            "keyword": "person",
+            "score": 0.460777775501302
+        },
+        {
+            "keyword": "male",
+            "score": 0.448500300842285
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.40484547744222005
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3596551814371744
+        },
+        {
+            "keyword": "Love",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30238503333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2867608466666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2863082
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28179496666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2657463153356934
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24058038
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.21194718678792335
+        }
+    ]
+}

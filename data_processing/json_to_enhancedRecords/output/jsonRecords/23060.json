@@ -1,0 +1,95 @@
+{
+    "objectID": 23060,
+    "irn": 23060,
+    "ecatalogue_key": 13479,
+    "TitAccessionNo": "2001.35.13509",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, women, and children standing on steps of brick home, with man holding cigarette seated on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "20ed469d-0f1e-4cca-ab50-86a5189a9ca3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29581,
+    "MulMultiMediaRef_key": 13487,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29581/sizes/23060-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "KODAK SAFETY FILNM\n",
+    "subjects": [
+        "Children",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3021175
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27776756666666663
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27027158
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2654764333333333
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2541021
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23896293333333332
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21390396666666667
+        }
+    ]
+}

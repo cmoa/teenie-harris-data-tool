@@ -1,0 +1,91 @@
+{
+    "objectID": 42764,
+    "irn": 42764,
+    "ecatalogue_key": 30121,
+    "TitAccessionNo": "2001.35.30154",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Fifteen men, including Paul Jones, seated in front of chalkboard, seated in chairs around table in interior with pool table on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Jones, Paul F.",
+    "AdmGUIDValue_tab": "6df6c61b-890d-47a4-94f2-17afe18e3325",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49357,
+    "MulMultiMediaRef_key": 30129,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49357/sizes/42764-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [
+        "Paul Jones"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "73\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Paul Jones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jones, Paul F",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2911228
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2803725634958903
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27060653333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25210530000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23408046666666668
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20089353333333335
+        }
+    ]
+}

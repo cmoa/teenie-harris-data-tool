@@ -1,0 +1,81 @@
+{
+    "objectID": 21104,
+    "irn": 21104,
+    "ecatalogue_key": 11872,
+    "TitAccessionNo": "2001.35.11902",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of man wearing suit holding glass, with plant in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54f87b1b-5d58-436e-bb54-bcc2a94a8530",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 20513,
+    "MulMultiMediaRef_key": 11880,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20513/sizes/21104-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3121294333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29456984999999997
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28458753333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2820064666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2544
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20668425
+        }
+    ]
+}

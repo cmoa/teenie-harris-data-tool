@@ -1,0 +1,92 @@
+{
+    "objectID": 42640,
+    "irn": 42640,
+    "ecatalogue_key": 29887,
+    "TitAccessionNo": "2001.35.29920",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored shirt and cap pointing to railroad spike in damaged wall of room with bed frame, and square patterned linoleum",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1a6afe93-0027-4b44-bf42-ce48cdc75729",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49237,
+    "MulMultiMediaRef_key": 29895,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49237/sizes/42640-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Interior architecture",
+        "Interiors",
+        "Beds"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Beds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3104891166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28837666666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2787342466666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "house",
+            "score": 0.24104588050659181
+        },
+        {
+            "keyword": "window",
+            "score": 0.23645537184041332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23564786666666668
+        }
+    ]
+}

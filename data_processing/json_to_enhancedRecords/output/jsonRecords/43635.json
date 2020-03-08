@@ -1,0 +1,106 @@
+{
+    "objectID": 43635,
+    "irn": 43635,
+    "ecatalogue_key": 30929,
+    "TitAccessionNo": "2001.35.30962",
+    "CreDateCreated": "c. 1943",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1948",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored suit and dark hat, seated on wooden bench and holding purse",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ac801171-768f-48fd-accf-b577cbde7b53",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50314,
+    "MulMultiMediaRef_key": 30937,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50314/sizes/43635-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -694310400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.42982489140624996
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3280023887550863
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.32011209486511233
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30732133333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2760133
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2742752
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26581704585673
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24589836666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2412609321158853
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23462623333333332
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.22596976666666668
+        }
+    ]
+}

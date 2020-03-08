@@ -1,0 +1,120 @@
+{
+    "objectID": 5005,
+    "irn": 5005,
+    "ecatalogue_key": 2954,
+    "TitAccessionNo": "2001.35.2960",
+    "CreDateCreated": "c. 1937-1945",
+    "CreEarliestDate": "1932",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women in road in front of houses",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "88c2413b-87b6-476f-9eba-fe31c80244d0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18255,
+    "MulMultiMediaRef_key": 2956,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18255/sizes/5005-1680.jpg",
+    "date_timestamp_earliest": -1199232000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles",
+        "Trees",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.33836277313435864
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30687725666666665
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2883289
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2852213666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2848357510935467
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28447510000000004
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27673926666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.243608768262736
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24231323333333332
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2174847
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2163107
+        }
+    ]
+}

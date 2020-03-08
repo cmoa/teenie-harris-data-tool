@@ -1,0 +1,131 @@
+{
+    "objectID": 55227,
+    "irn": 55227,
+    "ecatalogue_key": 41979,
+    "TitAccessionNo": "2001.35.42021",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing hat, light colored shirt, and light colored pants, standing with wrench in right hand, in interior with clock that reads \"5:07\", wood panels, broken window, heater, and pipes",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Tools--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Pipes, Drainage--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ba89ba51-2cba-4cbd-9a85-395e2d841a58",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62837,
+    "MulMultiMediaRef_key": 41987,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62837/sizes/55227-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Drainage",
+            "short_name": "Drainage"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hats",
+        "Implements",
+        "Interiors",
+        "Tools",
+        "Drainage pipes",
+        "Men",
+        "Windows",
+        "Interior architecture",
+        "Clocks and watches"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3783579867492676
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33760942666625965
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pipes, Drainage",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clocks and watches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30773465
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2727832666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2700321
+        },
+        {
+            "keyword": "window",
+            "score": 0.24166730116170232
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2398155133333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23698824666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2058105
+        }
+    ]
+}

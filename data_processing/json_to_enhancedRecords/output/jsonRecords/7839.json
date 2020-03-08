@@ -1,0 +1,79 @@
+{
+    "objectID": 7839,
+    "irn": 7839,
+    "ecatalogue_key": 4843,
+    "TitAccessionNo": "2001.35.4852",
+    "CreDateCreated": "c. 1930-1938",
+    "CreEarliestDate": "1925",
+    "CreLatestDate": "1938",
+    "PhyMediumComments": "black-and-white: nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Steam engine hauling Pennsylvania Rail Road freight train across bridge, seen from below",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Steam locomotives--Pennsylvania--Pittsburgh.Bridges--Pennsylvania--Pittsburgh.Railroad tracks--Pennsylvania--Pittsburgh.Overhead electric lines--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7f9a0995-8f30-493d-8219-e54c194c9435",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13815,
+    "MulMultiMediaRef_key": 4849,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13815/sizes/7839-1680.jpg",
+    "date_timestamp_earliest": -1420070400.0,
+    "date_timestamp_latest": -1009843200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania Rail Road",
+            "short_name": "Pennsylvania Rail Road"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Overhead electric lines--Sag",
+        "Bridges",
+        "Overhead electric lines",
+        "Pennsylvania Railroad",
+        "Railroad tracks"
+    ],
+    "keywords": [
+        {
+            "keyword": "Bridges",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pennsylvania Rail Road",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Overhead electric lines",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Steam locomotives",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Railroad tracks",
+            "score": 0.3333333333333333
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 25096,
+    "irn": 25096,
+    "ecatalogue_key": 14941,
+    "TitAccessionNo": "2001.35.14971",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark wrap dress with light colored short sleeves, seated on bench in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d3b30adc-10db-4b85-9517-5d485d0c47ea",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31407,
+    "MulMultiMediaRef_key": 14949,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31407/sizes/25096-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.43254288214925135
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.35805850021118163
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.321993197907715
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30047039999999997
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2866882866666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28347076666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2747214333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26334909978434234
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2396286333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21994628666666668
+        }
+    ]
+}

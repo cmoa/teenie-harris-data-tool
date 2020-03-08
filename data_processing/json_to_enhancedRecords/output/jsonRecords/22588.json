@@ -1,0 +1,102 @@
+{
+    "objectID": 22588,
+    "irn": 22588,
+    "ecatalogue_key": 13193,
+    "TitAccessionNo": "2001.35.13223",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Reverend Elmer Williams standing at podium on banquet table, with people setaed next to him, inside church, with stained glass windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "eddcdf06-3cc5-4623-b09e-f48bc47a532a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29204,
+    "MulMultiMediaRef_key": 13201,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29204/sizes/22588-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Elmer Williams"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Elmer Williams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3079771
+        },
+        {
+            "keyword": "table",
+            "score": 0.30250532704671235
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2801397666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2782554666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23849642333333332
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2270599241165161
+        }
+    ]
+}

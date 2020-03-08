@@ -1,0 +1,97 @@
+{
+    "objectID": 15685,
+    "irn": 15685,
+    "ecatalogue_key": 8143,
+    "TitAccessionNo": "2001.35.8160",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Two men wear life jackets and swim trunks.  One of the boats is a Donzi.",
+    "TitMainTitle": "Men on a dock on a river with small speedboats, one man holds water skis",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Boats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "061204a6-b919-42dd-9e1a-28a62351f6a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23978,
+    "MulMultiMediaRef_key": 8151,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23978/sizes/15685-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Donzi",
+            "short_name": "Donzi"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boats",
+        "Boats and boating",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.3793768600508627
+        },
+        {
+            "keyword": "Boats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3101759566666667
+        },
+        {
+            "keyword": "sky",
+            "score": 0.29804732930704764
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2897963333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2730265
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2523902666666667
+        },
+        {
+            "keyword": "boat",
+            "score": 0.23660703333333333
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.22631728666666664
+        }
+    ]
+}

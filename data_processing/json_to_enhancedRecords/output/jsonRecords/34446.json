@@ -1,0 +1,88 @@
+{
+    "objectID": 34446,
+    "irn": 34446,
+    "ecatalogue_key": 22153,
+    "TitAccessionNo": "2001.35.22184",
+    "CreDateCreated": "1964",
+    "CreEarliestDate": "1964",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of six men, including two shaking hands, in office with bookcases and framed certificates on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "634d17b4-2dfe-4d12-a374-7b5c690be81c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40692,
+    "MulMultiMediaRef_key": 22161,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40692/sizes/34446-1680.jpg",
+    "date_timestamp_earliest": -189388800.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.35153583451334636
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.29380088748779304
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2887249
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27425939
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24695824938598634
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2392482
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2170003
+        }
+    ]
+}

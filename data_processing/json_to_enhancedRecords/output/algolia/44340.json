@@ -1,0 +1,87 @@
+{
+  "objectID": 44340,
+  "irn": 44340,
+  "ecatalogue_key": 31630,
+  "TitAccessionNo": "2001.35.31665",
+  "CreDateCreated": "c. 1947",
+  "CreEarliestDate": "1942",
+  "CreLatestDate": "1952",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of men and women, most wearing dark choir robes, including man wearing bow tie, standing behind altar with two doors covered with curtains",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Choirs (Music)--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "8695e0bc-5d07-476c-9d46-418767bc2b79",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51086/sizes/44340-1680.jpg",
+  "datetime": "1942-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 20,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits, Group",
+    "Women",
+    "Choirs (Music)",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Choirs (Music)",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28908097666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2624555333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.23886183333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51086/sizes/44340-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51086/sizes/44340-210.jpg",
+  "date_timestamp_earliest": -883612800.0,
+  "date_timestamp_latest": -568080000.0,
+  "decades": []
+}

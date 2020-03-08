@@ -1,0 +1,117 @@
+{
+    "objectID": 53861,
+    "irn": 53861,
+    "ecatalogue_key": 40591,
+    "TitAccessionNo": "2001.35.40632",
+    "CreDateCreated": "c. 1945-1955",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark jacket with light colored handkerchief in breast pocket, and paisley bow tie, seated at desk, in office with marble wainscoting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8d9938fc-b6bc-4165-83d3-8e1fab3db08f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61232,
+    "MulMultiMediaRef_key": 40599,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61232/sizes/53861-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Men",
+        "Telephone",
+        "Portraits",
+        "Office furniture"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3864003688964843
+        },
+        {
+            "keyword": "table",
+            "score": 0.36226769475911463
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31136938
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.306644417395223
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29393104666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28411376666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25028183333333337
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.23490722225748698
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20795266666666667
+        },
+        {
+            "keyword": "interior design",
+            "score": 0.2060662666666667
+        }
+    ]
+}

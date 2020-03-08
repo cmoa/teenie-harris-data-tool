@@ -1,0 +1,86 @@
+{
+    "objectID": 43377,
+    "irn": 43377,
+    "ecatalogue_key": 30732,
+    "TitAccessionNo": "2001.35.30765",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, on seated at head, and women seated around large carved wooden conference table, in interior with portraits on wall, possibly in courthouse",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "72a890a5-fee1-4d47-b5c4-1c00a86f8d25",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50438,
+    "MulMultiMediaRef_key": 30740,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50438/sizes/43377-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.38106437404785165
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.35524476563313795
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30218438333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27396686666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2659857466666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23014776666666667
+        }
+    ]
+}

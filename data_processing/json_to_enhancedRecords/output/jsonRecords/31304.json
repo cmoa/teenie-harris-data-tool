@@ -1,0 +1,87 @@
+{
+    "objectID": 31304,
+    "irn": 31304,
+    "ecatalogue_key": 19492,
+    "TitAccessionNo": "2001.35.19522",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men seated at long banquet tables, including woman in center wearing horizontally striped shirt, in interior with narrow windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cfe25790-ca5f-48ae-9b1b-da00ee503470",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37345,
+    "MulMultiMediaRef_key": 19500,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37345/sizes/31304-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 32,
+    "google_text_in_image": "9\n10\n",
+    "subjects": [
+        "Women",
+        "Dinners and dining",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.31145495333333334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3082614533333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.2962860333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28380791333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2660552666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2502115
+        }
+    ]
+}

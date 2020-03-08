@@ -1,0 +1,109 @@
+{
+  "objectID": 3394,
+  "irn": 3394,
+  "ecatalogue_key": 1952,
+  "TitAccessionNo": "2001.35.1955",
+  "CreDateCreated": "c. 1938-1946",
+  "CreEarliestDate": "1938",
+  "CreLatestDate": "1946",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "People building model airplanes, portrait of David A. Lane III in room",
+  "CatSubject_tab": "Model airplanes--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "1979bb0f-43a5-4ea3-a921-acfea3c2f95c",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16258/sizes/3394-1680.jpg",
+  "datetime": "1938-01-01 00:00:00",
+  "people": [
+    "David A. Lane III"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 4,
+  "google_text_in_image": "",
+  "subjects": [
+    "Tables",
+    "Teenagers",
+    "Airplanes--Models",
+    "Chairs"
+  ],
+  "keywords": [
+    {
+      "keyword": "chair",
+      "score": 0.41234410134684235
+    },
+    {
+      "keyword": "table",
+      "score": 0.38916084589029937
+    },
+    {
+      "keyword": "furniture",
+      "score": 0.3680856027412924
+    },
+    {
+      "keyword": "Tables",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Teenagers",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Model airplanes",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Chairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30196256666666665
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26540452333333336
+    },
+    {
+      "keyword": "house",
+      "score": 0.2591993330485027
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22882786666666666
+    },
+    {
+      "keyword": "window",
+      "score": 0.20881751808064766
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16258/sizes/3394-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16258/sizes/3394-210.jpg",
+  "date_timestamp_earliest": -1009843200.0,
+  "date_timestamp_latest": -757382400.0,
+  "decades": []
+}

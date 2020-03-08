@@ -1,0 +1,81 @@
+{
+    "objectID": 25171,
+    "irn": 25171,
+    "ecatalogue_key": 15730,
+    "TitAccessionNo": "2001.35.15760",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man leaning on podium with hand on microphone, with table on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e81ec780-51a5-4282-ac39-cd18c20e0959",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32513,
+    "MulMultiMediaRef_key": 15738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32513/sizes/25171-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30492468666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28264456666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28169508666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2759912
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22438522333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2043959333333333
+        }
+    ]
+}

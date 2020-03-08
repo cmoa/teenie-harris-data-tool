@@ -1,0 +1,108 @@
+{
+    "objectID": 3338,
+    "irn": 3338,
+    "ecatalogue_key": 1896,
+    "TitAccessionNo": "2001.35.1899",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Joe Odum playing drums",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Odum, Joe.Drums--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "493e428d-3af1-4f3c-a8a7-de72fc836e74",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16231,
+    "MulMultiMediaRef_key": 1898,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16231/sizes/3338-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Joe Odum"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3514606651143393
+        },
+        {
+            "keyword": "Odum, Joe",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30684618
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.29157665271158867
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28770996666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28599731
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2797728666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2413115
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.22517661333333336
+        },
+        {
+            "keyword": "laptop",
+            "score": 0.20510936737060534
+        }
+    ]
+}

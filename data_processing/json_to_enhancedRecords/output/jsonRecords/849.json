@@ -1,0 +1,100 @@
+{
+    "objectID": 849,
+    "irn": 849,
+    "ecatalogue_key": 76,
+    "TitAccessionNo": "2001.35.78",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd and cheerleaders in Herron Hill gym",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cheerleading--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "30add9e9-6fb3-4f96-bca1-2ff53569ac6d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15000,
+    "MulMultiMediaRef_key": 76,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15000/sizes/849-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Herron Hill"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Gymnasiums",
+        "Cheerleading"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.39651918563842764
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.35096292606811536
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cheerleading",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.30941694999999997
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3008170666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28261031666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26726653333333333
+        },
+        {
+            "keyword": "sport venue",
+            "score": 0.23751136666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21770626666666668
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21733486666666668
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20576198999999998
+        }
+    ]
+}

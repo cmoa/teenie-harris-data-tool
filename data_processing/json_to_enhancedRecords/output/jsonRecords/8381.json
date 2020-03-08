@@ -1,0 +1,158 @@
+{
+    "objectID": 8381,
+    "irn": 8381,
+    "ecatalogue_key": 5164,
+    "TitAccessionNo": "2001.35.5173",
+    "CreDateCreated": "c. 1972",
+    "CreEarliestDate": "1969",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men on steps of building, street no. 332, on the North Side of Pittsburgh, with sign reading \"Pittsburgh Black Action Inc. Drug Abuse Clinic Outpatient [...]\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Coats--Pennsylvania--Pittsburgh.Signs and signboards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0e7ab8af-0dd4-474d-952e-ed498e3680c0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20681,
+    "MulMultiMediaRef_key": 5171,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20681/sizes/8381-1680.jpg",
+    "date_timestamp_earliest": -31536000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "the North Side",
+            "short_name": "the North Side"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "STREET\nPITTSBURGH\nLACK ACTION\nINC.\nDrug Abuse Clinic\n332\nKODAKSAFET\nKODAK SAFETY\n",
+    "subjects": [
+        "Buildings",
+        "Men",
+        "Signs and signboards",
+        "Coats"
+    ],
+    "keywords": [
+        {
+            "keyword": "building",
+            "score": 0.491118073046875
+        },
+        {
+            "keyword": "house",
+            "score": 0.477496199469401
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.46548505439046234
+        },
+        {
+            "keyword": "home",
+            "score": 0.3973261524617513
+        },
+        {
+            "keyword": "window",
+            "score": 0.37988548788248694
+        },
+        {
+            "keyword": "structure",
+            "score": 0.366504856608073
+        },
+        {
+            "keyword": "facade",
+            "score": 0.35181173874308264
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Signs and signboards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the North Side",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Coats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Black Action Inc. Drug Abuse Clinic Outpatient",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30971638333333334
+        },
+        {
+            "keyword": "landmark",
+            "score": 0.2987556666666667
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29643610000000004
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2899631
+        },
+        {
+            "keyword": "city",
+            "score": 0.28666574724528
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.28087302
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.27875326666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24670806666666667
+        },
+        {
+            "keyword": "street",
+            "score": 0.24501293469238264
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.24369726666666666
+        },
+        {
+            "keyword": "metropolis",
+            "score": 0.20962706666666667
+        },
+        {
+            "keyword": "apartment",
+            "score": 0.206585496713257
+        }
+    ]
+}

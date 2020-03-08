@@ -1,0 +1,125 @@
+{
+    "objectID": 25178,
+    "irn": 25178,
+    "ecatalogue_key": 15735,
+    "TitAccessionNo": "2001.35.15765",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd standing in doorway, on steps, and along sidewalk of Miracle Church of God in Christ, with decorated cars in foreground, possibly for wedding",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Churches--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31f30db5-f6b0-4517-9fff-844f8e00d017",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32518,
+    "MulMultiMediaRef_key": 15743,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32518/sizes/25178-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Christ",
+            "short_name": "Christ"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "MIRACLE CHURCH OF GOD IN CHRIST\n",
+    "subjects": [
+        "Automobiles",
+        "Crowds",
+        "Church buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.47262796121175127
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.411496083503418
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Miracle Church of God",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.3255986166666667
+        },
+        {
+            "keyword": "land vehicle",
+            "score": 0.3217764
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2961332
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.2795325533333333
+        },
+        {
+            "keyword": "vintage car",
+            "score": 0.27732133333333336
+        },
+        {
+            "keyword": "classic",
+            "score": 0.27459247999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26188953333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25408222333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22203533333333333
+        }
+    ]
+}

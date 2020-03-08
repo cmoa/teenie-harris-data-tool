@@ -1,0 +1,116 @@
+{
+    "objectID": 2675,
+    "irn": 2675,
+    "ecatalogue_key": 1276,
+    "TitAccessionNo": "2001.35.1278",
+    "CreDateCreated": "c. 1949-1965",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Stage scene, with young man with gun holding up three people behind counter, and another young man in uniform looking on",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b4062a06-0df8-4838-a76b-60ace0469e6d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14838,
+    "MulMultiMediaRef_key": 1278,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14838/sizes/2675-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Uniforms",
+        "Women",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "male",
+            "score": 0.342716879341634
+        },
+        {
+            "keyword": "Stages (Platforms)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31901198420013427
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3050121333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27616783333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27419466666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "theatre",
+            "score": 0.2652736666666667
+        },
+        {
+            "keyword": "stage",
+            "score": 0.24990284333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24299287666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2266247
+        },
+        {
+            "keyword": "performance",
+            "score": 0.21214604333333334
+        }
+    ]
+}

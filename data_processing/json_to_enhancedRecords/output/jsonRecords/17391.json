@@ -1,0 +1,111 @@
+{
+    "objectID": 17391,
+    "irn": 17391,
+    "ecatalogue_key": 9090,
+    "TitAccessionNo": "2001.35.9113",
+    "CreDateCreated": "c. 1942",
+    "CreEarliestDate": "1937",
+    "CreLatestDate": "1947",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two woman, one reading, one writing and a man at a printer's desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Workshops--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "63baacb8-9519-42a1-b41f-e9d7daaba55e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24810,
+    "MulMultiMediaRef_key": 9098,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24810/sizes/17391-1680.jpg",
+    "date_timestamp_earliest": -1041379200.0,
+    "date_timestamp_latest": -725846400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "13 14 16 17 19\n20 21 22 10 24 25 26\n27 28 29 30\n",
+    "subjects": [
+        "Workshops",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Workshops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3266563991241457
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2996224
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27333802
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27211406666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26383181333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2588561166666667
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24772908333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2282239
+        },
+        {
+            "keyword": "child",
+            "score": 0.21414684900431316
+        },
+        {
+            "keyword": "house",
+            "score": 0.21069421333333335
+        },
+        {
+            "keyword": "family",
+            "score": 0.20377074750101734
+        }
+    ]
+}

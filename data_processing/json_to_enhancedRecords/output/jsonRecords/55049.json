@@ -1,0 +1,110 @@
+{
+    "objectID": 55049,
+    "irn": 55049,
+    "ecatalogue_key": 41725,
+    "TitAccessionNo": "2001.35.41767",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of two men, including man on right, wearing light colored shirt, diagonally striped necktie, and dark corduroy suit, with light colored handkerchief in left breast pocket, holding paper in hands, standing in interior with light colored walls, chairs, and stained glass windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7dcb32b5-c93a-497b-803d-d358294dcbb3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62600,
+    "MulMultiMediaRef_key": 41733,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62600/sizes/55049-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Interior architecture",
+        "Interiors",
+        "Windows",
+        "Chairs",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5470443994140627
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.323775454844157
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.30406342000000003
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2833578154679363
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28324165
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2788159433333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2653229833333333
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.25442775
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22904205333333336
+        }
+    ]
+}

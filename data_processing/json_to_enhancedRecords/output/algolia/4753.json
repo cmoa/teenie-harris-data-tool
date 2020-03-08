@@ -1,0 +1,107 @@
+{
+  "objectID": 4753,
+  "irn": 4753,
+  "ecatalogue_key": 2742,
+  "TitAccessionNo": "2001.35.2746",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a man leaning against a chair",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "c9671099-a1f2-4663-8b76-2dabdbd4538e",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17340/sizes/4753-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Chairs",
+    "Portraits",
+    "Men",
+    "Suits (Clothing)"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.4291857518066407
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.34238306427897136
+    },
+    {
+      "keyword": "Chairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Suits (Clothing)",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30279653333333334
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.298161367767334
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27661206666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2660131666666667
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.26195623333333334
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22826503333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17340/sizes/4753-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17340/sizes/4753-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

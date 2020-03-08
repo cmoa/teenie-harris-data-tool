@@ -1,0 +1,92 @@
+{
+    "objectID": 24049,
+    "irn": 24049,
+    "ecatalogue_key": 14233,
+    "TitAccessionNo": "2001.35.14263",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior with brick walls, floor with debris and hole, and small radiator",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5ff789bd-3cae-4e5b-89b5-b27faf2f4104",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30385,
+    "MulMultiMediaRef_key": 14241,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30385/sizes/24049-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.38005835120442705
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31577873333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29948902
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2694429166666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26266223333333333
+        },
+        {
+            "keyword": "water",
+            "score": 0.2548073
+        },
+        {
+            "keyword": "texture",
+            "score": 0.248229475724284
+        },
+        {
+            "keyword": "concrete",
+            "score": 0.2344702158203127
+        },
+        {
+            "keyword": "fence",
+            "score": 0.201878573099772
+        }
+    ]
+}

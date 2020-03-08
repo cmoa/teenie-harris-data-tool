@@ -1,0 +1,84 @@
+{
+    "objectID": 12314,
+    "irn": 12314,
+    "ecatalogue_key": 6168,
+    "TitAccessionNo": "2001.35.6179",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around table of Heinz products, in basement",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c0c34172-aaa8-4efb-b899-885e9a72afef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21067,
+    "MulMultiMediaRef_key": 6175,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21067/sizes/12314-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "",
+    "subjects": [
+        "Heinz",
+        "Men",
+        "Basements",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Heinz",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3031513666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26848806666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26448335333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23452031666666665
+        }
+    ]
+}

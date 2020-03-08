@@ -1,0 +1,86 @@
+{
+    "objectID": 49563,
+    "irn": 49563,
+    "ecatalogue_key": 36308,
+    "TitAccessionNo": "2001.35.36348",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, one wearing plaid jacket, and women, gathered around long rectangular table in interior with checkered linoleum floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b4593860-69ac-4d09-aedf-1109a3877e8f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57822,
+    "MulMultiMediaRef_key": 36316,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57822/sizes/49563-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29844415333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27452169
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "table",
+            "score": 0.2682787868306477
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2555486666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23061353333333334
+        },
+        {
+            "keyword": "design",
+            "score": 0.21875833333333336
+        }
+    ]
+}

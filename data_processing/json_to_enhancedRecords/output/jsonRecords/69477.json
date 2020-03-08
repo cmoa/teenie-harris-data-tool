@@ -1,0 +1,137 @@
+{
+    "objectID": 69477,
+    "irn": 69477,
+    "ecatalogue_key": 55045,
+    "TitAccessionNo": "2001.35.55088",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two frames: Portrait of smiling man wearing light colored fedora with dark band, eyeglasses, plaid shirt, and flecked overcoat, standing in front of Empire Building, Downtown; Three quarter portrait of man wearing hat with woven band and dark overcoat with upturned collar, standing in front of Empire Building, Downtown",
+    "CreCountry_tab": "",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)Hats--Pennsylvania--Pittsburgh.Coats--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3dd4937e-2cff-430b-b327-35e106544828",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 82416,
+    "MulMultiMediaRef_key": 55054,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/82416/sizes/69477-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [
+        "Downtown"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Empire Building",
+            "short_name": "Empire Building"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Men",
+        "Coats",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Empire Building",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Downtown",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Coats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Downtown ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.308691894684855
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2962359666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28953876666666667
+        },
+        {
+            "keyword": "fashion accessory",
+            "score": 0.27467638333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25432273333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.24107064666666667
+        },
+        {
+            "keyword": "fedora",
+            "score": 0.2359395
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.23307756666666668
+        },
+        {
+            "keyword": "headgear",
+            "score": 0.23235704666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21682395666666665
+        }
+    ]
+}

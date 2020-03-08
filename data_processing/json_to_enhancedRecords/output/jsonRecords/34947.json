@@ -1,0 +1,89 @@
+{
+    "objectID": 34947,
+    "irn": 34947,
+    "ecatalogue_key": 22623,
+    "TitAccessionNo": "2001.35.22654",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and a man gathered behind desk in office with swordfish mounted on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d60fc253-b505-468b-bf7b-6a69d4e39754",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41127,
+    "MulMultiMediaRef_key": 22631,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41127/sizes/34947-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Women",
+        "Offices",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3080444133333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28128041666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2746619666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22939062
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20565246666666667
+        }
+    ]
+}

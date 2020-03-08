@@ -1,0 +1,124 @@
+{
+    "objectID": 22622,
+    "irn": 22622,
+    "ecatalogue_key": 13226,
+    "TitAccessionNo": "2001.35.13256",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing hat and overcoat standing on street, with cars and storefronts in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d5a07ebd-25f2-4021-926e-638691e40533",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29438,
+    "MulMultiMediaRef_key": 13234,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29438/sizes/22622-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Storefronts",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.465637040673828
+        },
+        {
+            "keyword": "male",
+            "score": 0.41527902519856763
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "hat",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "headdress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33266836050231935
+        },
+        {
+            "keyword": "suit",
+            "score": 0.32508272967692065
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30689788
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28829078
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28742995
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27260483333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25195259
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.240744654337565
+        },
+        {
+            "keyword": "official",
+            "score": 0.22115938000000002
+        }
+    ]
+}

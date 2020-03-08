@@ -1,0 +1,116 @@
+{
+    "objectID": 21992,
+    "irn": 21992,
+    "ecatalogue_key": 12660,
+    "TitAccessionNo": "2001.35.12690",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman wearing hats and overcoats standing in snow, with cars in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Snow--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b00e6236-0c23-4eb3-b0c3-aaab214db9da",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28606,
+    "MulMultiMediaRef_key": 12668,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28606/sizes/21992-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles",
+        "Men",
+        "Women",
+        "Snow"
+    ],
+    "keywords": [
+        {
+            "keyword": "snow",
+            "score": 0.383842568745931
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Snow",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3141254666666667
+        },
+        {
+            "keyword": "night",
+            "score": 0.30290536354573566
+        },
+        {
+            "keyword": "winter",
+            "score": 0.3027333266042074
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2976735
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27105444666666667
+        },
+        {
+            "keyword": "emotion",
+            "score": 0.2710108
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.26810300000000004
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2606037666666667
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2501049192281087
+        }
+    ]
+}

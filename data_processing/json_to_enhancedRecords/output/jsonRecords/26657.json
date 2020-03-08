@@ -1,0 +1,109 @@
+{
+    "objectID": 26657,
+    "irn": 26657,
+    "ecatalogue_key": 16373,
+    "TitAccessionNo": "2001.35.16403",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of women, and men kneeling on floor, including man on right holding cigar, in interior with American flag on left and solid, dark curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5f268abb-44ff-42af-96a7-48ca34347d7b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32871,
+    "MulMultiMediaRef_key": 16381,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32871/sizes/26657-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 44,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "American",
+        "Men",
+        "Flags",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3230631333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2888028833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27085608333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.26657248458251964
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.23791755729370115
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23266606666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22542504333333332
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20713124119567863
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "objectID": 31675,
+    "irn": 31675,
+    "ecatalogue_key": 19862,
+    "TitAccessionNo": "2001.35.19893",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men shaking hands in doorway with glass doors, possibly in Trinity Episcopal Cathedral, in downtown Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trinity Episcopal Cathedral (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8b3307e4-1c56-4223-9f62-9000975f22e7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37681,
+    "MulMultiMediaRef_key": 19870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37681/sizes/31675-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "KODAK SAFETY FILM\n9\n",
+    "subjects": [],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38172261735432933
+        },
+        {
+            "keyword": "Trinity Episcopal Cathedral ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trinity Episcopal Cathedral",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3214300839375814
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3069709666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2851962333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2789235666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21724613333333334
+        }
+    ]
+}

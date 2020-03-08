@@ -1,0 +1,97 @@
+{
+    "objectID": 827,
+    "irn": 827,
+    "ecatalogue_key": 54,
+    "TitAccessionNo": "2001.35.56",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men in suits, possibly including Mr. Bennett on left, and three majorettes holding Penn Hills Charmelles banner",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dbc7a3b1-9ac4-4029-a5c5-4504d72b4d37",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14981,
+    "MulMultiMediaRef_key": 54,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14981/sizes/827-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Bennett"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "PENN HILLS\nCHARMELLES\n",
+    "subjects": [
+        "Men",
+        "Girls",
+        "Bennett"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Penn Hills Charmelles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bennett",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30629291
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29233875000000004
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2825807
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27280205333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "blackboard",
+            "score": 0.2619507598876953
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24584281333333333
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+  "objectID": 32210,
+  "irn": 32210,
+  "ecatalogue_key": 20355,
+  "TitAccessionNo": "2001.35.20386",
+  "CreDateCreated": "1965",
+  "CreEarliestDate": "1965",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of three men, and woman wearing paisley dress and jacket, seated behind pushed together tables, with plates of food and coffee cups, in interior",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "dc5d6914-f082-4d6f-b37b-e0784093ff40",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38511/sizes/32210-1680.jpg",
+  "datetime": "1965-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 5,
+  "google_text_in_image": "",
+  "subjects": [
+    "Food",
+    "Men",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.4668665340576173
+    },
+    {
+      "keyword": "Food",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "communication",
+      "score": 0.28752618017781567
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27445196666666666
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.27085180999999997
+    },
+    {
+      "keyword": "professional",
+      "score": 0.24375262265421535
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.2337874276509603
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.21247035333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38511/sizes/32210-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38511/sizes/32210-210.jpg",
+  "date_timestamp_earliest": -157766400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": [
+    "1960s"
+  ]
+}

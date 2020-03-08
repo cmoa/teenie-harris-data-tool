@@ -1,0 +1,77 @@
+{
+    "objectID": 49809,
+    "irn": 49809,
+    "ecatalogue_key": 36613,
+    "TitAccessionNo": "2001.35.36653",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing light colored shirt, bending down, touching control panel of large machine",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7c70801a-db94-45c0-9326-7e5a3acbfa0e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57070,
+    "MulMultiMediaRef_key": 36621,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57070/sizes/49809-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "ED\nee's Floral Shop\nNEWYORK R HOE\nOu\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38995879306640635
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30390958
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27333108666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2680075
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23368546666666667
+        },
+        {
+            "keyword": "machinist",
+            "score": 0.23320865666666668
+        }
+    ]
+}

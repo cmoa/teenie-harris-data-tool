@@ -1,0 +1,86 @@
+{
+  "objectID": 12630,
+  "irn": 12630,
+  "ecatalogue_key": 6420,
+  "TitAccessionNo": "2001.35.6431",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Boys and a man in wood shop",
+  "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Woodworking--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9c9a4ded-1d2f-426a-acb7-3bf26bebd38f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21872/sizes/12630-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 11,
+  "google_text_in_image": "",
+  "subjects": [
+    "Woodwork",
+    "Boys",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Woodworking",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Boys",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3006395
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2605618333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23817296666666665
+    },
+    {
+      "keyword": "factory",
+      "score": 0.23578989624328603
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21872/sizes/12630-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21872/sizes/12630-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

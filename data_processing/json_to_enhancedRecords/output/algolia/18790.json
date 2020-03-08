@@ -1,0 +1,88 @@
+{
+  "objectID": 18790,
+  "irn": 18790,
+  "ecatalogue_key": 10110,
+  "TitAccessionNo": "2001.35.10136",
+  "CreDateCreated": "c. 1945-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two men standing outdoors, one with hatchet surveying, with truck in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "d6442374-40ee-4d2e-9edb-fe5fdaa5a58f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26028/sizes/18790-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "12\nKODAK SAFETY FILM\n",
+  "subjects": [
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3104828
+    },
+    {
+      "keyword": "mode of transport",
+      "score": 0.2916530333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28971962
+    },
+    {
+      "keyword": "transport",
+      "score": 0.28298056666666666
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.2774051677042643
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2699005666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2476668
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26028/sizes/18790-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26028/sizes/18790-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

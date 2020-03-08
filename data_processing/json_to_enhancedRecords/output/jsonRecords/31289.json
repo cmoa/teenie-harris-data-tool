@@ -1,0 +1,112 @@
+{
+    "objectID": 31289,
+    "irn": 31289,
+    "ecatalogue_key": 19396,
+    "TitAccessionNo": "2001.35.19426",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men seated at rectangular banquet table, with man wearing double breasted suit, standing at podium, with American flag and geometric patterned curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.Lecturers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "76e83907-dfe4-4285-9b70-3cdc08df8203",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37332,
+    "MulMultiMediaRef_key": 19404,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37332/sizes/31289-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "FILM\nAK SAFET\nF I LM\nKODAKSAFETY\n",
+    "subjects": [
+        "Lecturers",
+        "American",
+        "Flags",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.42225930683675134
+        },
+        {
+            "keyword": "Lecturers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2829972333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2641238166666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.25882504737548834
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22581954666666668
+        },
+        {
+            "keyword": "design",
+            "score": 0.22219393333333334
+        },
+        {
+            "keyword": "event",
+            "score": 0.2188875
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20935696666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20695556666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20404
+        }
+    ]
+}

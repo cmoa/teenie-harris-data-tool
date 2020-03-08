@@ -1,0 +1,101 @@
+{
+    "objectID": 2635,
+    "irn": 2635,
+    "ecatalogue_key": 1233,
+    "TitAccessionNo": "2001.35.1235",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man drawing pastel self portrait before bathroom mirror, possibly backstage",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bathrooms--Pennsylvania--Pittsburgh.Drawing--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8dd364a8-5bce-4950-a792-7a2e981d8239",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15573,
+    "MulMultiMediaRef_key": 1235,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15573/sizes/2635-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bathrooms",
+        "Portraits",
+        "Men",
+        "Drawing",
+        "Mirrors"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.449540005497233
+        },
+        {
+            "keyword": "Bathrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drawing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mirrors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31010848333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2876520166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2802436
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.26146910119262695
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2507291333333333
+        }
+    ]
+}

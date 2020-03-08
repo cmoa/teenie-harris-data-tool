@@ -1,0 +1,87 @@
+{
+    "objectID": 48023,
+    "irn": 48023,
+    "ecatalogue_key": 35161,
+    "TitAccessionNo": "2001.35.35198",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of baby lying on round light colored eyelet cloth of concentric circles, on dining room table with fringed jacquard tablecloth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8354c9f6-dce2-473b-8e4d-24fc0b85bafb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 54946,
+    "MulMultiMediaRef_key": 35169,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54946/sizes/48023-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Babies",
+        "Infants",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Babies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31533326666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30293621666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27903553333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26351196666666665
+        },
+        {
+            "keyword": "texture",
+            "score": 0.25493629545166
+        },
+        {
+            "keyword": "material",
+            "score": 0.23647824508260093
+        },
+        {
+            "keyword": "still life photography",
+            "score": 0.20178548333333335
+        }
+    ]
+}

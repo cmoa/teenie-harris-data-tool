@@ -1,0 +1,88 @@
+{
+    "objectID": 36231,
+    "irn": 36231,
+    "ecatalogue_key": 23803,
+    "TitAccessionNo": "2001.35.23834",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men, women, and children, including man wearing light colored robe and collar with treble clef, in church interior with dark beams on walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b2d5980d-d362-4ddd-bb8a-5a8ea6a66c1c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42412,
+    "MulMultiMediaRef_key": 23811,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42412/sizes/36231-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 45,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Children",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2924191
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27321809999999996
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.21532925
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2000632
+        }
+    ]
+}

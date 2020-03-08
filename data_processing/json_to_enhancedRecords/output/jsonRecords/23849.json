@@ -1,0 +1,100 @@
+{
+    "objectID": 23849,
+    "irn": 23849,
+    "ecatalogue_key": 14061,
+    "TitAccessionNo": "2001.35.14091",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women, including one wearing sequined dress on left, and four men, including Bobby Jones, third from left, posed in restaurant or banquet hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "85b4302b-0fee-441c-bf3b-66df40c0ef8f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30341,
+    "MulMultiMediaRef_key": 14069,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30341/sizes/23849-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Bobby Jones"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bobby Jones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30427576666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2814202298278809
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28091853333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2769073
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2710884006947835
+        },
+        {
+            "keyword": "family",
+            "score": 0.23587245226257333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2183198133333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20023253333333335
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "objectID": 53530,
+    "irn": 53530,
+    "ecatalogue_key": 40149,
+    "TitAccessionNo": "2001.35.40190",
+    "CreDateCreated": "c. 1925-1945",
+    "CreEarliestDate": "1925",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of boy, possibly from Hobie family, wearing gingham sun suit, standing on sidewalk with frame house in background, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a1f453bf-8770-45c1-afb8-d7263037cb09",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59904,
+    "MulMultiMediaRef_key": 40157,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59904/sizes/53530-1680.jpg",
+    "date_timestamp_earliest": -1420070400.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [
+        "Hobie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Homewood",
+            "short_name": "Homewood"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Sidewalks",
+        "Children",
+        "Boys",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hobie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        }
+    ]
+}

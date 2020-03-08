@@ -1,0 +1,104 @@
+{
+    "objectID": 58610,
+    "irn": 58610,
+    "ecatalogue_key": 44713,
+    "TitAccessionNo": "2001.35.44756",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Arthur Morris Jr. wearing bow tie and dark cardigan sweater, posed in front of light colored background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0908d745-7f69-4917-a6b5-9d5685ab962c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66470,
+    "MulMultiMediaRef_key": 44721,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66470/sizes/58610-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Arthur Morris Jr."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5156456397835286
+        },
+        {
+            "keyword": "person",
+            "score": 0.4607557483561197
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.4075209505615233
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29209446666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2854161
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2775035
+        },
+        {
+            "keyword": "human",
+            "score": 0.27376736700032567
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25104319999999997
+        },
+        {
+            "keyword": "smile",
+            "score": 0.24731198953247066
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22842003333333336
+        },
+        {
+            "keyword": "necktie",
+            "score": 0.20019067128499332
+        }
+    ]
+}

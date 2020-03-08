@@ -1,0 +1,116 @@
+{
+    "objectID": 28256,
+    "irn": 28256,
+    "ecatalogue_key": 17292,
+    "TitAccessionNo": "2001.35.17322",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of nine women and two men, gathered around rectangular table, in domestic interior with piano on right, floral curtains, and television in far room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Dining rooms--Pennsylvania--Pittsburgh.Televisions--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c1b68923-39c5-43f4-8dd5-5a647cceba9e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35495,
+    "MulMultiMediaRef_key": 17300,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35495/sizes/28256-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dining rooms",
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "house",
+            "score": 0.3384830292195637
+        },
+        {
+            "keyword": "Dining rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Televisions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.30978716214762364
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3056369
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2747753866666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2747197533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.26376161119262703
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22782639999999998
+        },
+        {
+            "keyword": "room",
+            "score": 0.22059295654296865
+        },
+        {
+            "keyword": "interior",
+            "score": 0.212160364786784
+        }
+    ]
+}

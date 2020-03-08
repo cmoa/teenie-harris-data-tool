@@ -1,0 +1,90 @@
+{
+  "objectID": 20027,
+  "irn": 20027,
+  "ecatalogue_key": 10933,
+  "TitAccessionNo": "2001.35.10959",
+  "CreDateCreated": "c. 1945-1965",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1965",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Nineteen men, one in military uniform, posed in front of Penn Overa[?] Supply van, men in front row squatting before large rolled map",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9049ecc5-e433-4877-b728-d507ba021f3f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26865/sizes/20027-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [
+    "Penn Overa"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 20,
+  "google_text_in_image": "PENN\nNDED\n",
+  "subjects": [
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "car",
+      "score": 0.346963208785197
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.3307662795094806
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3082788
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.28689615
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28185135
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24762574666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26865/sizes/20027-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26865/sizes/20027-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": -157766400.0,
+  "decades": []
+}

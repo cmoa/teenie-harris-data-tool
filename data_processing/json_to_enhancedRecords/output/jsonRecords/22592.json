@@ -1,0 +1,102 @@
+{
+    "objectID": 22592,
+    "irn": 22592,
+    "ecatalogue_key": 13197,
+    "TitAccessionNo": "2001.35.13227",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man with close hair cut, with lamp and portrait of woman on end table in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "de0fd91b-869e-46e9-b9ee-be8a280ff9ee",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29208,
+    "MulMultiMediaRef_key": 13205,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29208/sizes/22592-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5059760062906901
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4708919262304687
+        },
+        {
+            "keyword": "person",
+            "score": 0.4676261861116537
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.37436750659586604
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.325874895267741
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28412509999999996
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28093012333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27667449
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22707841666666664
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.22100222269694
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21334436666666667
+        }
+    ]
+}

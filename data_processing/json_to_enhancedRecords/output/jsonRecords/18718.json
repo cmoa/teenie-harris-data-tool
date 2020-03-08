@@ -1,0 +1,95 @@
+{
+    "objectID": 18718,
+    "irn": 18718,
+    "ecatalogue_key": 10077,
+    "TitAccessionNo": "2001.35.10103",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Children's artwork from Pittsburgh Public Schools on display in library, with table in foreground with books and Snoopy decoration",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Libraries--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "376eb631-9e58-4030-9bbc-b19fbe68f655",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25900,
+    "MulMultiMediaRef_key": 10085,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25900/sizes/18718-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Snoopy"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Libraries"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.4872985100138347
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.4841139999536133
+        },
+        {
+            "keyword": "chair",
+            "score": 0.4136344135416667
+        },
+        {
+            "keyword": "Snoopy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Libraries",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31172021333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2903075
+        },
+        {
+            "keyword": "library",
+            "score": 0.26965485188293464
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2695032
+        },
+        {
+            "keyword": "window",
+            "score": 0.24871474477335598
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24691774333333336
+        }
+    ]
+}

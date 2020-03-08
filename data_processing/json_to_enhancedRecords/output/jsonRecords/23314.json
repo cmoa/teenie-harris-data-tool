@@ -1,0 +1,94 @@
+{
+    "objectID": 23314,
+    "irn": 23314,
+    "ecatalogue_key": 13709,
+    "TitAccessionNo": "2001.35.13739",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of twenty-one men in interior with alternating block patterned linoleum floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "75cd1a9a-74fc-49c7-8b2e-b05ce8833f45",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29797,
+    "MulMultiMediaRef_key": 13717,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29797/sizes/23314-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "brass",
+            "score": 0.3293326568603517
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3193222466666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28225323333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2716092666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.24953975333333334
+        },
+        {
+            "keyword": "team",
+            "score": 0.24722762860310868
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.24183047772013333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23495966666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21694083333333333
+        }
+    ]
+}

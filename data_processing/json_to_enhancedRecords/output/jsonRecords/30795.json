@@ -1,0 +1,84 @@
+{
+    "objectID": 30795,
+    "irn": 30795,
+    "ecatalogue_key": 18946,
+    "TitAccessionNo": "2001.35.18976",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1933",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Nine men, including Henry Smith second from left in back, seated in chairs in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8fe8bb49-cb99-4468-b537-d1f9c54e0f61",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36756,
+    "MulMultiMediaRef_key": 18954,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36756/sizes/30795-1680.jpg",
+    "date_timestamp_earliest": -1167609600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [
+        "Henry Smith"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Henry Smith",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2720611333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2596022333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22157202
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21603529743916836
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21257036666666665
+        }
+    ]
+}

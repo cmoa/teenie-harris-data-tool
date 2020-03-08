@@ -1,0 +1,128 @@
+{
+    "objectID": 29096,
+    "irn": 29096,
+    "ecatalogue_key": 17775,
+    "TitAccessionNo": "2001.35.17805",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark belted dress, holding handbag, and standing in front of tree, with University of Pittsburgh Falk School in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6966b604-c54d-4030-85a5-58f902a83a09",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34899,
+    "MulMultiMediaRef_key": 17783,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34899/sizes/29096-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Women",
+        "Trees"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.34554075174357096
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "University of Pittsburgh Falk School",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.318856282631429
+        },
+        {
+            "keyword": "standing",
+            "score": 0.31438283333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31241156666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30025645
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29953009
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28730876666666666
+        },
+        {
+            "keyword": "lady",
+            "score": 0.28528736666666665
+        },
+        {
+            "keyword": "dress",
+            "score": 0.2810251253845215
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2680455666666667
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.26728224666666667
+        },
+        {
+            "keyword": "road",
+            "score": 0.259589409402059
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24990864666666668
+        }
+    ]
+}

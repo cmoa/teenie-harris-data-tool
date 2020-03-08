@@ -1,0 +1,117 @@
+{
+    "objectID": 20987,
+    "irn": 20987,
+    "ecatalogue_key": 11721,
+    "TitAccessionNo": "2001.35.11751",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five girls and one boy standing in front of doors, with child opening door in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "da41db1e-540d-4e38-9678-637d5afc2179",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17765,
+    "MulMultiMediaRef_key": 11729,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17765/sizes/20987-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.34337322062377934
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "child",
+            "score": 0.33223392711385097
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30748401
+        },
+        {
+            "keyword": "street",
+            "score": 0.3016420826924642
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29818883333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2893394833333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28393493333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.25867643333333334
+        },
+        {
+            "keyword": "window",
+            "score": 0.23980613052042643
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23761027999999998
+        },
+        {
+            "keyword": "road",
+            "score": 0.23140439999999998
+        },
+        {
+            "keyword": "human",
+            "score": 0.22907128
+        },
+        {
+            "keyword": "house",
+            "score": 0.22239333333333333
+        },
+        {
+            "keyword": "family",
+            "score": 0.22065153541564939
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2061279
+        }
+    ]
+}

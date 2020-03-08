@@ -1,0 +1,91 @@
+{
+    "objectID": 4024,
+    "irn": 4024,
+    "ecatalogue_key": 2283,
+    "TitAccessionNo": "2001.35.2286",
+    "CreDateCreated": "April 1942",
+    "CreEarliestDate": "1942-04-01",
+    "CreLatestDate": "1942-04-30",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men behind bar toasting two men in front of bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c1932871-1fb5-4d21-bea5-fc588240edef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16703,
+    "MulMultiMediaRef_key": 2285,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16703/sizes/4024-1680.jpg",
+    "date_timestamp_earliest": -875836800.0,
+    "date_timestamp_latest": -873331200.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "MORTICIAN\nAMBULANCE\nPAIL 942\n189 10 11\n12 14 15 16 17 18\n9 20 21 22 24 25\nR 29 30\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30347620000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2736956466666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27128836666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23476856666666668
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23201726666666667
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23189377666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21437275333333336
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "objectID": 2509,
+    "irn": 2509,
+    "ecatalogue_key": 1106,
+    "TitAccessionNo": "2001.35.1108",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing light colored dress, and girl looking at artwork displayed in hallway, possibly in school building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Art exhibitions--Pennsylvania--Pittsburgh.Children's art--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "950f8c46-299e-4368-8927-8308f6f64a2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15239,
+    "MulMultiMediaRef_key": 1108,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15239/sizes/2509-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Girls",
+        "Children's art",
+        "Corridors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Art exhibitions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children's art",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3115157333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2919949333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28204556666666664
+        },
+        {
+            "keyword": "art",
+            "score": 0.27829265658365887
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.2558744099794515
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24586373333333333
+        },
+        {
+            "keyword": "art gallery",
+            "score": 0.22431346666666666
+        },
+        {
+            "keyword": "tourist attraction",
+            "score": 0.21467218666666665
+        },
+        {
+            "keyword": "exhibition",
+            "score": 0.2025768
+        }
+    ]
+}

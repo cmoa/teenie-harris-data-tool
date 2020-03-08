@@ -1,0 +1,92 @@
+{
+    "objectID": 21499,
+    "irn": 21499,
+    "ecatalogue_key": 12242,
+    "TitAccessionNo": "2001.35.12272",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, women, and children gathered at altar of small church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "38b6662f-595a-418c-be9a-e5520031395c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28086,
+    "MulMultiMediaRef_key": 12250,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28086/sizes/21499-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "KODAK SAFETY FILM\n8\n",
+    "subjects": [
+        "Men",
+        "Children",
+        "Women",
+        "Church buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30736488
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.30418401082356766
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28399795333333333
+        },
+        {
+            "keyword": "room",
+            "score": 0.281483154296875
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27987275666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2516122333333333
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "objectID": 12288,
+    "irn": 12288,
+    "ecatalogue_key": 6142,
+    "TitAccessionNo": "2001.35.6153",
+    "CreDateCreated": "c. 1958",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1961",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man surveying in overgrown field next to train track with B&O train",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trains--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "639a2c1c-6334-4651-9ea7-fdcad65251ac",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21055,
+    "MulMultiMediaRef_key": 6149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21055/sizes/12288-1680.jpg",
+    "date_timestamp_earliest": -473385600.0,
+    "date_timestamp_latest": -283996800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "soldier",
+            "score": 0.30390473483072933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2997440333333333
+        },
+        {
+            "keyword": "tripod",
+            "score": 0.2894158935546873
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27573426666666667
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2585302
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25428523333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2335744
+        }
+    ]
+}

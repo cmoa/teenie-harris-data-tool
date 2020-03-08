@@ -1,0 +1,122 @@
+{
+    "objectID": 22153,
+    "irn": 22153,
+    "ecatalogue_key": 12811,
+    "TitAccessionNo": "2001.35.12841",
+    "CreDateCreated": "c. 1938-1946",
+    "CreEarliestDate": "1933",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and woman standing on street, with convertible car and McTurner's Funeral Home in background, 2131 Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Funeral homes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70f7ae90-39cb-487f-8e2b-5a416a3feea9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29054,
+    "MulMultiMediaRef_key": 12819,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29054/sizes/22153-1680.jpg",
+    "date_timestamp_earliest": -1167609600.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [
+        "McTurner"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "2131 Centre Avenue",
+            "short_name": "2131 Centre Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill District",
+            "short_name": "Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Automobiles",
+        "Funeral homes",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "2131 Centre Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Funeral homes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.29839985344340003
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2962692666666667
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29458499
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27876818333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2625562
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23257394666666667
+        },
+        {
+            "keyword": "window",
+            "score": 0.20157469817403154
+        }
+    ]
+}

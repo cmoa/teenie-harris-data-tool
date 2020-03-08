@@ -1,0 +1,100 @@
+{
+    "objectID": 34921,
+    "irn": 34921,
+    "ecatalogue_key": 22605,
+    "TitAccessionNo": "2001.35.22636",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women, including woman on right wearing bold circle patterned dress, gathered around piano, in interior with drop ceiling, wreathes, and garland decoration",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6586d830-3ff6-427b-9698-0679a6b474bf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41143,
+    "MulMultiMediaRef_key": 22613,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41143/sizes/34921-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 17,
+    "google_text_in_image": "KODAK SAFETY FILM\n7\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3035471433333333
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.28975283333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27980941666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27442838666666663
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.2671848333333333
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.2504844333333333
+        },
+        {
+            "keyword": "dress",
+            "score": 0.24555020000000002
+        },
+        {
+            "keyword": "bride",
+            "score": 0.2069818
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2037493
+        }
+    ]
+}

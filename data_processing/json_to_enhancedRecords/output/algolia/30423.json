@@ -1,0 +1,129 @@
+{
+  "objectID": 30423,
+  "irn": 30423,
+  "ecatalogue_key": 18639,
+  "TitAccessionNo": "2001.35.18669",
+  "CreDateCreated": "c. 1963",
+  "CreEarliestDate": "1960",
+  "CreLatestDate": "1966",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man holding test tube, and three women wearing light colored coats, including woman on right wearing nurse hat, in laboratory, possibly in Children's Hospital",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "54f568e3-9265-43cb-804b-a2ba3eace9ca",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36288/sizes/30423-1680.jpg",
+  "datetime": "1960-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Central Lawrenceville",
+      "short_name": "Central Lawrenceville"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Penn Avenue",
+      "short_name": "Penn Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 4,
+  "google_text_in_image": "",
+  "subjects": [
+    "Nurses",
+    "Women",
+    "Laboratories",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "professional",
+      "score": 0.3662940030232747
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children's Hospital",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Laboratories",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Nurses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "cook",
+      "score": 0.3145739
+    },
+    {
+      "keyword": "chef",
+      "score": 0.3022218
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3005089
+    },
+    {
+      "keyword": "chief cook",
+      "score": 0.27883442333333336
+    },
+    {
+      "keyword": "profession",
+      "score": 0.26039982
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2583449666666667
+    },
+    {
+      "keyword": "service",
+      "score": 0.23559726666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23321972333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36288/sizes/30423-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36288/sizes/30423-210.jpg",
+  "date_timestamp_earliest": -315619200.0,
+  "date_timestamp_latest": -126230400.0,
+  "decades": [
+    "1960s"
+  ]
+}

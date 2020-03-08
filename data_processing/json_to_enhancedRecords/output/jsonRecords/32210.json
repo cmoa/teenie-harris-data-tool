@@ -1,0 +1,93 @@
+{
+    "objectID": 32210,
+    "irn": 32210,
+    "ecatalogue_key": 20355,
+    "TitAccessionNo": "2001.35.20386",
+    "CreDateCreated": "1965",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three men, and woman wearing paisley dress and jacket, seated behind pushed together tables, with plates of food and coffee cups, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dc5d6914-f082-4d6f-b37b-e0784093ff40",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38511,
+    "MulMultiMediaRef_key": 20363,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38511/sizes/32210-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Food",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4668665340576173
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.28752618017781567
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27445196666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27085180999999997
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24375262265421535
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2337874276509603
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21247035333333333
+        }
+    ]
+}

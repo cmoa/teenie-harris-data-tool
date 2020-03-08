@@ -1,0 +1,81 @@
+{
+    "objectID": 28857,
+    "irn": 28857,
+    "ecatalogue_key": 17633,
+    "TitAccessionNo": "2001.35.17663",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated in rows of folding chairs, including woman wearing light colored striped top, in interior with shuffleboard outline on floor, and wooden doors lining back wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6da9005b-b1d0-4860-adcf-42b7d4e4b74f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35002,
+    "MulMultiMediaRef_key": 17641,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35002/sizes/28857-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26831615000000003
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.267253026663208
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2609846
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20056456666666667
+        }
+    ]
+}

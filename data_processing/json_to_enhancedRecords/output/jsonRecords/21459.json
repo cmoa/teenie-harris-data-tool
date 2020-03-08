@@ -1,0 +1,99 @@
+{
+    "objectID": 21459,
+    "irn": 21459,
+    "ecatalogue_key": 12140,
+    "TitAccessionNo": "2001.35.12170",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered around long table under tent, writing on documents, possibly at health fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tents--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b3eee0a0-2298-41e2-a86b-b8060ce0e753",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27830,
+    "MulMultiMediaRef_key": 12148,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27830/sizes/21459-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 26,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Tents",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.40494326548665366
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tents",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2964776333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.29164059999999997
+        },
+        {
+            "keyword": "fun",
+            "score": 0.28403408905395505
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27514293333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25312992
+        },
+        {
+            "keyword": "event",
+            "score": 0.23665113333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22545183333333332
+        }
+    ]
+}

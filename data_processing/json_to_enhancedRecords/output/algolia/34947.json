@@ -1,0 +1,96 @@
+{
+  "objectID": 34947,
+  "irn": 34947,
+  "ecatalogue_key": 22623,
+  "TitAccessionNo": "2001.35.22654",
+  "CreDateCreated": "1971",
+  "CreEarliestDate": "1971",
+  "CreLatestDate": "1971",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three women and a man gathered behind desk in office with swordfish mounted on wall in background",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "d60fc253-b505-468b-bf7b-6a69d4e39754",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41127/sizes/34947-1680.jpg",
+  "datetime": "1971-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 4,
+  "google_text_in_image": "KODAK SAFETY FILM\n",
+  "subjects": [
+    "Men",
+    "Offices",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Offices",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3080444133333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28128041666666664
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2746619666666667
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22939062
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.20565246666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41127/sizes/34947-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41127/sizes/34947-210.jpg",
+  "date_timestamp_earliest": 31536000.0,
+  "date_timestamp_latest": 31536000.0,
+  "decades": [
+    "1970s"
+  ]
+}

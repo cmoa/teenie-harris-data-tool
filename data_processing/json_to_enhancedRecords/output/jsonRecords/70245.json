@@ -1,0 +1,97 @@
+{
+    "objectID": 70245,
+    "irn": 70245,
+    "ecatalogue_key": 55445,
+    "TitAccessionNo": "2001.35.55488",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Audience of men and women, many wearing hats and overcoats, seated on wooden folding chairs, in gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Audiences--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5942e8e0-6108-4129-9d4c-a20efa698dc1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83883,
+    "MulMultiMediaRef_key": 55454,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83883/sizes/70245-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "",
+    "subjects": [
+        "Chairs",
+        "Women",
+        "Audiences",
+        "Men",
+        "Gymnasiums"
+    ],
+    "keywords": [
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2857304666666667
+        },
+        {
+            "keyword": "stage",
+            "score": 0.28245058981953935
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23134706666666668
+        },
+        {
+            "keyword": "audience",
+            "score": 0.22134033333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2212683666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21846091666666667
+        }
+    ]
+}

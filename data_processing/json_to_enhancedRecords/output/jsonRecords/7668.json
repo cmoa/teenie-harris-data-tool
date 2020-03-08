@@ -1,0 +1,130 @@
+{
+    "objectID": 7668,
+    "irn": 7668,
+    "ecatalogue_key": 4766,
+    "TitAccessionNo": "2001.35.4775",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman in short sleeved sweater",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3edfa8f8-5fd0-4af0-943e-63b63c7e2c93",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19609,
+    "MulMultiMediaRef_key": 4772,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19609/sizes/7668-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4515142068318683
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3930018541585287
+        },
+        {
+            "keyword": "male",
+            "score": 0.3761397544311524
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3660232259057617
+        },
+        {
+            "keyword": "smile",
+            "score": 0.36449415699991866
+        },
+        {
+            "keyword": "boy",
+            "score": 0.34112112009480805
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.3123594533333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3053265
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28386861
+        },
+        {
+            "keyword": "human",
+            "score": 0.27942471942138664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27606176666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "child",
+            "score": 0.26022455596008304
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2521350766666667
+        },
+        {
+            "keyword": "shoulder",
+            "score": 0.24715268666666668
+        },
+        {
+            "keyword": "cool",
+            "score": 0.24335470687204996
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2350974
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2315469236033122
+        }
+    ]
+}

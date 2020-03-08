@@ -1,0 +1,102 @@
+{
+    "objectID": 66899,
+    "irn": 66899,
+    "ecatalogue_key": 52688,
+    "TitAccessionNo": "2001.35.52731",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men exchanging object, including one on right wearing dark double breasted pinstriped suit, standing in hallway with display of candy, including Hershey's bar, Almond Joy, and Mounds on windowsill",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cdd9cd9f-6be7-4dbf-a830-400662eeff59",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76745,
+    "MulMultiMediaRef_key": 52696,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76745/sizes/66899-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Almond Joy"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Mounds",
+            "short_name": "Mounds"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Corridors"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.3404792144144693
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hershey's",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mounds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2970939866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26322011
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25715166666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22922636666666665
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20384976666666665
+        }
+    ]
+}

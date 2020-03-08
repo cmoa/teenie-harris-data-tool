@@ -1,0 +1,119 @@
+{
+    "objectID": 23882,
+    "irn": 23882,
+    "ecatalogue_key": 14003,
+    "TitAccessionNo": "2001.35.14033",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of children, some wearing party hats, gathered in open space, in front of three brick buildings, with fence on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Birthday parties--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f2437b6e-e4d6-40c6-9cba-f13b38b30c57",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30315,
+    "MulMultiMediaRef_key": 14011,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30315/sizes/23882-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Girls",
+        "Birthday parties",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "city",
+            "score": 0.37200583777587903
+        },
+        {
+            "keyword": "street",
+            "score": 0.350714578326416
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Birthday parties",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30803363333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29947698
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2880355133333333
+        },
+        {
+            "keyword": "public space",
+            "score": 0.28242242333333334
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.28053143333333336
+        },
+        {
+            "keyword": "cemetery",
+            "score": 0.2770280202229817
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27469945
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.26860191333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24331242
+        },
+        {
+            "keyword": "road",
+            "score": 0.22942843385823566
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.21186546666666664
+        }
+    ]
+}

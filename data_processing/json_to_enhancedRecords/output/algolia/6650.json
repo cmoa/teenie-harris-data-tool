@@ -1,0 +1,240 @@
+{
+  "objectID": 6650,
+  "irn": 6650,
+  "ecatalogue_key": 4050,
+  "TitAccessionNo": "2001.35.4059",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Bethesda Presbyterian Church at the corner of Paulson and Luna Streets, first location, with debris and sawhorse on sidewalk",
+  "CatSubject_tab": "Bethesda Presbyterian Church (Pittsburgh, Pa.)Church buildings--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Larimer (Pittsburgh, Pa.)Luna Street (Pittsburgh, Pa.)Paulson Avenue (Pittsburgh, Pa.)Streets--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Rubble--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "7c95497a-defd-4be2-8392-ce0ef1bab05c",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18892/sizes/6650-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "South Side Flats",
+      "short_name": "South Side Flats"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Larimer",
+      "short_name": "Larimer"
+    },
+    {
+      "type": "sublocality",
+      "score": 60,
+      "long_name": "Oakland",
+      "short_name": "Oakland"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Paulson Avenue",
+      "short_name": "Paulson Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Grant Street",
+      "short_name": "Grant St"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "South 26th Street",
+      "short_name": "S 26th St"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Streets",
+    "Church buildings",
+    "Automobiles",
+    "Rubble",
+    "Signs and symbols",
+    "Signs and signboards",
+    "Sidewalks"
+  ],
+  "keywords": [
+    {
+      "keyword": "building",
+      "score": 0.46624844431152335
+    },
+    {
+      "keyword": "church",
+      "score": 0.44291503625081363
+    },
+    {
+      "keyword": "landmark",
+      "score": 0.3739634736450197
+    },
+    {
+      "keyword": "town",
+      "score": 0.34648117188151034
+    },
+    {
+      "keyword": "facade",
+      "score": 0.3419293011535643
+    },
+    {
+      "keyword": ")Luna Street ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Automobiles",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bethesda Presbyterian Church ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Paulson Avenue ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Rubble",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Larimer ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bethesda Presbyterian Church",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Signs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Sidewalks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Church buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Luna Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sky",
+      "score": 0.31173262824300135
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3051472333333333
+    },
+    {
+      "keyword": "history",
+      "score": 0.304361793499756
+    },
+    {
+      "keyword": "house",
+      "score": 0.29524477892456064
+    },
+    {
+      "keyword": "window",
+      "score": 0.29198054305623367
+    },
+    {
+      "keyword": "street",
+      "score": 0.291184217796631
+    },
+    {
+      "keyword": "parish",
+      "score": 0.2784493333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2780271
+    },
+    {
+      "keyword": "place of worship",
+      "score": 0.26490003333333334
+    },
+    {
+      "keyword": "neighbourhood",
+      "score": 0.2612911
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25695618000000003
+    },
+    {
+      "keyword": "arch",
+      "score": 0.24808805272542334
+    },
+    {
+      "keyword": "chapel",
+      "score": 0.23562193333333334
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.23342033386230468
+    },
+    {
+      "keyword": "residential area",
+      "score": 0.22546483333333334
+    },
+    {
+      "keyword": "medieval architecture",
+      "score": 0.20727673333333332
+    },
+    {
+      "keyword": "almshouse",
+      "score": 0.2030902
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18892/sizes/6650-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18892/sizes/6650-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

@@ -1,0 +1,106 @@
+{
+    "objectID": 25801,
+    "irn": 25801,
+    "ecatalogue_key": 15259,
+    "TitAccessionNo": "2001.35.15289",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man seated with hands clasped on arm of sofa, with table on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b5c15528-1d16-47fd-a021-8a5bef61f29b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31630,
+    "MulMultiMediaRef_key": 15267,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31630/sizes/25801-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48913349246012366
+        },
+        {
+            "keyword": "person",
+            "score": 0.44873355752685534
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.36158880343221034
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29813747514831546
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28873668
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27801118333333336
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27322977666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.268557706801351
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25425338632283534
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.251018
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22567582
+        }
+    ]
+}

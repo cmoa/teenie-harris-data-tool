@@ -1,0 +1,120 @@
+{
+    "objectID": 16899,
+    "irn": 16899,
+    "ecatalogue_key": 8796,
+    "TitAccessionNo": "2001.35.8818",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Cat and dog seated in chair with floral upholstery, in domestic interior, with man standing on the side",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.Cats--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "32f654b9-c664-4ecc-bc1f-fee80b9321e1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24457,
+    "MulMultiMediaRef_key": 8804,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24457/sizes/16899-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Dogs",
+        "Interiors",
+        "Cats"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.46572994396972667
+        },
+        {
+            "keyword": "chair",
+            "score": 0.4556040329956053
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.34751155915730797
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3149823
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30859743333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29808018666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26732839999999997
+        },
+        {
+            "keyword": "human",
+            "score": 0.25966312790730794
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24914445333333335
+        },
+        {
+            "keyword": "leg",
+            "score": 0.23713731666666668
+        },
+        {
+            "keyword": "armrest",
+            "score": 0.234599634806315
+        },
+        {
+            "keyword": "organ",
+            "score": 0.2205306
+        },
+        {
+            "keyword": "rest",
+            "score": 0.21805458068847663
+        },
+        {
+            "keyword": "table",
+            "score": 0.213469999708252
+        }
+    ]
+}

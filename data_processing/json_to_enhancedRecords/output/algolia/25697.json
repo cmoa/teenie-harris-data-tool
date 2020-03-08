@@ -1,0 +1,138 @@
+{
+  "objectID": 25697,
+  "irn": 25697,
+  "ecatalogue_key": 15534,
+  "TitAccessionNo": "2001.35.15564",
+  "CreDateCreated": "1972",
+  "CreEarliestDate": "1972",
+  "CreLatestDate": "1972",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a minister, possibly Reverend Fitch, standing in a yard, another version",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "2daa73c5-72db-41eb-8f20-5c94e04973df",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33199/sizes/25697-1680.jpg",
+  "datetime": "1972-01-01 00:00:00",
+  "people": [
+    "Fitch"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "KODAKSAFETY\n",
+  "subjects": [
+    "Clergy",
+    "Portraits",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.4845156986938477
+    },
+    {
+      "keyword": "person",
+      "score": 0.4743218974650067
+    },
+    {
+      "keyword": "male",
+      "score": 0.4284799244099933
+    },
+    {
+      "keyword": "suit",
+      "score": 0.3939616791918947
+    },
+    {
+      "keyword": "standing",
+      "score": 0.3665598152933757
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.35090524300333664
+    },
+    {
+      "keyword": "Fitch",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Clergy",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "smile",
+      "score": 0.31168211339925134
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3051935433333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28458543333333336
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.28442192
+    },
+    {
+      "keyword": "human",
+      "score": 0.27973002937418634
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.279323
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24123354666666666
+    },
+    {
+      "keyword": "elder",
+      "score": 0.21431064666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33199/sizes/25697-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33199/sizes/25697-210.jpg",
+  "date_timestamp_earliest": 63072000.0,
+  "date_timestamp_latest": 63072000.0,
+  "decades": [
+    "1970s"
+  ]
+}

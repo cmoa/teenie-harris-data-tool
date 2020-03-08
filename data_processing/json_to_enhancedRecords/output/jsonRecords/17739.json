@@ -1,0 +1,94 @@
+{
+    "objectID": 17739,
+    "irn": 17739,
+    "ecatalogue_key": 9396,
+    "TitAccessionNo": "2001.35.9422",
+    "CreDateCreated": "c. 1960-1970",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man possibly doing newspaper layout",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Workshops--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9d1e48c8-8bd6-42ca-af5c-261f52d3eec4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26369,
+    "MulMultiMediaRef_key": 9404,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26369/sizes/17739-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Workshops"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.336667491566976
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workshops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2968593333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27507718333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25817231333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24160576666666667
+        },
+        {
+            "keyword": "typesetting",
+            "score": 0.21770936666666665
+        },
+        {
+            "keyword": "artisan",
+            "score": 0.21599896666666665
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20738400999999998
+        },
+        {
+            "keyword": "newspaper",
+            "score": 0.20163064320882165
+        }
+    ]
+}

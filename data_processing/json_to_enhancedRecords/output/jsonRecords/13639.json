@@ -1,0 +1,114 @@
+{
+    "objectID": 13639,
+    "irn": 13639,
+    "ecatalogue_key": 7195,
+    "TitAccessionNo": "2001.35.7211",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing over woman typing in an office with wood paneling and \"Cleartype\" map of the United States, vertical composition",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Office equipment and supplies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3c263405-8a91-4dbd-80aa-dda66d76a309",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22675,
+    "MulMultiMediaRef_key": 7203,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22675/sizes/13639-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "the United States",
+            "short_name": "the United States"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Office equipment and supplies",
+        "Offices",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office equipment and supplies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cleartype",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3231080661153157
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3086151105082194
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30541245
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2830673866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2789586766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25551011
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23358656666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.221642
+        }
+    ]
+}

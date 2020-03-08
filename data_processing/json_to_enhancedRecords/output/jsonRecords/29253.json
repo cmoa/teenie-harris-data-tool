@@ -1,0 +1,114 @@
+{
+    "objectID": 29253,
+    "irn": 29253,
+    "ecatalogue_key": 17846,
+    "TitAccessionNo": "2001.35.17876",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men and one woman, seated behind rectangular banquet table with flowers, including man wearing striped necktie and name tag, holding document, in interior with dark curtains in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8bc45694-adde-45e0-a6cf-e47a66265622",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34851,
+    "MulMultiMediaRef_key": 17854,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34851/sizes/29253-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "KODAK SAFET\n",
+    "subjects": [
+        "Flowers",
+        "Portraits, Group",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46372548105957034
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.38244536866617834
+        },
+        {
+            "keyword": "Flowers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30149835333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28540688666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.27011322057902015
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26666822
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24433363333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23616194941487634
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2309878
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22896161302449544
+        }
+    ]
+}

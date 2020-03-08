@@ -1,0 +1,113 @@
+{
+    "objectID": 23839,
+    "irn": 23839,
+    "ecatalogue_key": 13987,
+    "TitAccessionNo": "2001.35.14017",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of Ellis Hotel with man seated on left, and man standing on right, with flower arrangement on coffee table in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hotels--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a943bf48-cf2e-447c-8948-cd280a36522e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30000,
+    "MulMultiMediaRef_key": 13995,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30000/sizes/23839-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Ellis Hotel",
+            "short_name": "Ellis Hotel"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Hotels",
+        "Hotels, motels, etc"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.38489782856038396
+        },
+        {
+            "keyword": "table",
+            "score": 0.3658371532177733
+        },
+        {
+            "keyword": "house",
+            "score": 0.36423980294596364
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hotels",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ellis Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "window",
+            "score": 0.3091710380737303
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3079271
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28587405
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28536313333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "room",
+            "score": 0.234576924641927
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23030851333333333
+        },
+        {
+            "keyword": "interior design",
+            "score": 0.21535846666666666
+        }
+    ]
+}

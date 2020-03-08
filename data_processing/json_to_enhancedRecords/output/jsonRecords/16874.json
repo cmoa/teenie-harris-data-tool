@@ -1,0 +1,123 @@
+{
+    "objectID": 16874,
+    "irn": 16874,
+    "ecatalogue_key": 8700,
+    "TitAccessionNo": "2001.35.8722",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a light colored fluffy dog seated on a rug, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "eca6a097-7073-4ef4-a83d-de5f9831e7cf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24438,
+    "MulMultiMediaRef_key": 8708,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24438/sizes/16874-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "dog",
+            "score": 0.6503162666666666
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "canine",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.31939592
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31731893333333333
+        },
+        {
+            "keyword": "dog breed",
+            "score": 0.30624413333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3052126
+        },
+        {
+            "keyword": "dog breed group",
+            "score": 0.3046088
+        },
+        {
+            "keyword": "pomeranian",
+            "score": 0.2839257533333333
+        },
+        {
+            "keyword": "puppy",
+            "score": 0.276270941064453
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26836413333333337
+        },
+        {
+            "keyword": "snout",
+            "score": 0.26735228333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25637328666666664
+        },
+        {
+            "keyword": "whiskers",
+            "score": 0.25072805727539066
+        },
+        {
+            "keyword": "volpino italiano",
+            "score": 0.20973761999999999
+        },
+        {
+            "keyword": "carnivoran",
+            "score": 0.20673918666666666
+        }
+    ]
+}

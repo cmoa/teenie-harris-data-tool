@@ -1,0 +1,111 @@
+{
+    "objectID": 18283,
+    "irn": 18283,
+    "ecatalogue_key": 9763,
+    "TitAccessionNo": "2001.35.9789",
+    "CreDateCreated": "c. 1942",
+    "CreEarliestDate": "1937",
+    "CreLatestDate": "1947",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Soldiers carrying rifles marching onto Kennard Field, with civilians milling about, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cf31d6f3-0a55-4542-bddd-64492f6d1344",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25587,
+    "MulMultiMediaRef_key": 9771,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25587/sizes/18283-1680.jpg",
+    "date_timestamp_earliest": -1041379200.0,
+    "date_timestamp_latest": -725846400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill District",
+            "short_name": "Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Soldiers"
+    ],
+    "keywords": [
+        {
+            "keyword": "sky",
+            "score": 0.3569809567392987
+        },
+        {
+            "keyword": "Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kennard Field",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30490163333333337
+        },
+        {
+            "keyword": "town",
+            "score": 0.27728023333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2771233
+        },
+        {
+            "keyword": "history",
+            "score": 0.27260813485921226
+        },
+        {
+            "keyword": "city",
+            "score": 0.26254822769165037
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26153254666666664
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2577671075449627
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24658042333333333
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.23222150280517564
+        },
+        {
+            "keyword": "water",
+            "score": 0.22384377397562663
+        }
+    ]
+}

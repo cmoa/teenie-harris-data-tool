@@ -1,0 +1,123 @@
+{
+    "objectID": 54869,
+    "irn": 54869,
+    "ecatalogue_key": 41579,
+    "TitAccessionNo": "2001.35.41621",
+    "CreDateCreated": "c. 1953",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and woman gathered behind and around small bench or desk, with another woman wearing dark coat and light colored beret standing on right, in interior with men seated at table in foreground, and painting of George Washington",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "53ac970b-40a4-44a2-8f70-be9ecddaa001",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62382,
+    "MulMultiMediaRef_key": 41587,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62382/sizes/54869-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "George Washington"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Audiences",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.38390885662841806
+        },
+        {
+            "keyword": "table",
+            "score": 0.3367281582967123
+        },
+        {
+            "keyword": "George Washington",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.316688056468506
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2891099
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2668452466666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23682393333333332
+        },
+        {
+            "keyword": "room",
+            "score": 0.23415517171223968
+        },
+        {
+            "keyword": "interior",
+            "score": 0.21514366149902334
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.21057413333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21032353333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2016704
+        }
+    ]
+}

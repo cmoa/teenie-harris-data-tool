@@ -1,0 +1,127 @@
+{
+    "objectID": 5400,
+    "irn": 5400,
+    "ecatalogue_key": 3294,
+    "TitAccessionNo": "2001.35.3301",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man in double breasted suit in men's clothing store",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Stores, Retail--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3e13f1a3-6f57-4bae-b461-a4a04d981285",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18429,
+    "MulMultiMediaRef_key": 3296,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18429/sizes/5400-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Suits (Clothing)",
+        "Stores, Retail",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.48041752586100267
+        },
+        {
+            "keyword": "man",
+            "score": 0.4151601295540363
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3875896813232423
+        },
+        {
+            "keyword": "fashion",
+            "score": 0.37485317180989597
+        },
+        {
+            "keyword": "male",
+            "score": 0.34979709146647137
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stores, Retail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.31193723333333334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29265836666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.289865
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27728616666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26093246666666664
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.2534980333333333
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.24240996666666667
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24199004999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21028307999999998
+        },
+        {
+            "keyword": "necktie",
+            "score": 0.2012170563873291
+        }
+    ]
+}

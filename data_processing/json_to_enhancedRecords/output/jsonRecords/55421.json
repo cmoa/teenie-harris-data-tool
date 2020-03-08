@@ -1,0 +1,101 @@
+{
+    "objectID": 55421,
+    "irn": 55421,
+    "ecatalogue_key": 42154,
+    "TitAccessionNo": "2001.35.42196",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark short sleeved turtleneck, holding turkey, in interior with light colored walls, and chicken wire on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Turkeys--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "536211a8-0527-4599-90e8-f7aa05662838",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63470,
+    "MulMultiMediaRef_key": 42162,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63470/sizes/55421-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "212.601 2.45 12.30 7 2.15 12.007 1.85 1.7011.5511.4071.25 T110T0.95 0.80 0.65 0.50 1 0.551 0.20\nStouffer step-wedge 12115 Mi\n",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Interiors",
+        "Women",
+        "Turkeys"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Turkeys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3090482
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2750268666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2724665333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25534609999999996
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23795733333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.232827623731486
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21669036666666666
+        }
+    ]
+}

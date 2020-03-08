@@ -1,0 +1,89 @@
+{
+    "objectID": 20980,
+    "irn": 20980,
+    "ecatalogue_key": 11718,
+    "TitAccessionNo": "2001.35.11748",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, two wearing jackets holding Hughes and Hatcher box, one wearing suit and tie, with suit jackets hanging in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Retail stores--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c43cf2a9-7541-46b0-850f-7e78623ee196",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17760,
+    "MulMultiMediaRef_key": 11726,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17760/sizes/20980-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Hughes",
+        "Hatcher"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Stores, Retail"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Retail stores",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hughes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hatcher",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2907455566666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2759677333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2549435666666667
+        },
+        {
+            "keyword": "family",
+            "score": 0.25005920525268566
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2183435374359131
+        }
+    ]
+}

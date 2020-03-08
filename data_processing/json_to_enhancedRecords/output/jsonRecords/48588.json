@@ -1,0 +1,113 @@
+{
+    "objectID": 48588,
+    "irn": 48588,
+    "ecatalogue_key": 35591,
+    "TitAccessionNo": "2001.35.35630",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, and women, one wearing fur coat draped over shoulders, seated in Centre Avenue YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ccaf075a-1e94-4354-b688-735227c59f04",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55522,
+    "MulMultiMediaRef_key": 35599,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55522/sizes/48588-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Centre Avenue",
+            "short_name": "Centre Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 32,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Gymnasiums",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.36034052708740233
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.357243091255493
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Young Men's Christian Association ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Centre Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.3180889333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.30940481000000003
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2855197
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2633666666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22733245333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2199531
+        },
+        {
+            "keyword": "event",
+            "score": 0.2083827842618815
+        }
+    ]
+}

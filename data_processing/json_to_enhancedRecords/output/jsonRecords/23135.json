@@ -1,0 +1,102 @@
+{
+    "objectID": 23135,
+    "irn": 23135,
+    "ecatalogue_key": 13580,
+    "TitAccessionNo": "2001.35.13610",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women, including Nancy T. Bolden, seated at banquet tables, possibly in Holy Rosary gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "942b2685-9797-4593-afe1-7df4ffb07975",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30450,
+    "MulMultiMediaRef_key": 13588,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30450/sizes/23135-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [
+        "Nancy T. Bolden"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 28,
+    "google_text_in_image": "KODAK SAFETY FILM\n6\n",
+    "subjects": [
+        "Gymnasiums",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Holy Rosary",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30675045666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2786435333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2763643666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23894993333333334
+        },
+        {
+            "keyword": "stage",
+            "score": 0.23183331216918934
+        },
+        {
+            "keyword": "event",
+            "score": 0.23031425333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2248539294504801
+        },
+        {
+            "keyword": "performance",
+            "score": 0.21521135713399267
+        }
+    ]
+}

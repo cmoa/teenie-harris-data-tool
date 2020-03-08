@@ -1,0 +1,99 @@
+{
+    "objectID": 34442,
+    "irn": 34442,
+    "ecatalogue_key": 22150,
+    "TitAccessionNo": "2001.35.22181",
+    "CreDateCreated": "1964",
+    "CreEarliestDate": "1964",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Judge swearing in John Adams, in office with bookcases and framed certificates on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Judges--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2d3637e2-3104-429c-9d6a-8b491bf64b90",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40690,
+    "MulMultiMediaRef_key": 22158,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40690/sizes/34442-1680.jpg",
+    "date_timestamp_earliest": -189388800.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "John Adams"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Judges",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John Adams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Judges",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32672254489440933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29969609999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25265298333333336
+        },
+        {
+            "keyword": "professional",
+            "score": 0.23874355637837733
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21117464666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20137788999999998
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "objectID": 44558,
+    "irn": 44558,
+    "ecatalogue_key": 31899,
+    "TitAccessionNo": "2001.35.31934",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men seated at desk examining document, one on left wearing leaf patterned tie and eyeglasses",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c38b094d-3d5e-4c53-a8bf-00bd9b892004",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51289,
+    "MulMultiMediaRef_key": 31907,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51289/sizes/44558-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.3626581535583497
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.31303012675577796
+        },
+        {
+            "keyword": "communication",
+            "score": 0.28971101982727065
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2888072666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2761889
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2616541666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2385472
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22526676666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22369555666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20308095333333334
+        }
+    ]
+}

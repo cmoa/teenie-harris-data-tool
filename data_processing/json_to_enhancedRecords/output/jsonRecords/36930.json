@@ -1,0 +1,115 @@
+{
+    "objectID": 36930,
+    "irn": 36930,
+    "ecatalogue_key": 24526,
+    "TitAccessionNo": "2001.35.24558",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing tuxedo, standing on stage with hands clasped, with long, dark curtain and American flag in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c26510b0-02e9-4417-a48a-2cb2fdc17abe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43064,
+    "MulMultiMediaRef_key": 24534,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43064/sizes/36930-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Flags",
+        "American"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33319749334106447
+        },
+        {
+            "keyword": "dress",
+            "score": 0.33116543881429034
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30907301000000004
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2871339333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2869407795756023
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2845893
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.27827373333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2617638
+        },
+        {
+            "keyword": "human",
+            "score": 0.25842504575337727
+        },
+        {
+            "keyword": "girl",
+            "score": 0.25381763333333335
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24084861999999999
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23867766666666668
+        }
+    ]
+}

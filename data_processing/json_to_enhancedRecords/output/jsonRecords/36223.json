@@ -1,0 +1,105 @@
+{
+    "objectID": 36223,
+    "irn": 36223,
+    "ecatalogue_key": 23868,
+    "TitAccessionNo": "2001.35.23899",
+    "CreDateCreated": "1949",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of dog, possibly Collie, standing on shag rug on square patterned linoleum floor",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b0b313c6-c5b5-43fd-b0b7-3cd46e7a525c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42438,
+    "MulMultiMediaRef_key": 23876,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42438/sizes/36223-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [
+        "Collie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "dog",
+            "score": 0.6173117268880207
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Collie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3176022
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.31707141666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2994698866666667
+        },
+        {
+            "keyword": "fur",
+            "score": 0.2978569871805827
+        },
+        {
+            "keyword": "dog breed",
+            "score": 0.29784641666666667
+        },
+        {
+            "keyword": "dog breed group",
+            "score": 0.28972385333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24553663333333334
+        },
+        {
+            "keyword": "whiskers",
+            "score": 0.24447827598368324
+        },
+        {
+            "keyword": "snout",
+            "score": 0.23243485
+        },
+        {
+            "keyword": "border collie",
+            "score": 0.20019014666666668
+        }
+    ]
+}

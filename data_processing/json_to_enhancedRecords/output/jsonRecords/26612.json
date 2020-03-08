@@ -1,0 +1,98 @@
+{
+    "objectID": 26612,
+    "irn": 26612,
+    "ecatalogue_key": 16328,
+    "TitAccessionNo": "2001.35.16358",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six men, possibly including J.H. Adams standing in background, and two women, gathered around table in office with wood paneled wall with certificate",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b4199935-a960-42e4-80f5-609d85b27ac2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32853,
+    "MulMultiMediaRef_key": 16336,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32853/sizes/26612-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "J.H. Adams"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Telephone",
+        "Offices",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "J.H. Adams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.30838393291422533
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2947909749145507
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2723145132588704
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26688631333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2494883
+        },
+        {
+            "keyword": "public relations",
+            "score": 0.20231702
+        }
+    ]
+}

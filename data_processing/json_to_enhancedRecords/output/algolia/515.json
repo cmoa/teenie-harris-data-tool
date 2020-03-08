@@ -1,0 +1,107 @@
+{
+  "objectID": 515,
+  "irn": 515,
+  "ecatalogue_key": 7127,
+  "TitAccessionNo": "2001.35.7143",
+  "CreDateCreated": "c. 1940-1960",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man and woman seated at desks in large wood-paneled office, with partitions, possibly in Pittsburgh Courier office",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "81052bd7-5860-4550-a831-256b71530bee",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22719/sizes/515-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "Offices",
+    "Pittsburgh courier",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "furniture",
+      "score": 0.4404307740478517
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.35433360291341137
+    },
+    {
+      "keyword": "Offices",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29983343333333334
+    },
+    {
+      "keyword": "table",
+      "score": 0.281054977109782
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2629598
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.24434761333333332
+    },
+    {
+      "keyword": "glass",
+      "score": 0.2415251245878093
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23550395333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22719/sizes/515-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22719/sizes/515-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

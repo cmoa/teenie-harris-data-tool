@@ -1,0 +1,110 @@
+{
+    "objectID": 1741,
+    "irn": 1741,
+    "ecatalogue_key": 407,
+    "TitAccessionNo": "2001.35.409",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Lifesaving class at indoor pool",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6c6abfb2-e973-4017-8452-7f434c58a86b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14522,
+    "MulMultiMediaRef_key": 409,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14522/sizes/1741-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Swimming pools",
+        "Interiors",
+        "Young adults",
+        "Men",
+        "Interior architecture",
+        "Bathing suits"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.38016936802571605
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Young adults",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathing suits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31631295
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30553468
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2826877
+        },
+        {
+            "keyword": "reflection",
+            "score": 0.27471876666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2612817333333333
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.25897626434163395
+        },
+        {
+            "keyword": "floor",
+            "score": 0.20668572333333335
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "objectID": 44345,
+    "irn": 44345,
+    "ecatalogue_key": 31635,
+    "TitAccessionNo": "2001.35.31670",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men, and women, including woman wearing light colored satin dress and rosary beads around neck, gathered on stage with beadboard facia",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "857f0558-0d2a-4df1-b03e-def7d0a00f96",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50788,
+    "MulMultiMediaRef_key": 31643,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50788/sizes/44345-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2955895333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2697752133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24721003333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22166756666666665
+        }
+    ]
+}

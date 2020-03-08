@@ -1,0 +1,114 @@
+{
+    "objectID": 25576,
+    "irn": 25576,
+    "ecatalogue_key": 15450,
+    "TitAccessionNo": "2001.35.15480",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men, including priest or minister in center, in church interior with pipe organ and arched stained glass transom over door in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b52893e9-cdbe-41aa-9fe4-da75b5ce5231",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31860,
+    "MulMultiMediaRef_key": 15458,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31860/sizes/25576-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "15\nKODAK SAFETYFILM\n",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43111205745035797
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30403332
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3021592842590333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28328516666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28002673333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.252804
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.24458591
+        },
+        {
+            "keyword": "suit",
+            "score": 0.23849431743082683
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23376613333333332
+        },
+        {
+            "keyword": "event",
+            "score": 0.23214101666666667
+        }
+    ]
+}

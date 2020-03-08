@@ -1,0 +1,91 @@
+{
+    "objectID": 16646,
+    "irn": 16646,
+    "ecatalogue_key": 8569,
+    "TitAccessionNo": "2001.35.8591",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man in chefs hat and woman in cafeteria? behind counter",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0966ad0a-3257-4f46-b804-cd9501052877",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24230,
+    "MulMultiMediaRef_key": 8577,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24230/sizes/16646-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "AST\nM 2EGGS75\nOAST-COFFEE-TE\nGRITS\n10\nTUST\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Restaurants"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29995166666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2635831
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25133500000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23010055333333335
+        },
+        {
+            "keyword": "window",
+            "score": 0.21570702743408202
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.20808484112548828
+        }
+    ]
+}

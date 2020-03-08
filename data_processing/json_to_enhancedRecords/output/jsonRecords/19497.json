@@ -1,0 +1,98 @@
+{
+    "objectID": 19497,
+    "irn": 19497,
+    "ecatalogue_key": 10201,
+    "TitAccessionNo": "2001.35.10227",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men seated on either side of a desk, both with arms resting on it, in General Tire office with advertisements for hi-density rubber",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0c747b30-872a-4ccb-adef-389597107d3b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26106,
+    "MulMultiMediaRef_key": 10209,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26106/sizes/19497-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "THE\nGENERAL\nTIRE\nSAFER\nQUICKER\nSTOPPING\nlays\nworry\nWITH\nmiracle mileage\nmy\nAL\nGENERA\nNYGEN\nTUBELESS\n",
+    "subjects": [
+        "Men",
+        "Office furniture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "General Tire",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.310156041554769
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2891631333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26667738
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2653753981140136
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.24080733333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2394550666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22567498666666666
+        },
+        {
+            "keyword": "design",
+            "score": 0.21890362
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.20182734666666668
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "objectID": 25793,
+    "irn": 25793,
+    "ecatalogue_key": 15602,
+    "TitAccessionNo": "2001.35.15632",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Tables of four women with jack-o-lanterns, seated in club or banquet hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c371ba74-ba6b-4b43-840d-277a191b5273",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32082,
+    "MulMultiMediaRef_key": 15610,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32082/sizes/25793-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 28,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27963884666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26544781666666667
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.25346926666666664
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24286123518880207
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.2294123
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.22871700998331704
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22377286666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20668483333333332
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.20604183333333334
+        },
+        {
+            "keyword": "event",
+            "score": 0.2054188
+        }
+    ]
+}

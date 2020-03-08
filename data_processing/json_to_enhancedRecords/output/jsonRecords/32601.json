@@ -1,0 +1,104 @@
+{
+    "objectID": 32601,
+    "irn": 32601,
+    "ecatalogue_key": 20734,
+    "TitAccessionNo": "2001.35.20765",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men standing together, including man holding document, in interior with classroom chairs and piano in background, and sign on wall titled \"The Adverb\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "91e7dfd3-14f3-4bb9-a565-cac3aee40439",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38996,
+    "MulMultiMediaRef_key": 20742,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38996/sizes/32601-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Classrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.32019321037923165
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.297672
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2829833499898273
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27913133333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26414245333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23619411333333332
+        },
+        {
+            "keyword": "design",
+            "score": 0.21935753333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21612564666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21600623333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20515058333333333
+        }
+    ]
+}

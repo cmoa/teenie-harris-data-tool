@@ -1,0 +1,113 @@
+{
+    "objectID": 21211,
+    "irn": 21211,
+    "ecatalogue_key": 11932,
+    "TitAccessionNo": "2001.35.11962",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men and a woman standing before pile of debris behind apartment buildings?",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Alleys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c7debc08-5bdb-479c-bb3d-76ee26b06a36",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22695,
+    "MulMultiMediaRef_key": 11940,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22695/sizes/21211-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Alleys",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "town",
+            "score": 0.3115526792070516
+        },
+        {
+            "keyword": "house",
+            "score": 0.3078155329874673
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30031630000000004
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.2877483
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.2696958
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.26478682000000003
+        },
+        {
+            "keyword": "street",
+            "score": 0.2634828781374105
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2633524133333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.25717272368245436
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24021789999999998
+        },
+        {
+            "keyword": "road",
+            "score": 0.22739825872904465
+        },
+        {
+            "keyword": "rubble",
+            "score": 0.2093709
+        }
+    ]
+}

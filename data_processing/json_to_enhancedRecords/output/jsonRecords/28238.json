@@ -1,0 +1,99 @@
+{
+    "objectID": 28238,
+    "irn": 28238,
+    "ecatalogue_key": 17201,
+    "TitAccessionNo": "2001.35.17231",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark three buttoned top and pleated skirt, in interior with kitchen in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cbaac6ff-004d-42f0-bd28-bf509732eb8b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33939,
+    "MulMultiMediaRef_key": 17209,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33939/sizes/28238-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Kitchens"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.436873590974121
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.37963384897054037
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3544647809387207
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kitchens",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30389890999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2835726333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2753333333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23955396666666665
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23903613941243504
+        }
+    ]
+}

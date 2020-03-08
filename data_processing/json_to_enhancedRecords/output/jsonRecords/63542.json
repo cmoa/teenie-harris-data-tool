@@ -1,0 +1,107 @@
+{
+    "objectID": 63542,
+    "irn": 63542,
+    "ecatalogue_key": 49404,
+    "TitAccessionNo": "2001.35.49447",
+    "CreDateCreated": "c. 1959",
+    "CreEarliestDate": "1956",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, pulling dark bound \"Biological Abstracts\" from wooden bookshelf",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2c7e98d9-47a5-4dea-8f3f-3cef818568a1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72162,
+    "MulMultiMediaRef_key": 49412,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72162/sizes/63542-1680.jpg",
+    "date_timestamp_earliest": -441849600.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "27\nnt\nEIOLOGICAL\nABSTEACTS\nAESTEACTS\n32\n32\n1958\n1958\n",
+    "subjects": [
+        "Books",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3977590241516113
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Biological Abstracts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30157206666666664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3014271333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28103538333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2733355697721353
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27006066666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23362846666666667
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.21888533333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21410091666666667
+        }
+    ]
+}

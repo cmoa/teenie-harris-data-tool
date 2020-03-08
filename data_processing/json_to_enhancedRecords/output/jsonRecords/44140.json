@@ -1,0 +1,98 @@
+{
+    "objectID": 44140,
+    "irn": 44140,
+    "ecatalogue_key": 31439,
+    "TitAccessionNo": "2001.35.31472",
+    "CreDateCreated": "c. 1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men standing behind desk, looking at document, man on right with leg on chair wearing three piece suit, in office interior with textured glass windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cb0931b6-c8a9-4d6a-902f-f906724454f0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50659,
+    "MulMultiMediaRef_key": 31447,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50659/sizes/44140-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4500981708935547
+        },
+        {
+            "keyword": "male",
+            "score": 0.3876695773917643
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.315585678137207
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3101383833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2894504
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2830063666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24330578333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2352083
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20814931333333334
+        }
+    ]
+}

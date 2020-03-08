@@ -1,0 +1,101 @@
+{
+    "objectID": 68828,
+    "irn": 68828,
+    "ecatalogue_key": 54555,
+    "TitAccessionNo": "2001.35.54598",
+    "CreDateCreated": "March 1960",
+    "CreEarliestDate": "1960-03-01",
+    "CreLatestDate": "1960-03-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Porch with rotted stairs",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Porches--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Destroyed buildings--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b493d9a0-a3e3-4677-ae15-7d459c929e2a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 80888,
+    "MulMultiMediaRef_key": 54564,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/80888/sizes/68828-1680.jpg",
+    "date_timestamp_earliest": -310435200.0,
+    "date_timestamp_latest": -307843200.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Stairs",
+        "Porches",
+        "Lost architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Porches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Destroyed buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "wall",
+            "score": 0.3282853761291504
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31410584999999996
+        },
+        {
+            "keyword": "fence",
+            "score": 0.3000245666503907
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29765043333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27450936666666664
+        },
+        {
+            "keyword": "barrier",
+            "score": 0.26170422871907567
+        },
+        {
+            "keyword": "water",
+            "score": 0.2599832427256266
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25799310000000003
+        }
+    ]
+}

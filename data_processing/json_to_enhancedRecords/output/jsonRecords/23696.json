@@ -1,0 +1,86 @@
+{
+    "objectID": 23696,
+    "irn": 23696,
+    "ecatalogue_key": 13927,
+    "TitAccessionNo": "2001.35.13957",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing tie with polka dot and zigzag pattern, seated at desk with bird shaped ashtray, in office with four drawer filing cabinet and portrait photograph in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d95efb44-d9ab-4eca-a235-5265a387b31a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30042,
+    "MulMultiMediaRef_key": 13935,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30042/sizes/23696-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2820061833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27215626666666665
+        },
+        {
+            "keyword": "communication",
+            "score": 0.23310206430053695
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22734302333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21763758
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20754752387797035
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+  "objectID": 8388,
+  "irn": 8388,
+  "ecatalogue_key": 5171,
+  "TitAccessionNo": "2001.35.5180",
+  "CreDateCreated": "c. 1972",
+  "CreEarliestDate": "1969",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "St. Louis police officer and two men in a hallway",
+  "CatSubject_tab": "Men--Missouri--St. Louis.Police officers--Missouri--St. Louis.Hallways--Missouri--St.Louis.Interiors--Missouri--St.Louis.",
+  "AdmGUIDValue_tab": "330f0f89-bede-43cc-a727-297e792c8451",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20687/sizes/8388-1680.jpg",
+  "datetime": "1969-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Clifton Heights",
+      "short_name": "Clifton Heights"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Hampton Avenue",
+      "short_name": "Hampton Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "St. Louis",
+      "short_name": "St. Louis"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburg",
+      "short_name": "Pittsburg"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Green Township",
+      "short_name": "Green Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Hickory County",
+      "short_name": "Hickory County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Missouri",
+      "short_name": "MO"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "FILM 6043\nKODAK SAFETY FILM 6043\n\u219210\n",
+  "subjects": [
+    "Police",
+    "Interior architecture",
+    "Corridors",
+    "Interiors",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "light",
+      "score": 0.37977031205037437
+    },
+    {
+      "keyword": "Police officers",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hallways",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Louis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": " Louis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31169206666666666
+    },
+    {
+      "keyword": "darkness",
+      "score": 0.2930261
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29130749
+    },
+    {
+      "keyword": "atmosphere",
+      "score": 0.2858796533333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28300343333333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25401266666666666
+    },
+    {
+      "keyword": "night",
+      "score": 0.25238277598775233
+    },
+    {
+      "keyword": "phenomenon",
+      "score": 0.2515883
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20687/sizes/8388-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20687/sizes/8388-210.jpg",
+  "date_timestamp_earliest": -31536000.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

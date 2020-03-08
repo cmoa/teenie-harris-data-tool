@@ -1,0 +1,110 @@
+{
+    "objectID": 25797,
+    "irn": 25797,
+    "ecatalogue_key": 15258,
+    "TitAccessionNo": "2001.35.15288",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing striped shirt, necktie and suit jacket seated on arm of sofa",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a7bf3cdb-def6-48b9-ad61-e228fab2629f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31631,
+    "MulMultiMediaRef_key": 15266,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31631/sizes/25797-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.51300660078125
+        },
+        {
+            "keyword": "male",
+            "score": 0.4504766877604167
+        },
+        {
+            "keyword": "person",
+            "score": 0.447143811722819
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4465848959228516
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3334202493273926
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28295501
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27906869
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2677295822896322
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2669865
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23934181168619797
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22582996666666666
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.20673186666666665
+        }
+    ]
+}

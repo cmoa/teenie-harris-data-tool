@@ -1,0 +1,125 @@
+{
+    "objectID": 39290,
+    "irn": 39290,
+    "ecatalogue_key": 26672,
+    "TitAccessionNo": "2001.35.26704",
+    "CreDateCreated": "November 1946",
+    "CreEarliestDate": "1946-11-01",
+    "CreLatestDate": "1946-11-16",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Vivian Davidson Hewitt, wearing dress with squiggle and musical note pattern, standing on hillside with University of Pittsburgh and Cathedral of Learning in background, Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.University of Pittsburgh.Cathedral of Learning.University of Pittsburgh.Architecture--Pennsylvania--Pittsburgh.Oakland (Pittsburgh, Pa.)Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3dd02d0c-9093-4408-8800-34199e6fcf9b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 45623,
+    "MulMultiMediaRef_key": 26680,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/45623/sizes/39290-1680.jpg",
+    "date_timestamp_earliest": -731116800.0,
+    "date_timestamp_latest": -729820800.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [
+        "Vivian Davidson Hewitt"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Oakland",
+            "short_name": "Oakland"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Architecture",
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.4226365103068033
+        },
+        {
+            "keyword": "sky",
+            "score": 0.3836593371695964
+        },
+        {
+            "keyword": "Architecture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "University of Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cathedral of Learning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Oakland ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3162292
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3049917833333333
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.30144594412434905
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2842805666666667
+        },
+        {
+            "keyword": "wall",
+            "score": 0.26327116666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25707796666666666
+        },
+        {
+            "keyword": "fence",
+            "score": 0.24434137980143233
+        },
+        {
+            "keyword": "road",
+            "score": 0.21216694495564767
+        }
+    ]
+}

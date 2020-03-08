@@ -1,0 +1,105 @@
+{
+    "objectID": 2478,
+    "irn": 2478,
+    "ecatalogue_key": 1075,
+    "TitAccessionNo": "2001.35.1077",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Painting of abstracted head of man, on sidewalk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Paintings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2d8ed8b7-ec02-4142-86e3-1d0c020f19eb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15233,
+    "MulMultiMediaRef_key": 1077,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15233/sizes/2478-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.331240128366089
+        },
+        {
+            "keyword": "wall",
+            "score": 0.32398388508504233
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3140186333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29297667666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2916322
+        },
+        {
+            "keyword": "road",
+            "score": 0.28884716703491203
+        },
+        {
+            "keyword": "timer",
+            "score": 0.2814597574869793
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26274913333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2596384333333333
+        },
+        {
+            "keyword": "timepiece",
+            "score": 0.21781855265299466
+        },
+        {
+            "keyword": "concrete",
+            "score": 0.20537371369832358
+        }
+    ]
+}

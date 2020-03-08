@@ -1,0 +1,82 @@
+{
+    "objectID": 31089,
+    "irn": 31089,
+    "ecatalogue_key": 19230,
+    "TitAccessionNo": "2001.35.19260",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of Fort Pitt Hotel banquet hall with long tables, bentwood chairs, and ornate mantle with seal of City of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "626bb390-7673-4d62-9346-9c6de968b1cb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37045,
+    "MulMultiMediaRef_key": 19238,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37045/sizes/31089-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Fort Pitt Hotel",
+            "short_name": "Fort Pitt Hotel"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "City of Pittsburgh",
+            "short_name": "City of Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Fort Pitt Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3067940866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2808423666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24427275
+        }
+    ]
+}

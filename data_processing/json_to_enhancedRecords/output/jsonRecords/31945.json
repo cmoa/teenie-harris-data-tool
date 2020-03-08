@@ -1,0 +1,127 @@
+{
+    "objectID": 31945,
+    "irn": 31945,
+    "ecatalogue_key": 20095,
+    "TitAccessionNo": "2001.35.20126",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing pinstriped jacket and clerical collar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cfbb4b2c-809a-48d5-9d34-79df2904572a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38234,
+    "MulMultiMediaRef_key": 20103,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38234/sizes/31945-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Clergy",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5317732
+        },
+        {
+            "keyword": "man",
+            "score": 0.467572120646159
+        },
+        {
+            "keyword": "person",
+            "score": 0.450476060546875
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.38528732156738266
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3562088357763673
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.287041670879313
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28465606666666665
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2801789
+        },
+        {
+            "keyword": "garment",
+            "score": 0.2796435546875
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27941723333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25999443692220064
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2312788166666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22989644666666667
+        },
+        {
+            "keyword": "elder",
+            "score": 0.21437241666666665
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.20970329284667966
+        }
+    ]
+}

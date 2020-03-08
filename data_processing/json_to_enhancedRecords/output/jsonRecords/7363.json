@@ -1,0 +1,78 @@
+{
+    "objectID": 7363,
+    "irn": 7363,
+    "ecatalogue_key": 4503,
+    "TitAccessionNo": "2001.35.4512",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman seen from behind modeling hairstyle, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45b48db3-123a-4aac-9a35-96880d0f8019",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13776,
+    "MulMultiMediaRef_key": 4506,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13776/sizes/7363-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits",
+        "Hairstyles",
+        "Dresses"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dresses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        }
+    ]
+}

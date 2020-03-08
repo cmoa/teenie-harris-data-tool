@@ -1,0 +1,82 @@
+{
+    "objectID": 22672,
+    "irn": 22672,
+    "ecatalogue_key": 13265,
+    "TitAccessionNo": "2001.35.13295",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man pointing to buttons on oven, with woman wearing coat and scarf looking on, and ovens on right and left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d0c72168-58a4-4b8f-bb09-8e816c70bf0e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 96071,
+    "MulMultiMediaRef_key": 13273,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/96071/sizes/22672-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "GAS\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2982123666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2648297533333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.256767
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24171594666666665
+        },
+        {
+            "keyword": "machine",
+            "score": 0.23848251342773433
+        }
+    ]
+}

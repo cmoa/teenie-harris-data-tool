@@ -1,0 +1,98 @@
+{
+    "objectID": 7455,
+    "irn": 7455,
+    "ecatalogue_key": 4557,
+    "TitAccessionNo": "2001.35.4566",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman in plaid wool top, seen from behind, modeling hairstyle, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0c898e12-9a22-4d0e-a316-9c9d5c27d690",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19334,
+    "MulMultiMediaRef_key": 4560,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19334/sizes/7455-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Jewelry",
+        "Hairstyles",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jewelry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3148893133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30260003333333335
+        },
+        {
+            "keyword": "head",
+            "score": 0.28633913333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27833585
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25703533333333334
+        }
+    ]
+}

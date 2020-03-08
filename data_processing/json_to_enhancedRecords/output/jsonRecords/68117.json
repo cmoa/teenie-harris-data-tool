@@ -1,0 +1,108 @@
+{
+    "objectID": 68117,
+    "irn": 68117,
+    "ecatalogue_key": 53864,
+    "TitAccessionNo": "2001.35.53907",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark suit, looking out window in interior with peeling plaster on walls and ceiling",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "baf6f06d-22a3-4c89-b2f0-f8bb07a7c615",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79285,
+    "MulMultiMediaRef_key": 53873,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79285/sizes/68117-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Interior architecture",
+        "Interiors",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "window",
+            "score": 0.5265569104166666
+        },
+        {
+            "keyword": "light",
+            "score": 0.3479213214754233
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31301033333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2959853333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2852714
+        },
+        {
+            "keyword": "sky",
+            "score": 0.280717728914388
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2776541666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25002206666666665
+        },
+        {
+            "keyword": "shadow",
+            "score": 0.21637932660217288
+        },
+        {
+            "keyword": "sunlight",
+            "score": 0.2060873666666667
+        }
+    ]
+}

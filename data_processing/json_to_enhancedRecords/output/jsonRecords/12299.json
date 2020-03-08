@@ -1,0 +1,119 @@
+{
+    "objectID": 12299,
+    "irn": 12299,
+    "ecatalogue_key": 6153,
+    "TitAccessionNo": "2001.35.6164",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man operating microfilm reader in library",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Libraries--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "325e8189-cde2-484b-a914-a078807c7229",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21059,
+    "MulMultiMediaRef_key": 6160,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21059/sizes/12299-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Libraries",
+        "Portraits",
+        "Books",
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Suits (Clothing)"
+    ],
+    "keywords": [
+        {
+            "keyword": "technology",
+            "score": 0.397964869431966
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.35729318893229167
+        },
+        {
+            "keyword": "Libraries",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29629496666666666
+        },
+        {
+            "keyword": "electronic device",
+            "score": 0.29346900000000004
+        },
+        {
+            "keyword": "laptop",
+            "score": 0.28647387186686196
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2740115
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2606071833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24552763333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22456473333333335
+        },
+        {
+            "keyword": "computer",
+            "score": 0.21803301493326832
+        }
+    ]
+}

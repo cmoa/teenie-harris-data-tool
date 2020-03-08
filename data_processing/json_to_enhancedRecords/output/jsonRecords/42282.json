@@ -1,0 +1,95 @@
+{
+    "objectID": 42282,
+    "irn": 42282,
+    "ecatalogue_key": 29573,
+    "TitAccessionNo": "2001.35.29606",
+    "CreDateCreated": "c. 1946",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men seated and eating around square tables, including man wearing military uniform and man wearing ribbon on lapel, in interior with exposed pipes along wall and hanging lamps",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0c63d53d-842f-4a11-8717-c547de81f19f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48741,
+    "MulMultiMediaRef_key": 29581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48741/sizes/42282-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Food",
+        "Men",
+        "Military uniforms"
+    ],
+    "keywords": [
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Military uniforms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2959874866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27239786666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26003573333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22665563333333336
+        },
+        {
+            "keyword": "design",
+            "score": 0.21595066666666665
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2047474
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20042293333333336
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 57435,
+    "irn": 57435,
+    "ecatalogue_key": 43857,
+    "TitAccessionNo": "2001.35.43899",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman wearing eyeglasses, light colored blouse with crucifix brooch at collar, and matching striped jacket and skirt, standing in interior with light colored walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fc72212b-5fb8-4a95-b639-4a6624f27e62",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65940,
+    "MulMultiMediaRef_key": 43865,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65940/sizes/57435-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Eyeglasses",
+        "Interiors",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4471194278157553
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.391363663285319
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3484507675048827
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30525196666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2831629666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2830120666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2704879775177003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23346416666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23244071
+        }
+    ]
+}

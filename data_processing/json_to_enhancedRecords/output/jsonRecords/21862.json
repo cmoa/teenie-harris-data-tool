@@ -1,0 +1,89 @@
+{
+    "objectID": 21862,
+    "irn": 21862,
+    "ecatalogue_key": 12531,
+    "TitAccessionNo": "2001.35.12561",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men, one on ladder, putting furring strips on wall in house, with windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Workers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42900a99-f0b9-4cbf-a160-5a553924ac1d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28541,
+    "MulMultiMediaRef_key": 12539,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28541/sizes/21862-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAK SAFETY F\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30571288
+        },
+        {
+            "keyword": "window",
+            "score": 0.2901027927968343
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27491476666666664
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26372975
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25286406666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22844251000000002
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2075273333333333
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+  "objectID": 22586,
+  "irn": 22586,
+  "ecatalogue_key": 13191,
+  "TitAccessionNo": "2001.35.13221",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Crowd including Robert Casey, women, men, and children, some holding pamphlets, with Pepsi Cola truck and brick building in background",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4142c79f-69c4-45b2-a25d-eb984591f34f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29190/sizes/22586-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [
+    "Robert Casey"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 30,
+  "google_text_in_image": "",
+  "subjects": [
+    "Crowds",
+    "Women",
+    "Men",
+    "Children"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Robert Casey",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pepsi Cola",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Crowds",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "street",
+      "score": 0.31015119194539403
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3076258333333333
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.29549223333333335
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.28793478
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2869571
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2664628333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23592915
+    },
+    {
+      "keyword": "house",
+      "score": 0.224770584313965
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.21375058
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29190/sizes/22586-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29190/sizes/22586-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

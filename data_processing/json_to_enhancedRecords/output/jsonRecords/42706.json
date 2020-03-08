@@ -1,0 +1,103 @@
+{
+    "objectID": 42706,
+    "irn": 42706,
+    "ecatalogue_key": 30102,
+    "TitAccessionNo": "2001.35.30135",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing light colored dress, leaning over desk with papers and \"Record\" book, in interior with man seated at table eating and dark stripe around room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9fc1ea38-0698-41c4-b8f3-6051bd4e682f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49338,
+    "MulMultiMediaRef_key": 30110,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49338/sizes/42706-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Food",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31867554669596365
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29075428
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28103700000000004
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.25252868666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2506539233333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24652776666666668
+        },
+        {
+            "keyword": "table",
+            "score": 0.22617654366638199
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21844856666666668
+        },
+        {
+            "keyword": "communication",
+            "score": 0.21605411896708163
+        }
+    ]
+}

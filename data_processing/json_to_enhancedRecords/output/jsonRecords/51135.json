@@ -1,0 +1,103 @@
+{
+    "objectID": 51135,
+    "irn": 51135,
+    "ecatalogue_key": 37973,
+    "TitAccessionNo": "2001.35.38014",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, one wearing striped robe and name tag, and women, seated at banquet tables eating, in interior with three sets of double doors in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "799f3fcf-d0e0-40c7-a909-2f97dabf974f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58481,
+    "MulMultiMediaRef_key": 37981,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58481/sizes/51135-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 20,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Food",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29499020000000004
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2771497
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.25860651333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2573781
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24042794999999997
+        },
+        {
+            "keyword": "indoor games and sports",
+            "score": 0.24022069999999998
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2372114466666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23132483333333334
+        },
+        {
+            "keyword": "games",
+            "score": 0.21692766666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.20814446666666667
+        }
+    ]
+}

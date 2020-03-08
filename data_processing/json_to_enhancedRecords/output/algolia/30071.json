@@ -1,0 +1,115 @@
+{
+  "objectID": 30071,
+  "irn": 30071,
+  "ecatalogue_key": 18483,
+  "TitAccessionNo": "2001.35.18513",
+  "CreDateCreated": "1956",
+  "CreEarliestDate": "1956",
+  "CreLatestDate": "1956",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Man wearing eyeglasses and bow tie, seated behind desk with calendar on wall reading \"Mellon Pittsburgh, March 1956\"",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "cd53d023-2644-4991-a452-6aa2668c43be",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36069/sizes/30071-1680.jpg",
+  "datetime": "1956-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "MARC\n1 2 3\n56 78910\n1121314151617\n8192021222324\n5262128293031\n",
+  "subjects": [
+    "Men",
+    "Portraits"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.39945802232462563
+    },
+    {
+      "keyword": "man",
+      "score": 0.3992617525874837
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Mellon Pittsburgh",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "March 1956",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30324814666666666
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.2869530561584473
+    },
+    {
+      "keyword": "human",
+      "score": 0.2828326562571207
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27610272333333336
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26860880000000004
+    },
+    {
+      "keyword": "professional",
+      "score": 0.25187023920796714
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24948023333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36069/sizes/30071-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36069/sizes/30071-210.jpg",
+  "date_timestamp_earliest": -441849600.0,
+  "date_timestamp_latest": -441849600.0,
+  "decades": [
+    "1950s"
+  ]
+}

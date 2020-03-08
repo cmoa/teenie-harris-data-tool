@@ -1,0 +1,97 @@
+{
+    "objectID": 23840,
+    "irn": 23840,
+    "ecatalogue_key": 14056,
+    "TitAccessionNo": "2001.35.14086",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing head scarf, possibly Ruby Young Buchanan, playing piano, with two women in audience wearing hats and holding programs in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Pianists--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8dd9b282-93a6-4993-8386-b9c5d9e18273",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30304,
+    "MulMultiMediaRef_key": 14064,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30304/sizes/23840-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Ruby Young Buchanan"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Pianists",
+        "Musicians"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianists",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3017164
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.30144429392089833
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2747286666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26394434666666666
+        },
+        {
+            "keyword": "music",
+            "score": 0.23547252
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22291656666666668
+        }
+    ]
+}

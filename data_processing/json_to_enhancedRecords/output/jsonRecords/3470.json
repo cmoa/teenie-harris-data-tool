@@ -1,0 +1,102 @@
+{
+    "objectID": 3470,
+    "irn": 3470,
+    "ecatalogue_key": 2016,
+    "TitAccessionNo": "2001.35.2019",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three men wearing bow ties in a club with instruments in the background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "880f8bc4-ca53-4271-9e87-082cc51a6b4a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16265,
+    "MulMultiMediaRef_key": 2018,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16265/sizes/3470-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.381546628523763
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3301474808583577
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29642911666666666
+        },
+        {
+            "keyword": "suit",
+            "score": 0.28852715242106136
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27699403333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2665331166666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26475563333333335
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2616965
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21845633333333334
+        }
+    ]
+}

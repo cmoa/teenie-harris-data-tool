@@ -1,0 +1,87 @@
+{
+    "objectID": 4892,
+    "irn": 4892,
+    "ecatalogue_key": 2879,
+    "TitAccessionNo": "2001.35.2884",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "People swimming across indoor pool, with spectators",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Swimmers--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8a044adc-ab5d-48ee-8f27-ff08243c1b51",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17195,
+    "MulMultiMediaRef_key": 2881,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17195/sizes/4892-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Swimming pools",
+        "Swimmers",
+        "Audiences"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.3988111231160483
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimmers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31365076666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2955933
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2760332233333333
+        },
+        {
+            "keyword": "reflection",
+            "score": 0.2561179666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2545037466666667
+        }
+    ]
+}

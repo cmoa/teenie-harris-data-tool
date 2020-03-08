@@ -1,0 +1,123 @@
+{
+    "objectID": 59526,
+    "irn": 59526,
+    "ecatalogue_key": 53531,
+    "TitAccessionNo": "2001.35.53574",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, eyeglasses, dark tie, and light colored handkerchief in breast pocket, posed behind desk with telephone, in office with neon sign in window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6e2967d8-619d-4179-bd78-3e9044a8b50d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77955,
+    "MulMultiMediaRef_key": 53540,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77955/sizes/59526-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Eyeglasses",
+        "Offices",
+        "Portraits",
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.341626754740397
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28503038333333336
+        },
+        {
+            "keyword": "communication",
+            "score": 0.28259798823852533
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2698684666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26325359
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.2321249744873047
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2308648
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22440096666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21051114666666668
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.20175296666666667
+        }
+    ]
+}

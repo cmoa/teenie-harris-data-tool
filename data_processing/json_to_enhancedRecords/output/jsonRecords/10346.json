@@ -1,0 +1,118 @@
+{
+    "objectID": 10346,
+    "irn": 10346,
+    "ecatalogue_key": 6199,
+    "TitAccessionNo": "2001.35.6210",
+    "CreDateCreated": "c. 1960",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man surveying street with playground in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cameras--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57ebd24e-f886-4f34-889a-349847d6580f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21552,
+    "MulMultiMediaRef_key": 6206,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21552/sizes/10346-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Cameras"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cameras",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "tripod",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "rack",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "support",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30850383333333337
+        },
+        {
+            "keyword": "tree",
+            "score": 0.29798757199991865
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29605156666666665
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2959553
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2802451833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2792710333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "sky",
+            "score": 0.26843906377360033
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2458386233333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.2266037466666667
+        },
+        {
+            "keyword": "road",
+            "score": 0.21182920000000002
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20428392842661544
+        }
+    ]
+}

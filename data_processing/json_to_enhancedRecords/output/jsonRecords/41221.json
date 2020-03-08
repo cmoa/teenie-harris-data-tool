@@ -1,0 +1,77 @@
+{
+    "objectID": 41221,
+    "irn": 41221,
+    "ecatalogue_key": 28540,
+    "TitAccessionNo": "2001.35.28572",
+    "CreDateCreated": "c. 1944",
+    "CreEarliestDate": "1939",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Twelve men gathered around large oval table, three looking at documents, in interior with bookshelf in front of doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ecb6be66-8daa-48e4-8b6d-5e4b32ae6c35",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47986,
+    "MulMultiMediaRef_key": 28548,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47986/sizes/41221-1680.jpg",
+    "date_timestamp_earliest": -978307200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29816244466145836
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26804814666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26201046666666666
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23953023333333334
+        },
+        {
+            "keyword": "meeting",
+            "score": 0.237926065999756
+        },
+        {
+            "keyword": "professional",
+            "score": 0.229772560937093
+        }
+    ]
+}

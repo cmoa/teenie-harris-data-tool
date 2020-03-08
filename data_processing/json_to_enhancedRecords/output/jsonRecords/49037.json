@@ -1,0 +1,128 @@
+{
+    "objectID": 49037,
+    "irn": 49037,
+    "ecatalogue_key": 35907,
+    "TitAccessionNo": "2001.35.35946",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark long sleeved blouse with dangling brooch and rolled bangs, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "250f0358-2ac2-4d60-87a0-62c4a29239ed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55877,
+    "MulMultiMediaRef_key": 35915,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55877/sizes/49037-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Harris Studio",
+            "short_name": "Harris Studio"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.42650681680094404
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.376869658836263
+        },
+        {
+            "keyword": "standing",
+            "score": 0.36462458988769536
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Studio portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.3280591358772787
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3020546433333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28543796666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28013036666666663
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26626496666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.22828666666666667
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.21740585666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21266154333333334
+        }
+    ]
+}

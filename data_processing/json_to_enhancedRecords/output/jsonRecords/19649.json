@@ -1,0 +1,110 @@
+{
+    "objectID": 19649,
+    "irn": 19649,
+    "ecatalogue_key": 10688,
+    "TitAccessionNo": "2001.35.10714",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, including Nate Smith on left, walking around in Port Authority Transit garage, possibly for demonstration, with buses, including 74A in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "afa56903-c36d-457f-b76b-cdcbdcd2acdb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21168,
+    "MulMultiMediaRef_key": 10696,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21168/sizes/19649-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Nate Smith"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Port Authority Transit",
+            "short_name": "Port Authority Transit"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "FILM\nKODAK S AFETY\nFILM\n",
+    "subjects": [
+        "Buses",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3865429646036784
+        },
+        {
+            "keyword": "Nate Smith",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Port Authority Transit",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30367083333333333
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.28892816666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28401792
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26916956666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24695378666666667
+        },
+        {
+            "keyword": "night",
+            "score": 0.2143603762298584
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.21301055
+        }
+    ]
+}

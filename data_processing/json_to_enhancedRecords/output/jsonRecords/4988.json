@@ -1,0 +1,103 @@
+{
+    "objectID": 4988,
+    "irn": 4988,
+    "ecatalogue_key": 2937,
+    "TitAccessionNo": "2001.35.2943",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young boy asleep in armchair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Sleep--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1e32977b-162a-43cc-83a0-01d0eae60723",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17426,
+    "MulMultiMediaRef_key": 2939,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17426/sizes/4988-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Sleep",
+        "Boys",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4164177637491863
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.33345727284729
+        },
+        {
+            "keyword": "Sleep",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3107685433333333
+        },
+        {
+            "keyword": "soldier",
+            "score": 0.30465366666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.291138
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28231943333333337
+        },
+        {
+            "keyword": "human",
+            "score": 0.269941375450643
+        },
+        {
+            "keyword": "military",
+            "score": 0.2683531666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24546172333333335
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2265639
+        }
+    ]
+}

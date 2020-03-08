@@ -1,0 +1,166 @@
+{
+    "objectID": 68111,
+    "irn": 68111,
+    "ecatalogue_key": 53862,
+    "TitAccessionNo": "2001.35.53905",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men standing on sidewalk across street from North Avenue Savings and Loan Association, street no. 812, and van in street inscribed \"Joseph B. Sloboda\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Vans--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "beb15133-3702-4a0b-83da-9723c9fae30a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79283,
+    "MulMultiMediaRef_key": 53871,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79283/sizes/68111-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Joseph B. Sloboda"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "North Avenue Savings",
+            "short_name": "North Avenue Savings"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "812\nSAVINGS AND LO ASSO\n52080D\n",
+    "subjects": [
+        "Buildings",
+        "Vans",
+        "Men",
+        "Streets",
+        "Automobiles",
+        "Storefronts"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.3629226849391683
+        },
+        {
+            "keyword": "street",
+            "score": 0.35816577720540366
+        },
+        {
+            "keyword": "road",
+            "score": 0.3576963391929116
+        },
+        {
+            "keyword": "town",
+            "score": 0.340079936730957
+        },
+        {
+            "keyword": "North Avenue Savings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Loan Association",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vans",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "city",
+            "score": 0.33279862805786137
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.3179483014841717
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3123242
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.30460798666666666
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.30079442333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2999169
+        },
+        {
+            "keyword": "mode of transport",
+            "score": 0.29168828333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28257952000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "family car",
+            "score": 0.2610477666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24792764666666667
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.24119656666666667
+        },
+        {
+            "keyword": "house",
+            "score": 0.2109439538330078
+        },
+        {
+            "keyword": "downtown",
+            "score": 0.20786936666666667
+        }
+    ]
+}

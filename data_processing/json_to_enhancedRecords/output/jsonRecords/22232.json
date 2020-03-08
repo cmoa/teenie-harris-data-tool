@@ -1,0 +1,90 @@
+{
+    "objectID": 22232,
+    "irn": 22232,
+    "ecatalogue_key": 12866,
+    "TitAccessionNo": "2001.35.12896",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Room with folded mattress, trash, curtains dragging on floor, and windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bedrooms--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c95c7a56-ea21-4dd7-9dc8-ddff9b7b14f7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29009,
+    "MulMultiMediaRef_key": 12874,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29009/sizes/22232-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Bedrooms"
+    ],
+    "keywords": [
+        {
+            "keyword": "door",
+            "score": 0.5110889846761068
+        },
+        {
+            "keyword": "window",
+            "score": 0.39025410041097003
+        },
+        {
+            "keyword": "house",
+            "score": 0.350164402097575
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bedrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3110631
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28868134666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26507032
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23811014333333333
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "objectID": 12321,
+    "irn": 12321,
+    "ecatalogue_key": 6175,
+    "TitAccessionNo": "2001.35.6186",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man with rifle with telescopic sight in one hand and dead groundhog in other, in back yard",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Hunters--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dfa4f6fb-b1a8-40d5-87e5-6c186be4cf10",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21809,
+    "MulMultiMediaRef_key": 6182,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21809/sizes/12321-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Hunters"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hunters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3139168666666667
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30811783333333337
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29937773333333334
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2967988900655111
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28171993333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2712428333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25748698
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2357131
+        },
+        {
+            "keyword": "history",
+            "score": 0.2062977731207277
+        }
+    ]
+}

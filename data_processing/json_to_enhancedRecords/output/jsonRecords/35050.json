@@ -1,0 +1,118 @@
+{
+    "objectID": 35050,
+    "irn": 35050,
+    "ecatalogue_key": 22699,
+    "TitAccessionNo": "2001.35.22730",
+    "CreDateCreated": "1965",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of John Adams wearing dark tie with thin diagonal stripes, in interior with framed picture on wall on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Adams, John H.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e9823fa5-6591-403b-9e36-caa0d70d52d4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41072,
+    "MulMultiMediaRef_key": 22707,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41072/sizes/35050-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [
+        "John Adams"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.499156857080078
+        },
+        {
+            "keyword": "person",
+            "score": 0.438381643371582
+        },
+        {
+            "keyword": "suit",
+            "score": 0.43372014614664706
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.38137882058919265
+        },
+        {
+            "keyword": "standing",
+            "score": 0.37086855431681304
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Adams, John H",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John Adams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29295306666666665
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28608073333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27925273333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25955492333333335
+        },
+        {
+            "keyword": "smile",
+            "score": 0.23260767975056965
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23249952
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 21411,
+    "irn": 21411,
+    "ecatalogue_key": 12106,
+    "TitAccessionNo": "2001.35.12136",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman seated in front of group of men and women standing in front of altar of Church of God in Christ with glass block cross",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Church of God in Christ (Pittsburgh, Pa.)Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "68a3478e-d689-427f-a05d-7cb3ad3ae77c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27762,
+    "MulMultiMediaRef_key": 12114,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27762/sizes/21411-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Christ",
+            "short_name": "Christ"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pa.)Church",
+            "short_name": "Pa.)Church"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Church buildings",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Church of God in Christ ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church of God",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29757883333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2716429833333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25875731333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23295076666666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.21702616666666666
+        }
+    ]
+}

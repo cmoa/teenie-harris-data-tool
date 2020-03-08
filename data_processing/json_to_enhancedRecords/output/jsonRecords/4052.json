@@ -1,0 +1,95 @@
+{
+    "objectID": 4052,
+    "irn": 4052,
+    "ecatalogue_key": 2308,
+    "TitAccessionNo": "2001.35.2311",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man with arm around woman, and others in background exiting building, possibly for funeral, angled view",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3fe38d16-ded0-4533-938c-77958bb70d71",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16493,
+    "MulMultiMediaRef_key": 2310,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16493/sizes/4052-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "KODAK SAFETY FILM\n12\n",
+    "subjects": [
+        "Buildings",
+        "Crowds",
+        "Doors"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31188093333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29351431
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2834921866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.27190729094441735
+        },
+        {
+            "keyword": "house",
+            "score": 0.24731263232727066
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24194415333333333
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20164873333333333
+        }
+    ]
+}

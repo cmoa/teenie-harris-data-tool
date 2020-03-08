@@ -1,0 +1,100 @@
+{
+    "objectID": 34018,
+    "irn": 34018,
+    "ecatalogue_key": 21963,
+    "TitAccessionNo": "2001.35.21994",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men seated around circular banquet tables, including woman on left with fur stole over chair, in interior with square pillars and stage, possibly William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0f9b8007-974b-4162-8943-d2d1508b4462",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40520,
+    "MulMultiMediaRef_key": 21971,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40520/sizes/34018-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "William Penn Hotel"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 21,
+    "google_text_in_image": "KODAK SAFETY FILM\n7\n",
+    "subjects": [
+        "Women",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Penn Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.3064002666666667
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.273689778322347
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26590553333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2620774
+        },
+        {
+            "keyword": "event",
+            "score": 0.23285060999999999
+        },
+        {
+            "keyword": "audience",
+            "score": 0.22974755333333333
+        },
+        {
+            "keyword": "convention",
+            "score": 0.22551693333333334
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.22466346666666667
+        },
+        {
+            "keyword": "seminar",
+            "score": 0.20258216666666665
+        }
+    ]
+}

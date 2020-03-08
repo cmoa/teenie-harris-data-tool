@@ -1,0 +1,128 @@
+{
+    "objectID": 42156,
+    "irn": 42156,
+    "ecatalogue_key": 30029,
+    "TitAccessionNo": "2001.35.30062",
+    "CreDateCreated": "c. 1925-1938",
+    "CreEarliestDate": "1920",
+    "CreLatestDate": "1938",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing striped short sleeved sweater, and dark skirt, posed with one foot on step, in front of iron fence and brick building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6d58f03f-da44-47e8-9537-45772e351852",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64994,
+    "MulMultiMediaRef_key": 30037,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64994/sizes/42156-1680.jpg",
+    "date_timestamp_earliest": -1577923200.0,
+    "date_timestamp_latest": -1009843200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Fences",
+        "Portraits",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.41215278761027035
+        },
+        {
+            "keyword": "man",
+            "score": 0.35807705687805164
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.35643026429341634
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3186101666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3081157666666667
+        },
+        {
+            "keyword": "male",
+            "score": 0.3016025255310059
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28806152
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2845325
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.280108738030192
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "muscle",
+            "score": 0.25230579999999997
+        },
+        {
+            "keyword": "shoulder",
+            "score": 0.24769995666666667
+        },
+        {
+            "keyword": "human body",
+            "score": 0.24705879
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23788011
+        },
+        {
+            "keyword": "trunk",
+            "score": 0.20761359999999998
+        }
+    ]
+}

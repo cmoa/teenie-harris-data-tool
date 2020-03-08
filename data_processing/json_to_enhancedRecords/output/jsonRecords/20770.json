@@ -1,0 +1,100 @@
+{
+    "objectID": 20770,
+    "irn": 20770,
+    "ecatalogue_key": 11537,
+    "TitAccessionNo": "2001.35.11567",
+    "CreDateCreated": "c. 1945-1949",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man with tape on nose and forehead connected to IV and medical equipment, lying in hospital bed",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "08b1db94-0c89-4e8a-a0f5-838d6ec0ffd3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 438,
+    "MulMultiMediaRef_key": 11545,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/438/sizes/20770-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hospitals",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "furniture",
+            "score": 0.412937734934896
+        },
+        {
+            "keyword": "bed",
+            "score": 0.3558385535319009
+        },
+        {
+            "keyword": "IV",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hospitals",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3138208
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29462099999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2751478333333333
+        },
+        {
+            "keyword": "room",
+            "score": 0.26784322102864605
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2471863
+        },
+        {
+            "keyword": "bedroom",
+            "score": 0.22871681213378903
+        },
+        {
+            "keyword": "interior",
+            "score": 0.20339623769124335
+        }
+    ]
+}

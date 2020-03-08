@@ -1,0 +1,121 @@
+{
+    "objectID": 32040,
+    "irn": 32040,
+    "ecatalogue_key": 20160,
+    "TitAccessionNo": "2001.35.20191",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boy seated on coffee table with crossed bare foot, in domestic interior with wood paneling and large heating register",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6058fc67-2f2a-4392-9fc7-b50c6156abb4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38400,
+    "MulMultiMediaRef_key": 20168,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38400/sizes/32040-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Portraits",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.42866634665120434
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.32286398942464195
+        },
+        {
+            "keyword": "table",
+            "score": 0.321717188108317
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30904565333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28608528666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28169333333333335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28156073333333337
+        },
+        {
+            "keyword": "girl",
+            "score": 0.27557389
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2629175610595703
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24129446019694
+        },
+        {
+            "keyword": "chair",
+            "score": 0.23738489509277336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23618636666666668
+        },
+        {
+            "keyword": "child",
+            "score": 0.21613763126017252
+        }
+    ]
+}

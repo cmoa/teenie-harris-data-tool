@@ -1,0 +1,84 @@
+{
+    "objectID": 12631,
+    "irn": 12631,
+    "ecatalogue_key": 6421,
+    "TitAccessionNo": "2001.35.6432",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three children working at a Reed Loom company loom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Looms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0a2bbaf1-d897-4856-92cc-0596ef5fe564",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21873,
+    "MulMultiMediaRef_key": 6428,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21873/sizes/12631-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Looms",
+        "Children",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Looms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Reed Loom",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29843369999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2555580333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22227358666666666
+        }
+    ]
+}

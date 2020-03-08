@@ -1,0 +1,88 @@
+{
+    "objectID": 18702,
+    "irn": 18702,
+    "ecatalogue_key": 9990,
+    "TitAccessionNo": "2001.35.10016",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four coal miners near entrance of Somers mine in Fayette County",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania.Miners--Pennsylvania.",
+    "AdmGUIDValue_tab": "5f8d1c97-31bb-4388-a929-9710a7ed8199",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25889,
+    "MulMultiMediaRef_key": 9998,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25889/sizes/18702-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Somers",
+            "short_name": "Somers"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Fayette County",
+            "short_name": "Fayette County"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Miners"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Somers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Miners",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "transport",
+            "score": 0.3330907471618653
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3096391
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2863153233333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26565893333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2515828
+        }
+    ]
+}

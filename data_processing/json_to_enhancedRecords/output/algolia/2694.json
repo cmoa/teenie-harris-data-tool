@@ -1,0 +1,101 @@
+{
+  "objectID": 2694,
+  "irn": 2694,
+  "ecatalogue_key": 1295,
+  "TitAccessionNo": "2001.35.1297",
+  "CreDateCreated": "c. 1940-1946",
+  "CreEarliestDate": "1938",
+  "CreLatestDate": "1946",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of a man juggling pins in hallway",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "068fcbea-dacb-4323-a870-891703118256",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14844/sizes/2694-1680.jpg",
+  "datetime": "1938-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.41839508353474936
+    },
+    {
+      "keyword": "standing",
+      "score": 0.34355868503011067
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "suit",
+      "score": 0.32994532921142566
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30137613333333335
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2796771333333333
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.27447605
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26569412
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.21852116666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14844/sizes/2694-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14844/sizes/2694-210.jpg",
+  "date_timestamp_earliest": -1009843200.0,
+  "date_timestamp_latest": -757382400.0,
+  "decades": []
+}

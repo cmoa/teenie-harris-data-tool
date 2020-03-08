@@ -1,0 +1,115 @@
+{
+    "objectID": 25743,
+    "irn": 25743,
+    "ecatalogue_key": 15247,
+    "TitAccessionNo": "2001.35.15277",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of man, with woman's shoulder on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "aa6f19ac-4bc1-46c1-afd9-288eeaead935",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 31640,
+    "MulMultiMediaRef_key": 15255,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31640/sizes/25743-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5070778798754884
+        },
+        {
+            "keyword": "person",
+            "score": 0.46112678847737637
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.41386883367919935
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30444283333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2850148666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2821978
+        },
+        {
+            "keyword": "photography",
+            "score": 0.279459
+        },
+        {
+            "keyword": "forehead",
+            "score": 0.27086641333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2653965938181559
+        },
+        {
+            "keyword": "chin",
+            "score": 0.2601872
+        },
+        {
+            "keyword": "smile",
+            "score": 0.24052008504455566
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24030735
+        },
+        {
+            "keyword": "elder",
+            "score": 0.20950003333333334
+        }
+    ]
+}

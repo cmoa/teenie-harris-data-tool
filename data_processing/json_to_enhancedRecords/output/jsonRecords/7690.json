@@ -1,0 +1,99 @@
+{
+    "objectID": 7690,
+    "irn": 7690,
+    "ecatalogue_key": 4788,
+    "TitAccessionNo": "2001.35.4797",
+    "CreDateCreated": "c. 1935-1975",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of a fat woman in cardigan standing in front of a house",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Photographs--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8e68dfff-9552-478c-886d-999a940416f9",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 19634,
+    "MulMultiMediaRef_key": 4794,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19634/sizes/7690-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Photographs",
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.3548570245239257
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31145697666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29691038666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2923901666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27645242333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25754288666666664
+        },
+        {
+            "keyword": "window",
+            "score": 0.22886796172688806
+        }
+    ]
+}

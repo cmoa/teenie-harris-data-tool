@@ -1,0 +1,126 @@
+{
+    "objectID": 23541,
+    "irn": 23541,
+    "ecatalogue_key": 13812,
+    "TitAccessionNo": "2001.35.13842",
+    "CreDateCreated": "c. 1966",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing suit, standing with crossed arms holding paper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ff93301-93a9-4498-a900-03da6ac59cfb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29913,
+    "MulMultiMediaRef_key": 13820,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29913/sizes/23541-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Portraits",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.408256399482422
+        },
+        {
+            "keyword": "person",
+            "score": 0.39196682792887366
+        },
+        {
+            "keyword": "male",
+            "score": 0.34187567527994794
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29314532
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2852324
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2840278666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2789160666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27684183333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2715151056599933
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23809542333333333
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.2288095
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22645258999999998
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22362796251322434
+        }
+    ]
+}

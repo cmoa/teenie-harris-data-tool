@@ -1,0 +1,123 @@
+{
+    "objectID": 6285,
+    "irn": 6285,
+    "ecatalogue_key": 3723,
+    "TitAccessionNo": "2001.35.3732",
+    "CreDateCreated": "January 1971",
+    "CreEarliestDate": "1971-01-01",
+    "CreLatestDate": "1971-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Brady Keyes Jr. wearing tuxedo, holding pamphlet, and standing in front of arabesque patterned curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b8a8d6da-e91f-4344-9ed9-b06ef2ea1909",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19441,
+    "MulMultiMediaRef_key": 3726,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19441/sizes/6285-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 34128000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [
+        "Brady Keyes Jr."
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "DAK SAFETY\n",
+    "subjects": [
+        "Portraits",
+        "Draperies",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5335110805623374
+        },
+        {
+            "keyword": "necktie",
+            "score": 0.5241333433333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.40150079110107434
+        },
+        {
+            "keyword": "standing",
+            "score": 0.366835394041748
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Curtains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.31040419999999996
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.29558272779337563
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29066825
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28921995666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.27450700245035803
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27427852
+        },
+        {
+            "keyword": "tuxedo",
+            "score": 0.26172598333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24166568
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21595368666666667
+        },
+        {
+            "keyword": "garment",
+            "score": 0.21209587097167967
+        }
+    ]
+}

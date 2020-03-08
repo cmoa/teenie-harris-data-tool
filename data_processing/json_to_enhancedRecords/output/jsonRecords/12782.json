@@ -1,0 +1,93 @@
+{
+    "objectID": 12782,
+    "irn": 12782,
+    "ecatalogue_key": 6532,
+    "TitAccessionNo": "2001.35.6543",
+    "CreDateCreated": "c. 1963",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Classroom scene with children in foreground looking at aquarium, poster in background with circus theme",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Classrooms--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "386527dc-a5fa-4511-8aba-c2480bdf2d48",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23560,
+    "MulMultiMediaRef_key": 6540,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23560/sizes/12782-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 20,
+    "google_text_in_image": "",
+    "subjects": [
+        "Windows",
+        "Classrooms",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Classrooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.3242736704386393
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3028938
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2672811666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2637039
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.2527510596069336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23563532
+        },
+        {
+            "keyword": "interior",
+            "score": 0.203462511698405
+        }
+    ]
+}

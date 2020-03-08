@@ -1,0 +1,142 @@
+{
+  "objectID": 6179,
+  "irn": 6179,
+  "ecatalogue_key": 3622,
+  "TitAccessionNo": "2001.35.3630",
+  "CreDateCreated": "September 1938",
+  "CreEarliestDate": "1938-09-01",
+  "CreLatestDate": "1938-09-30",
+  "PhyMediumComments": "black-and-white: Agfa safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group, including boxer Joe Louis, and Chester Washington in foreground, possibly seated in courtroom",
+  "CatSubject_tab": "Louis, Joe, 1914-Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "54308492-6392-4377-9a19-54cd076cb9e8",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18728/sizes/6179-1680.jpg",
+  "datetime": "1938-09-01 00:00:00",
+  "people": [
+    "Joe Louis"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Strip District",
+      "short_name": "Strip District"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Mount Washington",
+      "short_name": "Mt Washington"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Penn Avenue",
+      "short_name": "Penn Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 11,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Women",
+    "Desks",
+    "Windows",
+    "Interiors"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Desks",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Windows",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Louis, Joe, 1914-Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Joe Louis",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.313742367684733
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.28789631666666665
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27391324333333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "communication",
+      "score": 0.2583395062632243
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.237317
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22497273333333334
+    },
+    {
+      "keyword": "conversation",
+      "score": 0.21220386666666669
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18728/sizes/6179-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18728/sizes/6179-210.jpg",
+  "date_timestamp_earliest": -988848000.0,
+  "date_timestamp_latest": -986342400.0,
+  "decades": [
+    "1930s"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+    "objectID": 43745,
+    "irn": 43745,
+    "ecatalogue_key": 31070,
+    "TitAccessionNo": "2001.35.31103",
+    "CreDateCreated": "c. 1944",
+    "CreEarliestDate": "1939",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored double breasted suit and marble patterned necktie, standing in front of band pictures",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b005d8ef-57ed-4597-849c-52633b7b7c43",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 50188,
+    "MulMultiMediaRef_key": 31078,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/50188/sizes/43745-1680.jpg",
+    "date_timestamp_earliest": -978307200.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.4876248389949544
+        },
+        {
+            "keyword": "man",
+            "score": 0.43793948938395166
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3528446295328777
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3019904666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2841245333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28300393333333335
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.2802826566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2649509
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25791876664225266
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2293624
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22722503333333333
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 28857,
+  "irn": 28857,
+  "ecatalogue_key": 17633,
+  "TitAccessionNo": "2001.35.17663",
+  "CreDateCreated": "1963",
+  "CreEarliestDate": "1963",
+  "CreLatestDate": "1963",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated in rows of folding chairs, including woman wearing light colored striped top, in interior with shuffleboard outline on floor, and wooden doors lining back wall",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "6da9005b-b1d0-4860-adcf-42b7d4e4b74f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35002/sizes/28857-1680.jpg",
+  "datetime": "1963-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 27,
+  "google_text_in_image": "",
+  "subjects": [
+    "Men",
+    "Portraits, Group",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.26831615000000003
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.267253026663208
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2609846
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.20056456666666667
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35002/sizes/28857-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35002/sizes/28857-210.jpg",
+  "date_timestamp_earliest": -220924800.0,
+  "date_timestamp_latest": -220924800.0,
+  "decades": [
+    "1960s"
+  ]
+}

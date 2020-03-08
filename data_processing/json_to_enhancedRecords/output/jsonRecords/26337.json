@@ -1,0 +1,87 @@
+{
+    "objectID": 26337,
+    "irn": 26337,
+    "ecatalogue_key": 16145,
+    "TitAccessionNo": "2001.35.16175",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman standing behind table with desserts, possibly in church basement, with umbrella and rain decorations",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "07e9cb4a-faf2-4baf-8b8b-19de4e33815d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32739,
+    "MulMultiMediaRef_key": 16153,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32739/sizes/26337-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK\n",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31197995
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29048288
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2835301666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "umbrella",
+            "score": 0.26192827860514334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23934840000000002
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23902579999999998
+        },
+        {
+            "keyword": "window",
+            "score": 0.22603691064229334
+        }
+    ]
+}

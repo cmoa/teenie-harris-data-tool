@@ -1,0 +1,79 @@
+{
+    "objectID": 2607,
+    "irn": 2607,
+    "ecatalogue_key": 1205,
+    "TitAccessionNo": "2001.35.1207",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men executing mural-size paintings or backdrops laid on floor in church or warehouse type interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Painting--Pennsylvania--Pittsburgh.Buckets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5bf1caf3-db37-49a7-b046-684bcedb804f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13511,
+    "MulMultiMediaRef_key": 1207,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13511/sizes/2607-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "PARKING\nLOT\n",
+    "subjects": [
+        "Painting",
+        "Pails",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Painting",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buckets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30476336666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27454839999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27403663333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24856575333333333
+        }
+    ]
+}

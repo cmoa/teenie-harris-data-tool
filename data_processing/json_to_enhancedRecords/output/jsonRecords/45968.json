@@ -1,0 +1,83 @@
+{
+    "objectID": 45968,
+    "irn": 45968,
+    "ecatalogue_key": 33089,
+    "TitAccessionNo": "2001.35.33124",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing dark skirt and light colored top, seated in front of three beauty stations with round mirrors in beauty shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Beauty shops--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ae58148e-6b40-4f1e-b172-4ad9de070740",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 52506,
+    "MulMultiMediaRef_key": 33097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52506/sizes/45968-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Mirrors",
+        "Beauty shops"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mirrors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Beauty shops",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31231966666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29072723333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28007506666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25521499
+        }
+    ]
+}

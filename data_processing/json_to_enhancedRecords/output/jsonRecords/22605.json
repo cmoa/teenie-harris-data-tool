@@ -1,0 +1,130 @@
+{
+    "objectID": 22605,
+    "irn": 22605,
+    "ecatalogue_key": 13210,
+    "TitAccessionNo": "2001.35.13240",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing double breasted suit with pin on pocket, and floral tie",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ba8954e4-b553-4e9f-949b-d8b4fcde1169",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29220,
+    "MulMultiMediaRef_key": 13218,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29220/sizes/22605-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5530124690266927
+        },
+        {
+            "keyword": "person",
+            "score": 0.46602802166748036
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.37586160501709
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3624470843200684
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.32230883273111965
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29675795666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28780753333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27406576666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26215859999999996
+        },
+        {
+            "keyword": "smile",
+            "score": 0.24337474000651035
+        },
+        {
+            "keyword": "official",
+            "score": 0.2417153
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.23879389444986965
+        },
+        {
+            "keyword": "elder",
+            "score": 0.2311235
+        },
+        {
+            "keyword": "business executive",
+            "score": 0.22490068333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22421426666666666
+        },
+        {
+            "keyword": "businessperson",
+            "score": 0.22406206264424633
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.21590145333333333
+        }
+    ]
+}

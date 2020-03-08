@@ -1,0 +1,93 @@
+{
+    "objectID": 21100,
+    "irn": 21100,
+    "ecatalogue_key": 11870,
+    "TitAccessionNo": "2001.35.11900",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1957",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing traditional West African clothes standing with hands on his hips",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cc446576-defc-4c97-9b4f-0bbea3a291e7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20431,
+    "MulMultiMediaRef_key": 11878,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20431/sizes/21100-1680.jpg",
+    "date_timestamp_earliest": -410227200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.36224542536031096
+        },
+        {
+            "keyword": "West African",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3070507833333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27353249
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.27021715792541506
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26988615666666665
+        },
+        {
+            "keyword": "outerwear",
+            "score": 0.26194185
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24475508999999998
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20264973333333333
+        }
+    ]
+}

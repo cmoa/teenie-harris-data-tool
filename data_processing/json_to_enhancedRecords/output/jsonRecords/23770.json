@@ -1,0 +1,120 @@
+{
+    "objectID": 23770,
+    "irn": 23770,
+    "ecatalogue_key": 13963,
+    "TitAccessionNo": "2001.35.13993",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Luther Sewell standing in domestic interior, with marble fireplace in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d76c8367-35e4-4060-874d-4783949adff2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30283,
+    "MulMultiMediaRef_key": 13971,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30283/sizes/23770-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Luther Sewell"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAK\n",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.481960740354004
+        },
+        {
+            "keyword": "male",
+            "score": 0.4101882347973633
+        },
+        {
+            "keyword": "suit",
+            "score": 0.3746373658520506
+        },
+        {
+            "keyword": "standing",
+            "score": 0.36412007821248366
+        },
+        {
+            "keyword": "Luther Sewell",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3014812666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2968022667248537
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28575803333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2848640666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27080243333333337
+        },
+        {
+            "keyword": "human",
+            "score": 0.2567706460680135
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24154208
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.24102666666666664
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2074199
+        }
+    ]
+}

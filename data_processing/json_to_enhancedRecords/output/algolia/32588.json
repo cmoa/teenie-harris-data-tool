@@ -1,0 +1,106 @@
+{
+  "objectID": 32588,
+  "irn": 32588,
+  "ecatalogue_key": 20669,
+  "TitAccessionNo": "2001.35.20700",
+  "CreDateCreated": "1971",
+  "CreEarliestDate": "1971",
+  "CreLatestDate": "1971",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three men, including one in center wearing a double breasted pinstriped suit and striped tie, standing in front of half terrazzo wall",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "10f55ea1-fe16-43d5-83d2-cd86d544b1d6",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38856/sizes/32588-1680.jpg",
+  "datetime": "1971-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 3,
+  "google_text_in_image": "KODAK SAFETY FILM\n9\n",
+  "subjects": [
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "standing",
+      "score": 0.3328717887760417
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.302944
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2885163333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.273389
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.23452317666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23097755666666667
+    },
+    {
+      "keyword": "smile",
+      "score": 0.22979056844991033
+    },
+    {
+      "keyword": "fun",
+      "score": 0.22824172333333334
+    },
+    {
+      "keyword": "family",
+      "score": 0.22558840476582845
+    },
+    {
+      "keyword": "girl",
+      "score": 0.20558768666666669
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38856/sizes/32588-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38856/sizes/32588-210.jpg",
+  "date_timestamp_earliest": 31536000.0,
+  "date_timestamp_latest": 31536000.0,
+  "decades": [
+    "1970s"
+  ]
+}

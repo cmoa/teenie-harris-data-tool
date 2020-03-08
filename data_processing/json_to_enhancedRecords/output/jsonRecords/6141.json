@@ -1,0 +1,143 @@
+{
+    "objectID": 6141,
+    "irn": 6141,
+    "ecatalogue_key": 3584,
+    "TitAccessionNo": "2001.35.3592",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man reading a document seated at a desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Desks--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Documents--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Telephone poles--Pennsylvania--Pittsburgh.Paneling--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ccfdbd5d-3c95-4cdf-bf1f-2aee1a9bd30e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18709,
+    "MulMultiMediaRef_key": 3587,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18709/sizes/6141-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Draperies",
+        "Legal documents",
+        "Men",
+        "Deeds",
+        "Paneling",
+        "Desks",
+        "Government publications"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46732542756917334
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.40027386563110373
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Curtains",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephone poles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Documents",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paneling",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29381142
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2799042
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.276443791998291
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.27391170675455734
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2593679
+        },
+        {
+            "keyword": "table",
+            "score": 0.24873605742187502
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24718968351359036
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24378796666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23878568333333336
+        },
+        {
+            "keyword": "human",
+            "score": 0.23631185333333335
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23497798564605712
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22792906666666668
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.21400623333333335
+        }
+    ]
+}

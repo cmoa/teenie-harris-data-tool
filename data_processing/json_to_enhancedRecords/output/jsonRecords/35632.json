@@ -1,0 +1,123 @@
+{
+    "objectID": 35632,
+    "irn": 35632,
+    "ecatalogue_key": 23315,
+    "TitAccessionNo": "2001.35.23346",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man, possibly Judge Egan, wearing three piece striped suit and bold patterned tie, posed behind desk with telephone and ink well",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Judges--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "902e1bdf-5736-4407-9690-e9b0e426a6b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41823,
+    "MulMultiMediaRef_key": 23323,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41823/sizes/35632-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Egan"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Offices",
+        "Telephone",
+        "Men",
+        "Judges"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Egan",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Judges",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3082121353474933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28566668333333334
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27772056791381833
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2717401333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23283255
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22900033333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22769057666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.224343251248169
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2141792027770996
+        },
+        {
+            "keyword": "office",
+            "score": 0.201684112548828
+        }
+    ]
+}

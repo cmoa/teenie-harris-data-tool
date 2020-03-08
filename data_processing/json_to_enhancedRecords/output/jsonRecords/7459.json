@@ -1,0 +1,72 @@
+{
+    "objectID": 7459,
+    "irn": 7459,
+    "ecatalogue_key": 4561,
+    "TitAccessionNo": "2001.35.4570",
+    "CreDateCreated": "c. 1935-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman in short sleeved dress, seen from behind, modeling hairstyle in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "720f7427-b21e-4dc1-812c-41e4620d9795",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13797,
+    "MulMultiMediaRef_key": 4564,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13797/sizes/7459-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hairstyles",
+        "Dresses",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Harris Studio",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dresses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        }
+    ]
+}

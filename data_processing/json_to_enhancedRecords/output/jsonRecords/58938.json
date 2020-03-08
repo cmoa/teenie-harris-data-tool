@@ -1,0 +1,87 @@
+{
+    "objectID": 58938,
+    "irn": 58938,
+    "ecatalogue_key": 45001,
+    "TitAccessionNo": "2001.35.45044",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of four women, including one second from left wearing bow patterned dress, eyeglasses, and light colored coat with dark lining, standing on lawn with brick building on right, possibly Lemington Home event",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Swings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "77a9f68c-493e-4b3d-ae27-83d6b3121a0b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66886,
+    "MulMultiMediaRef_key": 45009,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66886/sizes/58938-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Lemington Home",
+            "short_name": "Lemington Home"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits, Group",
+        "Swings",
+        "Women",
+        "Older people",
+        "Trees"
+    ],
+    "keywords": [
+        {
+            "keyword": "Lemington Home",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Yards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Elderly people",
+            "score": 0.3333333333333333
+        }
+    ]
+}

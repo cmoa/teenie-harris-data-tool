@@ -1,0 +1,81 @@
+{
+    "objectID": 20925,
+    "irn": 20925,
+    "ecatalogue_key": 11682,
+    "TitAccessionNo": "2001.35.11712",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Eight women standing behind banquet table decorated with flowers and serving platters, with woman wearing large hat holding paper in her hands",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1e786908-2d78-48f2-9801-64fe5a73e792",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16338,
+    "MulMultiMediaRef_key": 11690,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16338/sizes/20925-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "oC\nKODAK S AFETY\nFILM\nKODAK S AFETY\n",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "nurse",
+            "score": 0.3238880411783853
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29634183333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24356798333333332
+        },
+        {
+            "keyword": "family",
+            "score": 0.22546548577575684
+        },
+        {
+            "keyword": "professional",
+            "score": 0.22365759137878435
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21658763333333333
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21041871999999998
+        }
+    ]
+}

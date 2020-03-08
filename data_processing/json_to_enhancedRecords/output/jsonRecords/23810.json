@@ -1,0 +1,86 @@
+{
+    "objectID": 23810,
+    "irn": 23810,
+    "ecatalogue_key": 14040,
+    "TitAccessionNo": "2001.35.14070",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women in formal attire, including woman wearing striped gown on right, and man wearing western string tie in center, posed in ballroom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f3263ccf-0179-4bbc-990f-69d8938f86ab",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30329,
+    "MulMultiMediaRef_key": 14048,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30329/sizes/23810-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 31,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3020336666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28518202
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26760143333333336
+        },
+        {
+            "keyword": "event",
+            "score": 0.25085233953247066
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24861452580871565
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22904693333333334
+        }
+    ]
+}

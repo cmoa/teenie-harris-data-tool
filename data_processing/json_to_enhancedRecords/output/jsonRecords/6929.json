@@ -1,0 +1,87 @@
+{
+    "objectID": 6929,
+    "irn": 6929,
+    "ecatalogue_key": 4303,
+    "TitAccessionNo": "2001.35.4312",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women operating microscopes in laboratory",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Microscopes--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "207b6d65-52f6-49d1-a5c7-6a80ff030df8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19292,
+    "MulMultiMediaRef_key": 4306,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19292/sizes/6929-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Laboratories",
+        "Microscopes"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Laboratories",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Microscopes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.321136939304606
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30692179999999997
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2792708666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27852543333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23765993333333335
+        }
+    ]
+}

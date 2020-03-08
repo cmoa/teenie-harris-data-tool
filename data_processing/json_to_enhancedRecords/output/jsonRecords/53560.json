@@ -1,0 +1,88 @@
+{
+    "objectID": 53560,
+    "irn": 53560,
+    "ecatalogue_key": 40163,
+    "TitAccessionNo": "2001.35.40204",
+    "CreDateCreated": "c. 1930-1945",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark suit, striped tie, and eyeglasses, standing behind car, on Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2caa4071-8da9-4e4b-b622-a2c54aca0e74",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60419,
+    "MulMultiMediaRef_key": 40171,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60419/sizes/53560-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Centre Avenue",
+            "short_name": "Centre Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill District",
+            "short_name": "Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Streets",
+        "Automobiles",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Centre Avenue",
+            "score": 0.3333333333333333
+        }
+    ]
+}

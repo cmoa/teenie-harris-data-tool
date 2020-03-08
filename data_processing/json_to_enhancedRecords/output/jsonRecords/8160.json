@@ -1,0 +1,103 @@
+{
+    "objectID": 8160,
+    "irn": 8160,
+    "ecatalogue_key": 5005,
+    "TitAccessionNo": "2001.35.5014",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Fire fighters from Truck Company no. 29 fighting blaze in alley with snow",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fire fighters--Pennsylvania--Pittsburgh.Fires--Pennsylvania--Pittsburgh.Snow--Pennsylvania--Pittsburgh.Fire trucks--Pennsylvania--Pittsburgh.Fire hose--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bd40404c-2626-4e85-9142-5b3c7e36e695",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21916,
+    "MulMultiMediaRef_key": 5011,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21916/sizes/8160-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Snow",
+        "Fire hose",
+        "Fires",
+        "Fire engines",
+        "Automobiles",
+        "Fire fighters"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Truck Company",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Snow",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire trucks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire hose",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fires",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fire fighters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3121759
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2922261666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26484775666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24746943333333335
+        }
+    ]
+}

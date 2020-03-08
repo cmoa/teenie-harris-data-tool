@@ -1,0 +1,113 @@
+{
+    "objectID": 71729,
+    "irn": 71729,
+    "ecatalogue_key": 56420,
+    "TitAccessionNo": "2001.35.56463",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Large architectural rendering of houses titled \"East Hills Park\", mounted to board, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Architectural rendering--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6de2c6de-74da-4fc6-b441-57e00e089aee",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89017,
+    "MulMultiMediaRef_key": 56429,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89017/sizes/71729-1680.jpg",
+    "date_timestamp_earliest": -378691200.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "East Hills Park",
+            "short_name": "East Hills Park"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Interior architecture",
+        "Architectural rendering"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "East Hills Park",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Architectural rendering",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "text",
+            "score": 0.3212371703920492
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31666353333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3044328
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2808969666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.28000681148376466
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.26236533333333334
+        },
+        {
+            "keyword": "television",
+            "score": 0.247203114827474
+        },
+        {
+            "keyword": "display device",
+            "score": 0.23984576666666668
+        },
+        {
+            "keyword": "picture frame",
+            "score": 0.2199415
+        },
+        {
+            "keyword": "product design",
+            "score": 0.21419181333333334
+        },
+        {
+            "keyword": "font",
+            "score": 0.20396568333333334
+        }
+    ]
+}

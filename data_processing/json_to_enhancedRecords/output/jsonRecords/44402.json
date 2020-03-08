@@ -1,0 +1,73 @@
+{
+    "objectID": 44402,
+    "irn": 44402,
+    "ecatalogue_key": 31685,
+    "TitAccessionNo": "2001.35.31720",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "View from scaffolding, looking down, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Scaffolding--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "466caeba-93dc-4f6a-a4a5-f32bad3ff82e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51122,
+    "MulMultiMediaRef_key": 31693,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51122/sizes/44402-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Scaffolding"
+    ],
+    "keywords": [
+        {
+            "keyword": "Scaffolding",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30817292
+        },
+        {
+            "keyword": "rotisserie",
+            "score": 0.29743850708007796
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26607008666666665
+        },
+        {
+            "keyword": "oven",
+            "score": 0.245713602701823
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2326248333333333
+        }
+    ]
+}

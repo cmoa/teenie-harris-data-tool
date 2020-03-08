@@ -1,0 +1,115 @@
+{
+    "objectID": 24522,
+    "irn": 24522,
+    "ecatalogue_key": 14597,
+    "TitAccessionNo": "2001.35.14627",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of elderly woman seated in chair, with cake on table in foreground in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45a454ac-c84b-4cfd-8024-eba3f272e010",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30921,
+    "MulMultiMediaRef_key": 14605,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30921/sizes/24522-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women",
+        "Cake"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.420391118741862
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3885516147440593
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cakes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30248514666666665
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.29077597544148764
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27277973333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26889185
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26332805666666664
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25023665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2480085333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.236093
+        },
+        {
+            "keyword": "human",
+            "score": 0.23171301666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.22521801666666666
+        }
+    ]
+}

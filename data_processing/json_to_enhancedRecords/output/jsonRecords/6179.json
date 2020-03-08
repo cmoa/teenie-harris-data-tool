@@ -1,0 +1,129 @@
+{
+    "objectID": 6179,
+    "irn": 6179,
+    "ecatalogue_key": 3622,
+    "TitAccessionNo": "2001.35.3630",
+    "CreDateCreated": "September 1938",
+    "CreEarliestDate": "1938-09-01",
+    "CreLatestDate": "1938-09-30",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group, including boxer Joe Louis, and Chester Washington in foreground, possibly seated in courtroom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Louis, Joe, 1914-Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54308492-6392-4377-9a19-54cd076cb9e8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18728,
+    "MulMultiMediaRef_key": 3625,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18728/sizes/6179-1680.jpg",
+    "date_timestamp_earliest": -988848000.0,
+    "date_timestamp_latest": -986342400.0,
+    "decades": [
+        "1930s"
+    ],
+    "people": [
+        "Joe Louis"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Chester",
+            "short_name": "Chester"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Washington",
+            "short_name": "Washington"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Windows",
+        "Interior architecture",
+        "Desks",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Louis, Joe, 1914-Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Joe Louis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.313742367684733
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28789631666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27391324333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2583395062632243
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.237317
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22497273333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21220386666666669
+        }
+    ]
+}

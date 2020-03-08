@@ -1,0 +1,102 @@
+{
+    "objectID": 49954,
+    "irn": 49954,
+    "ecatalogue_key": 36774,
+    "TitAccessionNo": "2001.35.36814",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing three piece suit, eyeglasses, and holding cigarette, seated on arm of desk chair, in interior with potted plant hung on wall and portraits on desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ee0369d0-8f69-4739-861b-91e2ca324868",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 56980,
+    "MulMultiMediaRef_key": 36782,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/56980/sizes/49954-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46801067754720066
+        },
+        {
+            "keyword": "male",
+            "score": 0.410851216455078
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.33284711760620134
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2852602
+        },
+        {
+            "keyword": "standing",
+            "score": 0.284484992072347
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27363348
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2701828
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22735283333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21466026666666668
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20963676666666667
+        }
+    ]
+}

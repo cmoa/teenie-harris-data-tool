@@ -1,0 +1,95 @@
+{
+    "objectID": 836,
+    "irn": 836,
+    "ecatalogue_key": 63,
+    "TitAccessionNo": "2001.35.65",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd scene in gym, with basketball hoops raised",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Gymnasiums--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.Students--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7cf3acb9-4403-4656-965f-036d391f4816",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14990,
+    "MulMultiMediaRef_key": 63,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14990/sizes/836-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 53,
+    "google_text_in_image": "",
+    "subjects": [
+        "Crowds",
+        "Students",
+        "Gymnasiums"
+    ],
+    "keywords": [
+        {
+            "keyword": "people",
+            "score": 0.43741359777018235
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.372547688474528
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Students",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.310905
+        },
+        {
+            "keyword": "audience",
+            "score": 0.30618204049560543
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2810173833333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26217426666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.24525511738932293
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22455092333333335
+        }
+    ]
+}

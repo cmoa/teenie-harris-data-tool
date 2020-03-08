@@ -1,0 +1,101 @@
+{
+    "objectID": 22241,
+    "irn": 22241,
+    "ecatalogue_key": 12875,
+    "TitAccessionNo": "2001.35.12905",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Brick wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Brick walls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ec949c4d-9ff6-4071-b8cb-95df50eafdf2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29004,
+    "MulMultiMediaRef_key": 12883,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29004/sizes/22241-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Brick walls"
+    ],
+    "keywords": [
+        {
+            "keyword": "wall",
+            "score": 0.4338447189542643
+        },
+        {
+            "keyword": "texture",
+            "score": 0.4038032455655924
+        },
+        {
+            "keyword": "Brick walls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3146491
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2999678333333333
+        },
+        {
+            "keyword": "fountain",
+            "score": 0.276695836385091
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26806664333333335
+        },
+        {
+            "keyword": "water",
+            "score": 0.2666209
+        },
+        {
+            "keyword": "structure",
+            "score": 0.26300252278645836
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25790302
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "smoke",
+            "score": 0.21329005666666667
+        },
+        {
+            "keyword": "sky",
+            "score": 0.20231378
+        }
+    ]
+}

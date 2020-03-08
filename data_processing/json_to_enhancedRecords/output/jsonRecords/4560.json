@@ -1,0 +1,107 @@
+{
+    "objectID": 4560,
+    "irn": 4560,
+    "ecatalogue_key": 2650,
+    "TitAccessionNo": "2001.35.2654",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man standing by a window holding a trumpet",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Trumpets--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dd7b039f-1296-46cf-9bcc-1fe34cb798dd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16975,
+    "MulMultiMediaRef_key": 2652,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16975/sizes/4560-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Windows"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.425297731966146
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trumpets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3141900663787843
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.296256985937907
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29252151666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28253905
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2609625
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23591828333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21030723333333334
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20173482
+        }
+    ]
+}

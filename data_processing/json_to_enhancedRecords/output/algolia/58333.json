@@ -1,0 +1,134 @@
+{
+  "objectID": 58333,
+  "irn": 58333,
+  "ecatalogue_key": 44406,
+  "TitAccessionNo": "2001.35.44448",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of man wearing square shaped wristwatch, light colored shirt with rolled cuffs and pen in breast pocket, and dark bow tie, posed in domestic interior with floral wallpaper",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "b2e846dc-dfc8-4da4-b847-afe84dfa2974",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66422/sizes/58333-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Interiors",
+    "Portraits",
+    "Men",
+    "Doors"
+  ],
+  "keywords": [
+    {
+      "keyword": "man",
+      "score": 0.46013021833333334
+    },
+    {
+      "keyword": "person",
+      "score": 0.4117023908691407
+    },
+    {
+      "keyword": "male",
+      "score": 0.3986695489786783
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Doors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.325446895070394
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2928484019856771
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2900486
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2834077333333333
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.28178363345052065
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "human",
+      "score": 0.27055013226318364
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2527995
+    },
+    {
+      "keyword": "smile",
+      "score": 0.2489486848557537
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23044696666666667
+    },
+    {
+      "keyword": "professional",
+      "score": 0.20871178333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66422/sizes/58333-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66422/sizes/58333-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

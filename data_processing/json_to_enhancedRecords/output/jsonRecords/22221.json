@@ -1,0 +1,94 @@
+{
+    "objectID": 22221,
+    "irn": 22221,
+    "ecatalogue_key": 12855,
+    "TitAccessionNo": "2001.35.12885",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men wearing tuxedos and women wearing evening dresses and gowns seated at banquet tables, with curtains in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6834dbd0-0295-4aff-9b2b-2ae3428117f0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29050,
+    "MulMultiMediaRef_key": 12863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29050/sizes/22221-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 31,
+    "google_text_in_image": "7\nKODAK\nFILM\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.28284963333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28254032
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2731305333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.26628516849487305
+        },
+        {
+            "keyword": "audience",
+            "score": 0.2558604
+        },
+        {
+            "keyword": "fun",
+            "score": 0.25047626369018555
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22969818
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21337903333333333
+        }
+    ]
+}

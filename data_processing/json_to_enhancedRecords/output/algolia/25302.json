@@ -1,0 +1,115 @@
+{
+  "objectID": 25302,
+  "irn": 25302,
+  "ecatalogue_key": 15803,
+  "TitAccessionNo": "2001.35.15833",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Men and women seated at tables with place settings in library, with books on shelves in background",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Libraries--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "9bbc4306-527e-4621-89fb-069ca78a5658",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32704/sizes/25302-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 36,
+  "google_text_in_image": "",
+  "subjects": [
+    "Libraries",
+    "Books",
+    "Women",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Libraries",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Books",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31136780000000003
+    },
+    {
+      "keyword": "groom",
+      "score": 0.300465291341146
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29623494666666667
+    },
+    {
+      "keyword": "function hall",
+      "score": 0.28850585333333334
+    },
+    {
+      "keyword": "photography",
+      "score": 0.28345308666666663
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24136120000000003
+    },
+    {
+      "keyword": "restaurant",
+      "score": 0.2406236965515137
+    },
+    {
+      "keyword": "ceremony",
+      "score": 0.223324265509847
+    },
+    {
+      "keyword": "event",
+      "score": 0.20796451258239745
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32704/sizes/25302-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32704/sizes/25302-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

@@ -1,0 +1,103 @@
+{
+    "objectID": 12635,
+    "irn": 12635,
+    "ecatalogue_key": 6425,
+    "TitAccessionNo": "2001.35.6436",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys, on seesaws in park",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Parks--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9121ec86-8ab2-48a5-9c73-42b8878ecbfc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23828,
+    "MulMultiMediaRef_key": 6432,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23828/sizes/12635-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "",
+    "subjects": [
+        "Parks",
+        "Trees",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.34384067410278335
+        },
+        {
+            "keyword": "Parks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "marimba",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3031370433333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27282198333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26910696666666667
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.2548964329844157
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23924911000000001
+        },
+        {
+            "keyword": "plant",
+            "score": 0.21885321666666668
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20972284796854654
+        }
+    ]
+}

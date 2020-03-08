@@ -1,0 +1,87 @@
+{
+    "objectID": 21285,
+    "irn": 21285,
+    "ecatalogue_key": 12005,
+    "TitAccessionNo": "2001.35.12035",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of kitchen, with nook, table with two plates, chairs, cabinets and drawers",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Domestic life--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ad2ad414-1d33-4f5f-a53d-15cdfb77fcc7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27633,
+    "MulMultiMediaRef_key": 12013,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27633/sizes/21285-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "A:\n",
+    "subjects": [],
+    "keywords": [
+        {
+            "keyword": "Domestic life",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30108177666666663
+        },
+        {
+            "keyword": "kitchen",
+            "score": 0.29198743573404945
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.290366833863322
+        },
+        {
+            "keyword": "photography",
+            "score": 0.265392
+        },
+        {
+            "keyword": "house",
+            "score": 0.261631249313151
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25923804333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23606896666666666
+        },
+        {
+            "keyword": "table",
+            "score": 0.22915884538218179
+        },
+        {
+            "keyword": "interior design",
+            "score": 0.20692048333333335
+        }
+    ]
+}

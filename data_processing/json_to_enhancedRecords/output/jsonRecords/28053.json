@@ -1,0 +1,113 @@
+{
+    "objectID": 28053,
+    "irn": 28053,
+    "ecatalogue_key": 17126,
+    "TitAccessionNo": "2001.35.17156",
+    "CreDateCreated": "1966",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men standing on corner sidewalk of G.C. Murphy Co., placing trash into garbage can reading \"Don't Be A Litterbug Help Keep Pittsburgh Clean\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cf6b51ed-f135-452a-9deb-abd275fd21d8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33730,
+    "MulMultiMediaRef_key": 17134,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33730/sizes/28053-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "DONT\nITTERBUG\n",
+    "subjects": [
+        "Men",
+        "Refuse and refuse disposal",
+        "Storefronts"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.42768843176676435
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Refuse and refuse disposal",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "G.C. Murphy Co.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Storefronts",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.30313961681132
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.30002650000000003
+        },
+        {
+            "keyword": "city",
+            "score": 0.294572624292806
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29201167666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2671793333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25497980000000003
+        },
+        {
+            "keyword": "car",
+            "score": 0.25077301708831784
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.238862359926351
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22593676666666665
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "objectID": 42934,
+    "irn": 42934,
+    "ecatalogue_key": 30269,
+    "TitAccessionNo": "2001.35.30302",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated on wooden chairs around table, including man and woman on right seated behind two tiered cake, in basement with cinder block walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a7dc064e-e9d9-431e-a9f3-c82a5d0bb4e7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49614,
+    "MulMultiMediaRef_key": 30277,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49614/sizes/42934-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 23,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Cake",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cakes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29488563333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27409690000000003
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25682558666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22949842565124498
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22025737999999997
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "objectID": 6291,
+    "irn": 6291,
+    "ecatalogue_key": 3728,
+    "TitAccessionNo": "2001.35.3737",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a woman playing piano with restaurant booth in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "dc547bea-1ad4-4f90-9f63-4a12180a4215",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18124,
+    "MulMultiMediaRef_key": 3731,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18124/sizes/6291-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Musicians",
+        "Portraits",
+        "Interior architecture",
+        "Interiors",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "piano",
+            "score": 0.6471044233333333
+        },
+        {
+            "keyword": "keyboard",
+            "score": 0.36453425417236335
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.34083766181335434
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "upright",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.30794486666666665
+        },
+        {
+            "keyword": "jazz pianist",
+            "score": 0.29526508
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2931957
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27071825666666666
+        },
+        {
+            "keyword": "player piano",
+            "score": 0.2533648
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25282847999999997
+        },
+        {
+            "keyword": "musical keyboard",
+            "score": 0.23404208666666668
+        },
+        {
+            "keyword": "fortepiano",
+            "score": 0.21659423333333336
+        }
+    ]
+}

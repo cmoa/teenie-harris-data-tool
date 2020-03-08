@@ -1,0 +1,104 @@
+{
+    "objectID": 21625,
+    "irn": 21625,
+    "ecatalogue_key": 12335,
+    "TitAccessionNo": "2001.35.12365",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Smiling man handing envelope to woman wearing coat, with Reverend Charles Foggie in center looking on, and painting of Christ and sheep on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5f55fc2a-dce4-40ef-b2fd-19f98e0a7f1e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28137,
+    "MulMultiMediaRef_key": 12343,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28137/sizes/21625-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Charles Foggie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Charles Foggie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28140343333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26823003333333334
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2638559806966147
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24898667054809565
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.23526323333333332
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22371632
+        },
+        {
+            "keyword": "communication",
+            "score": 0.20802855333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20265319
+        }
+    ]
+}

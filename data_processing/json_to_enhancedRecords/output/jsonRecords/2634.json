@@ -1,0 +1,93 @@
+{
+    "objectID": 2634,
+    "irn": 2634,
+    "ecatalogue_key": 1232,
+    "TitAccessionNo": "2001.35.1234",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior with folding chairs and art displayed on screen panels",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Art exhibitions--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "de9046ba-f8e6-43a1-9d4b-71dcdca57c9b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15572,
+    "MulMultiMediaRef_key": 1234,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15572/sizes/2634-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Art exhibitions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2925099133333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.2698173528411867
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2611869
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23976986666666666
+        },
+        {
+            "keyword": "home",
+            "score": 0.22562266666666667
+        },
+        {
+            "keyword": "interior design",
+            "score": 0.22396151333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.21754646666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21247206666666665
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2090295
+        }
+    ]
+}

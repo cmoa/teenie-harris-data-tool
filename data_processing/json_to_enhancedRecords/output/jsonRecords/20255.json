@@ -1,0 +1,129 @@
+{
+    "objectID": 20255,
+    "irn": 20255,
+    "ecatalogue_key": 11211,
+    "TitAccessionNo": "2001.35.11239",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women walking on sidewalk with Maryland state capitol building in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Maryland State House (Annapolis, Md.)Men--Maryland--Annapolis.Women--Maryland--Annapolis.",
+    "AdmGUIDValue_tab": "26a997ff-a2fd-4d9a-9621-897dd51a0f12",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27192,
+    "MulMultiMediaRef_key": 11219,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27192/sizes/20255-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Maryland",
+            "short_name": "Maryland"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Annapolis",
+            "short_name": "Annapolis"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.43312415327962234
+        },
+        {
+            "keyword": "building",
+            "score": 0.429455247935384
+        },
+        {
+            "keyword": "town",
+            "score": 0.39728989392456066
+        },
+        {
+            "keyword": "city",
+            "score": 0.38537822902425134
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maryland State House ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.32227418755696596
+        },
+        {
+            "keyword": "car",
+            "score": 0.3221752133605957
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3110699333333333
+        },
+        {
+            "keyword": "history",
+            "score": 0.3010220797587077
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29839742333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29494963333333335
+        },
+        {
+            "keyword": "road",
+            "score": 0.29189309115804035
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2701533333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24621468666666668
+        },
+        {
+            "keyword": "facade",
+            "score": 0.2447580869040933
+        },
+        {
+            "keyword": "metropolitan area",
+            "score": 0.2244767666666667
+        },
+        {
+            "keyword": "metropolis",
+            "score": 0.22208036666666667
+        },
+        {
+            "keyword": "downtown",
+            "score": 0.21857369999999998
+        }
+    ]
+}

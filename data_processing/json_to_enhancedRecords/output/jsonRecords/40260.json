@@ -1,0 +1,113 @@
+{
+    "objectID": 40260,
+    "irn": 40260,
+    "ecatalogue_key": 27595,
+    "TitAccessionNo": "2001.35.27627",
+    "CreDateCreated": "c. 1939",
+    "CreEarliestDate": "1934",
+    "CreLatestDate": "1944",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing plaid jacket standing in front of bushes with arm raised, possibly West Virginia State or Virginia State campus",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--West Virginia--Institute.Women--West Virginia--Institute.Portraits--West Virginia--Institute.",
+    "AdmGUIDValue_tab": "45f6cc6a-ea26-4bea-a908-0bacdad5aa0e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 46444,
+    "MulMultiMediaRef_key": 27603,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/46444/sizes/40260-1680.jpg",
+    "date_timestamp_earliest": -1136073600.0,
+    "date_timestamp_latest": -820540800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "West Virginia State",
+            "short_name": "West Virginia State"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Virginia State",
+            "short_name": "Virginia State"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "West Virginia",
+            "short_name": "West Virginia"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.3559875232696534
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.3312308348236083
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31481953333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3012150666666667
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29545503333333334
+        },
+        {
+            "keyword": "plant",
+            "score": 0.28330873333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27644608333333337
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "home",
+            "score": 0.2577582519117228
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25389518333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.23939508534037265
+        }
+    ]
+}

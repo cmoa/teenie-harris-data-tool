@@ -1,0 +1,96 @@
+{
+    "objectID": 65888,
+    "irn": 65888,
+    "ecatalogue_key": 51690,
+    "TitAccessionNo": "2001.35.51733",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing overcoat standing between curtains of voting booth with two other men nearby, in polling place",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Voting-machines--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e96e78dc-4ea0-4ef1-93af-c0d696a384ec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75452,
+    "MulMultiMediaRef_key": 51698,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75452/sizes/65888-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "RTMENT OF ELECTIONS ALLEGHENY\n",
+    "subjects": [
+        "Men",
+        "Voting-machines",
+        "Eyeglasses",
+        "Clothing and dress"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Voting-machines",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30863033333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28530503333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27451401999999997
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27427721
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "suit",
+            "score": 0.248004968992106
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23790411
+        }
+    ]
+}

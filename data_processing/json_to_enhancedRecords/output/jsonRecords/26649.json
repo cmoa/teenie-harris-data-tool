@@ -1,0 +1,103 @@
+{
+    "objectID": 26649,
+    "irn": 26649,
+    "ecatalogue_key": 16365,
+    "TitAccessionNo": "2001.35.16395",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated in auditorium-style chairs, in interior with support beams and linoleum floor, clock in background reads 5:55, possibly in church basement",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "474aed7d-8421-42ff-83ed-4309a76d4e20",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32865,
+    "MulMultiMediaRef_key": 16373,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32865/sizes/26649-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 24,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Crowds",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "5:55",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.26640017666666665
+        },
+        {
+            "keyword": "room",
+            "score": 0.255437952677409
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.24319283333333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.23234343333333332
+        },
+        {
+            "keyword": "meeting",
+            "score": 0.22644366277709968
+        },
+        {
+            "keyword": "seminar",
+            "score": 0.22566624333333332
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22377118309631347
+        },
+        {
+            "keyword": "convention",
+            "score": 0.21043996666666667
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.20415003458658865
+        }
+    ]
+}

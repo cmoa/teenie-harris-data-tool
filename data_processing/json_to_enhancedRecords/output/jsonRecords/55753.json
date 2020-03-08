@@ -1,0 +1,110 @@
+{
+    "objectID": 55753,
+    "irn": 55753,
+    "ecatalogue_key": 42409,
+    "TitAccessionNo": "2001.35.42451",
+    "CreDateCreated": "c. 1953",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, diagonally striped tie with tie bar, and ring, posed in interior with striped wallpaper and urn and ashtray on desk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4a04083f-8e6a-471c-9d74-bde7050d5397",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63742,
+    "MulMultiMediaRef_key": 42417,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63742/sizes/55753-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Interior architecture",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.48545301141682934
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4814349127197266
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.31608897517089835
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2760457
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2755940333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27485905
+        },
+        {
+            "keyword": "communication",
+            "score": 0.26991258969319665
+        },
+        {
+            "keyword": "executive",
+            "score": 0.241673075358073
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.23874590555826833
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.22521664666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20557741333333335
+        }
+    ]
+}

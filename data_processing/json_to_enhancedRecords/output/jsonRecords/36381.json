@@ -1,0 +1,98 @@
+{
+    "objectID": 36381,
+    "irn": 36381,
+    "ecatalogue_key": 23951,
+    "TitAccessionNo": "2001.35.23982",
+    "CreDateCreated": "1949",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing netted hat and man, possibly Johnny Crouch, standing on staircase of airplane with sign on open door inscribed \"Capitaliner Newark\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "db5fe68d-2d9b-4852-adef-6ac2c89b2422",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42518,
+    "MulMultiMediaRef_key": 23959,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42518/sizes/36381-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [
+        "Johnny Crouch"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "Capitaliner\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Capitaliner Newark",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30689546666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27632413333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2688618333333333
+        },
+        {
+            "keyword": "technology",
+            "score": 0.266279
+        },
+        {
+            "keyword": "piano",
+            "score": 0.24803520202636734
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2362772
+        },
+        {
+            "keyword": "design",
+            "score": 0.2256093233333333
+        },
+        {
+            "keyword": "product design",
+            "score": 0.21190703333333336
+        }
+    ]
+}

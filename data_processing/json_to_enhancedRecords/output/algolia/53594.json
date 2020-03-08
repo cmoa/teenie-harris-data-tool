@@ -1,0 +1,77 @@
+{
+  "objectID": 53594,
+  "irn": 53594,
+  "ecatalogue_key": 40175,
+  "TitAccessionNo": "2001.35.40216",
+  "CreDateCreated": "c. 1930-1945",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1945",
+  "PhyMediumComments": "black-and-white: unknown nitrate film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of woman, possibly Barbara Jones, looking into mirror and brushing hair, in domestic interior with small lamp and sheer curtains with dark stripes near hem",
+  "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "3d7fbea3-f9ca-4409-bae4-2e291329c678",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60431/sizes/53594-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [
+    "Barbara Jones"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Interior architecture",
+    "Portraits",
+    "Interiors",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "Barbara Jones",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Interiors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60431/sizes/53594-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60431/sizes/53594-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -788918400.0,
+  "decades": []
+}

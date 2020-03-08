@@ -1,0 +1,99 @@
+{
+    "objectID": 24290,
+    "irn": 24290,
+    "ecatalogue_key": 14446,
+    "TitAccessionNo": "2001.35.14476",
+    "CreDateCreated": "c. 1960-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women and men posed behind banquet table in church basement? with altar and picture of Christ in background, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "72b6b546-d951-4e2e-a463-1909cf4deccd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30701,
+    "MulMultiMediaRef_key": 14454,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30701/sizes/24290-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Men",
+        "Church buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Church buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.29655653765055334
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29320609999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2652961
+        },
+        {
+            "keyword": "room",
+            "score": 0.258934071858724
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.25592880249023436
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24671391666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21464143333333333
+        }
+    ]
+}

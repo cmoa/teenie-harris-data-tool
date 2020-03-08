@@ -1,0 +1,101 @@
+{
+    "objectID": 25230,
+    "irn": 25230,
+    "ecatalogue_key": 15091,
+    "TitAccessionNo": "2001.35.15121",
+    "CreDateCreated": "1968",
+    "CreEarliestDate": "1968",
+    "CreLatestDate": "1968",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, including minister, and a woman, gathered around piano, in interior with curtain and snake plant on radiator",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8f5c4f95-be0f-4f6e-b3d1-0db6514ac33d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31480,
+    "MulMultiMediaRef_key": 15099,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31480/sizes/25230-1680.jpg",
+    "date_timestamp_earliest": -63158400.0,
+    "date_timestamp_latest": -63158400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30749259095845544
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3020731
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.285372
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2806493666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26397419
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23357937666666664
+        },
+        {
+            "keyword": "house",
+            "score": 0.21549833333333335
+        }
+    ]
+}

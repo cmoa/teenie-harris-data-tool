@@ -1,0 +1,119 @@
+{
+    "objectID": 26414,
+    "irn": 26414,
+    "ecatalogue_key": 15916,
+    "TitAccessionNo": "2001.35.15946",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing necktie with medallion pattern, seated at desk in office with telephone",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c97c7576-f359-4e0a-a529-b1707205dd51",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32203,
+    "MulMultiMediaRef_key": 15924,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32203/sizes/26414-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Telephone",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4411928384480794
+        },
+        {
+            "keyword": "person",
+            "score": 0.4339256130574543
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3994906525919597
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3026417
+        },
+        {
+            "keyword": "smile",
+            "score": 0.290396398872884
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28002917666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2747496566666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "laptop",
+            "score": 0.25430903116861964
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24967170000000002
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24573106666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.232316
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22852872278137207
+        },
+        {
+            "keyword": "computer",
+            "score": 0.22257425944010398
+        }
+    ]
+}

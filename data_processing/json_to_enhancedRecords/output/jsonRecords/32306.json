@@ -1,0 +1,108 @@
+{
+    "objectID": 32306,
+    "irn": 32306,
+    "ecatalogue_key": 20424,
+    "TitAccessionNo": "2001.35.20455",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of three women, man, and boy, holding roasting pan, cruet set, and ice bucket, posed behind table with items including framed portrait of John F. Kennedy, model airplane, and horse and rider doll, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Toys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7070f2f3-011c-4fb0-ac13-4842168667af",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38602,
+    "MulMultiMediaRef_key": 20432,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38602/sizes/32306-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [
+        "John F. Kennedy"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Boys",
+        "Toys"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.3942571171822103
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Toys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "John F. Kennedy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.3085575959665933
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28405382333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28083437666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21837773333333332
+        },
+        {
+            "keyword": "event",
+            "score": 0.21819043333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21286324666666667
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 25769,
+    "irn": 25769,
+    "ecatalogue_key": 15249,
+    "TitAccessionNo": "2001.35.15279",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man seated on arm of sofa, in interior with arms on lap",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7492904a-1783-4828-a651-ac900e8e8223",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31638,
+    "MulMultiMediaRef_key": 15257,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31638/sizes/25769-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4987490858601887
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4762832236002603
+        },
+        {
+            "keyword": "person",
+            "score": 0.4728153301635743
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33393412974853504
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.31222264628499335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28079743333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2786851533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27081594999999997
+        },
+        {
+            "keyword": "professional",
+            "score": 0.2692740543029787
+        },
+        {
+            "keyword": "human",
+            "score": 0.264110501523641
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.20920209248860666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20669833333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20358156666666669
+        }
+    ]
+}

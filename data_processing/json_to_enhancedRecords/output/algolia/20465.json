@@ -1,0 +1,188 @@
+{
+  "objectID": 20465,
+  "irn": 20465,
+  "ecatalogue_key": 11301,
+  "TitAccessionNo": "2001.35.11329",
+  "CreDateCreated": "c. 1950-1975",
+  "CreEarliestDate": "1950",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Wylie Avenue with storefronts and cars in street and Jones funeral home on left",
+  "CatSubject_tab": "Wylie Avenue (Pittsburgh, Pa.)Buildings--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "69aa1141-78e2-4843-ba24-8372fc6ea06f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27263/sizes/20465-1680.jpg",
+  "datetime": "1950-01-01 00:00:00",
+  "people": [
+    "Jones"
+  ],
+  "places": [
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Wylie Avenue",
+      "short_name": "Wylie Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Grandview Avenue",
+      "short_name": "Grandview Ave"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Jones",
+    "Automobiles"
+  ],
+  "keywords": [
+    {
+      "keyword": "city",
+      "score": 0.4245606721362303
+    },
+    {
+      "keyword": "street",
+      "score": 0.403440519424235
+    },
+    {
+      "keyword": "road",
+      "score": 0.384793721837565
+    },
+    {
+      "keyword": "town",
+      "score": 0.3759451880684406
+    },
+    {
+      "keyword": "car",
+      "score": 0.36765550740865066
+    },
+    {
+      "keyword": "sky",
+      "score": 0.34315552370198565
+    },
+    {
+      "keyword": "building",
+      "score": 0.3410755163126627
+    },
+    {
+      "keyword": "Wylie Avenue ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Wylie Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Jones",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Automobiles",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "downtown",
+      "score": 0.3141604956205241
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.31135403333333334
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3109881
+    },
+    {
+      "keyword": "lane",
+      "score": 0.30723325333333334
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.2992340666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29363046666666665
+    },
+    {
+      "keyword": "metropolitan area",
+      "score": 0.2848981
+    },
+    {
+      "keyword": "neighbourhood",
+      "score": 0.28394046666666667
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.2768039666666667
+    },
+    {
+      "keyword": "residential area",
+      "score": 0.2686696
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2665358
+    },
+    {
+      "keyword": "family car",
+      "score": 0.2631092466666667
+    },
+    {
+      "keyword": "house",
+      "score": 0.253682682732137
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24820896666666667
+    },
+    {
+      "keyword": "vehicle",
+      "score": 0.23912613821818032
+    },
+    {
+      "keyword": "suburb",
+      "score": 0.21619633333333332
+    },
+    {
+      "keyword": "facade",
+      "score": 0.21204793333333335
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27263/sizes/20465-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27263/sizes/20465-210.jpg",
+  "date_timestamp_earliest": -631152000.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

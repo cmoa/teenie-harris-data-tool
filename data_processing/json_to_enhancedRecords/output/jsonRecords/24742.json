@@ -1,0 +1,131 @@
+{
+    "objectID": 24742,
+    "irn": 24742,
+    "ecatalogue_key": 14705,
+    "TitAccessionNo": "2001.35.14735",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman standing over table of four girls and three boys, in room with mantle, possibly in Holy Cross Church on Kelly Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f7d09638-88de-4db4-9b19-c1dcea3b905a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31081,
+    "MulMultiMediaRef_key": 14713,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31081/sizes/24742-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Kelly Street",
+            "short_name": "Kelly Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Girls",
+        "Boys"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.389580562677002
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Holy Cross Church",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Kelly Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3069674
+        },
+        {
+            "keyword": "table",
+            "score": 0.28800027293253566
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28138973333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2772563666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2606540666666667
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.25401612
+        },
+        {
+            "keyword": "child",
+            "score": 0.24939945400390626
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.24551592333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24395796666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23891321666666665
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23646966931681315
+        }
+    ]
+}

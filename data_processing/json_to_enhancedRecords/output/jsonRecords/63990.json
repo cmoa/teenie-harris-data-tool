@@ -1,0 +1,119 @@
+{
+    "objectID": 63990,
+    "irn": 63990,
+    "ecatalogue_key": 49900,
+    "TitAccessionNo": "2001.35.49943",
+    "CreDateCreated": "c. 1959",
+    "CreEarliestDate": "1956",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Paved street with two long parallel skid marks, hillside, two automobiles, and building in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d163f30a-18c7-4c12-b9bf-d3307f0d1d2e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 73092,
+    "MulMultiMediaRef_key": 49908,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/73092/sizes/63990-1680.jpg",
+    "date_timestamp_earliest": -441849600.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Automobiles",
+        "Streets"
+    ],
+    "keywords": [
+        {
+            "keyword": "road",
+            "score": 0.5216410190755206
+        },
+        {
+            "keyword": "asphalt",
+            "score": 0.458215907470703
+        },
+        {
+            "keyword": "sky",
+            "score": 0.388493725423177
+        },
+        {
+            "keyword": "lane",
+            "score": 0.3756236239827473
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "line",
+            "score": 0.3205370815934243
+        },
+        {
+            "keyword": "car",
+            "score": 0.31385067778747566
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3121732466666667
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.30663443126709006
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29054736666666664
+        },
+        {
+            "keyword": "road surface",
+            "score": 0.26692025
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26151050000000003
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2585132133333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.23956644497172033
+        },
+        {
+            "keyword": "winter",
+            "score": 0.20324810558776865
+        }
+    ]
+}

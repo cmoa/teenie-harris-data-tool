@@ -1,0 +1,121 @@
+{
+    "objectID": 45277,
+    "irn": 45277,
+    "ecatalogue_key": 32473,
+    "TitAccessionNo": "2001.35.32508",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark trousers, light colored shirt, and butterfly bandage on head, standing on step in front of doorway of brick building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Bandages and bandaging--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "af30baac-0275-4de9-b477-d78f1afceadb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51680,
+    "MulMultiMediaRef_key": 32481,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51680/sizes/45277-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bandages and bandaging",
+        "Buildings",
+        "Portraits",
+        "Men",
+        "Stairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.401959440460205
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3608290726867677
+        },
+        {
+            "keyword": "male",
+            "score": 0.346202645345052
+        },
+        {
+            "keyword": "Bandages and bandaging",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30640824666666666
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.30052308333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2875567466666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28202093333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.280973621357422
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2614448858561198
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25099556666666667
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2418431
+        }
+    ]
+}

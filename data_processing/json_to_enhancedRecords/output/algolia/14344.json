@@ -1,0 +1,181 @@
+{
+  "objectID": 14344,
+  "irn": 14344,
+  "ecatalogue_key": 7636,
+  "TitAccessionNo": "2001.35.7653",
+  "CreDateCreated": "c. 1930-1950",
+  "CreEarliestDate": "1930",
+  "CreLatestDate": "1950",
+  "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Children playing on empty lot of Franklin Parklet site looking west from Logan Street between Hazel and Epiphany Streets with downtown in background",
+  "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Logan Street (Pittsburgh Pa.)Streets--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)Houses--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "601b6799-7401-493f-8919-64d552083c9b",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23834/sizes/14344-1680.jpg",
+  "datetime": "1930-01-01 00:00:00",
+  "people": [
+    "Franklin Parklet"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Logan Street",
+      "short_name": "Logan St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Washington Place",
+      "short_name": "Washington Pl"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "Streets",
+    "Children"
+  ],
+  "keywords": [
+    {
+      "keyword": "snow",
+      "score": 0.4673825705566406
+    },
+    {
+      "keyword": "sky",
+      "score": 0.3768435199320477
+    },
+    {
+      "keyword": "architecture",
+      "score": 0.3764808965616864
+    },
+    {
+      "keyword": "city",
+      "score": 0.3710657033081053
+    },
+    {
+      "keyword": "wall",
+      "score": 0.344615998569743
+    },
+    {
+      "keyword": "Hazel and Epiphany Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Downtown ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Houses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Logan Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Logan Street ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.3137963
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31161687666666665
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.2899969666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2899426333333333
+    },
+    {
+      "keyword": "winter",
+      "score": 0.27510622434916165
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27396911333333335
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2520695333333333
+    },
+    {
+      "keyword": "skyline",
+      "score": 0.2513459357891847
+    },
+    {
+      "keyword": "daytime",
+      "score": 0.23661483333333333
+    },
+    {
+      "keyword": "residential area",
+      "score": 0.22711553333333334
+    },
+    {
+      "keyword": "tree",
+      "score": 0.22307805547892254
+    },
+    {
+      "keyword": "street",
+      "score": 0.22191496267496735
+    },
+    {
+      "keyword": "road",
+      "score": 0.21953581187032067
+    },
+    {
+      "keyword": "house",
+      "score": 0.21718972256368
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23834/sizes/14344-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23834/sizes/14344-210.jpg",
+  "date_timestamp_earliest": -1262304000.0,
+  "date_timestamp_latest": -631152000.0,
+  "decades": []
+}

@@ -1,0 +1,119 @@
+{
+    "objectID": 35989,
+    "irn": 35989,
+    "ecatalogue_key": 23631,
+    "TitAccessionNo": "2001.35.23662",
+    "CreDateCreated": "1951",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing behind wooden basement stairs with open wooden railings, possibly site of accident, in building on Kelly Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Basements--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "25315aaa-6152-4b86-9ec5-b52f362c434f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42191,
+    "MulMultiMediaRef_key": 23639,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42191/sizes/35989-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Kelly Street",
+            "short_name": "Kelly Street"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Stairs",
+        "Men",
+        "Basements"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.5053640686767576
+        },
+        {
+            "keyword": "structure",
+            "score": 0.41635691832194
+        },
+        {
+            "keyword": "Kelly Street",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basements",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31450036666666664
+        },
+        {
+            "keyword": "sky",
+            "score": 0.30489067327880864
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.3023358333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26868568
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25990453333333335
+        },
+        {
+            "keyword": "line",
+            "score": 0.22674967999999998
+        },
+        {
+            "keyword": "daylighting",
+            "score": 0.21923663333333332
+        },
+        {
+            "keyword": "angle",
+            "score": 0.20847136666666666
+        },
+        {
+            "keyword": "wood",
+            "score": 0.20166566666666666
+        }
+    ]
+}

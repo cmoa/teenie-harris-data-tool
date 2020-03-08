@@ -1,0 +1,128 @@
+{
+    "objectID": 56503,
+    "irn": 56503,
+    "ecatalogue_key": 43090,
+    "TitAccessionNo": "2001.35.43132",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing striped bow tie, light colored shirt, dark jacket with pin on left lapel, seated at desk with paper and pen, in interior with light colored walls and telephone",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "48972aa6-f7bd-428d-b4fc-ed90b320062a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64308,
+    "MulMultiMediaRef_key": 43098,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64308/sizes/56503-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interiors",
+        "Men",
+        "Interior architecture",
+        "Desks",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.43400526731119804
+        },
+        {
+            "keyword": "professional",
+            "score": 0.36990991048584004
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29835705536224366
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2953834027888997
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29386616666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2798409333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24830713333333332
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.2460038334065757
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.241053474850464
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24020046666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.219159
+        },
+        {
+            "keyword": "office",
+            "score": 0.21338223775227863
+        }
+    ]
+}

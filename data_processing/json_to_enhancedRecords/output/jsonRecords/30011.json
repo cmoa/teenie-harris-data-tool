@@ -1,0 +1,99 @@
+{
+    "objectID": 30011,
+    "irn": 30011,
+    "ecatalogue_key": 18443,
+    "TitAccessionNo": "2001.35.18473",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of men and a woman, standing on stairs of stone block church with elaborate arched doorway, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "357d498a-c2f8-4d9f-80e2-8af6b1c9ad08",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 35960,
+    "MulMultiMediaRef_key": 18451,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/35960/sizes/30011-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 44,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits, Group",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30418334333333336
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2936201666666667
+        },
+        {
+            "keyword": "brass",
+            "score": 0.28927380879720066
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27767888126241047
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2754768533333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26403544333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23455196666666667
+        },
+        {
+            "keyword": "street",
+            "score": 0.21760092655436195
+        }
+    ]
+}

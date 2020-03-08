@@ -1,0 +1,98 @@
+{
+    "objectID": 36933,
+    "irn": 36933,
+    "ecatalogue_key": 24527,
+    "TitAccessionNo": "2001.35.24559",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman standing on stage, woman wearing shiny dress, with long, dark curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5ad6fba5-4fce-4d75-b4ae-86816a74edc2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43065,
+    "MulMultiMediaRef_key": 24535,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43065/sizes/36933-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "dress",
+            "score": 0.35236666223144536
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30962676666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28428008
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27479136666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26473186666666665
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.25681136666666665
+        },
+        {
+            "keyword": "interaction",
+            "score": 0.23522945333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22947172333333332
+        },
+        {
+            "keyword": "girl",
+            "score": 0.21587653333333334
+        }
+    ]
+}

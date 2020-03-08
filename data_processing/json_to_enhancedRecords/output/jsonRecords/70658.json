@@ -1,0 +1,110 @@
+{
+    "objectID": 70658,
+    "irn": 70658,
+    "ecatalogue_key": 55950,
+    "TitAccessionNo": "2001.35.55993",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, including one on left wearing eyeglasses, seated behind table with architectural model, in interior with plans mounted to walls, and other men and women in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Architectural rendering--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d69d672f-d196-47ff-8140-955c9449fa89",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89305,
+    "MulMultiMediaRef_key": 55959,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89305/sizes/70658-1680.jpg",
+    "date_timestamp_earliest": -378691200.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Eyeglasses",
+        "Interiors",
+        "Portraits, Group",
+        "Men",
+        "Architectural rendering",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.44869008138427735
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Architectural rendering",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29986705333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2814584
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25907755
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24838553333333332
+        },
+        {
+            "keyword": "design",
+            "score": 0.23595734333333332
+        },
+        {
+            "keyword": "table",
+            "score": 0.226576111118164
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2132499
+        },
+        {
+            "keyword": "indoor games and sports",
+            "score": 0.20745880000000003
+        }
+    ]
+}

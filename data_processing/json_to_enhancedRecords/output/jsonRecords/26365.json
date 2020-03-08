@@ -1,0 +1,91 @@
+{
+    "objectID": 26365,
+    "irn": 26365,
+    "ecatalogue_key": 15868,
+    "TitAccessionNo": "2001.35.15898",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women, and two men, including minister, seated at large table with turned wood legs and vase of flowers",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "525bb0c7-b83e-4617-b201-5cb4a59eb6c5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32217,
+    "MulMultiMediaRef_key": 15876,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32217/sizes/26365-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.404355495044759
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.31294406251831064
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.3039898598449707
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2983237
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2686121866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26165889999999997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22216091666666668
+        }
+    ]
+}

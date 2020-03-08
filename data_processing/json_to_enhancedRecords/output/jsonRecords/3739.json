@@ -1,0 +1,123 @@
+{
+    "objectID": 3739,
+    "irn": 3739,
+    "ecatalogue_key": 2145,
+    "TitAccessionNo": "2001.35.2148",
+    "CreDateCreated": "1938",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1938",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of a photograph of Joe Louis in Joe Louis Bombers' uniform holding baby, another Bombers player in background, at Greenlee Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Louis, Joe, 1914-Photographs--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Greenlee Field (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "efdcf666-e5e2-47a2-956c-6e88c3965506",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 16440,
+    "MulMultiMediaRef_key": 2147,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16440/sizes/3739-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -1009843200.0,
+    "decades": [
+        "1930s"
+    ],
+    "people": [
+        "Joe Louis"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Greenlee Field",
+            "short_name": "Greenlee Field"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "",
+    "subjects": [
+        "Audiences"
+    ],
+    "keywords": [
+        {
+            "keyword": "text",
+            "score": 0.3493156973697917
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Louis, Joe, 1914-Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Joe Louis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Greenlee Field",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Joe Louis Bombers'",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bombers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Greenlee Field ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30140086666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2603011333333333
+        },
+        {
+            "keyword": "history",
+            "score": 0.2600980666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24509863333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24015073333333334
+        },
+        {
+            "keyword": "fence",
+            "score": 0.213288942972819
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20222286666666667
+        }
+    ]
+}

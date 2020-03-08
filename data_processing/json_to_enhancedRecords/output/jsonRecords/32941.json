@@ -1,0 +1,114 @@
+{
+    "objectID": 32941,
+    "irn": 32941,
+    "ecatalogue_key": 21003,
+    "TitAccessionNo": "2001.35.21034",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Priest? standing next to woman wearing light colored dress with bell sleeves, holding flowers, in church possibly on Bedford Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Churches--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5fb47dae-1ed4-4d67-83a9-9d10504d6204",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39322,
+    "MulMultiMediaRef_key": 21011,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39322/sizes/32941-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Bedford Avenue",
+            "short_name": "Bedford Avenue"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Flowers",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "Bedford Avenue",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flowers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Churches",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31105926666666667
+        },
+        {
+            "keyword": "house",
+            "score": 0.287683988108317
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28203056666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27868578666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.2571176044189453
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23009586666666668
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.21191125563354496
+        }
+    ]
+}

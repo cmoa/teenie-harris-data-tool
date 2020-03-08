@@ -1,0 +1,287 @@
+{
+  "objectID": 5018,
+  "irn": 5018,
+  "ecatalogue_key": 2967,
+  "TitAccessionNo": "2001.35.2973",
+  "CreDateCreated": "April - May 1945",
+  "CreEarliestDate": "1945-04-01",
+  "CreLatestDate": "1945-05-19",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 19, 1945, pg. 2, reads: \"Tomorrow's Housing! Post-War World to Bring New Conception of Homes and Building; Big Job Now, However, Is to Improve and Protect Present Realty Investments and Holdings Until That Time  - ...Lower right: The Golden Triangle viewed from the dirt and rubbish of Wylie Avenue and Fullerton Streets. - Harris Photos.\" A portion of accompanying article by Dorothy Anderson reads: \"The failure of the State Legislature to pass the sorely-needed House Bills 1131-1132 for relief of congested slum areas was a blow to all who have investigated the condition of the Hill District.  The housing situation in Pittsburgh and surrounding communities is decidedly not one which induces a spirit of levity in one who gives it more than a cursory examination...\"",
+  "TitMainTitle": "Wylie Avenue toward downtown, near intersection of Fullerton Street, with Wonder Bread van on right, Hill District",
+  "CatSubject_tab": "Wylie Avenue (Pittsburgh, Pa.)Automobiles--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Hill District (Pittsburgh, Pa.)Streets--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Vans--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "adebdf5b-c31c-4229-848e-95767f2ba20d",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/418/sizes/5018-1680.jpg",
+  "datetime": "1945-04-01 00:00:00",
+  "people": [
+    "Wonder Bread van",
+    "Dorothy Anderson"
+  ],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Hill District",
+      "short_name": "Hill District"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Overbrook",
+      "short_name": "Overbrook"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Wylie Avenue",
+      "short_name": "Wylie Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Fullerton Street",
+      "short_name": "Fullerton St"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Saw Mill Run Boulevard",
+      "short_name": "Saw Mill Run Blvd"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Kilbuck Township",
+      "short_name": "Kilbuck Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "PATS NEW\nAMOCO\nHONDER\nKC509\n",
+  "subjects": [
+    "Buildings",
+    "Pittsburgh courier",
+    "Vans",
+    "Streets",
+    "Automobiles"
+  ],
+  "keywords": [
+    {
+      "keyword": "vehicle",
+      "score": 0.46680642952067064
+    },
+    {
+      "keyword": "street",
+      "score": 0.46612839564209
+    },
+    {
+      "keyword": "car",
+      "score": 0.4466125311116537
+    },
+    {
+      "keyword": "road",
+      "score": 0.44608344200846367
+    },
+    {
+      "keyword": "town",
+      "score": 0.37584132234293627
+    },
+    {
+      "keyword": "transport",
+      "score": 0.360475055859375
+    },
+    {
+      "keyword": "city",
+      "score": 0.338774462117513
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Hill District",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "The Golden Triangle",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Dorothy Anderson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Automobiles",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fullerton Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hill District ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the State Legislature",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Wylie Avenue ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Houses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fullerton Street",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Wylie Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Tomorrow's Housing!",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "House",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "May 19, 1945",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Vans",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hill District",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "motor vehicle",
+      "score": 0.3206554
+    },
+    {
+      "keyword": "sky",
+      "score": 0.312495747441813
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31176354333333334
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.30556876666666666
+    },
+    {
+      "keyword": "lane",
+      "score": 0.29925879
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.29852698333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29446671333333335
+    },
+    {
+      "keyword": "mode of transport",
+      "score": 0.29174553333333336
+    },
+    {
+      "keyword": "house",
+      "score": 0.277127743785604
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "traffic",
+      "score": 0.27050978332112635
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26469455000000003
+    },
+    {
+      "keyword": "family car",
+      "score": 0.2587180333333333
+    },
+    {
+      "keyword": "streetcar",
+      "score": 0.25166498819986965
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24707363333333332
+    },
+    {
+      "keyword": "residential area",
+      "score": 0.24033834666666667
+    },
+    {
+      "keyword": "metropolis",
+      "score": 0.23541613333333333
+    },
+    {
+      "keyword": "downtown",
+      "score": 0.2222693166666667
+    },
+    {
+      "keyword": "metropolitan area",
+      "score": 0.22177436666666664
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/418/sizes/5018-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/418/sizes/5018-210.jpg",
+  "date_timestamp_earliest": -781142400.0,
+  "date_timestamp_latest": -776995200.0,
+  "decades": [
+    "1940s"
+  ]
+}

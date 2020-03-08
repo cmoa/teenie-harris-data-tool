@@ -1,0 +1,88 @@
+{
+    "objectID": 2565,
+    "irn": 2565,
+    "ecatalogue_key": 1163,
+    "TitAccessionNo": "2001.35.1165",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man with arms outstretched in an interior with two tone walls and mural",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c544e893-12df-401e-a4b1-d89335c5e3a5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14796,
+    "MulMultiMediaRef_key": 1165,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14796/sizes/2565-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "M\u300d13 YT37A2 AF DA\n",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Portraits",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30445473333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.28689953333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2747119666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2624434666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22478356666666666
+        }
+    ]
+}

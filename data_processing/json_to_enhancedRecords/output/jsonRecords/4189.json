@@ -1,0 +1,91 @@
+{
+    "objectID": 4189,
+    "irn": 4189,
+    "ecatalogue_key": 2404,
+    "TitAccessionNo": "2001.35.2408",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man seated at a desk piled with papers",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "091a19a3-83f4-4352-b65a-3a8a259e1f80",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16593,
+    "MulMultiMediaRef_key": 2406,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16593/sizes/4189-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Telephone",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.4063797939656577
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30064378333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27953923333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26333043333333334
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25131515415791833
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24439807666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23272184666666665
+        }
+    ]
+}

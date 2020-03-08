@@ -1,0 +1,93 @@
+{
+    "objectID": 33256,
+    "irn": 33256,
+    "ecatalogue_key": 21278,
+    "TitAccessionNo": "2001.35.21309",
+    "CreDateCreated": "1969",
+    "CreEarliestDate": "1969",
+    "CreLatestDate": "1969",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men, including one on right wearing eyeglasses, holding \"Health-O-Rama\" documents, in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Health care--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6dd0064c-2009-4fd5-8095-b58b907482de",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39594,
+    "MulMultiMediaRef_key": 21286,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39594/sizes/33256-1680.jpg",
+    "date_timestamp_earliest": -31536000.0,
+    "date_timestamp_latest": -31536000.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices",
+        "Medical care"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Health care",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "executive",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.30874457556477863
+        },
+        {
+            "keyword": "professional",
+            "score": 0.30811223600504567
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26858665666666665
+        },
+        {
+            "keyword": "suit",
+            "score": 0.26090406576334635
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23334028475240065
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20086791
+        }
+    ]
+}

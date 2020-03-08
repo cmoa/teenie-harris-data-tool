@@ -1,0 +1,89 @@
+{
+    "objectID": 43383,
+    "irn": 43383,
+    "ecatalogue_key": 30737,
+    "TitAccessionNo": "2001.35.30770",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men walking forward, man on left holding hat, in interior with row of file cabinets on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5798e8e0-c0d1-45bb-96f7-980e7abdd1e5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51162,
+    "MulMultiMediaRef_key": 30745,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51162/sizes/43383-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4272063978930663
+        },
+        {
+            "keyword": "male",
+            "score": 0.34676345616251636
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30411462
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2883037666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28240146666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27752519999999997
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23999246666666665
+        },
+        {
+            "keyword": "professional",
+            "score": 0.23325777327779132
+        }
+    ]
+}

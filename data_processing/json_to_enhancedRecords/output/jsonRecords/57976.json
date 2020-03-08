@@ -1,0 +1,116 @@
+{
+    "objectID": 57976,
+    "irn": 57976,
+    "ecatalogue_key": 44232,
+    "TitAccessionNo": "2001.35.44274",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of smiling man wearing tweed jacket and light colored tie with dark symbols, posed in front of light colored wall with double light switch",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8369b489-dcab-45c7-90fe-80fdbe27d514",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66048,
+    "MulMultiMediaRef_key": 44240,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66048/sizes/57976-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.41904525763468436
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.36136968663126634
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3511080276692707
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2867942666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.28163610206502265
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2808299
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2805913
+        },
+        {
+            "keyword": "human",
+            "score": 0.27862776847330734
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2689935666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24357313333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24194943333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22190098
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20293276666666668
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "objectID": 52200,
+    "irn": 52200,
+    "ecatalogue_key": 39076,
+    "TitAccessionNo": "2001.35.39117",
+    "CreDateCreated": "c. 1940-1955",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two women working in fenced yard with birdbath, two trellises, chairs, swing, and other houses in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9c235b92-8384-455d-927f-8198c2a10eef",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59500,
+    "MulMultiMediaRef_key": 39084,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59500/sizes/52200-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "tree",
+            "score": 0.381418828470866
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Yards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31341386666666665
+        },
+        {
+            "keyword": "plant",
+            "score": 0.2960848311625162
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2945908666666667
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.2884546333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2821597666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25313927666666663
+        },
+        {
+            "keyword": "road",
+            "score": 0.23262844901529936
+        },
+        {
+            "keyword": "water",
+            "score": 0.22665461817525234
+        },
+        {
+            "keyword": "street",
+            "score": 0.21302226666666668
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20575505333333333
+        }
+    ]
+}

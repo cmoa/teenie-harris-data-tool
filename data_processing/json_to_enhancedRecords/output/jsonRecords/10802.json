@@ -1,0 +1,88 @@
+{
+    "objectID": 10802,
+    "irn": 10802,
+    "ecatalogue_key": 5881,
+    "TitAccessionNo": "2001.35.5891",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing cap and overalls operating furnace",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Steel workers--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Furnaces--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b81b1dd4-6b6b-4511-89fb-23e6ad5c75f7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21586,
+    "MulMultiMediaRef_key": 5888,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21586/sizes/10802-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Hats",
+        "Furnaces",
+        "Iron and steel workers"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Steel workers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Furnaces",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31209927666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2941391466666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2756846533333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24983429999999998
+        }
+    ]
+}

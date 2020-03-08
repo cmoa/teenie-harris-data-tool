@@ -1,0 +1,108 @@
+{
+    "objectID": 4576,
+    "irn": 4576,
+    "ecatalogue_key": 2666,
+    "TitAccessionNo": "2001.35.2670",
+    "CreDateCreated": "c. 1945-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of men and women standing behind a table with packaged foods",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b1abce68-d1b7-4ee9-96ad-fb69f1405d7d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16928,
+    "MulMultiMediaRef_key": 2668,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16928/sizes/4576-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Food",
+        "Women",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4586794329833983
+        },
+        {
+            "keyword": "male",
+            "score": 0.37915696408935534
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29768411333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2812295166666667
+        },
+        {
+            "keyword": "table",
+            "score": 0.276717811907959
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26236133333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23919421333333335
+        },
+        {
+            "keyword": "event",
+            "score": 0.22109063333333334
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2124082833333333
+        }
+    ]
+}

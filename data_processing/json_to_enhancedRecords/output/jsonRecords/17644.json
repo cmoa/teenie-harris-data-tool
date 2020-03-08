@@ -1,0 +1,78 @@
+{
+    "objectID": 17644,
+    "irn": 17644,
+    "ecatalogue_key": 9291,
+    "TitAccessionNo": "2001.35.9317",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women gathered in an area with chain link fence, barrel, and wooden folding chairs, possibly outdoors, two of the women in the background wear matching cocktail dresses",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b3adf693-6e63-4c1e-be42-6f5ba50edafc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25224,
+    "MulMultiMediaRef_key": 9299,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25224/sizes/17644-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 35,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.29729181666666665
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2757312256459553
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2693620133333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.260872855968221
+        },
+        {
+            "keyword": "audience",
+            "score": 0.23023565666666668
+        }
+    ]
+}

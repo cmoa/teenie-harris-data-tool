@@ -1,0 +1,148 @@
+{
+  "objectID": 58311,
+  "irn": 58311,
+  "ecatalogue_key": 44391,
+  "TitAccessionNo": "2001.35.44433",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of women and men, including man on right wearing uniform, possibly bus driver, posed in front of Greyhound bus, seen from hillside, Centre Avenue, Hill District",
+  "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buses--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "76400872-4e77-4c7f-a794-cc1060f1f481",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66163/sizes/58311-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Hill District",
+      "short_name": "Hill District"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Centre Avenue",
+      "short_name": "Centre Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 19,
+  "google_text_in_image": "",
+  "subjects": [
+    "Streets",
+    "Uniforms",
+    "Men",
+    "Trees",
+    "Women",
+    "Portraits, Group",
+    "Buses"
+  ],
+  "keywords": [
+    {
+      "keyword": "vehicle",
+      "score": 0.4496529809407554
+    },
+    {
+      "keyword": "transport",
+      "score": 0.36589866276245137
+    },
+    {
+      "keyword": "Centre Avenue",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Greyhound",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Streets",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Uniforms",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hill District",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Trees",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Buses",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "train",
+      "score": 0.3099995853597007
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30116188666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2637308666666667
+    },
+    {
+      "keyword": "rolling stock",
+      "score": 0.2547721
+    },
+    {
+      "keyword": "railroad car",
+      "score": 0.2312043
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22169008
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66163/sizes/58311-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66163/sizes/58311-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

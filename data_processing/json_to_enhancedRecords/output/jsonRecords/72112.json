@@ -1,0 +1,107 @@
+{
+    "objectID": 72112,
+    "irn": 72112,
+    "ecatalogue_key": 56798,
+    "TitAccessionNo": "2001.35.56841",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing striped necktie holding cigarette, standing in front of stone block wall and carved ornamentation",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Cigarettes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3af872b5-21ab-4f45-b770-33b0c510e661",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90481,
+    "MulMultiMediaRef_key": 56807,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90481/sizes/72112-1680.jpg",
+    "date_timestamp_earliest": -378691200.0,
+    "date_timestamp_latest": -189388800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Clothing and dress",
+        "Cigarettes"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.5760210798046873
+        },
+        {
+            "keyword": "man",
+            "score": 0.46943059189453135
+        },
+        {
+            "keyword": "male",
+            "score": 0.4020724990681967
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3892023387263997
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cigarettes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3139484144470213
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3033513666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28749683333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2840614533333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27337624666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23713603333333333
+        }
+    ]
+}

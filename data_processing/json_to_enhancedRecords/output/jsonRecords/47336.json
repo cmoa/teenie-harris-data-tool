@@ -1,0 +1,100 @@
+{
+    "objectID": 47336,
+    "irn": 47336,
+    "ecatalogue_key": 34319,
+    "TitAccessionNo": "2001.35.34354",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of girl standing on stage with American flag and plants in background, wearing light colored, belted dress with two ruffles and sheer area around collar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Flags--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "3d35858d-ea89-409d-806f-8c781d23682b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53858,
+    "MulMultiMediaRef_key": 34327,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53858/sizes/47336-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "KODAKSAFE\n",
+    "subjects": [
+        "Portraits",
+        "Flags",
+        "Girls",
+        "American"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flags",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "American",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30900174333333336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3075606154205322
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28841118
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28200353333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2793214133758543
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.24784906666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23409536666666667
+        }
+    ]
+}

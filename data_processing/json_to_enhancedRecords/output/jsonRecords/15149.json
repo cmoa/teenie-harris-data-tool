@@ -1,0 +1,122 @@
+{
+    "objectID": 15149,
+    "irn": 15149,
+    "ecatalogue_key": 8064,
+    "TitAccessionNo": "2001.35.8081",
+    "CreDateCreated": "c. 1950-1957",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men wearing eyeglasses and a woman, seated around table covered with portrait photographs, with two WILY microphones",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2e0a7d01-7556-4e32-b172-b4376cc37830",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24201,
+    "MulMultiMediaRef_key": 8072,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24201/sizes/15149-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "WIL\nWILY\n",
+    "subjects": [
+        "Men",
+        "Microphone",
+        "Women",
+        "Tables"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Microphone",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.303564166068522
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3009990866666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29975070411499033
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.28067327026062
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27685078
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2698047666666667
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.26684351666666667
+        },
+        {
+            "keyword": "eyewear",
+            "score": 0.26659903333333335
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.26460621666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25945809999999997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24306156666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.2297427
+        },
+        {
+            "keyword": "office",
+            "score": 0.20356906890869134
+        }
+    ]
+}

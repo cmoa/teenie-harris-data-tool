@@ -1,0 +1,89 @@
+{
+    "objectID": 4492,
+    "irn": 4492,
+    "ecatalogue_key": 2582,
+    "TitAccessionNo": "2001.35.2586",
+    "CreDateCreated": "c. 1940-1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young man working on science project",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b6c1b27a-4fd4-4e43-b154-691583eddbed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17265,
+    "MulMultiMediaRef_key": 2584,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17265/sizes/4492-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Furniture",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31192723333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29551373333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2836525833333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.2772312906095377
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2493694333333333
+        }
+    ]
+}

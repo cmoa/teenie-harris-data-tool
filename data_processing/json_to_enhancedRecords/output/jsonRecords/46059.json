@@ -1,0 +1,110 @@
+{
+    "objectID": 46059,
+    "irn": 46059,
+    "ecatalogue_key": 33220,
+    "TitAccessionNo": "2001.35.33255",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark faintly striped, double breasted suit and striped shirt, standing with hand in pocket, in interior with calendar on wall and snake plant potted on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9bf08dd5-29a4-4f8c-a86c-0128e6a5a7c7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 52693,
+    "MulMultiMediaRef_key": 33228,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52693/sizes/46059-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "22 4 24 25 26 27 2\n28 30 31\n",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6163582
+        },
+        {
+            "keyword": "man",
+            "score": 0.48459079058512367
+        },
+        {
+            "keyword": "person",
+            "score": 0.43872303231119797
+        },
+        {
+            "keyword": "standing",
+            "score": 0.341754182425944
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3038130558398437
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28943641999999997
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.284085
+        },
+        {
+            "keyword": "garment",
+            "score": 0.2745396931966147
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27351008
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2533373666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20825904666666664
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.20698476155598966
+        }
+    ]
+}

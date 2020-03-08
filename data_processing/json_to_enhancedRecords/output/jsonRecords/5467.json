@@ -1,0 +1,145 @@
+{
+    "objectID": 5467,
+    "irn": 5467,
+    "ecatalogue_key": 3373,
+    "TitAccessionNo": "2001.35.3380",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Block street in residential area with cars, and people on sidewalk, probably Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Streets--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "de65c907-afab-4723-84dc-24f9e80f7eca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17710,
+    "MulMultiMediaRef_key": 3375,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17710/sizes/5467-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Hill District",
+            "short_name": "Hill District"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Streets",
+        "Automobiles",
+        "Sidewalks"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.45426616194580066
+        },
+        {
+            "keyword": "sky",
+            "score": 0.37350127734578464
+        },
+        {
+            "keyword": "town",
+            "score": 0.34386516782206233
+        },
+        {
+            "keyword": "Hill District",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31007983333333333
+        },
+        {
+            "keyword": "reflection",
+            "score": 0.306821389038493
+        },
+        {
+            "keyword": "waterway",
+            "score": 0.30532814999999996
+        },
+        {
+            "keyword": "road",
+            "score": 0.3026893533333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.2917759233333333
+        },
+        {
+            "keyword": "city",
+            "score": 0.28961340415608733
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28867166666666666
+        },
+        {
+            "keyword": "tree",
+            "score": 0.2879416594024657
+        },
+        {
+            "keyword": "river",
+            "score": 0.27576048493815103
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27038466666666666
+        },
+        {
+            "keyword": "lane",
+            "score": 0.2661199766666667
+        },
+        {
+            "keyword": "car",
+            "score": 0.25027771666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24466385333333332
+        },
+        {
+            "keyword": "road surface",
+            "score": 0.21230786666666668
+        },
+        {
+            "keyword": "rain",
+            "score": 0.21197211666666668
+        }
+    ]
+}

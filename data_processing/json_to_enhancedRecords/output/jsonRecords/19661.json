@@ -1,0 +1,91 @@
+{
+    "objectID": 19661,
+    "irn": 19661,
+    "ecatalogue_key": 10603,
+    "TitAccessionNo": "2001.35.10629",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding box of Garden Gate peas in front of upright freezer in basement",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Domestic life--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c9c68802-2166-4d86-9b7b-c7ca769daff2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26683,
+    "MulMultiMediaRef_key": 10611,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26683/sizes/19661-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Garden Gate",
+            "short_name": "Garden Gate"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "sVld\nPEAS\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Domestic life",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Garden Gate",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3101865
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28652495
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27019203333333336
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24660376666666664
+        },
+        {
+            "keyword": "window",
+            "score": 0.241015321036784
+        }
+    ]
+}

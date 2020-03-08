@@ -1,0 +1,105 @@
+{
+    "objectID": 20620,
+    "irn": 20620,
+    "ecatalogue_key": 12110,
+    "TitAccessionNo": "2001.35.12140",
+    "CreDateCreated": "c. 1945-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of children and adults posed in front of tent on small field with Morton Salt billboard in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ed113ac-47da-412d-86e0-1f256199f938",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27898,
+    "MulMultiMediaRef_key": 12118,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27898/sizes/20620-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Morton Salt"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Children",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Morton Salt",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3131749
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2995671833333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.28914348333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2749094
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.27203673400878897
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25985195333333333
+        },
+        {
+            "keyword": "tree",
+            "score": 0.24893338064453133
+        },
+        {
+            "keyword": "history",
+            "score": 0.23451014333333334
+        },
+        {
+            "keyword": "sky",
+            "score": 0.23345340181844065
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "objectID": 46891,
+    "irn": 46891,
+    "ecatalogue_key": 33981,
+    "TitAccessionNo": "2001.35.34016",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two men standing in empty lot beside brick building, man on right holding leg on wooden stump, wearing two toned shoes, fedora, and holding cigar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Cigars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e333067c-dbc2-4877-87a9-266921fb94bf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53371,
+    "MulMultiMediaRef_key": 33989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53371/sizes/46891-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Cigars",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.38729129635538734
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Cigars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.3319390444024657
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30822358666666666
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3048883866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27849193333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2753544
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.24886876666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24741653333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.2377576233333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.22609594508789066
+        }
+    ]
+}

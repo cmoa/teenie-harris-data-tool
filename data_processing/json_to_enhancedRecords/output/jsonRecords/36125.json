@@ -1,0 +1,128 @@
+{
+    "objectID": 36125,
+    "irn": 36125,
+    "ecatalogue_key": 23761,
+    "TitAccessionNo": "2001.35.23792",
+    "CreDateCreated": "c. 1947-1950",
+    "CreEarliestDate": "1947",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Twelve girls wearing bathing suits, standing on side of swimming pool, holding arms out, with two men on left, including Pomeroyal Fountain on left end, possibly in Soho bath house",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Swimmers--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Bath houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f7777124-2feb-48ae-bbd2-bac24e8c9aba",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42323,
+    "MulMultiMediaRef_key": 23769,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42323/sizes/36125-1680.jpg",
+    "date_timestamp_earliest": -725846400.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Soho",
+            "short_name": "Soho"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 16,
+    "google_text_in_image": "",
+    "subjects": [
+        "Swimmers",
+        "Men",
+        "Swimming pools",
+        "Bathhouses",
+        "Bathing suits",
+        "Girls"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.354864287742106
+        },
+        {
+            "keyword": "Swimmers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pomeroyal Fountain",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soho",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bathing suits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bath houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31369594666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29508765666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27781242
+        },
+        {
+            "keyword": "graffito",
+            "score": 0.27728818257649734
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.2582593005701701
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2546865
+        },
+        {
+            "keyword": "reflection",
+            "score": 0.24169214792582194
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "objectID": 10261,
+    "irn": 10261,
+    "ecatalogue_key": 5798,
+    "TitAccessionNo": "2001.35.5808",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing eyeglasses standing behind a mailbox with two children",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Mailboxes--Pennsylvania--Pittsburgh.Mail--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ed0bad53-b021-409b-ab4d-9f3598d0be58",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21044,
+    "MulMultiMediaRef_key": 5805,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21044/sizes/10261-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men",
+        "Mailboxes",
+        "Children",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.3644870768927004
+        },
+        {
+            "keyword": "man",
+            "score": 0.360435050535075
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mailboxes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.318575126214803
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30580081666666664
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28816052333333336
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2823497333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2798173
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.27795605
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24249030000000002
+        },
+        {
+            "keyword": "human",
+            "score": 0.23678153333333332
+        }
+    ]
+}

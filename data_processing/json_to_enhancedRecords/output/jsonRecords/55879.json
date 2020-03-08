@@ -1,0 +1,123 @@
+{
+    "objectID": 55879,
+    "irn": 55879,
+    "ecatalogue_key": 42561,
+    "TitAccessionNo": "2001.35.42603",
+    "CreDateCreated": "c. 1954",
+    "CreEarliestDate": "1951",
+    "CreLatestDate": "1957",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of six men, including man, seated in center, wearing light colored shirt, necktie with desert scene including cactus, and dark jacket, at desk, holding photographs, or paper, in office interior, with light colored walls with world map, and window on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Maps--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8ebaaaed-3ea1-47ea-b580-85cded0edf0e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 11536,
+    "MulMultiMediaRef_key": 42569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/11536/sizes/55879-1680.jpg",
+    "date_timestamp_earliest": -599616000.0,
+    "date_timestamp_latest": -410227200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Photographs",
+        "Offices",
+        "Interiors",
+        "Portraits, Group",
+        "Men",
+        "Windows",
+        "Interior architecture",
+        "Maps",
+        "Desks"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.45881133745930996
+        },
+        {
+            "keyword": "Photographs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.27647679073893233
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27417983333333334
+        },
+        {
+            "keyword": "professional",
+            "score": 0.260761053902181
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2433463761464437
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2379528333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2130596366739909
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21000110000000002
+        }
+    ]
+}

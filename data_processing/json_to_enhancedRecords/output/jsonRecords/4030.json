@@ -1,0 +1,99 @@
+{
+    "objectID": 4030,
+    "irn": 4030,
+    "ecatalogue_key": 2287,
+    "TitAccessionNo": "2001.35.2290",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing cardigan bowling duck pins in bowling alley",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bowling alleys--Pennsylvania--Pittsburgh.Bowling balls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cf2a62b0-413b-4e45-8adf-d4b2b1a24195",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17087,
+    "MulMultiMediaRef_key": 2289,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17087/sizes/4030-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Bowling alleys",
+        "Bowling balls"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.382992565476481
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling balls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30595078000000003
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2967960333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28459816666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2775975
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2733834171447754
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24166246666666666
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.20819713333333334
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 21886,
+    "irn": 21886,
+    "ecatalogue_key": 12541,
+    "TitAccessionNo": "2001.35.12571",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women seated at desk writing on paper, with man seated across from her, in office with wooden paneling",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f2b1cc70-a046-493c-a394-434b4b59be55",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28547,
+    "MulMultiMediaRef_key": 12549,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28547/sizes/21886-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "KODAK SAFETYFILM\n6\n",
+    "subjects": [
+        "Men",
+        "Women",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.402107131184896
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30532971999999997
+        },
+        {
+            "keyword": "table",
+            "score": 0.3009794734110513
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2832664
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27681073333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2725957
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.2670441
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.2638712234486898
+        },
+        {
+            "keyword": "communication",
+            "score": 0.25808261082153333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23644987666666664
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.2045289
+        }
+    ]
+}

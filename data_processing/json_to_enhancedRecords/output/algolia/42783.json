@@ -1,0 +1,87 @@
+{
+  "objectID": 42783,
+  "irn": 42783,
+  "ecatalogue_key": 30079,
+  "TitAccessionNo": "2001.35.30112",
+  "CreDateCreated": "c. 1948",
+  "CreEarliestDate": "1943",
+  "CreLatestDate": "1953",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of five men, and woman wearing short sleeved dress with gathered waist and corsage, standing behind table with gifts, in interior with horizontally striped curtains and painting of elk",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Gifts--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "2c09bfe4-1556-499f-b1f3-3dbe2f92d815",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49147/sizes/42783-1680.jpg",
+  "datetime": "1943-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits, Group",
+    "Women",
+    "Gifts",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Gifts",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Paintings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2971949308787027
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.26245488666666666
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49147/sizes/42783-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49147/sizes/42783-210.jpg",
+  "date_timestamp_earliest": -852076800.0,
+  "date_timestamp_latest": -536457600.0,
+  "decades": []
+}

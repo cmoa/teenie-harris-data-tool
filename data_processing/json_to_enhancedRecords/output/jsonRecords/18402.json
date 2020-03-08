@@ -1,0 +1,99 @@
+{
+    "objectID": 18402,
+    "irn": 18402,
+    "ecatalogue_key": 9824,
+    "TitAccessionNo": "2001.35.9850",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding bundle of clothing standing next to Milnor commercial washing or dry cleaning machine",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dry cleaning--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Laundry--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d55fe02e-1555-4fe9-9258-62fa81180152",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25654,
+    "MulMultiMediaRef_key": 9832,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25654/sizes/18402-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "Nilnor\n",
+    "subjects": [
+        "Dry cleaning",
+        "Laundry",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Dry cleaning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Laundry",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "factory",
+            "score": 0.322607267578532
+        },
+        {
+            "keyword": "machine",
+            "score": 0.3113250954500327
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30494165333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26910059999999997
+        },
+        {
+            "keyword": "boiler",
+            "score": 0.25792109171549465
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24036106666666668
+        },
+        {
+            "keyword": "engineering",
+            "score": 0.23427149450887033
+        },
+        {
+            "keyword": "engine",
+            "score": 0.21159106528015134
+        },
+        {
+            "keyword": "vessel",
+            "score": 0.20920819600423168
+        }
+    ]
+}

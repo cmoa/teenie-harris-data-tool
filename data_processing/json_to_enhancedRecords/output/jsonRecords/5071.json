@@ -1,0 +1,125 @@
+{
+    "objectID": 5071,
+    "irn": 5071,
+    "ecatalogue_key": 3017,
+    "TitAccessionNo": "2001.35.3024",
+    "CreDateCreated": "c. 1937",
+    "CreEarliestDate": "1932",
+    "CreLatestDate": "1942",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man posed with car, with University of Pittsburgh's Cathedral of Learning in background, Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Suits (Clothing)--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.University of Pittsburgh.Cathedral of Learning.",
+    "AdmGUIDValue_tab": "92f15dfa-18ec-4fe5-94a6-29bdc0577cfd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17894,
+    "MulMultiMediaRef_key": 3019,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17894/sizes/5071-1680.jpg",
+    "date_timestamp_earliest": -1199232000.0,
+    "date_timestamp_latest": -883612800.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Oakland",
+            "short_name": "Oakland"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Suits (Clothing)",
+        "Automobiles"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.6621861
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.5033843331632487
+        },
+        {
+            "keyword": "Cathedral of Learning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "University of Pittsburgh's",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "University of Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Suits (Clothing)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.3266307666666667
+        },
+        {
+            "keyword": "classic",
+            "score": 0.32273678505859366
+        },
+        {
+            "keyword": "antique car",
+            "score": 0.3072506333333333
+        },
+        {
+            "keyword": "vintage car",
+            "score": 0.3051625
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2997935333333333
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.2898446333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2527759
+        },
+        {
+            "keyword": "classic car",
+            "score": 0.23533735666666666
+        },
+        {
+            "keyword": "automotive exterior",
+            "score": 0.20001956666666665
+        }
+    ]
+}

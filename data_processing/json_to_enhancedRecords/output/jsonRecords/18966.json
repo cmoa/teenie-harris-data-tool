@@ -1,0 +1,89 @@
+{
+    "objectID": 18966,
+    "irn": 18966,
+    "ecatalogue_key": 10066,
+    "TitAccessionNo": "2001.35.10092",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man playing piano, with man wearing eyeglasses singing or talking in microphone at Flamingo Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Singers--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0d8a5cd7-8340-477b-8e54-47538949a1e1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25972,
+    "MulMultiMediaRef_key": 10074,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25972/sizes/18966-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Singers"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4436723756803387
+        },
+        {
+            "keyword": "Singers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Flamingo Club",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3037895566666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28035821666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2704891
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25064468333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2321444
+        }
+    ]
+}

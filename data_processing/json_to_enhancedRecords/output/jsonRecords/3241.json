@@ -1,0 +1,121 @@
+{
+    "objectID": 3241,
+    "irn": 3241,
+    "ecatalogue_key": 1800,
+    "TitAccessionNo": "2001.35.1802",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of four musicians with instruments, saxophone, drums, guitar, and Robert Head on piano",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Saxophones--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.Guitars--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7bb17fec-14e2-4f55-acb5-0cc3cb63765f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16041,
+    "MulMultiMediaRef_key": 1802,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16041/sizes/3241-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Robert Head"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Musicians",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "music",
+            "score": 0.41518334641316734
+        },
+        {
+            "keyword": "musician",
+            "score": 0.36206034304606133
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Guitars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Drums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Saxophones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Robert Head",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.2686014
+        },
+        {
+            "keyword": "session musician",
+            "score": 0.25491925
+        },
+        {
+            "keyword": "percussion",
+            "score": 0.25325475000000003
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.24983836666666667
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2433504466666667
+        },
+        {
+            "keyword": "drum",
+            "score": 0.23116894666666665
+        },
+        {
+            "keyword": "sax",
+            "score": 0.22900998433431
+        },
+        {
+            "keyword": "string instrument",
+            "score": 0.2110984
+        }
+    ]
+}

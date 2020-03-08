@@ -1,0 +1,104 @@
+{
+    "objectID": 24603,
+    "irn": 24603,
+    "ecatalogue_key": 14634,
+    "TitAccessionNo": "2001.35.14664",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, women and children seated at banquet tables in auditorium, with stage in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Auditoriums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7d51023d-eb04-4347-92ff-0b21795b1ccf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30980,
+    "MulMultiMediaRef_key": 14642,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30980/sizes/24603-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 38,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Auditoriums",
+        "Women",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "audience",
+            "score": 0.3134629908315023
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.29837755367797864
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.29197101709391265
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2606425666666667
+        },
+        {
+            "keyword": "auditorium",
+            "score": 0.25748501333333335
+        },
+        {
+            "keyword": "institution",
+            "score": 0.23607031666666667
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.23177886666666667
+        },
+        {
+            "keyword": "convention",
+            "score": 0.23005102
+        },
+        {
+            "keyword": "seminar",
+            "score": 0.20941595333333332
+        }
+    ]
+}

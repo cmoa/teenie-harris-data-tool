@@ -1,0 +1,114 @@
+{
+    "objectID": 21360,
+    "irn": 21360,
+    "ecatalogue_key": 12082,
+    "TitAccessionNo": "2001.35.12112",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman wearing gingham dress with rick rack trim, seated in overstuffed chair, holding bouquet",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "af6b7140-6d51-401d-a8ea-bc73c3ed9d26",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27720,
+    "MulMultiMediaRef_key": 12090,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27720/sizes/21360-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.34238070105794266
+        },
+        {
+            "keyword": "lady",
+            "score": 0.333580975587972
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "television",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30360756666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.28636683331807467
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28113703333333334
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2808782
+        },
+        {
+            "keyword": "human",
+            "score": 0.27897397116495765
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27774028
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2663949133333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25025202758382165
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22513828666666666
+        },
+        {
+            "keyword": "organ",
+            "score": 0.22085283333333336
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 32179,
+    "irn": 32179,
+    "ecatalogue_key": 20333,
+    "TitAccessionNo": "2001.35.20364",
+    "CreDateCreated": "1965",
+    "CreEarliestDate": "1965",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated around four rectangular banquet tables in \"Y\" formation, including man wearing light colored jacket, walking towards kitchen window, in interior with two toned walls and landscape painting on back wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39e5c939-e308-4542-9704-9f2a7ce0cb72",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39442,
+    "MulMultiMediaRef_key": 20341,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39442/sizes/32179-1680.jpg",
+    "date_timestamp_earliest": -157766400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "room",
+            "score": 0.5930392861653647
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.4926849289794923
+        },
+        {
+            "keyword": "table",
+            "score": 0.340329853942871
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Paintings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3028250333333333
+        },
+        {
+            "keyword": "design",
+            "score": 0.289615014255778
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2704122466666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26911593333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23851343333333333
+        }
+    ]
+}

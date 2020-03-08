@@ -1,0 +1,108 @@
+{
+    "objectID": 15994,
+    "irn": 15994,
+    "ecatalogue_key": 8194,
+    "TitAccessionNo": "2001.35.8211",
+    "CreDateCreated": "c. 1926",
+    "CreEarliestDate": "1921",
+    "CreLatestDate": "1931",
+    "PhyMediumComments": "black-and-white: nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two children, one holding flag, and Betty Harris holding up puppy or small dog, on sidewalk",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Dogs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ba966032-6198-45c9-bcc1-276a34ceb8fc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14476,
+    "MulMultiMediaRef_key": 8202,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14476/sizes/15994-1680.jpg",
+    "date_timestamp_earliest": -1546300800.0,
+    "date_timestamp_latest": -1230768000.0,
+    "decades": [],
+    "people": [
+        "Betty Harris"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Children",
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Betty Harris",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31359301
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.30846263333333335
+        },
+        {
+            "keyword": "vertebrate",
+            "score": 0.3012345433333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2923078
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29069453333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26932086666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.24893045333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24854793333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23352256666666668
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.21716712000000002
+        }
+    ]
+}

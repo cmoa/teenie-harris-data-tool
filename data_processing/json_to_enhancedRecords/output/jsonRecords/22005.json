@@ -1,0 +1,91 @@
+{
+    "objectID": 22005,
+    "irn": 22005,
+    "ecatalogue_key": 12662,
+    "TitAccessionNo": "2001.35.12692",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of girls and women gathered on stage, with curtains overhead and in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "4809488a-6ab1-4acf-bd9f-f5a1868e9b4c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28608,
+    "MulMultiMediaRef_key": 12670,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28608/sizes/22005-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 25,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Girls",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Girls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2957864666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2688637333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24750616666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2248109
+        },
+        {
+            "keyword": "night",
+            "score": 0.22229178666666669
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2078460666666667
+        }
+    ]
+}

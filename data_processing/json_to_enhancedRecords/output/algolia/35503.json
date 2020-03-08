@@ -1,0 +1,120 @@
+{
+  "objectID": 35503,
+  "irn": 35503,
+  "ecatalogue_key": 23157,
+  "TitAccessionNo": "2001.35.23188",
+  "CreDateCreated": "c. 1940-1960",
+  "CreEarliestDate": "1940",
+  "CreLatestDate": "1960",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Portrait of man, possibly Roosevelt Richardson, wearing suit and abstract tie with \"X\" pattern, seated next to telephone",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "5eac7725-577c-4cfe-940f-d0d802bb3c8f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41657/sizes/35503-1680.jpg",
+  "datetime": "1940-01-01 00:00:00",
+  "people": [
+    "Roosevelt Richardson"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 1,
+  "google_text_in_image": "",
+  "subjects": [
+    "Telephone",
+    "Portraits",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "person",
+      "score": 0.43176031335042336
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.34058801354980467
+    },
+    {
+      "keyword": "Telephones",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Roosevelt Richardson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "portrait",
+      "score": 0.32397406815389
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30072828
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2862967351184082
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2820377
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.27071142333333337
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.2689900333333333
+    },
+    {
+      "keyword": "smile",
+      "score": 0.23721716358011868
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23087813333333332
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41657/sizes/35503-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41657/sizes/35503-210.jpg",
+  "date_timestamp_earliest": -946771200.0,
+  "date_timestamp_latest": -315619200.0,
+  "decades": []
+}

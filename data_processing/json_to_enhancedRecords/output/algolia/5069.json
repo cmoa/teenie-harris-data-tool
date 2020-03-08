@@ -1,0 +1,103 @@
+{
+  "objectID": 5069,
+  "irn": 5069,
+  "ecatalogue_key": 3015,
+  "TitAccessionNo": "2001.35.3022",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "School boys doing headstands on mats in school yard",
+  "CatSubject_tab": "School buildings--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Schoolchildren--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "e99ce05b-458b-4666-8429-8aacbca59309",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17461/sizes/5069-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 25,
+  "google_text_in_image": "",
+  "subjects": [
+    "School buildings",
+    "School children"
+  ],
+  "keywords": [
+    {
+      "keyword": "Schoolchildren",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "School buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Yards",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "private",
+      "score": 0.31172500610351567
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31005143333333335
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2862206333333333
+    },
+    {
+      "keyword": "infrastructure",
+      "score": 0.28562841666666666
+    },
+    {
+      "keyword": "street",
+      "score": 0.27662845203043634
+    },
+    {
+      "keyword": "photography",
+      "score": 0.26795953333333333
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.2515831333333333
+    },
+    {
+      "keyword": "crowd",
+      "score": 0.24925345333333335
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17461/sizes/5069-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17461/sizes/5069-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

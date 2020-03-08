@@ -1,0 +1,128 @@
+{
+    "objectID": 4543,
+    "irn": 4543,
+    "ecatalogue_key": 2633,
+    "TitAccessionNo": "2001.35.2637",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man holding saxophone in an interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Saxophones--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "da83e740-f8d3-4212-99df-bec4c7a5664c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16964,
+    "MulMultiMediaRef_key": 2635,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16964/sizes/4543-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Men",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "music",
+            "score": 0.42918245588378906
+        },
+        {
+            "keyword": "musician",
+            "score": 0.3876218380981447
+        },
+        {
+            "keyword": "saxophone",
+            "score": 0.34385995215861004
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Saxophones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sax",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.3055315333333333
+        },
+        {
+            "keyword": "saxophonist",
+            "score": 0.30236843333333335
+        },
+        {
+            "keyword": "woodwind instrument",
+            "score": 0.2809826
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26034118666666667
+        },
+        {
+            "keyword": "wind instrument",
+            "score": 0.2538099
+        },
+        {
+            "keyword": "cor anglais",
+            "score": 0.24767073333333334
+        },
+        {
+            "keyword": "guitarist",
+            "score": 0.231644475954183
+        },
+        {
+            "keyword": "jazz",
+            "score": 0.22675055528788235
+        },
+        {
+            "keyword": "oboe",
+            "score": 0.2200250739956665
+        },
+        {
+            "keyword": "clarinetist",
+            "score": 0.21150034666666664
+        },
+        {
+            "keyword": "reed instrument",
+            "score": 0.20927037666666667
+        }
+    ]
+}

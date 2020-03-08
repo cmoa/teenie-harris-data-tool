@@ -1,0 +1,68 @@
+{
+    "objectID": 7464,
+    "irn": 7464,
+    "ecatalogue_key": 4566,
+    "TitAccessionNo": "2001.35.4575",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa nitrate film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Young woman in dress with lace insert in sleeve, seen from above, modeling hairstyle",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Hairstyles--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ace84f98-883d-41af-bb36-10cec6626ac7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 13799,
+    "MulMultiMediaRef_key": 4569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/13799/sizes/7464-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Hairstyles",
+        "Dresses",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Hairstyles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dresses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        }
+    ]
+}

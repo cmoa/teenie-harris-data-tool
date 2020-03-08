@@ -1,0 +1,115 @@
+{
+    "objectID": 2700,
+    "irn": 2700,
+    "ecatalogue_key": 1301,
+    "TitAccessionNo": "2001.35.1303",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Woman, possibly Ann Pilot, playing harp in interior with potted plant",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Pilot, Ann.",
+    "AdmGUIDValue_tab": "9c8e7bb1-bf11-4d1a-981d-53a40b699e46",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15595,
+    "MulMultiMediaRef_key": 1303,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15595/sizes/2700-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Ann Pilot"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "DAK SAFETY FILM\n9\n",
+    "subjects": [
+        "Interior architecture",
+        "Interiors",
+        "Musicians",
+        "Portraits",
+        "Plants"
+    ],
+    "keywords": [
+        {
+            "keyword": "dress",
+            "score": 0.35868599411092134
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musicians",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pilot, Ann",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ann Pilot",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31152050000000003
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28141673333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27851714666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.26943971666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.23858046666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22790116666666668
+        },
+        {
+            "keyword": "art",
+            "score": 0.22015227881368002
+        }
+    ]
+}

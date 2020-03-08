@@ -1,0 +1,101 @@
+{
+    "objectID": 18046,
+    "irn": 18046,
+    "ecatalogue_key": 9615,
+    "TitAccessionNo": "2001.35.9641",
+    "CreDateCreated": "c. 1940-1946",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Parade of soldiers carrying rifles, marching down street in front of brick building with arched windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5da8b112-77ab-47ca-95e8-c6f586411783",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25475,
+    "MulMultiMediaRef_key": 9623,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25475/sizes/18046-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -757382400.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 31,
+    "google_text_in_image": "",
+    "subjects": [
+        "Parades",
+        "Soldiers",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "Parades",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Soldiers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "people",
+            "score": 0.3212254433333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.31376131333333335
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30716715333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27253592
+        },
+        {
+            "keyword": "tree",
+            "score": 0.25811661618469234
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25185263333333335
+        },
+        {
+            "keyword": "troop",
+            "score": 0.25032726666666666
+        },
+        {
+            "keyword": "history",
+            "score": 0.23130672206115724
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.207956
+        }
+    ]
+}

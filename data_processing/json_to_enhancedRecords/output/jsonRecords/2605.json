@@ -1,0 +1,112 @@
+{
+    "objectID": 2605,
+    "irn": 2605,
+    "ecatalogue_key": 1203,
+    "TitAccessionNo": "2001.35.1205",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man and woman looking at student art exhibition mounted on pegboard",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Children's art--Pennsylvania--Pittsburgh.Corridors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bc52ce33-95cb-4dfe-a84e-1b24ed89b873",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17547,
+    "MulMultiMediaRef_key": 1205,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17547/sizes/2605-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Corridors",
+        "Children's art",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Corridors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children's art",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "locker",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3043190433333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27556685666666664
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2742303
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fastener",
+            "score": 0.264507090250651
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2562908333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23156236666666666
+        },
+        {
+            "keyword": "suit",
+            "score": 0.22165914333333334
+        },
+        {
+            "keyword": "house",
+            "score": 0.21408783540568033
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.20994476666666664
+        }
+    ]
+}

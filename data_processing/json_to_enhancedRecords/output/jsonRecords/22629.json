@@ -1,0 +1,82 @@
+{
+    "objectID": 22629,
+    "irn": 22629,
+    "ecatalogue_key": 13231,
+    "TitAccessionNo": "2001.35.13261",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of six men holding trophies, two men wearing suit jackets with patches embroidered \"Dandy Duffers Golf Club Pgh Inc.\" and the word \"Ballroom\" in raised letters on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c20a201b-e1a2-4e4b-876d-6b5c3f2b0190",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29432,
+    "MulMultiMediaRef_key": 13239,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29432/sizes/22629-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "BALLROOM\n",
+    "subjects": [
+        "Trophies",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Trophies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dandy Duffers Golf Club Pgh Inc.",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27210911
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2679375666666667
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2591934409261067
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21684851333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20428096666666665
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+  "objectID": 42925,
+  "irn": 42925,
+  "ecatalogue_key": 30265,
+  "TitAccessionNo": "2001.35.30298",
+  "CreDateCreated": "c. 1948",
+  "CreEarliestDate": "1943",
+  "CreLatestDate": "1953",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group portrait of women standing in two rows in front of other seated women, including woman wearing contrasting plaid dress, in interior with cross on wall and \"March\" clover in window",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "56695e62-bf6b-46e5-aca6-d43ff5a4ebf4",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49610/sizes/42925-1680.jpg",
+  "datetime": "1943-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 19,
+  "google_text_in_image": "MARCH\n",
+  "subjects": [
+    "Women",
+    "Portraits, Group"
+  ],
+  "keywords": [
+    {
+      "keyword": "March",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "social group",
+      "score": 0.31979050000000003
+    },
+    {
+      "keyword": "fun",
+      "score": 0.2733211689900717
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.27215135
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27123377666666665
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49610/sizes/42925-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49610/sizes/42925-210.jpg",
+  "date_timestamp_earliest": -852076800.0,
+  "date_timestamp_latest": -536457600.0,
+  "decades": []
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 25132,
+    "irn": 25132,
+    "ecatalogue_key": 14959,
+    "TitAccessionNo": "2001.35.14989",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women wearing formal attire seated around table with cake, ice buckets, liquor bottles and glasses, with Valentine's Day decorations on table and walls in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0a668b4d-1265-47e8-b740-7a431114991d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31432,
+    "MulMultiMediaRef_key": 14967,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31432/sizes/25132-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Valentine"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Valentine",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.29974340010986333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27763025
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26855508333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.2646187
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24239793333333334
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.22219325876139331
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22182168666666668
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.21889704333333335
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.20299803333333333
+        }
+    ]
+}

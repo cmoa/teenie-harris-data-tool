@@ -1,0 +1,110 @@
+{
+    "objectID": 20399,
+    "irn": 20399,
+    "ecatalogue_key": 11289,
+    "TitAccessionNo": "2001.35.11317",
+    "CreDateCreated": "c. 1938-1945",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Police surrounding car on street with driver and passenger doors open, reporter? standing on sidewalk, possibly in Detroit at night",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Police officers--Michigan--Detroit.Automobiles--Michigan--Detroit.",
+    "AdmGUIDValue_tab": "b1a08367-5678-45df-ade1-779f83eb3990",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27399,
+    "MulMultiMediaRef_key": 11297,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27399/sizes/20399-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Detroit",
+            "short_name": "Detroit"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Michigan",
+            "short_name": "Michigan"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "STANDING\n",
+    "subjects": [
+        "Automobiles",
+        "Police"
+    ],
+    "keywords": [
+        {
+            "keyword": "night",
+            "score": 0.6406452007909139
+        },
+        {
+            "keyword": "car",
+            "score": 0.5631495997233072
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police officers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31166730000000004
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2945179666666667
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.29068374547932935
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.2827633666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27985750000000004
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "street",
+            "score": 0.26398805897013333
+        },
+        {
+            "keyword": "atmosphere",
+            "score": 0.25678186666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25126352
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.24344988666666667
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.21192886666666666
+        }
+    ]
+}

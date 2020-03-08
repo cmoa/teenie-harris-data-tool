@@ -1,0 +1,113 @@
+{
+    "objectID": 26637,
+    "irn": 26637,
+    "ecatalogue_key": 16353,
+    "TitAccessionNo": "2001.35.16383",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, and moustache, seated behind desk including documents, pens, and telephone, in interior with wood paneled wall and fern in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24e683ab-bac7-4473-b558-be71a6ec1add",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32860,
+    "MulMultiMediaRef_key": 16361,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32860/sizes/26637-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Offices",
+        "Telephone",
+        "Men",
+        "Plants"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.45538340950520834
+        },
+        {
+            "keyword": "man",
+            "score": 0.4322362880436197
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.37160147404296867
+        },
+        {
+            "keyword": "male",
+            "score": 0.3644583170666504
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28622398666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27146596666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.26228402
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23409771999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.220448
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.21375301981201167
+        }
+    ]
+}

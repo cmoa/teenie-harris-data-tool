@@ -1,0 +1,126 @@
+{
+    "objectID": 15234,
+    "irn": 15234,
+    "ecatalogue_key": 8107,
+    "TitAccessionNo": "2001.35.8124",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing moustache, tweed jacket, and tie with diamond pattern",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "bc704b63-2e4c-449a-99f2-f1a7545b5908",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24205,
+    "MulMultiMediaRef_key": 8115,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24205/sizes/15234-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6268134333333334
+        },
+        {
+            "keyword": "man",
+            "score": 0.49734121862386066
+        },
+        {
+            "keyword": "person",
+            "score": 0.4823779202067057
+        },
+        {
+            "keyword": "professional",
+            "score": 0.40370189935546863
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.39418099875813795
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2866517
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28607398333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27299879
+        },
+        {
+            "keyword": "businessperson",
+            "score": 0.2626296691188558
+        },
+        {
+            "keyword": "business executive",
+            "score": 0.2495552666666667
+        },
+        {
+            "keyword": "official",
+            "score": 0.24424606666666668
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.24190628051757798
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23779406666666666
+        },
+        {
+            "keyword": "entrepreneur",
+            "score": 0.23387250913340252
+        },
+        {
+            "keyword": "necktie",
+            "score": 0.23272158207194002
+        },
+        {
+            "keyword": "executive officer",
+            "score": 0.22841703333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21364903333333332
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+  "objectID": 68238,
+  "irn": 68238,
+  "ecatalogue_key": 54055,
+  "TitAccessionNo": "2001.35.54098",
+  "CreDateCreated": "c. 1954",
+  "CreEarliestDate": "1951",
+  "CreLatestDate": "1957",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Three story brick building with windows and dark garage doors on right, driveway with cracked pavement near drain, possibly in Belmar Gardens after landslide",
+  "CatSubject_tab": "Belmar Gardens (Pittsburgh, Pa.)Buildings--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "8cf5b0ae-3bc5-4b62-b4fd-298d361e7799",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79778/sizes/68238-1680.jpg",
+  "datetime": "1951-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Liberty Avenue",
+      "short_name": "Liberty Ave"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Grandview Avenue",
+      "short_name": "Grandview Ave"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 0,
+  "google_text_in_image": "",
+  "subjects": [
+    "Buildings",
+    "Trees",
+    "Brick walls"
+  ],
+  "keywords": [
+    {
+      "keyword": "sky",
+      "score": 0.39957140917358397
+    },
+    {
+      "keyword": "landscape",
+      "score": 0.3434939463330077
+    },
+    {
+      "keyword": "tree",
+      "score": 0.3368983850671387
+    },
+    {
+      "keyword": "Trees",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Belmar Gardens",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Belmar Gardens ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Brick walls",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.31415198333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.29880994666666666
+    },
+    {
+      "keyword": "track",
+      "score": 0.2904518
+    },
+    {
+      "keyword": "cloud",
+      "score": 0.2893704070758057
+    },
+    {
+      "keyword": "urban area",
+      "score": 0.27601423333333336
+    },
+    {
+      "keyword": "transport",
+      "score": 0.2741408533333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2665806
+    },
+    {
+      "keyword": "snow",
+      "score": 0.26649172465006504
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.25714037666666667
+    },
+    {
+      "keyword": "road",
+      "score": 0.253086233940633
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79778/sizes/68238-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79778/sizes/68238-210.jpg",
+  "date_timestamp_earliest": -599616000.0,
+  "date_timestamp_latest": -410227200.0,
+  "decades": [
+    "1950s"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+    "objectID": 24293,
+    "irn": 24293,
+    "ecatalogue_key": 14378,
+    "TitAccessionNo": "2001.35.14408",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing afro and eyeglasses, with telephone in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "8bde9640-4cc0-439d-b641-1a871fc1d225",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30704,
+    "MulMultiMediaRef_key": 14386,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30704/sizes/24293-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "hair",
+            "score": 0.3786488672566733
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3295818459383137
+        },
+        {
+            "keyword": "standing",
+            "score": 0.308610337431844
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30373301
+        },
+        {
+            "keyword": "hairstyle",
+            "score": 0.2823351233333333
+        },
+        {
+            "keyword": "afro",
+            "score": 0.2788177533333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27630096666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27519916666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25821703903544097
+        },
+        {
+            "keyword": "glasses",
+            "score": 0.23749548333333334
+        },
+        {
+            "keyword": "vision care",
+            "score": 0.23279458333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22587203333333336
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22431508666666666
+        },
+        {
+            "keyword": "cool",
+            "score": 0.21262213333333332
+        }
+    ]
+}

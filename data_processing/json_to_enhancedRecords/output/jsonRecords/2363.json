@@ -1,0 +1,85 @@
+{
+    "objectID": 2363,
+    "irn": 2363,
+    "ecatalogue_key": 960,
+    "TitAccessionNo": "2001.35.962",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy negative: Harry Bobo behind bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bartenders--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b3f95790-6ae5-403f-a7f1-07670989e7ba",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 15482,
+    "MulMultiMediaRef_key": 962,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15482/sizes/2363-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [
+        "Harry Bobo"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "LES\n1.\n",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Bartenders"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bartenders",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "billboard",
+            "score": 0.2920525614420573
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28178511
+        },
+        {
+            "keyword": "signboard",
+            "score": 0.24290641784667968
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20106031333333332
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "objectID": 23349,
+    "irn": 23349,
+    "ecatalogue_key": 13716,
+    "TitAccessionNo": "2001.35.13746",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of library, possibly Homewood branch of Carnegie Library of Pittsburgh, with display of art work from Pittsburgh Public Schools, and two boys seated at a table",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Libraries--Pennsylvania--Pittsburgh.Carnegie Library of Pittsburgh.Homewood Branch.Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9b378ada-17bf-40ea-a754-e819ae965cf0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29814,
+    "MulMultiMediaRef_key": 13724,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29814/sizes/23349-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Homewood",
+            "short_name": "Homewood"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Boys",
+        "Libraries",
+        "Carnegie Library of Pittsburgh"
+    ],
+    "keywords": [
+        {
+            "keyword": "building",
+            "score": 0.38246354927978504
+        },
+        {
+            "keyword": "Homewood Branch",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Libraries",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Carnegie Library of Pittsburgh",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "library",
+            "score": 0.30580483333333336
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30315713333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.300710748803711
+        },
+        {
+            "keyword": "public library",
+            "score": 0.2785673
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27041028
+        },
+        {
+            "keyword": "window",
+            "score": 0.26856341579996734
+        },
+        {
+            "keyword": "institution",
+            "score": 0.24104029999999999
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22386406666666667
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "objectID": 36213,
+    "irn": 36213,
+    "ecatalogue_key": 23862,
+    "TitAccessionNo": "2001.35.23893",
+    "CreDateCreated": "1949",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of leashed dog looking down, possibly Collie, standing on shag rug on square patterned linoleum floor, with man wearing spats standing on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dogs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e73968d6-cbfe-433c-88fd-1609cc7523ec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42432,
+    "MulMultiMediaRef_key": 23870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42432/sizes/36213-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [
+        "Collie"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dogs"
+    ],
+    "keywords": [
+        {
+            "keyword": "dog",
+            "score": 0.3803173554260253
+        },
+        {
+            "keyword": "mammal",
+            "score": 0.374223163639323
+        },
+        {
+            "keyword": "Collie",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dogs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31503169999999997
+        },
+        {
+            "keyword": "dog like mammal",
+            "score": 0.31363988
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2925485
+        },
+        {
+            "keyword": "snout",
+            "score": 0.28612299855356854
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2704339333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24144115
+        },
+        {
+            "keyword": "dog breed group",
+            "score": 0.23566194333333335
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "objectID": 55680,
+    "irn": 55680,
+    "ecatalogue_key": 42381,
+    "TitAccessionNo": "2001.35.42423",
+    "CreDateCreated": "c. 1953",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1956",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing moustache and light colored lab coat with pen in breast pocket, possibly Dr. Eugene Younge, seated at desk with microscope, telephone, handwritten documents, and bottle of Sheaffer's Skrip ink",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "be273903-1a95-498f-90bd-39d0822fde81",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63715,
+    "MulMultiMediaRef_key": 42389,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63715/sizes/55680-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -441849600.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Eugene Younge",
+        "Sheaffer"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Portraits",
+        "Men",
+        "Desks",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4526431848551433
+        },
+        {
+            "keyword": "person",
+            "score": 0.421147622290039
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3785541485005697
+        },
+        {
+            "keyword": "Skrip",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sheaffer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3038915805460613
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2928668466666667
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27591227569173166
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2735811866666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23981736666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22603346666666668
+        },
+        {
+            "keyword": "design",
+            "score": 0.22249693333333334
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21400743333333336
+        }
+    ]
+}

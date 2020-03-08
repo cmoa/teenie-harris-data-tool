@@ -1,0 +1,74 @@
+{
+    "objectID": 42840,
+    "irn": 42840,
+    "ecatalogue_key": 30187,
+    "TitAccessionNo": "2001.35.30220",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Women, most wearing hats, seated on wooden folding chairs in groups of four, playing cards, in interior with exposed pipes, and venetian blinds on windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Playing cards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "91dc3b2b-31d5-454a-8ff3-15d06b63a9e1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49308,
+    "MulMultiMediaRef_key": 30195,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49308/sizes/42840-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 18,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Playing cards"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Playing cards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30036836666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2686399333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2654451666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24463566666666667
+        }
+    ]
+}

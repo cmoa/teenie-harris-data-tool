@@ -1,0 +1,88 @@
+{
+  "objectID": 12860,
+  "irn": 12860,
+  "ecatalogue_key": 6598,
+  "TitAccessionNo": "2001.35.6613",
+  "CreDateCreated": "c. 1965-1975",
+  "CreEarliestDate": "1965",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Women inmates seated at checkers tables with books in front of jail cells, with four civilians and a police officer in background",
+  "CatSubject_tab": "Prisons--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Police officers--Pennsylvania--Pittsburgh.Prisoners--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "bed5f0fc-f667-466a-b475-e857a0675c05",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22825/sizes/12860-1680.jpg",
+  "datetime": "1965-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 15,
+  "google_text_in_image": "",
+  "subjects": [
+    "Police",
+    "Women",
+    "Prisons",
+    "Prisoners",
+    "Books"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Police officers",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Prisons",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Prisoners",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Books",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.27624509999999997
+    },
+    {
+      "keyword": "communication",
+      "score": 0.24756474793090832
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22825/sizes/12860-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22825/sizes/12860-210.jpg",
+  "date_timestamp_earliest": -157766400.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": []
+}

@@ -1,0 +1,83 @@
+{
+    "objectID": 29831,
+    "irn": 29831,
+    "ecatalogue_key": 18302,
+    "TitAccessionNo": "2001.35.18332",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark plaid suit, and woman wearing dark cross hatch jacket, and headscarf, in interior with stoves in a line",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stores, Retail--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "060ff472-c60b-4094-bbb8-9b232ce0fa3a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36212,
+    "MulMultiMediaRef_key": 18310,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36212/sizes/29831-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Stores, Retail",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stores, Retail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30008922
+        },
+        {
+            "keyword": "technology",
+            "score": 0.28487395667968735
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2665281666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2625112533333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24657448
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "objectID": 42818,
+    "irn": 42818,
+    "ecatalogue_key": 30141,
+    "TitAccessionNo": "2001.35.30174",
+    "CreDateCreated": "c. 1948",
+    "CreEarliestDate": "1943",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men, possibly detectives, standing over and looking in grave, with cars in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Dead--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b91d3410-5076-45b2-bfee-bad4ed8e1252",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49377,
+    "MulMultiMediaRef_key": 30149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49377/sizes/42818-1680.jpg",
+    "date_timestamp_earliest": -852076800.0,
+    "date_timestamp_latest": -536457600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Automobiles",
+        "Men",
+        "Dead"
+    ],
+    "keywords": [
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dead",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3090329
+        },
+        {
+            "keyword": "sky",
+            "score": 0.302734623832194
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28950896666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2785084666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25132195
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24662666666666666
+        },
+        {
+            "keyword": "landscape",
+            "score": 0.21386489913736964
+        }
+    ]
+}

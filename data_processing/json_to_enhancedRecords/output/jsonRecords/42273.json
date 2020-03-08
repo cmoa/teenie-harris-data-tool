@@ -1,0 +1,89 @@
+{
+    "objectID": 42273,
+    "irn": 42273,
+    "ecatalogue_key": 29570,
+    "TitAccessionNo": "2001.35.29603",
+    "CreDateCreated": "c. 1946",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1951",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing three piece suit and striped necktie, standing behind desk, in interior with pictures and newspaper clippings on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "97fcd418-b17e-4784-bb8c-002d1c1038cb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49001,
+    "MulMultiMediaRef_key": 29578,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49001/sizes/42273-1680.jpg",
+    "date_timestamp_earliest": -915148800.0,
+    "date_timestamp_latest": -599616000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43039562874348974
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2945079666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28034553333333334
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27029173333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24747701333333336
+        },
+        {
+            "keyword": "house",
+            "score": 0.23247670689595534
+        },
+        {
+            "keyword": "design",
+            "score": 0.22608393333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22212058333333332
+        }
+    ]
+}

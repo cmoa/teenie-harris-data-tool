@@ -1,0 +1,82 @@
+{
+    "objectID": 22501,
+    "irn": 22501,
+    "ecatalogue_key": 13145,
+    "TitAccessionNo": "2001.35.13175",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four men and nine women standing behind banquet table with flower arrangement",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7f298f13-5145-4d72-bb86-be1b97941dfe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29155,
+    "MulMultiMediaRef_key": 13153,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29155/sizes/22501-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 14,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31370533333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.30102851
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28169686666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24984933333333334
+        },
+        {
+            "keyword": "design",
+            "score": 0.22394941333333332
+        }
+    ]
+}

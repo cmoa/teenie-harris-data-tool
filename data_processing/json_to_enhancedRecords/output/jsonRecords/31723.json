@@ -1,0 +1,103 @@
+{
+    "objectID": 31723,
+    "irn": 31723,
+    "ecatalogue_key": 19889,
+    "TitAccessionNo": "2001.35.19920",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men and three women, seated at head banquet table, possibly in basement of Homewood YMCA with exposed pipes and faux stained glass painted background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1aafd010-9a04-423f-a540-9ce324ec05d0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37668,
+    "MulMultiMediaRef_key": 19897,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37668/sizes/31723-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Homewood YMCA",
+            "short_name": "Homewood YMCA"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "KODAK SAFETY FILM\n",
+    "subjects": [
+        "Men",
+        "Dinners and dining",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.365176936193034
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": ")Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Banquets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Young Men's Christian Association ",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3046121666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28145378666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2743659333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.25274811395548497
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2396762
+        }
+    ]
+}

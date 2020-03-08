@@ -1,0 +1,150 @@
+{
+    "objectID": 5413,
+    "irn": 5413,
+    "ecatalogue_key": 3307,
+    "TitAccessionNo": "2001.35.3314",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Scene of residential housing on unpaved road with Pennsylvania Industrial Chemical Company in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Housing--Pennsylvania--Pittsburgh.Roads--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e8ed5895-d645-45d4-a164-32c7940ac3b1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17855,
+    "MulMultiMediaRef_key": 3309,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17855/sizes/5413-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Housing",
+        "Roads"
+    ],
+    "keywords": [
+        {
+            "keyword": "sky",
+            "score": 0.39119513009236667
+        },
+        {
+            "keyword": "town",
+            "score": 0.36342474391886403
+        },
+        {
+            "keyword": "transport",
+            "score": 0.3630415438568117
+        },
+        {
+            "keyword": "track",
+            "score": 0.35718199489461266
+        },
+        {
+            "keyword": "architecture",
+            "score": 0.35026950131022133
+        },
+        {
+            "keyword": "Housing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pennsylvania Industrial Chemical Company",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Roads",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "road",
+            "score": 0.322576226621704
+        },
+        {
+            "keyword": "residential area",
+            "score": 0.31710543333333335
+        },
+        {
+            "keyword": "house",
+            "score": 0.3133020454071043
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.30936579999999997
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30639716666666666
+        },
+        {
+            "keyword": "suburb",
+            "score": 0.30463013333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2762621333333333
+        },
+        {
+            "keyword": "cloud",
+            "score": 0.27203985
+        },
+        {
+            "keyword": "tree",
+            "score": 0.26619160097351074
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25146458666666666
+        },
+        {
+            "keyword": "train",
+            "score": 0.24970012432352703
+        },
+        {
+            "keyword": "lane",
+            "score": 0.23167453333333332
+        },
+        {
+            "keyword": "street",
+            "score": 0.22581935603230796
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.22568046666666666
+        },
+        {
+            "keyword": "rail transport",
+            "score": 0.22279519
+        },
+        {
+            "keyword": "electricity",
+            "score": 0.21742903752339682
+        },
+        {
+            "keyword": "overhead power line",
+            "score": 0.2125007
+        }
+    ]
+}

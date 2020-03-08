@@ -1,0 +1,89 @@
+{
+    "objectID": 22492,
+    "irn": 22492,
+    "ecatalogue_key": 13140,
+    "TitAccessionNo": "2001.35.13170",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Copy of portrait of man holding hat and cigar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "648ebbd2-b0ba-4da0-b9f5-4e8a4b916c65",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 29152,
+    "MulMultiMediaRef_key": 13148,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29152/sizes/22492-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30116
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28265655
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2748523333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.27384763333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2651035333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25897489701945
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.23974031333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23521683333333332
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20030621666666668
+        }
+    ]
+}

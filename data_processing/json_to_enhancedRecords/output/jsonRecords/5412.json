@@ -1,0 +1,130 @@
+{
+    "objectID": 5412,
+    "irn": 5412,
+    "ecatalogue_key": 3306,
+    "TitAccessionNo": "2001.35.3313",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group of men and women dancing on a stage",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Dancing--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00d7bde2-86e3-4c6c-b489-be59aeb7ed1a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17854,
+    "MulMultiMediaRef_key": 3308,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17854/sizes/5412-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 10,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "music",
+            "score": 0.34435770776570634
+        },
+        {
+            "keyword": "Stages (Platforms)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dancing",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "entertainment",
+            "score": 0.33124975768636067
+        },
+        {
+            "keyword": "stage",
+            "score": 0.32890313383870434
+        },
+        {
+            "keyword": "performance",
+            "score": 0.31773195507843016
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2907319666666667
+        },
+        {
+            "keyword": "night",
+            "score": 0.2840101470906577
+        },
+        {
+            "keyword": "musician",
+            "score": 0.2731689690531413
+        },
+        {
+            "keyword": "concert",
+            "score": 0.2715965420216878
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26788608333333336
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.25948356666666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.2592366
+        },
+        {
+            "keyword": "performing arts",
+            "score": 0.24480026666666665
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23832110068766277
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22830291666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22758575333333333
+        },
+        {
+            "keyword": "performance art",
+            "score": 0.21465512
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "objectID": 30388,
+    "irn": 30388,
+    "ecatalogue_key": 18499,
+    "TitAccessionNo": "2001.35.18529",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Defender safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Bill Nunn Sr. wearing three piece suit, seated behind desk and talking on telephone, in office with large world map and illustrations of World War II on wall, possibly Pittsburgh Courier newspaper office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Maps--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "943832b8-36d9-4373-a778-3d6eeca126fa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36102,
+    "MulMultiMediaRef_key": 18507,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36102/sizes/30388-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "Bill Nunn Sr"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Pittsburgh courier",
+        "Men",
+        "Maps",
+        "Telephone"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.355616190093994
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Maps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "World War II",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31128913333333336
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2904235
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27914163333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2524358666666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.24974578739786799
+        },
+        {
+            "keyword": "human",
+            "score": 0.23799486666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.2368036
+        },
+        {
+            "keyword": "girl",
+            "score": 0.22241745333333332
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20088299911905924
+        }
+    ]
+}

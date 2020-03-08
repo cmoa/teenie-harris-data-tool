@@ -1,0 +1,98 @@
+{
+    "objectID": 18764,
+    "irn": 18764,
+    "ecatalogue_key": 10093,
+    "TitAccessionNo": "2001.35.10119",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women working in large commercial kitchen, with two Pennsylvania state police officers in background and Griswold oven",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Police officers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0c381aea-6dce-4eb4-8dbb-2d7b6975b9b0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26019,
+    "MulMultiMediaRef_key": 10101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26019/sizes/18764-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Griswold"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 8,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Police",
+        "Kitchens"
+    ],
+    "keywords": [
+        {
+            "keyword": "Kitchens",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Police officers",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Griswold",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.31012284947001134
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2786209766666667
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.2772699057973227
+        },
+        {
+            "keyword": "cook",
+            "score": 0.22131889999999999
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2199460666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21756041
+        }
+    ]
+}

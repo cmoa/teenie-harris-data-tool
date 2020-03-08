@@ -1,0 +1,96 @@
+{
+    "objectID": 2505,
+    "irn": 2505,
+    "ecatalogue_key": 1102,
+    "TitAccessionNo": "2001.35.1104",
+    "CreDateCreated": "c. 1965-1975",
+    "CreEarliestDate": "1960",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Reception in an art gallery with visitors at buffet",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Art exhibitions--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Buffets (Cookery)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2e4287ab-a8a2-4d6c-8025-9c28abcfd914",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15538,
+    "MulMultiMediaRef_key": 1104,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15538/sizes/2505-1680.jpg",
+    "date_timestamp_earliest": -315619200.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 11,
+    "google_text_in_image": "KODAK SAFETYFILM\n5\n",
+    "subjects": [
+        "Women",
+        "Buffets (Cooking)",
+        "Tables",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Buffets (Cookery)",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Art exhibitions",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tables",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29986263333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2727023
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25869026666666667
+        },
+        {
+            "keyword": "design",
+            "score": 0.2543748675730387
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23888006666666664
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "objectID": 53843,
+    "irn": 53843,
+    "ecatalogue_key": 40491,
+    "TitAccessionNo": "2001.35.40532",
+    "CreDateCreated": "c. 1945-1955",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored shirt and dark jacket with brooch, standing in interior with calendar on light colored wall that reads \"PETROLEU... OCTO...\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24de1b74-98f9-4766-852a-69b0293b56bc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61766,
+    "MulMultiMediaRef_key": 40499,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61766/sizes/53843-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "PETROLE\nULF DIL CORPORAT\nLE\nOCTO\n15 16 17\n22 23 24\n29 30 31\n5078\u3002\n%%25 26 27 2829127282\n123456\nOCTOBERNO\n9 10 11 12 13 14 5 6\n5 16 17 18 19 20 21 12 13 14\n23 24 25 26 27 28 19 20 21\n9 30 31\n26 27 28\n",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Women",
+        "Interiors",
+        "Calendars"
+    ],
+    "keywords": [
+        {
+            "keyword": "portrait",
+            "score": 0.33875097720743796
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Calendars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3193579840067547
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30329654666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27654775000000004
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27412146666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26465596666666663
+        },
+        {
+            "keyword": "suit",
+            "score": 0.23321024576822935
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2307198433333333
+        }
+    ]
+}

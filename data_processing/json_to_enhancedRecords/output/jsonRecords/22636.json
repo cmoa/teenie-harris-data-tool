@@ -1,0 +1,98 @@
+{
+    "objectID": 22636,
+    "irn": 22636,
+    "ecatalogue_key": 13238,
+    "TitAccessionNo": "2001.35.13268",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women seated at tables covered with glasses, beer bottles, and ash trays, with woman standing near decorative glass window in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ab4e2828-cb1f-45f1-a63b-9baee311451f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29501,
+    "MulMultiMediaRef_key": 13246,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29501/sizes/22636-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 23,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.30604285000000003
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28915484666666663
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2637862
+        },
+        {
+            "keyword": "event",
+            "score": 0.24440413333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24259133333333335
+        },
+        {
+            "keyword": "fun",
+            "score": 0.23661146666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.20820374445393877
+        },
+        {
+            "keyword": "nurse",
+            "score": 0.20581952412923168
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2015694
+        }
+    ]
+}

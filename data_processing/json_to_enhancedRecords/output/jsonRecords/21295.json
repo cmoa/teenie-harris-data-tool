@@ -1,0 +1,115 @@
+{
+    "objectID": 21295,
+    "irn": 21295,
+    "ecatalogue_key": 11959,
+    "TitAccessionNo": "2001.35.11989",
+    "CreDateCreated": "1975",
+    "CreEarliestDate": "1975",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of an older man standing in room with small painting of bird",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "494c9f52-2ab2-4ee9-b139-b783bc905eb6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27850,
+    "MulMultiMediaRef_key": 11967,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27850/sizes/21295-1680.jpg",
+    "date_timestamp_earliest": 157766400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.5034280044335936
+        },
+        {
+            "keyword": "person",
+            "score": 0.45822225802408867
+        },
+        {
+            "keyword": "suit",
+            "score": 0.4152177629166666
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.39568909386800133
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3400762862559
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29993403333333335
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28863328666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2780657
+        },
+        {
+            "keyword": "executive",
+            "score": 0.27713851928710936
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26308306666666664
+        },
+        {
+            "keyword": "facial hair",
+            "score": 0.25746783333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23783723333333331
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.215150146484375
+        },
+        {
+            "keyword": "formal wear",
+            "score": 0.21011903333333334
+        }
+    ]
+}

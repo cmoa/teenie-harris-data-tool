@@ -1,0 +1,83 @@
+{
+    "objectID": 21454,
+    "irn": 21454,
+    "ecatalogue_key": 12161,
+    "TitAccessionNo": "2001.35.12191",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group portrait of boys and young men on stage, with woman seated at center and curtains in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6a9fb9e6-21d8-429d-b291-8cbdb90f2003",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 96069,
+    "MulMultiMediaRef_key": 12169,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/96069/sizes/21454-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 31,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28511016666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "stage",
+            "score": 0.2502411666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22406753333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21645230000000001
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "objectID": 24069,
+    "irn": 24069,
+    "ecatalogue_key": 14241,
+    "TitAccessionNo": "2001.35.14271",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and four men seated around table in club or restaurant with horizontal and diagonal striped walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "56f98ced-4ccb-4bd1-aba6-9bb779a88143",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30393,
+    "MulMultiMediaRef_key": 14249,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30393/sizes/24069-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Clubs",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "table",
+            "score": 0.38361907462483735
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clubs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3119541333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29743449
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2860386166666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.2630273121887207
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2511427666666667
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.2249725
+        },
+        {
+            "keyword": "function hall",
+            "score": 0.2163824666666667
+        },
+        {
+            "keyword": "style",
+            "score": 0.2105578407033283
+        },
+        {
+            "keyword": "rehearsal dinner",
+            "score": 0.20173716666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.20041131999999998
+        }
+    ]
+}

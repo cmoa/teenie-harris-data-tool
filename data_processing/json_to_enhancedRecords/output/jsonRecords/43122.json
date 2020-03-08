@@ -1,0 +1,104 @@
+{
+    "objectID": 43122,
+    "irn": 43122,
+    "ecatalogue_key": 30507,
+    "TitAccessionNo": "2001.35.30540",
+    "CreDateCreated": "c. 1949",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and woman standing behind desk with lamp, facing Alderman Harry B. Fitzgerald, in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Fitzgerald, Harry B.",
+    "AdmGUIDValue_tab": "60905e69-07ee-4be7-b9d0-8c83988dc93e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49814,
+    "MulMultiMediaRef_key": 30515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49814/sizes/43122-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -504921600.0,
+    "decades": [],
+    "people": [
+        "Harry B. Fitzgerald"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.45481788944580065
+        },
+        {
+            "keyword": "male",
+            "score": 0.35635285511393233
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Fitzgerald, Harry B",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30615906666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28461291333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27801986666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2546983164154053
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22458954666666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.21797323333333332
+        },
+        {
+            "keyword": "event",
+            "score": 0.21510746666666666
+        }
+    ]
+}

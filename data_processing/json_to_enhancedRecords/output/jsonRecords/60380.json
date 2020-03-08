@@ -1,0 +1,118 @@
+{
+    "objectID": 60380,
+    "irn": 60380,
+    "ecatalogue_key": 46365,
+    "TitAccessionNo": "2001.35.46408",
+    "CreDateCreated": "c. 1957",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing light colored suit and tie with zigzag pattern and knotted tie bar, posed seated with left hand on hip",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1f569653-d96f-4bd5-ae8d-370df2ce035d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68581,
+    "MulMultiMediaRef_key": 46373,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68581/sizes/60380-1680.jpg",
+    "date_timestamp_earliest": -504921600.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.570678
+        },
+        {
+            "keyword": "man",
+            "score": 0.4955511271891277
+        },
+        {
+            "keyword": "person",
+            "score": 0.47683065174560535
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3768938858866373
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.370612384222819
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.32635053389729834
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29465009999999997
+        },
+        {
+            "keyword": "human",
+            "score": 0.29177120340271
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2820335333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2768952666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "professional",
+            "score": 0.26081761363769534
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25740605666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.241215073071289
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23625313333333334
+        }
+    ]
+}

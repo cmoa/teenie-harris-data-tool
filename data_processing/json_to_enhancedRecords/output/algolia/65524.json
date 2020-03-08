@@ -1,0 +1,99 @@
+{
+  "objectID": 65524,
+  "irn": 65524,
+  "ecatalogue_key": 51298,
+  "TitAccessionNo": "2001.35.51341",
+  "CreDateCreated": "c. 1955",
+  "CreEarliestDate": "1952",
+  "CreLatestDate": "1958",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Group of young men and women, including young woman standing on right wearing light colored short sleeve dress with v-shaped neckline and dark stripes, arms crossed, standing on concrete slab with chain link fence and wooden folding chairs",
+  "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "684f9bff-48ee-43f2-abe7-2e51f192f30f",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75194/sizes/65524-1680.jpg",
+  "datetime": "1952-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 35,
+  "google_text_in_image": "",
+  "subjects": [
+    "Clothing and dress",
+    "Fences",
+    "Women",
+    "Men",
+    "Young adults",
+    "Chairs"
+  ],
+  "keywords": [
+    {
+      "keyword": "Clothing and dress",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Fences",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Young adults",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Chairs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "social group",
+      "score": 0.3043808666666667
+    },
+    {
+      "keyword": "event",
+      "score": 0.259328093588257
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.25549673333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75194/sizes/65524-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75194/sizes/65524-210.jpg",
+  "date_timestamp_earliest": -568080000.0,
+  "date_timestamp_latest": -378691200.0,
+  "decades": [
+    "1950s"
+  ]
+}

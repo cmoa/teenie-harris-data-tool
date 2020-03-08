@@ -1,0 +1,102 @@
+{
+    "objectID": 42460,
+    "irn": 42460,
+    "ecatalogue_key": 29778,
+    "TitAccessionNo": "2001.35.29811",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing solid colored suit, dark knit tie, and moustache, seated in booth in restaurant with paper lace place mats, coffee cups, and bottle of catsup",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Restaurants--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ef4f02cf-8c46-4bb6-99b8-6d60d068b225",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48865,
+    "MulMultiMediaRef_key": 29786,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48865/sizes/42460-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Restaurants"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Restaurants",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3056782
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2785121333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2783546833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.2586002956298828
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24524231666666665
+        },
+        {
+            "keyword": "smile",
+            "score": 0.241999295667521
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.23754572329305002
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.21967061333333335
+        },
+        {
+            "keyword": "dishwasher",
+            "score": 0.21003904978434232
+        },
+        {
+            "keyword": "girl",
+            "score": 0.20772081666666667
+        }
+    ]
+}

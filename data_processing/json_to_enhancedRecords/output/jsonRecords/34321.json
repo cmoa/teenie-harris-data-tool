@@ -1,0 +1,116 @@
+{
+    "objectID": 34321,
+    "irn": 34321,
+    "ecatalogue_key": 22296,
+    "TitAccessionNo": "2001.35.22327",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men, two shaking hands, man on right holding trophy, in interior with solid colored curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ce48f208-790b-4342-b7c7-fa582aad8b48",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40711,
+    "MulMultiMediaRef_key": 22304,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40711/sizes/34321-1680.jpg",
+    "date_timestamp_earliest": -220924800.0,
+    "date_timestamp_latest": -220924800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Trophies"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.47434234180094403
+        },
+        {
+            "keyword": "male",
+            "score": 0.40826934345296234
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trophies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.314263591527303
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2852301003885903
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27425669999999996
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2707522666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.25920263976033536
+        },
+        {
+            "keyword": "smile",
+            "score": 0.25118463828633636
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2465434333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22681656282918303
+        },
+        {
+            "keyword": "event",
+            "score": 0.22584059999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21317629999999999
+        },
+        {
+            "keyword": "family",
+            "score": 0.2036608009409587
+        }
+    ]
+}

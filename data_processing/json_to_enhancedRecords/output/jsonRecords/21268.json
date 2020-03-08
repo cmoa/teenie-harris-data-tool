@@ -1,0 +1,112 @@
+{
+    "objectID": 21268,
+    "irn": 21268,
+    "ecatalogue_key": 12001,
+    "TitAccessionNo": "2001.35.12031",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing tie, shirt with rolled sleeves, and Loblaw's badge inscribed \"Mr. Turner\", talking on indoor pay phone, with Kool-Aid display on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ecd4eddd-641f-4dbf-ba53-100dbe1427d7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27630,
+    "MulMultiMediaRef_key": 12009,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27630/sizes/21268-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Loblaw",
+        "Turner"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "001-Aid\nKAGE\nAidnl\nNool-Aicool-Aid KoolA\nI-Aid Kool-Aid KKOoH-Aid KoolAid\nSOoLAie\n",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.383159343806966
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Turner",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.32530062798990905
+        },
+        {
+            "keyword": "call",
+            "score": 0.3129068501790363
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30862466666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28051053333333337
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27563546666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25589404666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.250795
+        },
+        {
+            "keyword": "pay-phone",
+            "score": 0.245248082478841
+        },
+        {
+            "keyword": "telephone",
+            "score": 0.23012883504231765
+        },
+        {
+            "keyword": "street",
+            "score": 0.21380843333333333
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20066974666666668
+        }
+    ]
+}

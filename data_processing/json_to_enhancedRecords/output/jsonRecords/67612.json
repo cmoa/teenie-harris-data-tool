@@ -1,0 +1,122 @@
+{
+    "objectID": 67612,
+    "irn": 67612,
+    "ecatalogue_key": 53435,
+    "TitAccessionNo": "2001.35.53478",
+    "CreDateCreated": "c. 1969",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1972",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three men and woman, including man wearing dark suit standing next to man wearing eyeglasses, seated at desk with double lamp, pointing to woman seated next to desk, in office interior with light colored curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Lamps--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "662d260e-ee3c-4db1-acb9-c32e6a048e35",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78020,
+    "MulMultiMediaRef_key": 53444,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78020/sizes/67612-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": 63072000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "",
+    "subjects": [
+        "Clothing and dress",
+        "Lamps",
+        "Men",
+        "Eyeglasses",
+        "Desks",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4718411330607097
+        },
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Lamps",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2790459
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27806641663736964
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27700413333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.24527600000000002
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.23842473333333333
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.23637497129923501
+        },
+        {
+            "keyword": "event",
+            "score": 0.2288495
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21774474666666666
+        },
+        {
+            "keyword": "groom",
+            "score": 0.2127386
+        }
+    ]
+}

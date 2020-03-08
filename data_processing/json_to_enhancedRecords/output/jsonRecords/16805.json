@@ -1,0 +1,93 @@
+{
+    "objectID": 16805,
+    "irn": 16805,
+    "ecatalogue_key": 8722,
+    "TitAccessionNo": "2001.35.8744",
+    "CreDateCreated": "c. 1930-1950",
+    "CreEarliestDate": "1930",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "A speaker or heater hangs overhead in the image.",
+    "TitMainTitle": "Three men seated in folding chairs, and one man seated on another's knee, in bar",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bars--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6a5e0ecd-03c1-478e-bbfe-e612ab688a04",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24395,
+    "MulMultiMediaRef_key": 8730,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24395/sizes/16805-1680.jpg",
+    "date_timestamp_earliest": -1262304000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.41088661657836906
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3087317533333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29683370000000003
+        },
+        {
+            "keyword": "music",
+            "score": 0.2849905410575357
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2660822666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.253287
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.24110106666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2320947
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21588581666666665
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "objectID": 4551,
+    "irn": 4551,
+    "ecatalogue_key": 2641,
+    "TitAccessionNo": "2001.35.2645",
+    "CreDateCreated": "c. 1949-1960",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man playing piano, other instruments in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Musical instruments--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7daccd78-f184-4cba-af5d-947fd1c305e1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16966,
+    "MulMultiMediaRef_key": 2643,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16966/sizes/4551-1680.jpg",
+    "date_timestamp_earliest": -820540800.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Musical instruments",
+        "Portraits",
+        "Men",
+        "Toy instruments"
+    ],
+    "keywords": [
+        {
+            "keyword": "piano",
+            "score": 0.5080461333333334
+        },
+        {
+            "keyword": "music",
+            "score": 0.4278012087524414
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical toy instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.32017590184427897
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30344513333333334
+        },
+        {
+            "keyword": "musician",
+            "score": 0.2987797820239257
+        },
+        {
+            "keyword": "jazz pianist",
+            "score": 0.2818120533333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27444063333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26506461666666664
+        },
+        {
+            "keyword": "musical keyboard",
+            "score": 0.26069653333333337
+        },
+        {
+            "keyword": "keyboard player",
+            "score": 0.22890124666666667
+        },
+        {
+            "keyword": "session musician",
+            "score": 0.2239063
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22046286666666667
+        }
+    ]
+}

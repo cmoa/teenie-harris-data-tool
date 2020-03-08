@@ -1,0 +1,101 @@
+{
+    "objectID": 54838,
+    "irn": 54838,
+    "ecatalogue_key": 41517,
+    "TitAccessionNo": "2001.35.41559",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark hat and jacket, and striped shirt, with bars obstructing view in foreground, possibly in the Allegheny County Jail",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Jails--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fce34c52-c2c0-4fb2-94ec-46a2562c9418",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62465,
+    "MulMultiMediaRef_key": 41525,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62465/sizes/54838-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "the Allegheny County Jail",
+            "short_name": "the Allegheny County Jail"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 3,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Hats",
+        "Jails"
+    ],
+    "keywords": [
+        {
+            "keyword": "window",
+            "score": 0.35568694807047535
+        },
+        {
+            "keyword": "structure",
+            "score": 0.34468052082722966
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Hats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the Allegheny County Jail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Jails",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3142487666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29745746666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27719148
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25226698333333336
+        }
+    ]
+}

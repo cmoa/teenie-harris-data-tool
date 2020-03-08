@@ -1,0 +1,102 @@
+{
+    "objectID": 32030,
+    "irn": 32030,
+    "ecatalogue_key": 20150,
+    "TitAccessionNo": "2001.35.20181",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six men, including two ministers, one shaking hands with another man, in interior with bead board wainscoting and chalkboard",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "2f014f34-c117-4b28-8159-c6565105efa5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38308,
+    "MulMultiMediaRef_key": 20158,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38308/sizes/32030-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.42312759267985034
+        },
+        {
+            "keyword": "male",
+            "score": 0.36400904918619803
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33054059593607604
+        },
+        {
+            "keyword": "social group",
+            "score": 0.3108288433333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3038510466666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2788412
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27686858333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24665746666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24625231666666667
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21753026666666667
+        }
+    ]
+}

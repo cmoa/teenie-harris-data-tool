@@ -1,0 +1,112 @@
+{
+    "objectID": 22834,
+    "irn": 22834,
+    "ecatalogue_key": 13401,
+    "TitAccessionNo": "2001.35.13431",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men eating at tables in interior, with buffet on right and Christmas tree in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.Christmas trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0592e2ba-8fda-46b9-b6d3-0cb60fd7ff12",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29261,
+    "MulMultiMediaRef_key": 13409,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29261/sizes/22834-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 20,
+    "google_text_in_image": "KODAKSAFETY\n",
+    "subjects": [
+        "Food",
+        "Men",
+        "Christmas trees",
+        "Clubs"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christmas trees",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Christmas",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clubs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Food",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28380443333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27792916666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.2422985
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23970695333333333
+        },
+        {
+            "keyword": "event",
+            "score": 0.23392307666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21464348
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.20218054333333335
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.20028946666666667
+        }
+    ]
+}

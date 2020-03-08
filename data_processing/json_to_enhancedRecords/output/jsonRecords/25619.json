@@ -1,0 +1,80 @@
+{
+    "objectID": 25619,
+    "irn": 25619,
+    "ecatalogue_key": 15491,
+    "TitAccessionNo": "2001.35.15521",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Children seated on wooden folding chairs in foreground, with women and children standing behind them, in interior with floral curtains and florescent lights",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47ea94fb-bb7d-4334-a85c-23718b9b2717",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32546,
+    "MulMultiMediaRef_key": 15499,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32546/sizes/25619-1680.jpg",
+    "date_timestamp_earliest": -252460800.0,
+    "date_timestamp_latest": -252460800.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 34,
+    "google_text_in_image": "EXIT\n",
+    "subjects": [
+        "Women",
+        "Children"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "restaurant",
+            "score": 0.280465626763916
+        },
+        {
+            "keyword": "classroom",
+            "score": 0.2737295338024903
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2628699666666667
+        },
+        {
+            "keyword": "institution",
+            "score": 0.24011331666666666
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.23163658333333334
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 22246,
+    "irn": 22246,
+    "ecatalogue_key": 12879,
+    "TitAccessionNo": "2001.35.12909",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Room with organ and bed, two trophies, portraits, and fan in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Organs---Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Musical instruments--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "413319bd-10f8-4727-bd0d-ee211648ea44",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28890,
+    "MulMultiMediaRef_key": 12887,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28890/sizes/22246-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Toy instruments",
+        "Portraits",
+        "Organs",
+        "Musical instruments"
+    ],
+    "keywords": [
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical toy instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Organs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Musical instruments",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30702899
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2835799666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2776506
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "door",
+            "score": 0.26206246281534834
+        },
+        {
+            "keyword": "window",
+            "score": 0.25828829295654304
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24710686666666667
+        },
+        {
+            "keyword": "house",
+            "score": 0.245315698771159
+        }
+    ]
+}

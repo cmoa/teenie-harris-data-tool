@@ -1,0 +1,110 @@
+{
+    "objectID": 57339,
+    "irn": 57339,
+    "ecatalogue_key": 43782,
+    "TitAccessionNo": "2001.35.43824",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark herringbone suit, light colored shirt, moustache, and light colored knit tie, posed in interior with fan on left",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1d0dc8dd-5bc5-4925-b863-f83776101ee1",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65943,
+    "MulMultiMediaRef_key": 43790,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65943/sizes/57339-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Portraits",
+        "Interior architecture"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.46808329852294933
+        },
+        {
+            "keyword": "person",
+            "score": 0.434674850402832
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3137466420825197
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3006842942008463
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2894944166666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2744041333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27363318333333336
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24822893333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22931970000000002
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2041814041137697
+        }
+    ]
+}

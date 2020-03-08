@@ -1,0 +1,111 @@
+{
+    "objectID": 58520,
+    "irn": 58520,
+    "ecatalogue_key": 44666,
+    "TitAccessionNo": "2001.35.44709",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit with bottom button unfastened, and medallion patterned tie, posed in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "1954ba05-c247-4475-9473-5f9a171137fe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67382,
+    "MulMultiMediaRef_key": 44674,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67382/sizes/58520-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Offices",
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.6246262666666667
+        },
+        {
+            "keyword": "professional",
+            "score": 0.3625706098836263
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3377972192333983
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.292002675834147
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2906085666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2794395
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27691526666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "businessperson",
+            "score": 0.25333324018758135
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24358171333333334
+        },
+        {
+            "keyword": "smile",
+            "score": 0.22409322113240568
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21363572333333333
+        }
+    ]
+}

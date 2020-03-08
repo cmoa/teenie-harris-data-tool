@@ -1,0 +1,75 @@
+{
+    "objectID": 36131,
+    "irn": 36131,
+    "ecatalogue_key": 23767,
+    "TitAccessionNo": "2001.35.23798",
+    "CreDateCreated": "1949",
+    "CreEarliestDate": "1949",
+    "CreLatestDate": "1949",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of ransacked room with piles of torn clothes and books on floor and furniture",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "5c035da0-c00b-47c6-af1b-c56dc78d56ee",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42328,
+    "MulMultiMediaRef_key": 23775,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42328/sizes/36131-1680.jpg",
+    "date_timestamp_earliest": -662688000.0,
+    "date_timestamp_latest": -662688000.0,
+    "decades": [
+        "1940s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Clothing and dress"
+    ],
+    "keywords": [
+        {
+            "keyword": "Clothing and dress",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3143113
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29658653333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26855429999999997
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25858156666666665
+        }
+    ]
+}

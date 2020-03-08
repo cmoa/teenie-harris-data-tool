@@ -1,0 +1,101 @@
+{
+    "objectID": 31479,
+    "irn": 31479,
+    "ecatalogue_key": 19681,
+    "TitAccessionNo": "2001.35.19712",
+    "CreDateCreated": "1971",
+    "CreEarliestDate": "1971",
+    "CreLatestDate": "1971",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark belted dance costume, hat, and wand, seated on brick planter, in interior with geometric patterned shag rug",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Dance costume--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cba2c25d-9da6-423a-b5d5-7ea081d28b31",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37568,
+    "MulMultiMediaRef_key": 19689,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37568/sizes/31479-1680.jpg",
+    "date_timestamp_earliest": 31536000.0,
+    "date_timestamp_latest": 31536000.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dance costume",
+        "Portraits",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.33962692065226235
+        },
+        {
+            "keyword": "Dance costume",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31107978
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2870173
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2757578333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24417786666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23827713333333334
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.22729650999999998
+        },
+        {
+            "keyword": "retro style",
+            "score": 0.20685506666666667
+        }
+    ]
+}

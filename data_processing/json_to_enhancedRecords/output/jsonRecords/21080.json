@@ -1,0 +1,91 @@
+{
+    "objectID": 21080,
+    "irn": 21080,
+    "ecatalogue_key": 11855,
+    "TitAccessionNo": "2001.35.11885",
+    "CreDateCreated": "c. 1970",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior view of Martin Luther King, Jr. Reading Room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Books--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "cf0960b3-8ae6-4f8c-ac4f-78f2406903bd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20313,
+    "MulMultiMediaRef_key": 11863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20313/sizes/21080-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": 94694400.0,
+    "decades": [],
+    "people": [
+        "Martin Luther King"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "KODAK SAFETY\n6\n",
+    "subjects": [
+        "Books"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.4038936635172527
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Martin Luther King",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.329382686508789
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3125459
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29514742
+        },
+        {
+            "keyword": "home",
+            "score": 0.2869788852864583
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27638948
+        },
+        {
+            "keyword": "window",
+            "score": 0.2637217508150227
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.25393403333333336
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "objectID": 25646,
+    "irn": 25646,
+    "ecatalogue_key": 15222,
+    "TitAccessionNo": "2001.35.15252",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Two frames of portrait of woman wearing blouse with flat ruffles and portrait of smiling woman wearing v-neck sweater",
+    "CreCountry_tab": "",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "fa1d6f1e-d6e4-4732-9117-980ff4d9787f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31888,
+    "MulMultiMediaRef_key": 15230,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31888/sizes/25646-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4352814633585613
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3324718237101237
+        },
+        {
+            "keyword": "smile",
+            "score": 0.31666556389078765
+        },
+        {
+            "keyword": "facial expression",
+            "score": 0.3136875333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2818915433333333
+        },
+        {
+            "keyword": "emotion",
+            "score": 0.2814439
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2810774833333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "girl",
+            "score": 0.267248
+        },
+        {
+            "keyword": "communication",
+            "score": 0.22349251988220198
+        },
+        {
+            "keyword": "fun",
+            "score": 0.22047026666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20999466666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2065309
+        }
+    ]
+}

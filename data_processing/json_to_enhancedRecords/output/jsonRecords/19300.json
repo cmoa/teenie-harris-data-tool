@@ -1,0 +1,122 @@
+{
+    "objectID": 19300,
+    "irn": 19300,
+    "ecatalogue_key": 10446,
+    "TitAccessionNo": "2001.35.10472",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man standing beside 1950 Plymouth car with sign in background reading \"Easton, we buy & sell cars\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "f6aae027-8db7-4cc1-a77f-5181fef94f11",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26580,
+    "MulMultiMediaRef_key": 10454,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26580/sizes/19300-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [
+        "Plymouth"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Easton",
+            "short_name": "Easton"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "EASTON\n21\n",
+    "subjects": [
+        "Men",
+        "Automobiles"
+    ],
+    "keywords": [
+        {
+            "keyword": "car",
+            "score": 0.36237915569864904
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plymouth",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "1950",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3080619
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.2930549
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2823208333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2776232166666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vehicle",
+            "score": 0.27168753333333334
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2569908
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.24757035666666669
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23331068
+        },
+        {
+            "keyword": "street",
+            "score": 0.21055301537434898
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.20966126666666665
+        }
+    ]
+}

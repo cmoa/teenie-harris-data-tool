@@ -1,0 +1,130 @@
+{
+    "objectID": 36255,
+    "irn": 36255,
+    "ecatalogue_key": 23871,
+    "TitAccessionNo": "2001.35.23902",
+    "CreDateCreated": "c. 1945-1960",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man, possibly Mr. Spencer, wearing three piece suit and diagonally striped tie, seated on plastic covered chair, in domestic interior with floral striped wallpaper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e30e2086-9b45-4b93-ba31-30bb61cebd54",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42441,
+    "MulMultiMediaRef_key": 23879,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42441/sizes/36255-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [
+        "Spencer"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living rooms",
+        "Spencer",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4846817440714517
+        },
+        {
+            "keyword": "man",
+            "score": 0.4448393057373046
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.40790586157836906
+        },
+        {
+            "keyword": "male",
+            "score": 0.3744442296936037
+        },
+        {
+            "keyword": "Living rooms",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Spencer",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3247881296925863
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3068863566666667
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.286731510154012
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28349046666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2832815
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2689049433333333
+        },
+        {
+            "keyword": "smile",
+            "score": 0.26697832073160804
+        },
+        {
+            "keyword": "human",
+            "score": 0.2651261173238118
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23683053333333334
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22252885666666666
+        }
+    ]
+}

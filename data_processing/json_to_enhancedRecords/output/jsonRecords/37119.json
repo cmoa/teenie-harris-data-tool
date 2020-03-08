@@ -1,0 +1,92 @@
+{
+    "objectID": 37119,
+    "irn": 37119,
+    "ecatalogue_key": 24705,
+    "TitAccessionNo": "2001.35.24737",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men and women listening to two men and a woman standing behind carved wooden desk with books, in interior with square patterned carpet and venetian blinds",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "a8b7598b-a642-4cd8-a5c6-1c200ca4082b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43273,
+    "MulMultiMediaRef_key": 24713,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43273/sizes/37119-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 15,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.280910854477946
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2785720333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2741377166666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23408626666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22686806666666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22401038666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21323478333333334
+        }
+    ]
+}

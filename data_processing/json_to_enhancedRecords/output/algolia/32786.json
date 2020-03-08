@@ -1,0 +1,414 @@
+{
+  "objectID": 32786,
+  "irn": 32786,
+  "ecatalogue_key": 20861,
+  "TitAccessionNo": "2001.35.20892",
+  "CreDateCreated": "July 1962",
+  "CreEarliestDate": "1962-07-01",
+  "CreLatestDate": "1962-07-31",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 14, 1962, pg. 9 reads: \"Guests Of Squaws - Among the out-of-town guests at the Squaws' \"Cotton Extravaganza\" at the Hilton Hotel last Thursday night was the above group. Left to right, seated :Mrs. Minnie McClain, Mrs. Henry Crowder and Mrs. Geneva Brown, all of Washington, D.C., and Mrs. Lucille Allen of Cleveland, Ohio.  Standing :Mr. and Mrs. Richard Fingler of Saskatchewan, Canada; Howard Johnson, Rockymount, Va.; Mrs. A.E. Guardeau, Jacksonville, Fla.; Henry Crowder, Washington, D.C.; Mr. and Mrs. Ernest Lyons, Inkster, Mich.; T.S. McClain, Washington, D.C.; Mrs. Dorothy Wilson, New York, and Rufus Allen, Cleveland, Ohio.\"",
+  "TitMainTitle": "Group portrait, seated, from left: Minnie McClain, Mrs. Henry Crowder, Geneva Brown, and Lucille Allen; standing: Mr. and Mrs. Richard Fingler, Howard Johnson, Mrs. A.E. Guardeau, Henry Crowder, Mr. and Mrs. Ernest Lyons, T.S. McClain, Dorothy Wilson, and Rufus Allen, posed in Hilton Hotel for Squaw Club's \"Cotton Extravaganza\"",
+  "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Hilton Hotel (Pittsburgh, Pa.)Hotels--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "51c4820c-f8e9-4712-bfc2-bd7e10cc3883",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39129/sizes/32786-1680.jpg",
+  "datetime": "1962-07-01 00:00:00",
+  "people": [
+    "Richard Fingler",
+    "Henry Crowder",
+    "Lucille Allen",
+    "Ernest Lyons",
+    "Howard Johnson",
+    "Dorothy Wilson",
+    "Geneva Brown",
+    "A.E. Guardeau",
+    "Minnie McClain",
+    "Rufus Allen",
+    "T.S. McClain"
+  ],
+  "places": [
+    {
+      "type": "establishment",
+      "score": 90,
+      "long_name": "Jacksonville Station",
+      "short_name": "Jacksonville Station"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Downtown",
+      "short_name": "Downtown"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Mount Washington",
+      "short_name": "Mt Washington"
+    },
+    {
+      "type": "neighborhood",
+      "score": 80,
+      "long_name": "Northside",
+      "short_name": "Northside"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Bigelow Square",
+      "short_name": "Bigelow Square"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Iron City Drive",
+      "short_name": "Iron City Dr"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Grant Street",
+      "short_name": "Grant St"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pitsburg",
+      "short_name": "Pitsburg"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Rocky Mount",
+      "short_name": "Rocky Mount"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Delafield Road",
+      "short_name": "Delafield Rd"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Clifford Lane",
+      "short_name": "Clifford Ln"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Jacksonville",
+      "short_name": "Jacksonville"
+    },
+    {
+      "type": "colloquial_area",
+      "score": 50,
+      "long_name": "Pittsburg",
+      "short_name": "Pittsburg"
+    },
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Inkster",
+      "short_name": "Inkster"
+    },
+    {
+      "type": "route",
+      "score": 50,
+      "long_name": "Freeport Road",
+      "short_name": "Freeport Rd"
+    },
+    {
+      "type": "colloquial_area",
+      "score": 50,
+      "long_name": "Pittsburgh Junction",
+      "short_name": "Pittsburgh Junction"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Monroe Township",
+      "short_name": "Monroe Township"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "O'Hara Township",
+      "short_name": "O'Hara Township"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Bennington Township",
+      "short_name": "Bennington Township"
+    },
+    {
+      "type": "administrative_area_level_3",
+      "score": 40,
+      "long_name": "Green Township",
+      "short_name": "Green Township"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Darke County",
+      "short_name": "Darke County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Edgecombe County",
+      "short_name": "Edgecombe County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Duval County",
+      "short_name": "Duval County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Polk County",
+      "short_name": "Polk County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Wayne County",
+      "short_name": "Wayne County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Shiawassee County",
+      "short_name": "Shiawassee County"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Harrison County",
+      "short_name": "Harrison County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Ohio",
+      "short_name": "OH"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Saskatchewan",
+      "short_name": "SK"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "North Carolina",
+      "short_name": "NC"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Florida",
+      "short_name": "FL"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Michigan",
+      "short_name": "MI"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "Canada",
+      "short_name": "CA"
+    }
+  ],
+  "people_count": 16,
+  "google_text_in_image": "",
+  "subjects": [
+    "Hotels",
+    "Women",
+    "Clubs",
+    "Pittsburgh courier",
+    "Portraits, Group",
+    "Hotels, motels, etc",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Guests Of Squaws - Among",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "night",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Squaws",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hotels",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Cotton Extravaganza",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Dorothy Wilson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "last Thursday",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Pittsburgh Courier",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": ")Hotels",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Group portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Lucille Allen",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Clubs",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hilton Hotel for Squaw Club's",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Ernest Lyons",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Hilton Hotel ",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "the Hilton Hotel",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Rufus Allen",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Henry Crowder",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Howard Johnson",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "July 14, 1962",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "social group",
+      "score": 0.31539954666666664
+    },
+    {
+      "keyword": "groom",
+      "score": 0.3034188091341146
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3018234
+    },
+    {
+      "keyword": "standing",
+      "score": 0.2972732458740233
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27901356666666666
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "fun",
+      "score": 0.2679749810662842
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.26611858666666666
+    },
+    {
+      "keyword": "wedding",
+      "score": 0.26348923333333335
+    },
+    {
+      "keyword": "event",
+      "score": 0.2533638
+    },
+    {
+      "keyword": "family",
+      "score": 0.24922852078857424
+    },
+    {
+      "keyword": "ceremony",
+      "score": 0.24908523333333332
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.20430191333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39129/sizes/32786-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39129/sizes/32786-210.jpg",
+  "date_timestamp_earliest": -236822400.0,
+  "date_timestamp_latest": -234230400.0,
+  "decades": [
+    "1960s"
+  ]
+}

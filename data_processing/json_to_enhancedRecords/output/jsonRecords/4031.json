@@ -1,0 +1,90 @@
+{
+    "objectID": 4031,
+    "irn": 4031,
+    "ecatalogue_key": 2288,
+    "TitAccessionNo": "2001.35.2291",
+    "CreDateCreated": "c. 1950-1975",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1975",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Interior of bowling alley with ten bowling lanes",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bowling alleys--Pennsylvania--Pittsburgh.Bowling balls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e897dfa9-d946-4a31-918c-d94a553aca8f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16707,
+    "MulMultiMediaRef_key": 2290,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16707/sizes/4031-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 157766400.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Bowling alleys",
+        "Bowling balls"
+    ],
+    "keywords": [
+        {
+            "keyword": "Bowling alleys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Bowling balls",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30699904666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28111973333333334
+        },
+        {
+            "keyword": "bowling",
+            "score": 0.27665158
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2765362666666667
+        },
+        {
+            "keyword": "ten pin bowling",
+            "score": 0.27028586666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24879223333333333
+        },
+        {
+            "keyword": "ball game",
+            "score": 0.22978803333333334
+        },
+        {
+            "keyword": "line",
+            "score": 0.22765111999999998
+        }
+    ]
+}

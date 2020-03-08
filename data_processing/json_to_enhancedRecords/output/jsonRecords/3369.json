@@ -1,0 +1,105 @@
+{
+    "objectID": 3369,
+    "irn": 3369,
+    "ecatalogue_key": 1927,
+    "TitAccessionNo": "2001.35.1930",
+    "CreDateCreated": "c. 1969",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1972",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark jacket, and Roy Eldridge presenting plaque to Walt Harper holding caricature",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Eldridge, Roy, 1911-1989.Men--Pennsylvania--Pittsburgh.Plaques, plaquettes--Pennsylvania--Pittsburgh.Harper, Walter, 1932-",
+    "AdmGUIDValue_tab": "4649c1c8-5a55-418e-bf26-0c1da0dbc43d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18237,
+    "MulMultiMediaRef_key": 1929,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18237/sizes/3369-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": 63072000.0,
+    "decades": [],
+    "people": [
+        "Roy Eldridge",
+        "Walt Harper"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 4,
+    "google_text_in_image": "KODAK S'AFETY\n",
+    "subjects": [
+        "Men",
+        "Plaques, plaquettes"
+    ],
+    "keywords": [
+        {
+            "keyword": "Harper, Walter, 1932",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Roy Eldridge",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Walt Harper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eldridge, Roy, 1911-1989",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Plaques, plaquettes",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27054443333333333
+        },
+        {
+            "keyword": "suit",
+            "score": 0.2666275946085613
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.25899684333333334
+        },
+        {
+            "keyword": "communication",
+            "score": 0.2498920869189453
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.20422158666666668
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.20421528666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2028425
+        }
+    ]
+}

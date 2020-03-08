@@ -1,0 +1,88 @@
+{
+    "objectID": 23075,
+    "irn": 23075,
+    "ecatalogue_key": 13490,
+    "TitAccessionNo": "2001.35.13520",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Children, teenagers, men, and women standing in front of church, with stained glass window in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b6a70f30-81b7-4bc5-8cc5-68ffd5f7a5c5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29592,
+    "MulMultiMediaRef_key": 13498,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29592/sizes/23075-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 58,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Children",
+        "Women",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Children",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2839363
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26413361333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22325553333333334
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.20753253333333332
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20019938666666667
+        }
+    ]
+}

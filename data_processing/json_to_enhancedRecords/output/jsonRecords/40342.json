@@ -1,0 +1,116 @@
+{
+    "objectID": 40342,
+    "irn": 40342,
+    "ecatalogue_key": 27782,
+    "TitAccessionNo": "2001.35.27814",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing striped jacket and diagonally striped tie, seated behind desk in office with aerial view of National Tube Works hanging on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Office furniture--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d03b23cd-9636-4bf0-8889-7b3f6cf6f623",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47027,
+    "MulMultiMediaRef_key": 27790,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47027/sizes/40342-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "National Works\nNational Tube C\n",
+    "subjects": [
+        "Men",
+        "Office furniture",
+        "Portraits",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.401324629943034
+        },
+        {
+            "keyword": "National Tube Works",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Office furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "professional",
+            "score": 0.31422646666341136
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2975113
+        },
+        {
+            "keyword": "communication",
+            "score": 0.27878030940144866
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2737036133333333
+        },
+        {
+            "keyword": "table",
+            "score": 0.27146972877929704
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.25667572
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2372777
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22810854719543458
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.22140873333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.20529016666666666
+        }
+    ]
+}

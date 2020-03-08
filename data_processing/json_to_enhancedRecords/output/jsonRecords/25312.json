@@ -1,0 +1,130 @@
+{
+    "objectID": 25312,
+    "irn": 25312,
+    "ecatalogue_key": 15808,
+    "TitAccessionNo": "2001.35.15838",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing cap and gown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "742caa9f-677a-4684-ba80-50bb9e1a1d04",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32013,
+    "MulMultiMediaRef_key": 15816,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32013/sizes/25312-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "mortarboard",
+            "score": 0.6299518666666667
+        },
+        {
+            "keyword": "graduation",
+            "score": 0.434152794272461
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33356120597127265
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Graduates",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "cap",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "headdress",
+            "score": 0.32771962483723965
+        },
+        {
+            "keyword": "academic dress",
+            "score": 0.31980959999999997
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.3074982726704916
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30122673333333333
+        },
+        {
+            "keyword": "academician",
+            "score": 0.2730221666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27139844333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2677687
+        },
+        {
+            "keyword": "clothing",
+            "score": 0.25216672261556
+        },
+        {
+            "keyword": "phenomenon",
+            "score": 0.2515883
+        },
+        {
+            "keyword": "scholar",
+            "score": 0.2333072833333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23077096666666666
+        },
+        {
+            "keyword": "phd",
+            "score": 0.22410528
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.21792486666666666
+        }
+    ]
+}

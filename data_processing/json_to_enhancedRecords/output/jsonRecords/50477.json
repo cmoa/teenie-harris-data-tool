@@ -1,0 +1,114 @@
+{
+    "objectID": 50477,
+    "irn": 50477,
+    "ecatalogue_key": 37342,
+    "TitAccessionNo": "2001.35.37382",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark cardigan sweater and light colored collared shirt, seated with leg bent in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "25cdc8a5-1f22-4c7b-bb94-94cdcd342cc4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57953,
+    "MulMultiMediaRef_key": 37350,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57953/sizes/50477-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.4517064520548503
+        },
+        {
+            "keyword": "man",
+            "score": 0.44333421126709
+        },
+        {
+            "keyword": "male",
+            "score": 0.39137694540201834
+        },
+        {
+            "keyword": "standing",
+            "score": 0.34492242133260104
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.34306144225585933
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2986797
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28496649
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2759608333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2665056666666667
+        },
+        {
+            "keyword": "smile",
+            "score": 0.253873868040975
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22913276666666668
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22554755333333332
+        },
+        {
+            "keyword": "portrait photography",
+            "score": 0.20434081666666667
+        }
+    ]
+}

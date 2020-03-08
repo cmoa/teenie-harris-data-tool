@@ -1,0 +1,116 @@
+{
+    "objectID": 35502,
+    "irn": 35502,
+    "ecatalogue_key": 23207,
+    "TitAccessionNo": "2001.35.23238",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: unknown safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man, possibly George Poe, wearing plaid suit, seated on arm of striped chair next to carved wooden table, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b64d0b3d-a841-4aac-b5c9-559c138817ed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 41656,
+    "MulMultiMediaRef_key": 23215,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/41656/sizes/35502-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "George Poe"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.429300910752767
+        },
+        {
+            "keyword": "man",
+            "score": 0.390356510546875
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.3584720670015464
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "George Poe",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.30223344074096664
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29700256666666663
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29042366356221516
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28246351
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.27220099999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27035526666666665
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2640176853007
+        },
+        {
+            "keyword": "human",
+            "score": 0.26083433744832357
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22572885
+        }
+    ]
+}

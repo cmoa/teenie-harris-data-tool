@@ -1,0 +1,110 @@
+{
+    "objectID": 55509,
+    "irn": 55509,
+    "ecatalogue_key": 42214,
+    "TitAccessionNo": "2001.35.42256",
+    "CreDateCreated": "c. 1945-1955",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "One story house in development, door, two large windows without glass, and garage without door, and chimney, ladder to roof on backside of house, cement, tools, and dirt, in front yard",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Yards--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Garages--Pennsylvania--Pittsburgh.Chimneys--Pennsylvania.Tools--Pennsylvania--Pittsburgh.Ladders--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "541d01ae-379c-4fab-bc9f-ab87153f26b5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63388,
+    "MulMultiMediaRef_key": 42222,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63388/sizes/55509-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -473385600.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Implements",
+        "Chimneys",
+        "Tools",
+        "Ladders",
+        "Windows",
+        "Garages"
+    ],
+    "keywords": [
+        {
+            "keyword": "architecture",
+            "score": 0.3467624781392417
+        },
+        {
+            "keyword": "Yards",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chimneys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Tools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Ladders",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Garages",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.313200091893514
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29752612
+        },
+        {
+            "keyword": "roof",
+            "score": 0.2546957370137533
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24524896666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23286766666666667
+        },
+        {
+            "keyword": "home",
+            "score": 0.20117643333333335
+        }
+    ]
+}

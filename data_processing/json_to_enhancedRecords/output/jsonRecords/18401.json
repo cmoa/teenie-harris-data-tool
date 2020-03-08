@@ -1,0 +1,78 @@
+{
+    "objectID": 18401,
+    "irn": 18401,
+    "ecatalogue_key": 9823,
+    "TitAccessionNo": "2001.35.9849",
+    "CreDateCreated": "c. 1945-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing plaid shirt and eyeglasses loading laundry into machine at dry cleaners",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dry cleaning--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "b419ed97-b962-4bbe-a823-153d775ad724",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25653,
+    "MulMultiMediaRef_key": 9831,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25653/sizes/18401-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Dry cleaning",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "factory",
+            "score": 0.37024350322672533
+        },
+        {
+            "keyword": "Dry cleaning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31063248666666665
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28825813333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27095816666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2560811
+        }
+    ]
+}

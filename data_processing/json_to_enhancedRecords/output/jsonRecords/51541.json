@@ -1,0 +1,120 @@
+{
+    "objectID": 51541,
+    "irn": 51541,
+    "ecatalogue_key": 38403,
+    "TitAccessionNo": "2001.35.38444",
+    "CreDateCreated": "c. 1935-1945",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing eyeglasses, dark suit, light colored shirt, and patterned tie, writing on paper with pen in hand, seated at desk with placard inscribed \"Mr. Morse,\" telephone, books, and window with shade down, and wall calendar in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "96714863-e478-4b9f-ab00-8a2681896a8d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59032,
+    "MulMultiMediaRef_key": 38411,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59032/sizes/51541-1680.jpg",
+    "date_timestamp_earliest": -1104537600.0,
+    "date_timestamp_latest": -788918400.0,
+    "decades": [],
+    "people": [
+        "Morse"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "MR. MORSE\n",
+    "subjects": [
+        "Calendars",
+        "Windows",
+        "Telephone",
+        "Books",
+        "Portraits",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Calendars",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Telephones",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Morse",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Books",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.307565104011027
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28089324666666665
+        },
+        {
+            "keyword": "professional",
+            "score": 0.27841841117838534
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27061104666666663
+        },
+        {
+            "keyword": "technology",
+            "score": 0.252428529566447
+        },
+        {
+            "keyword": "human behavior",
+            "score": 0.23005918666666667
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.22469726666666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22009241666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2190055333333333
+        }
+    ]
+}

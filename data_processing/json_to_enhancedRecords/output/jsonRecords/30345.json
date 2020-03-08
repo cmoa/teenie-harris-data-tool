@@ -1,0 +1,164 @@
+{
+    "objectID": 30345,
+    "irn": 30345,
+    "ecatalogue_key": 18589,
+    "TitAccessionNo": "2001.35.18619",
+    "CreDateCreated": "June 1952",
+    "CreEarliestDate": "1952-06-01",
+    "CreLatestDate": "1952-06-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 28, 1952, pg. 6 reads: \"Policeman - Samuel Wilson is planning to join the Belmar cooperative. - Harris.\"",
+    "TitMainTitle": "Portrait of Samuel Wilson wearing light colored double pocket shirt, standing outside of brick building with casement windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Rankin.Portraits--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9add349b-14d2-44fa-892d-6a27255e4281",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36258,
+    "MulMultiMediaRef_key": 18597,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36258/sizes/30345-1680.jpg",
+    "date_timestamp_earliest": -554947200.0,
+    "date_timestamp_latest": -552614400.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [
+        "Harris",
+        "Samuel Wilson"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Belmar",
+            "short_name": "Belmar"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {
+        "publication": [
+            "Pittsburgh Courier"
+        ],
+        "date": [
+            "June 28, 1952"
+        ],
+        "page": [
+            "6"
+        ],
+        "cutline": [
+            "Policeman - Samuel Wilson is planning to join the Belmar cooperative. - Harris."
+        ]
+    },
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Pittsburgh courier",
+        "Buildings"
+    ],
+    "keywords": [
+        {
+            "keyword": "person",
+            "score": 0.3943516751342773
+        },
+        {
+            "keyword": "man",
+            "score": 0.38146280715942366
+        },
+        {
+            "keyword": "Harris",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Policeman - Samuel Wilson",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "June 28, 1952",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Samuel Wilson",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "male",
+            "score": 0.32584498070983897
+        },
+        {
+            "keyword": "standing",
+            "score": 0.29790596666666663
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2924561666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28312933333333334
+        },
+        {
+            "keyword": "human",
+            "score": 0.2765974955047607
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.254118
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24529302
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.22475651117757167
+        },
+        {
+            "keyword": "street",
+            "score": 0.220860814211019
+        },
+        {
+            "keyword": "house",
+            "score": 0.21096382278330486
+        },
+        {
+            "keyword": "window",
+            "score": 0.21004846666666666
+        }
+    ]
+}

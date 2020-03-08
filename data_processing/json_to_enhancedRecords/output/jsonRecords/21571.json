@@ -1,0 +1,101 @@
+{
+    "objectID": 21571,
+    "irn": 21571,
+    "ecatalogue_key": 12220,
+    "TitAccessionNo": "2001.35.12250",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Pick-up truck with junk in bed, with houses in background, and front end of car in foreground",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trucks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "50f42a11-a1e8-478e-a526-eef680c89546",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27996,
+    "MulMultiMediaRef_key": 12228,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27996/sizes/21571-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 0,
+    "google_text_in_image": "",
+    "subjects": [
+        "Trucks"
+    ],
+    "keywords": [
+        {
+            "keyword": "vehicle",
+            "score": 0.4551853743408203
+        },
+        {
+            "keyword": "car",
+            "score": 0.3866808719551597
+        },
+        {
+            "keyword": "Trucks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "motor vehicle",
+            "score": 0.3252862
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3123203133333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29276403333333334
+        },
+        {
+            "keyword": "mode of transport",
+            "score": 0.29169263333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26385365
+        },
+        {
+            "keyword": "automotive tire",
+            "score": 0.24923720000000002
+        },
+        {
+            "keyword": "automotive design",
+            "score": 0.24909099999999998
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23615604666666667
+        },
+        {
+            "keyword": "automotive exterior",
+            "score": 0.2264668
+        },
+        {
+            "keyword": "tire",
+            "score": 0.22527470000000002
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "objectID": 58511,
+    "irn": 58511,
+    "ecatalogue_key": 44582,
+    "TitAccessionNo": "2001.35.44625",
+    "CreDateCreated": "c. 1950-1960",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing plaid jacket with pen in breast pocket, ring, and dark faintly striped tie with tie bar, seated at typewriter in office with papers piled on tables in background, possibly in Pittsburgh Courier Newspaper office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Pittsburgh Courier Publishing Co.Typewriters--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7c742e62-61b2-4263-84d4-da4580ea51cf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66336,
+    "MulMultiMediaRef_key": 44590,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66336/sizes/58511-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Typewriters",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.35348901779256203
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Typewriters",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier Publishing Co",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pittsburgh Courier Newspaper",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29440276666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27059493333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2532661666666667
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24543466666666666
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24499509580383302
+        },
+        {
+            "keyword": "professional",
+            "score": 0.24124793156331367
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23043948333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.20090213333333332
+        }
+    ]
+}

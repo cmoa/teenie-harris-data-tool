@@ -1,0 +1,88 @@
+{
+    "objectID": 37111,
+    "irn": 37111,
+    "ecatalogue_key": 24697,
+    "TitAccessionNo": "2001.35.24729",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Men, and women, one wearing dark hat with large bow, seated at long banquet table positioned in doorway in interior with venetian blinds in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9c523d11-8e33-4102-a86d-665f3b0a91c0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43266,
+    "MulMultiMediaRef_key": 24705,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43266/sizes/37111-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 18,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.32700264865681966
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29501036666666663
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2790124666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2571811
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2176342
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20462801
+        }
+    ]
+}

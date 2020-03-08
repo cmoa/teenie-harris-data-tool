@@ -1,0 +1,92 @@
+{
+    "objectID": 5091,
+    "irn": 5091,
+    "ecatalogue_key": 3037,
+    "TitAccessionNo": "2001.35.3044",
+    "CreDateCreated": "c. 1947",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1952",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boys splashing water at indoor pool",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "38562c6b-2b8c-4cac-ba5c-d0e588109ee5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17469,
+    "MulMultiMediaRef_key": 3039,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17469/sizes/5091-1680.jpg",
+    "date_timestamp_earliest": -883612800.0,
+    "date_timestamp_latest": -568080000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 22,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Interior architecture",
+        "Boys",
+        "Swimming pools"
+    ],
+    "keywords": [
+        {
+            "keyword": "water",
+            "score": 0.364345147577718
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Swimming pools",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30748828333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2756459666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26259076666666664
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24010830000000002
+        },
+        {
+            "keyword": "recreation",
+            "score": 0.21016311666666665
+        },
+        {
+            "keyword": "leisure",
+            "score": 0.20112816666666666
+        }
+    ]
+}

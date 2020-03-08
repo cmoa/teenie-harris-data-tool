@@ -1,0 +1,104 @@
+{
+  "objectID": 3983,
+  "irn": 3983,
+  "ecatalogue_key": 2248,
+  "TitAccessionNo": "2001.35.2251",
+  "CreDateCreated": "c. 1950-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two men and a woman standing behind bar with signs for Fleischmann's",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Bars--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "08e9fe80-5c7b-4b32-a356-7763e312e937",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16487/sizes/3983-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [
+    "Fleischmann"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 6,
+  "google_text_in_image": "FLEISCHMANN'S\nLEISCHMANNS\nBAR SPECIAL\nPAUL JONES&\nROLLING ROck\n7 TO 6 PM\n",
+  "subjects": [
+    "Men",
+    "Mirrors",
+    "Women"
+  ],
+  "keywords": [
+    {
+      "keyword": "Fleischmann",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Women",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Mirrors",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Bars",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.3046319333333333
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2766707133333333
+    },
+    {
+      "keyword": "photography",
+      "score": 0.2754721433333333
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "car",
+      "score": 0.2587825866666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.24835723333333334
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16487/sizes/3983-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16487/sizes/3983-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

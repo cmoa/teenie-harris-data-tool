@@ -1,0 +1,121 @@
+{
+    "objectID": 67710,
+    "irn": 67710,
+    "ecatalogue_key": 53508,
+    "TitAccessionNo": "2001.35.53551",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Boy wearing light colored t-shirt on sidewalk in front of brick building with railing, aluminum awning, and neon sign in window reading \ufffdCleaning Tailoring\ufffd",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Dry cleaning--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "9f881cfe-5258-4f6f-9f0a-7750a5e81689",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77932,
+    "MulMultiMediaRef_key": 53517,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77932/sizes/67710-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Buildings",
+        "Sidewalks",
+        "Boys",
+        "Men",
+        "Dry cleaning"
+    ],
+    "keywords": [
+        {
+            "keyword": "street",
+            "score": 0.37733707980183934
+        },
+        {
+            "keyword": "road",
+            "score": 0.3502573480967204
+        },
+        {
+            "keyword": "Buildings",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Sidewalks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Boys",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Dry cleaning",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30577995333333335
+        },
+        {
+            "keyword": "city",
+            "score": 0.30332387857259097
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.3013191
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.28685356666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2829561333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2795519
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "window",
+            "score": 0.265886946685791
+        },
+        {
+            "keyword": "house",
+            "score": 0.2636764741670737
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23557808
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "objectID": 4761,
+    "irn": 4761,
+    "ecatalogue_key": 2750,
+    "TitAccessionNo": "2001.35.2754",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1938",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man seated in a domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "db212fad-877d-46f7-ac66-f3f0eb5690a3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17342,
+    "MulMultiMediaRef_key": 2752,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17342/sizes/4761-1680.jpg",
+    "date_timestamp_earliest": -1009843200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Portraits",
+        "Interior architecture",
+        "Men",
+        "Interiors"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.41224961384684233
+        },
+        {
+            "keyword": "person",
+            "score": 0.3939309493570963
+        },
+        {
+            "keyword": "male",
+            "score": 0.34986768524007167
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.30213109485982265
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3020452666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.28297216666666664
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.28089849939615885
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27330756666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.24636343333333333
+        },
+        {
+            "keyword": "fun",
+            "score": 0.24608413333333334
+        },
+        {
+            "keyword": "human",
+            "score": 0.23796755
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23760785666666664
+        },
+        {
+            "keyword": "cool",
+            "score": 0.23640466666666668
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2210033674359131
+        }
+    ]
+}

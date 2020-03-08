@@ -1,0 +1,111 @@
+{
+  "objectID": 18518,
+  "irn": 18518,
+  "ecatalogue_key": 9948,
+  "TitAccessionNo": "2001.35.9974",
+  "CreDateCreated": "c. 1945-1970",
+  "CreEarliestDate": "1945",
+  "CreLatestDate": "1970",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "The other man wears shirt embroidered with \"Maint Dept.\"",
+  "TitMainTitle": "\"John\" holding wrench, and another man pulling cord on large piece of machinery, with shelving in background stacked with spare parts and boxes with handwritten labels",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Workers--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "37f39482-1ca2-41ca-9a97-ed2b24b7c339",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25815/sizes/18518-1680.jpg",
+  "datetime": "1945-01-01 00:00:00",
+  "people": [
+    "John"
+  ],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "John",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "John",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Maint Dept",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Workers",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.30582324666666666
+    },
+    {
+      "keyword": "motor vehicle",
+      "score": 0.2965335666666667
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2704614
+    },
+    {
+      "keyword": "automotive tire",
+      "score": 0.23663873333333332
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.23276251666666667
+    },
+    {
+      "keyword": "auto part",
+      "score": 0.22695628666666667
+    },
+    {
+      "keyword": "wheel",
+      "score": 0.221212947765096
+    },
+    {
+      "keyword": "tire",
+      "score": 0.20874683333333333
+    },
+    {
+      "keyword": "car",
+      "score": 0.20843602448933932
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25815/sizes/18518-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25815/sizes/18518-210.jpg",
+  "date_timestamp_earliest": -788918400.0,
+  "date_timestamp_latest": 0.0,
+  "decades": []
+}

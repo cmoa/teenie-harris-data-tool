@@ -1,0 +1,82 @@
+{
+    "objectID": 19525,
+    "irn": 19525,
+    "ecatalogue_key": 10222,
+    "TitAccessionNo": "2001.35.10248",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Four women wearing short sleeved or sleeveless dresses, and nineteen men wearing neck ties and shirt sleeves, posed in room with checkered linoleum floor, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e7d84e78-e249-4d40-870d-824623f954e7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26637,
+    "MulMultiMediaRef_key": 10230,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26637/sizes/19525-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 24,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "social group",
+            "score": 0.30459949999999997
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2882415333333333
+        },
+        {
+            "keyword": "team",
+            "score": 0.273358877849121
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2636932
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23396438333333333
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21719423333333332
+        }
+    ]
+}

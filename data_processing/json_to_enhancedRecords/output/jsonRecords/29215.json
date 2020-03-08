@@ -1,0 +1,98 @@
+{
+    "objectID": 29215,
+    "irn": 29215,
+    "ecatalogue_key": 17848,
+    "TitAccessionNo": "2001.35.17878",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Three women and two men, one wearing large closed fist pendant, posed behind railing of riverboat",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Riverboats--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45542357-7991-49d5-94f8-61da2483455a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 34797,
+    "MulMultiMediaRef_key": 17856,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/34797/sizes/29215-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Riverboats",
+            "short_name": "Riverboats"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 5,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women",
+        "River boats",
+        "Portraits, Group"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Riverboats",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Group portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3008809666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27860026666666665
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2594569133333333
+        },
+        {
+            "keyword": "house",
+            "score": 0.21650651651916505
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21634693333333332
+        }
+    ]
+}

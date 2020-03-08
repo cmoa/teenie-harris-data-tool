@@ -1,0 +1,82 @@
+{
+    "objectID": 25687,
+    "irn": 25687,
+    "ecatalogue_key": 15228,
+    "TitAccessionNo": "2001.35.15258",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd of men, women and children standing outdoors, with man wearing sombrero and garage with two doors in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Garages--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ca8038fb-7a16-4f83-8058-91b6a1cd775b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31652,
+    "MulMultiMediaRef_key": 15236,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31652/sizes/25687-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 27,
+    "google_text_in_image": "ls\n20\nKODAK SAFETY\nF ILM\n",
+    "subjects": [
+        "Garages",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "Garages",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3066085
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27685483333333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26809473333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.2655652
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24760566666666664
+        }
+    ]
+}

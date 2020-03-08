@@ -1,0 +1,91 @@
+{
+    "objectID": 34177,
+    "irn": 34177,
+    "ecatalogue_key": 22200,
+    "TitAccessionNo": "2001.35.22231",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man pointing to scratch in wooden door with diamond, four paned window, in interior with wooden floors and jacquard furniture",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Doors--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ce143eed-56ee-4282-bd18-75f66811abe3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40657,
+    "MulMultiMediaRef_key": 22208,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40657/sizes/34177-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Living room furniture",
+        "Doors",
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "Living room furniture",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Doors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3112261288812256
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30726115
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27698608333333335
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27671748333333335
+        },
+        {
+            "keyword": "door",
+            "score": 0.275808984256185
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23675175666666667
+        }
+    ]
+}

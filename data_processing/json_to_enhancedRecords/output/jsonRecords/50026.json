@@ -1,0 +1,110 @@
+{
+    "objectID": 50026,
+    "irn": 50026,
+    "ecatalogue_key": 36852,
+    "TitAccessionNo": "2001.35.36892",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of man wearing dark suit, dark bow tie, and eyeglasses with single lens, posed leaning on table with ledger in foreground, possibly in city office with three arched windows",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "724febfc-dee3-4e01-b357-b600752e88b3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 57421,
+    "MulMultiMediaRef_key": 36860,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/57421/sizes/50026-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.452554464095052
+        },
+        {
+            "keyword": "person",
+            "score": 0.4279054422135417
+        },
+        {
+            "keyword": "male",
+            "score": 0.39594603145751966
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.38826754501953137
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2984724833333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2803837
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2697039
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.25277086178792335
+        },
+        {
+            "keyword": "standing",
+            "score": 0.25267929
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2462486
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2417929
+        },
+        {
+            "keyword": "conversation",
+            "score": 0.20079575000000002
+        }
+    ]
+}

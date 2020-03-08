@@ -1,0 +1,103 @@
+{
+    "objectID": 25069,
+    "irn": 25069,
+    "ecatalogue_key": 15010,
+    "TitAccessionNo": "2001.35.15040",
+    "CreDateCreated": "1967",
+    "CreEarliestDate": "1967",
+    "CreLatestDate": "1967",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Seven men seated on three sides of banquet table in room with bold leaf patterned carpeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "96eee09b-4c8a-4812-8466-c895ad18da91",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31601,
+    "MulMultiMediaRef_key": 15018,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31601/sizes/25069-1680.jpg",
+    "date_timestamp_earliest": -94694400.0,
+    "date_timestamp_latest": -94694400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.43656579529541
+        },
+        {
+            "keyword": "male",
+            "score": 0.383833092964681
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30005513333333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27444823333333335
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2687895666666667
+        },
+        {
+            "keyword": "event",
+            "score": 0.23868406666666667
+        },
+        {
+            "keyword": "ceremony",
+            "score": 0.23666078000000002
+        },
+        {
+            "keyword": "wedding",
+            "score": 0.22933293333333335
+        },
+        {
+            "keyword": "tableware",
+            "score": 0.22068238333333334
+        },
+        {
+            "keyword": "banquet",
+            "score": 0.21906266666666666
+        },
+        {
+            "keyword": "fun",
+            "score": 0.21688471333333334
+        },
+        {
+            "keyword": "rehearsal dinner",
+            "score": 0.20347098666666666
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "objectID": 47154,
+    "irn": 47154,
+    "ecatalogue_key": 34238,
+    "TitAccessionNo": "2001.35.34273",
+    "CreDateCreated": "c. 1940-1950",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing dark three piece suit, seated at desk with large books and ledgers, including \"Assessment Record 1942\", possibly in Pittsburgh city offices",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "af77aee6-07de-41eb-abdd-8e55e8ebf499",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 53926,
+    "MulMultiMediaRef_key": 34246,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/53926/sizes/47154-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Portraits",
+        "Offices"
+    ],
+    "keywords": [
+        {
+            "keyword": "sitting",
+            "score": 0.35735840104370137
+        },
+        {
+            "keyword": "table",
+            "score": 0.34633014833333337
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Assessment Record 1942\"",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Offices",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "furniture",
+            "score": 0.31319984776560467
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30150133333333334
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27225075
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26477984666666665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24081486666666665
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "objectID": 21901,
+    "irn": 21901,
+    "ecatalogue_key": 12582,
+    "TitAccessionNo": "2001.35.12612",
+    "CreDateCreated": "1970",
+    "CreEarliestDate": "1970",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing crown and Mona Lisa Modeling club member wearing matching floral halter pantsuit, posed possibly at the Roosevelt Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "48bbb3c6-94d8-43a1-b0fd-b36b6496c468",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28555,
+    "MulMultiMediaRef_key": 12590,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28555/sizes/21901-1680.jpg",
+    "date_timestamp_earliest": 0.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [
+        "1970s"
+    ],
+    "people": [
+        "Mona Lisa Modeling"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "the Roosevelt Hotel",
+            "short_name": "the Roosevelt Hotel"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "KODAK SAFETY FILM\n9\n",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "the Roosevelt Hotel",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.31360689999999997
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.29706473333333333
+        },
+        {
+            "keyword": "dress",
+            "score": 0.2870629107179769
+        },
+        {
+            "keyword": "standing",
+            "score": 0.2849698
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2789525
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "human",
+            "score": 0.26043901945190434
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24700916666666664
+        },
+        {
+            "keyword": "girl",
+            "score": 0.23431519999999997
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.21810348666666668
+        },
+        {
+            "keyword": "darkness",
+            "score": 0.20766828333333334
+        }
+    ]
+}

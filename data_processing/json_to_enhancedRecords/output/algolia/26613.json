@@ -1,0 +1,123 @@
+{
+  "objectID": 26613,
+  "irn": 26613,
+  "ecatalogue_key": 16329,
+  "TitAccessionNo": "2001.35.16359",
+  "CreDateCreated": "1966",
+  "CreEarliestDate": "1966",
+  "CreLatestDate": "1966",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Two men wearing dark suits, standing beside table with documents and ledgers, in interior",
+  "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "5aa76eea-631c-4ce9-bc60-ec212c247a87",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32854/sizes/26613-1680.jpg",
+  "datetime": "1966-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 2,
+  "google_text_in_image": "",
+  "subjects": [
+    "Portraits",
+    "Men"
+  ],
+  "keywords": [
+    {
+      "keyword": "suit",
+      "score": 0.5294109707926433
+    },
+    {
+      "keyword": "man",
+      "score": 0.4908654346598307
+    },
+    {
+      "keyword": "male",
+      "score": 0.4207822875
+    },
+    {
+      "keyword": "standing",
+      "score": 0.340806275842285
+    },
+    {
+      "keyword": "Portraits",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Men",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "professional",
+      "score": 0.3026083614575197
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.2925434666666667
+    },
+    {
+      "keyword": "photography",
+      "score": 0.27934998333333333
+    },
+    {
+      "keyword": "gentleman",
+      "score": 0.2792021
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.2553493333333333
+    },
+    {
+      "keyword": "formal wear",
+      "score": 0.24584216666666667
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22507263333333336
+    },
+    {
+      "keyword": "businessman",
+      "score": 0.22392267862955736
+    },
+    {
+      "keyword": "fun",
+      "score": 0.20798143333333333
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32854/sizes/26613-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32854/sizes/26613-210.jpg",
+  "date_timestamp_earliest": -126230400.0,
+  "date_timestamp_latest": -126230400.0,
+  "decades": [
+    "1960s"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+    "objectID": 44115,
+    "irn": 44115,
+    "ecatalogue_key": 31429,
+    "TitAccessionNo": "2001.35.31462",
+    "CreDateCreated": "c. 1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Five men, including William Nunn seated at table, and woman seated in chairs on stage behind small table with beverages",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Nunn, William G.",
+    "AdmGUIDValue_tab": "9f3d2bf9-3666-415c-ad75-1e2662079b29",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51628,
+    "MulMultiMediaRef_key": 31437,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51628/sizes/44115-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -631152000.0,
+    "decades": [],
+    "people": [
+        "William Nunn"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 6,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Nunn, William G",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "William Nunn",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2822091766666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26797068
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.23302747666666668
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22029416666666668
+        }
+    ]
+}

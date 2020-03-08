@@ -1,0 +1,143 @@
+{
+    "objectID": 3042,
+    "irn": 3042,
+    "ecatalogue_key": 1612,
+    "TitAccessionNo": "2001.35.1614",
+    "CreDateCreated": "c. 1950-1965",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of Evelyn Childress playing a piano against mirrored wall in restaurant or lounge",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pianists--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "79b3f8fb-5d16-42c3-9257-8935627b8958",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15299,
+    "MulMultiMediaRef_key": 1614,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15299/sizes/3042-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": -157766400.0,
+    "decades": [],
+    "people": [
+        "Evelyn Childress"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 2,
+    "google_text_in_image": "",
+    "subjects": [
+        "Pianists",
+        "Microphone",
+        "Women",
+        "Mirrors",
+        "Chairs"
+    ],
+    "keywords": [
+        {
+            "keyword": "piano",
+            "score": 0.4132272177376303
+        },
+        {
+            "keyword": "Pianists",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Pianos",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Microphone",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Mirrors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Chairs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "music",
+            "score": 0.30432052441935237
+        },
+        {
+            "keyword": "keyboard",
+            "score": 0.29982277253214534
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.28910321
+        },
+        {
+            "keyword": "musical keyboard",
+            "score": 0.27280481666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26707852
+        },
+        {
+            "keyword": "technology",
+            "score": 0.25428934784159346
+        },
+        {
+            "keyword": "musical instrument accessory",
+            "score": 0.24287808
+        },
+        {
+            "keyword": "musical instrument",
+            "score": 0.24076756666666665
+        },
+        {
+            "keyword": "electronic device",
+            "score": 0.23820726666666667
+        },
+        {
+            "keyword": "pianist",
+            "score": 0.23374142333333334
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.22606895333333332
+        },
+        {
+            "keyword": "session musician",
+            "score": 0.21698446666666668
+        },
+        {
+            "keyword": "electronic instrument",
+            "score": 0.21048586666666666
+        },
+        {
+            "keyword": "digital piano",
+            "score": 0.20593073333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.20110899999999998
+        }
+    ]
+}

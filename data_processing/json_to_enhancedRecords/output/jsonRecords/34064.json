@@ -1,0 +1,97 @@
+{
+    "objectID": 34064,
+    "irn": 34064,
+    "ecatalogue_key": 21981,
+    "TitAccessionNo": "2001.35.22012",
+    "CreDateCreated": "1966",
+    "CreEarliestDate": "1966",
+    "CreLatestDate": "1966",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Six men standing together, including one man holding envelope and another man holding hat, in interior with sign inscribed \"Training Unit\" in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "c4eb5dac-b652-43cc-ba9a-6c72ad18d302",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40421,
+    "MulMultiMediaRef_key": 21989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40421/sizes/34064-1680.jpg",
+    "date_timestamp_earliest": -126230400.0,
+    "date_timestamp_latest": -126230400.0,
+    "decades": [
+        "1960s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 7,
+    "google_text_in_image": "TRAINING UNIT\n",
+    "subjects": [
+        "Signs and signboards",
+        "Men",
+        "Signs and symbols"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4257782401285806
+        },
+        {
+            "keyword": "Signs",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3062813390934243
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29349563333333334
+        },
+        {
+            "keyword": "suit",
+            "score": 0.28208096653238934
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2762348866666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2671107466666667
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24799438333333335
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23970518666666665
+        }
+    ]
+}

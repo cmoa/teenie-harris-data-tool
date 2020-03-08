@@ -1,0 +1,123 @@
+{
+  "objectID": 12785,
+  "irn": 12785,
+  "ecatalogue_key": 6535,
+  "TitAccessionNo": "2001.35.6546",
+  "CreDateCreated": "c. 1970-1975",
+  "CreEarliestDate": "1970",
+  "CreLatestDate": "1975",
+  "PhyMediumComments": "black-and-white: Kodak safety film",
+  "CatDescriptText": "",
+  "TitMainTitle": "Children including girl drinking milk, and adolescents, seated on curb",
+  "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.",
+  "AdmGUIDValue_tab": "4c9a21cc-63ad-410d-9ab5-6ace721687c5",
+  "AdmPublishWebNoPassword": "Yes",
+  "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22466/sizes/12785-1680.jpg",
+  "datetime": "1970-01-01 00:00:00",
+  "people": [],
+  "places": [
+    {
+      "type": "locality",
+      "score": 50,
+      "long_name": "Pittsburgh",
+      "short_name": "Pittsburgh"
+    },
+    {
+      "type": "administrative_area_level_2",
+      "score": 30,
+      "long_name": "Allegheny County",
+      "short_name": "Allegheny County"
+    },
+    {
+      "type": "administrative_area_level_1",
+      "score": 20,
+      "long_name": "Pennsylvania",
+      "short_name": "PA"
+    },
+    {
+      "type": "country",
+      "score": 10,
+      "long_name": "United States",
+      "short_name": "US"
+    }
+  ],
+  "people_count": 7,
+  "google_text_in_image": "",
+  "subjects": [
+    "Children",
+    "Buildings"
+  ],
+  "keywords": [
+    {
+      "keyword": "child",
+      "score": 0.438064383626302
+    },
+    {
+      "keyword": "people",
+      "score": 0.4289680423461913
+    },
+    {
+      "keyword": "person",
+      "score": 0.38916975722127267
+    },
+    {
+      "keyword": "Children",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "Buildings",
+      "score": 0.3333333333333333
+    },
+    {
+      "keyword": "sitting",
+      "score": 0.3271733437652588
+    },
+    {
+      "keyword": "black and white",
+      "score": 0.29275263333333335
+    },
+    {
+      "keyword": "family",
+      "score": 0.2788989103955077
+    },
+    {
+      "keyword": "standing",
+      "score": 0.27611951
+    },
+    {
+      "keyword": "snapshot",
+      "score": 0.27255816666666666
+    },
+    {
+      "keyword": "photography",
+      "score": 0.265183
+    },
+    {
+      "keyword": "monochrome photography",
+      "score": 0.25240479
+    },
+    {
+      "keyword": "human behavior",
+      "score": 0.24619973333333334
+    },
+    {
+      "keyword": "fun",
+      "score": 0.23110011957784035
+    },
+    {
+      "keyword": "monochrome",
+      "score": 0.22248366666666666
+    },
+    {
+      "keyword": "girl",
+      "score": 0.21177116666666665
+    }
+  ],
+  "image_url_small": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22466/sizes/12785-840.jpg",
+  "image_url_thumb": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22466/sizes/12785-210.jpg",
+  "date_timestamp_earliest": 0.0,
+  "date_timestamp_latest": 157766400.0,
+  "decades": [
+    "1970s"
+  ]
+}

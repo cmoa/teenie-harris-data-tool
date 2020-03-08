@@ -1,0 +1,93 @@
+{
+    "objectID": 6180,
+    "irn": 6180,
+    "ecatalogue_key": 3623,
+    "TitAccessionNo": "2001.35.3631",
+    "CreDateCreated": "September 1938",
+    "CreEarliestDate": "1938-09-01",
+    "CreLatestDate": "1938-09-30",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Group including boxer Joe Louis, and woman, possibly seated in courtroom, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Louis, Joe, 1914-Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "d33316d6-2d8c-43ba-932c-275ff1d19093",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18729,
+    "MulMultiMediaRef_key": 3626,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18729/sizes/6180-1680.jpg",
+    "date_timestamp_earliest": -988848000.0,
+    "date_timestamp_latest": -986342400.0,
+    "decades": [
+        "1930s"
+    ],
+    "people": [
+        "Joe Louis"
+    ],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 12,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Windows",
+        "Interior architecture",
+        "Desks",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Louis, Joe, 1914-Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Windows",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Desks",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Joe Louis",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.26245715333333336
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26158713333333333
+        },
+        {
+            "keyword": "communication",
+            "score": 0.24055409118347168
+        }
+    ]
+}

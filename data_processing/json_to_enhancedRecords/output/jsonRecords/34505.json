@@ -1,0 +1,109 @@
+{
+    "objectID": 34505,
+    "irn": 34505,
+    "ecatalogue_key": 22346,
+    "TitAccessionNo": "2001.35.22377",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing light colored plaid dress, standing with foot on step, in front of corner of brick house",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "120e8862-a4fb-4aa9-ad89-aac0ea119b26",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40860,
+    "MulMultiMediaRef_key": 22354,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40860/sizes/34505-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "standing",
+            "score": 0.349164416231486
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Houses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "dress",
+            "score": 0.3110320403844198
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3058059
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.28102264666666665
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27988256666666667
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.2649877666666667
+        },
+        {
+            "keyword": "human",
+            "score": 0.25965862135864254
+        },
+        {
+            "keyword": "street",
+            "score": 0.2585689092614747
+        },
+        {
+            "keyword": "girl",
+            "score": 0.2500749
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24392633333333333
+        },
+        {
+            "keyword": "sitting",
+            "score": 0.24166903333333334
+        },
+        {
+            "keyword": "house",
+            "score": 0.20647891333333335
+        }
+    ]
+}

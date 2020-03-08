@@ -1,0 +1,103 @@
+{
+    "objectID": 49980,
+    "irn": 49980,
+    "ecatalogue_key": 36785,
+    "TitAccessionNo": "2001.35.36825",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of woman wearing dark dress with light colored pocket trim and front near shoulders, standing beside wooden desk and baseball trophy, in domestic interior with stripe and floral wallpaper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0b02db24-26f2-46bc-8aeb-b3066e3b4740",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 56984,
+    "MulMultiMediaRef_key": 36793,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/56984/sizes/49980-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Women",
+        "Portraits",
+        "Trophies"
+    ],
+    "keywords": [
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Trophies",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "standing",
+            "score": 0.3227541651463826
+        },
+        {
+            "keyword": "lady",
+            "score": 0.31533151342264815
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.3004023433333333
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27975211666666666
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.26770936666666667
+        },
+        {
+            "keyword": "girl",
+            "score": 0.25652674999999997
+        },
+        {
+            "keyword": "window",
+            "score": 0.22676115344645184
+        },
+        {
+            "keyword": "vintage clothing",
+            "score": 0.22227798
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.21438559000000001
+        }
+    ]
+}

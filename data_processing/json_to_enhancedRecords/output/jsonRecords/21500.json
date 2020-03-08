@@ -1,0 +1,148 @@
+{
+    "objectID": 21500,
+    "irn": 21500,
+    "ecatalogue_key": 12182,
+    "TitAccessionNo": "2001.35.12212",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Crowd of people at the corner of Colwell and Vine Streets, with car with bullhorn and building with fire escape in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "e17100b3-e9de-4073-aa55-904ef36b53dc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28019,
+    "MulMultiMediaRef_key": 12190,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28019/sizes/21500-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Colwell",
+            "short_name": "Colwell"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Vine Streets",
+            "short_name": "Vine Streets"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 13,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Automobiles",
+        "Women",
+        "Crowds"
+    ],
+    "keywords": [
+        {
+            "keyword": "building",
+            "score": 0.422029422993978
+        },
+        {
+            "keyword": "street",
+            "score": 0.42043522956542967
+        },
+        {
+            "keyword": "town",
+            "score": 0.411413335687256
+        },
+        {
+            "keyword": "city",
+            "score": 0.3856762901652016
+        },
+        {
+            "keyword": "house",
+            "score": 0.3586428865966797
+        },
+        {
+            "keyword": "road",
+            "score": 0.33745360650634765
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Automobiles",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Vine Streets",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Crowds",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "history",
+            "score": 0.32836768037923164
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30706496666666666
+        },
+        {
+            "keyword": "infrastructure",
+            "score": 0.29947614666666666
+        },
+        {
+            "keyword": "facade",
+            "score": 0.29335471565144866
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2874995866666667
+        },
+        {
+            "keyword": "urban area",
+            "score": 0.2864175
+        },
+        {
+            "keyword": "photography",
+            "score": 0.26268001333333335
+        },
+        {
+            "keyword": "window",
+            "score": 0.24853502563069665
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.24436271333333334
+        },
+        {
+            "keyword": "neighbourhood",
+            "score": 0.24303929999999999
+        }
+    ]
+}

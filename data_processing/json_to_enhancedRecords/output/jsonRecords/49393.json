@@ -1,0 +1,96 @@
+{
+    "objectID": 49393,
+    "irn": 49393,
+    "ecatalogue_key": 36234,
+    "TitAccessionNo": "2001.35.36274",
+    "CreDateCreated": "c. 1940-1960",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1960",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Audience of men, women, and children seated in auditorium on ground level and balcony, with clock reading \"8:54\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Auditoriums--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "6ab55e8f-8d86-4bda-ad59-cb7f2044f297",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 56443,
+    "MulMultiMediaRef_key": 36242,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/56443/sizes/49393-1680.jpg",
+    "date_timestamp_earliest": -946771200.0,
+    "date_timestamp_latest": -315619200.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 19,
+    "google_text_in_image": "",
+    "subjects": [
+        "Auditoriums",
+        "Audiences",
+        "Men",
+        "Women"
+    ],
+    "keywords": [
+        {
+            "keyword": "Auditoriums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Women",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "8:54",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.3329549551457723
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.29708612
+        },
+        {
+            "keyword": "audience",
+            "score": 0.28554445666666667
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2757119
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.2536677666666667
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.23546426666666667
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "objectID": 23096,
+    "irn": 23096,
+    "ecatalogue_key": 13495,
+    "TitAccessionNo": "2001.35.13525",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Man wearing clergy hat and academic robe standing inside religious bookstore",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clergy--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Stores, Retail--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ab94e669-007c-47e6-ba49-a8430694d23d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29603,
+    "MulMultiMediaRef_key": 13503,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29603/sizes/23096-1680.jpg",
+    "date_timestamp_earliest": -631152000.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Men",
+        "Stores, Retail",
+        "Clergy"
+    ],
+    "keywords": [
+        {
+            "keyword": "man",
+            "score": 0.4390472263183593
+        },
+        {
+            "keyword": "male",
+            "score": 0.36537102647705066
+        },
+        {
+            "keyword": "standing",
+            "score": 0.33435673996256504
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Stores, Retail",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Clergy",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.30125169
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27749991333333335
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.27007291666666666
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.2609664333333333
+        },
+        {
+            "keyword": "human",
+            "score": 0.25228629720967605
+        },
+        {
+            "keyword": "suit",
+            "score": 0.24960460742350268
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.23769268274108898
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2270361333333333
+        },
+        {
+            "keyword": "street",
+            "score": 0.21083624999999998
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "objectID": 2147,
+    "irn": 2147,
+    "ecatalogue_key": 745,
+    "TitAccessionNo": "2001.35.747",
+    "CreDateCreated": "c. 1950-1970",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1970",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Basketball players and fans on sidelines during game",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Basketball teams--Pennsylvania--Pittsburgh.Basketball players--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "7c26ce92-d826-4393-9c2d-8b83b1783879",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19131,
+    "MulMultiMediaRef_key": 747,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19131/sizes/2147-1680.jpg",
+    "date_timestamp_earliest": -788918400.0,
+    "date_timestamp_latest": 0.0,
+    "decades": [],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 38,
+    "google_text_in_image": "",
+    "subjects": [
+        "Gymnasiums",
+        "Basketball players",
+        "Basketball teams",
+        "Audiences"
+    ],
+    "keywords": [
+        {
+            "keyword": "Gymnasiums",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basketball players",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Basketball teams",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Audiences",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "crowd",
+            "score": 0.33259935393575035
+        },
+        {
+            "keyword": "social group",
+            "score": 0.31551208000000003
+        },
+        {
+            "keyword": "photography",
+            "score": 0.27803675333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.27740729000000003
+        },
+        {
+            "keyword": "audience",
+            "score": 0.24475548666666666
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.22288753333333333
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.21439031666666666
+        },
+        {
+            "keyword": "event",
+            "score": 0.20391158333333334
+        }
+    ]
+}

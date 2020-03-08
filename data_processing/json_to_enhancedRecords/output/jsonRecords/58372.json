@@ -1,0 +1,125 @@
+{
+    "objectID": 58372,
+    "irn": 58372,
+    "ecatalogue_key": 44491,
+    "TitAccessionNo": "2001.35.44534",
+    "CreDateCreated": "c. 1955",
+    "CreEarliestDate": "1952",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "",
+    "TitMainTitle": "Portrait of a man wearing eyeglasses, plaid shirt, diagonally striped and floral necktie with clip, and a dark jacket with pens in left breast pocket, standing in interior with light colored walls and monkey head on left that reads \"Canada\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "ddd5fb97-b55c-442a-b7cb-1cdd26e203d2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66385,
+    "MulMultiMediaRef_key": 44499,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66385/sizes/58372-1680.jpg",
+    "date_timestamp_earliest": -568080000.0,
+    "date_timestamp_latest": -378691200.0,
+    "decades": [
+        "1950s"
+    ],
+    "people": [],
+    "places": [
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Canada",
+            "short_name": "Canada"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pennsylvania",
+            "short_name": "Pennsylvania"
+        },
+        {
+            "type": "place",
+            "score": 100,
+            "long_name": "Pittsburgh",
+            "short_name": "Pittsburgh"
+        }
+    ],
+    "bibliography": {},
+    "people_count": 1,
+    "google_text_in_image": "",
+    "subjects": [
+        "Interiors",
+        "Men",
+        "Portraits",
+        "Interior architecture",
+        "Eyeglasses"
+    ],
+    "keywords": [
+        {
+            "keyword": "suit",
+            "score": 0.4608770489111326
+        },
+        {
+            "keyword": "standing",
+            "score": 0.353497664823405
+        },
+        {
+            "keyword": "professional",
+            "score": 0.33735203603434233
+        },
+        {
+            "keyword": "portrait",
+            "score": 0.33721648316446934
+        },
+        {
+            "keyword": "Interiors",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Eyeglasses",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Portraits",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "Men",
+            "score": 0.3333333333333333
+        },
+        {
+            "keyword": "black and white",
+            "score": 0.2902666333333333
+        },
+        {
+            "keyword": "gentleman",
+            "score": 0.28299002
+        },
+        {
+            "keyword": "photography",
+            "score": 0.2774429133333333
+        },
+        {
+            "keyword": "snapshot",
+            "score": 0.27255816666666666
+        },
+        {
+            "keyword": "smile",
+            "score": 0.2500154460469563
+        },
+        {
+            "keyword": "monochrome photography",
+            "score": 0.24645668333333334
+        },
+        {
+            "keyword": "monochrome",
+            "score": 0.2266584
+        },
+        {
+            "keyword": "businessman",
+            "score": 0.21206113179524733
+        }
+    ]
+}
