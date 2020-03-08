@@ -47,6 +47,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 | `data_processing/json_to_enhancedRecords` |  |
 |--------------|---------------------------|
 | Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, <br>`conda env create -f environment.yml`|
+| Config | You will need a Google Geocoding API Key in order to generate location data <br> Include it (here)[https://github.com/cmoa/teenie-harris-data-tool/blob/49c908d7ab3e1ba552980e80aa16aa3b20913809/data_processing/json_to_enhancedRecords/processEntries.py#L189]|
 | Running      | `python processEntries.py`|
 | Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       | Records in `data_processing/emuCsv_to_json/output/jsonRecords` <br> Processed data from the [Teenie Harris Project](https://github.com/CreativeInquiry/TeenieHarrisProject) (included in this repo)  |
