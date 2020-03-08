@@ -4,7 +4,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 ## Data Processing
 
-`data_processing` contains a number of scripts that were used to work with the data. Each script is in its own folder with its own inputs / outputs. Because the archive is so large, you will see that we've added `--max-old-space-size=8192` to each node command in order to increase the memory to 8GB for each process. 
+`data_processing` contains a number of scripts that were used to work with the data. Each script is in its own folder with its own inputs / outputs.
 
 ### 1. Converting EMu CSV to JSON
 
@@ -85,7 +85,6 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 |--------------|---------------------------|
 | Installation | Download and install [Conda](https://conda.io/projects/conda/en/latest/index.html) <br> From the `data_processing` directory, <br>`conda env create -f environment.yml`|
 | Running      | `python makeRelatedMap.py`|
-| Optional Arguments | `--help` Show the help message <br> `--irn IRN`  Specify specific record for processing |
 | Inputs       | Records in `data_processing/json_to_enhancedRecords/output/jsonRecords` |
 | Outputs      |  [`relatedMap.json`](https://github.com/cmoa/teenie-harris-data-tool/blob/master/data_processing/enhancedRecords_to_relatedMap/output/relatedMap.json) - a dictionary that maps a keyword to a list of records (by IRN) containing that keyword |
 
