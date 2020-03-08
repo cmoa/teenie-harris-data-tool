@@ -6,16 +6,43 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 `data_processing` contains a number of scripts that were used to work with the data. Each script is in its own folder with its own inputs / outputs. Because the archive is so large, you will see that we've added `--max-old-space-size=8192` to each node command in order to increase the memory to 8GB for each process. 
 
-#### 1. Converting EMu CSV to JSON
+### 1. Converting EMu CSV to JSON
 
 | `data_processing/emuCsv_to_json` |  |
 |--------------|---------------------------|
 | Installation | From the `data_processing` directory, `npm i` |
 | Running      | `node --max-old-space-size=8192 convert.js`|
-| Inputs       | |
-| Outputs      |                           |
+| Inputs       | `ecatalog.csv` and `MulMulti.csv` exported from EMu, the museum's collection management system |
+| Outputs      | A directory of `.json` files - one for each record - named according to IRN (ex. `928.json`)|
 
-#### 2. Converting JSON to Enhanced Records
+###### Sample Output
+`928.json`
+```
+{
+	"ecatalogue_key": 146,
+	"irn": 928,
+	"TitAccessionNo": "2001.35.148",
+	"CreDateCreated": "May 1953",
+	"CreEarliestDate": "1953-05-01",
+	"CreLatestDate": "1953-05-30",
+	"PhyMediumComments": "black-and-white: Kodak safety film",
+	"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 30, 1953, pg. 27, reads: \"Uptown Little League Opens Friday Evening.  Ready for LL Opener - The four teams who'll participate in the Uptown little League this summer are shown in the uniforms in which they'll play Friday evening when the first games of the season will be played.  The teams are shown above... Upper right is the Pittsburgh Lions.  Kneeling, left to right, Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward and Lessie Washington.  Standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods... Harris Photos.\"",
+	"TitMainTitle": "Pittsburgh Lions Little League baseball team, kneeling from left: Robert Dalley, John King, James Dunmore, William Smith, Stanley Edward, Lessie Washington; standing: Bridder Pearson, Levi Williams, Willie Millender, Fred Wynn, Robert Sneed, Donald Primus, Tommy Wallace, Charles McKay and Raymond Woods, on Kennard Field with Terrace Village in background",
+	"CreCountry_tab": "United States",
+	"CreState_tab": "Pennsylvania",
+	"CreDistrict_tab": "Allegheny county",
+	"CreCity_tab": "Pittsburgh",
+	"CrePlaceQualifier_tab": "",
+	"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Baseball--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Athletes--Pennsylvania--Pittsburgh.Kennard Field (Pittsburgh, Pa.)Terrace Village (Pittsburgh, Pa.)Little League Baseball, inc.",
+	"AdmGUIDValue_tab": "68899705-aea6-4a83-bf9a-b48f73cb5d31",
+	"AdmPublishWebNoPassword": "Yes",
+	"MultiMedia_irn": 15053,
+	"MulMultiMediaRef_key": 147,
+	"image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15053/sizes/928-1680.jpg"
+}
+```
+
+### 2. Converting JSON to Enhanced Records
 
 | `data_processing/json_to_enhancedRecords` |  |
 |--------------|---------------------------|
