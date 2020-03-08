@@ -1,20 +1,283 @@
 {
-	"irn": "7541",
-	"emuInput": {
-		"ecatalogue_key": "34",
-		"irn": "7541",
-		"TitAccessionNo": "2001.35.4650",
-		"TitMainTitle": "Five girls in matching outfits followed by five boys in matching outfits marching in parade on Homewood Avenue at Finance Street intersection, for Black Arts Festival, Homewood",
-		"CreDateCreated": "August 1972",
-		"CreEarliestDate": "1972-08-01",
-		"CreLatestDate": "1972-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Headline for image published in New Pittsburgh Courier newspaper, September 2, 1972, pg. 32, reads: \"Scenes of Homewood Park Annual Black Arts Festival.\" [no cutline nor article]",
-		"CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.\nHomewood (Pittsburgh, Pa.)\nHomewood Avenue (Pittsburgh, Pa.)\nStreets--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "7541",
+  "emuInput": {
+    "ecatalogue_key": 4641,
+    "irn": 7541,
+    "TitAccessionNo": "2001.35.4650",
+    "CreDateCreated": "August 1972",
+    "CreEarliestDate": "1972-08-01",
+    "CreLatestDate": "1972-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Headline for image published in New Pittsburgh Courier newspaper, September 2, 1972, pg. 32, reads: \"Scenes of Homewood Park Annual Black Arts Festival.\" [no cutline nor article]",
+    "TitMainTitle": "Five girls in matching outfits followed by five boys in matching outfits marching in parade on Homewood Avenue at Finance Street intersection, for Black Arts Festival, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Homewood Avenue (Pittsburgh, Pa.)Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "32613930-7743-4fae-887c-1ce89469cc8a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19370,
+    "MulMultiMediaRef_key": 4644,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19370/sizes/7541-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4641,
+    "irn": 7541,
+    "TitAccessionNo": "2001.35.4650",
+    "CreDateCreated": "August 1972",
+    "CreEarliestDate": "1972-08-01",
+    "CreLatestDate": "1972-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Headline for image published in New Pittsburgh Courier newspaper, September 2, 1972, pg. 32, reads: \"Scenes of Homewood Park Annual Black Arts Festival.\" [no cutline nor article]",
+    "TitMainTitle": "Five girls in matching outfits followed by five boys in matching outfits marching in parade on Homewood Avenue at Finance Street intersection, for Black Arts Festival, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Homewood Avenue (Pittsburgh, Pa.)Streets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "32613930-7743-4fae-887c-1ce89469cc8a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19370,
+    "MulMultiMediaRef_key": 4644,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19370/sizes/7541-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "WEUP Annual June Black Arts Festival",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homewood Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Finance Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Homewood Avenue",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homewood Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Finance Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Homewood Avenue",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homewood Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Finance Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Homewood Avenue",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homewood Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Finance Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Homewood Avenue",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "32",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Scenes of Homewood Park Annual Black Arts Festival.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 2, 1972",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Homewood ",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Black Arts Festival",
+        "status": "suggested"
+      },
+      {
+        "data": ")Streets",
+        "status": "suggested"
+      },
+      {
+        "data": ")Homewood Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "September 2, 1972",
+        "status": "suggested"
+      },
+      {
+        "data": "Scenes of Homewood Park Annual Black Arts Festival",
+        "status": "suggested"
+      },
+      {
+        "data": "Finance Street",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "crew",
+        "status": "suggested"
+      }
+    ]
+  }
 }

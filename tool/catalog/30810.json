@@ -1,20 +1,319 @@
 {
-	"irn": "30810",
-	"emuInput": {
-		"ecatalogue_key": "149",
-		"irn": "30810",
-		"TitAccessionNo": "2001.35.19002",
-		"TitMainTitle": "Women's Auxiliary of Pittsburgh NAACP honoring Secretary of the Commonwealth of Pennsylvania C. DeLores Tucker, with guests including Rev. LeRoy Patrick, Atty. Everett Utterback, and Julia Gaines, gathered around perimeter of ballroom, William Penn Hotel",
-		"CreDateCreated": "February 1971",
-		"CreEarliestDate": "1971-02-01",
-		"CreLatestDate": "1971-02-13",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, February, 13, 1971, page 23 reads: \"RECEIVING LINE-Wearing her gorgeous inaugural gown, a Malcolme Starr original, the Hon. C DeLores Tucker, Secretary of the Commonwealth of Pennsylvania, stands in receiving line at the recent reception given in her honor by the Women's Auxiliary of the Pittsburgh Branch NAACP. Held in the Terrace Room of the William Penn Hotel...\" --Harris photo",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWilliam Penn Hotel (Pittsburgh, Pa.)\nNational Association for the Advancement of Colored People.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "30810",
+  "emuInput": {
+    "ecatalogue_key": 18972,
+    "irn": 30810,
+    "TitAccessionNo": "2001.35.19002",
+    "CreDateCreated": "February 1971",
+    "CreEarliestDate": "1971-02-01",
+    "CreLatestDate": "1971-02-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, February, 13, 1971, page 23 reads: \"RECEIVING LINE-Wearing her gorgeous inaugural gown, a Malcolme Starr original, the Hon. C DeLores Tucker, Secretary of the Commonwealth of Pennsylvania, stands in receiving line at the recent reception given in her honor by the Women's Auxiliary of the Pittsburgh Branch NAACP. Held in the Terrace Room of the William Penn Hotel...\" --Harris photo",
+    "TitMainTitle": "Women's Auxiliary of Pittsburgh NAACP honoring Secretary of the Commonwealth of Pennsylvania C. DeLores Tucker, with guests including Rev. LeRoy Patrick, Atty. Everett Utterback, and Julia Gaines, gathered around perimeter of ballroom, William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.William Penn Hotel (Pittsburgh, Pa.)National Association for the Advancement of Colored People.",
+    "AdmGUIDValue_tab": "0338dfba-8b75-411a-8d7c-41c1109742ca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36710,
+    "MulMultiMediaRef_key": 18980,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36710/sizes/30810-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 18972,
+    "irn": 30810,
+    "TitAccessionNo": "2001.35.19002",
+    "CreDateCreated": "February 1971",
+    "CreEarliestDate": "1971-02-01",
+    "CreLatestDate": "1971-02-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, February, 13, 1971, page 23 reads: \"RECEIVING LINE-Wearing her gorgeous inaugural gown, a Malcolme Starr original, the Hon. C DeLores Tucker, Secretary of the Commonwealth of Pennsylvania, stands in receiving line at the recent reception given in her honor by the Women's Auxiliary of the Pittsburgh Branch NAACP. Held in the Terrace Room of the William Penn Hotel...\" --Harris photo",
+    "TitMainTitle": "Women's Auxiliary of Pittsburgh NAACP honoring Secretary of the Commonwealth of Pennsylvania C. DeLores Tucker, with guests including Rev. LeRoy Patrick, Atty. Everett Utterback, and Julia Gaines, gathered around perimeter of ballroom, William Penn Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.William Penn Hotel (Pittsburgh, Pa.)National Association for the Advancement of Colored People.",
+    "AdmGUIDValue_tab": "0338dfba-8b75-411a-8d7c-41c1109742ca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36710,
+    "MulMultiMediaRef_key": 18980,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36710/sizes/30810-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Everett Utterback",
+        "status": "suggested"
+      },
+      {
+        "data": "Malcolme Starr",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "C. DeLores Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "DeLores Tucker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy, Patrick",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Terrace Room of the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Terrace Room of the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Terrace Room of the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Terrace Room of the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "23",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "RECEIVING LINE-Wearing her gorgeous inaugural gown, a Malcolme Starr original, the Hon. C DeLores Tucker, Secretary of the Commonwealth of Pennsylvania, stands in receiving line at the recent reception given in her honor by the Women's Auxiliary of the Pittsburgh Branch NAACP. Held in the Terrace Room of the William Penn Hotel...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "the Commonwealth of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "RECEIVING LINE-Wearing",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "13, 1971",
+        "status": "suggested"
+      },
+      {
+        "data": "the Women's Auxiliary of",
+        "status": "suggested"
+      },
+      {
+        "data": "the Terrace Room of the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "C. DeLores Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Women's Auxiliary of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "February",
+        "status": "suggested"
+      },
+      {
+        "data": "William Penn Hotel ",
+        "status": "suggested"
+      },
+      {
+        "data": ")National Association for the Advancement of Colored People",
+        "status": "suggested"
+      },
+      {
+        "data": "DeLores Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Atty",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "religion",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

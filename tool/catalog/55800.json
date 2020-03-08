@@ -1,20 +1,368 @@
 {
-	"irn": "55800",
-	"emuInput": {
-		"ecatalogue_key": "243",
-		"irn": "55800",
-		"TitAccessionNo": "2001.35.42564",
-		"TitMainTitle": "Rev. L. G. McLeod in center shaking hands with Atty. Richard F. Jones, with four Baptist ministers looking on, standing in corridor of Allegheny County Courthouse",
-		"CreDateCreated": "October 1953",
-		"CreEarliestDate": "1953-10-01",
-		"CreLatestDate": "1953-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1953, pg. 37, reads: \"Election Holds Fate - Although after Friday's court session the Rev. L.G. McLeod was photographed jubilantly shaking hands with his attorney, Richard F. Jones, his fate with the Cosmopolitan Tabernacle Baptist Church of the North Side is to be decided at a court-ordered election to be held Friday, Nov. 6, to decide whether he is the official pastor of the church. The other persons in picture are local Baptist ministers, some of whom testified at the trial. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nHandshaking--Pennsylvania--Pittsburgh.\nCourthouses--Pennsylvania--Pittsburgh.\nAllegheny County Courthouse (Pittsburgh, Pa.)\nJones, Richard F.\nClergy--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55800",
+  "emuInput": {
+    "ecatalogue_key": 42522,
+    "irn": 55800,
+    "TitAccessionNo": "2001.35.42564",
+    "CreDateCreated": "October 1953",
+    "CreEarliestDate": "1953-10-01",
+    "CreLatestDate": "1953-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1953, pg. 37, reads: \"Election Holds Fate - Although after Friday's court session the Rev. L.G. McLeod was photographed jubilantly shaking hands with his attorney, Richard F. Jones, his fate with the Cosmopolitan Tabernacle Baptist Church of the North Side is to be decided at a court-ordered election to be held Friday, Nov. 6, to decide whether he is the official pastor of the church. The other persons in picture are local Baptist ministers, some of whom testified at the trial. - Harris Photo.\"",
+    "TitMainTitle": "Rev. L. G. McLeod in center shaking hands with Atty. Richard F. Jones, with four Baptist ministers looking on, standing in corridor of Allegheny County Courthouse",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Courthouses--Pennsylvania--Pittsburgh.Allegheny County Courthouse (Pittsburgh, Pa.)Jones, Richard F.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01a7cb5d-1572-4958-a017-8612b7a9e0b4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 11573,
+    "MulMultiMediaRef_key": 42530,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/11573/sizes/55800-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42522,
+    "irn": 55800,
+    "TitAccessionNo": "2001.35.42564",
+    "CreDateCreated": "October 1953",
+    "CreEarliestDate": "1953-10-01",
+    "CreLatestDate": "1953-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1953, pg. 37, reads: \"Election Holds Fate - Although after Friday's court session the Rev. L.G. McLeod was photographed jubilantly shaking hands with his attorney, Richard F. Jones, his fate with the Cosmopolitan Tabernacle Baptist Church of the North Side is to be decided at a court-ordered election to be held Friday, Nov. 6, to decide whether he is the official pastor of the church. The other persons in picture are local Baptist ministers, some of whom testified at the trial. - Harris Photo.\"",
+    "TitMainTitle": "Rev. L. G. McLeod in center shaking hands with Atty. Richard F. Jones, with four Baptist ministers looking on, standing in corridor of Allegheny County Courthouse",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Courthouses--Pennsylvania--Pittsburgh.Allegheny County Courthouse (Pittsburgh, Pa.)Jones, Richard F.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01a7cb5d-1572-4958-a017-8612b7a9e0b4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 11573,
+    "MulMultiMediaRef_key": 42530,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/11573/sizes/55800-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "L.G. McLeod",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard F. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Rev. L. G. McLeod",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Courthouses",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Jones",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Jones",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Jones",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Jones",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "37",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Election Holds Fate - Although after Friday's court session the Rev. L.G. McLeod was photographed jubilantly shaking hands with his attorney, Richard F. Jones, his fate with the Cosmopolitan Tabernacle Baptist Church of the North Side is to be decided at a court-ordered election to be held Friday, Nov. 6, to decide whether he is the official pastor of the church. The other persons in picture are local Baptist ministers, some of whom testified at the trial. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 31, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard F. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "the Cosmopolitan Tabernacle Baptist Church of the North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Election Holds Fate - Although",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Courthouse ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Jones, Richard F",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Courthouses",
+        "status": "suggested"
+      },
+      {
+        "data": "Baptist",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "October 31, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday, Nov. 6",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "tuxedo",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,364 @@
 {
-	"irn": "59599",
-	"emuInput": {
-		"ecatalogue_key": "278",
-		"irn": "59599",
-		"TitAccessionNo": "2001.35.45622",
-		"TitMainTitle": "Nurses Joan Fisanich and Carol Feighner standing on either side of Walt Harper lying in hospital bed",
-		"CreDateCreated": "November 1956",
-		"CreEarliestDate": "1956-11-01",
-		"CreLatestDate": "1956-11-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 17, 1956, pg. 1, reads: \"'Walt' Harper Injured in Car Crash - 'Walt Heard Harps' - So popular bandleader, 'Walt' Harper (center) wisecracked to a Courier reporter, Monday, from a bed in Pittsburgh Hospital, following an auto collision at Dallas and Hamilton Aves. The remark evoked laughter from nurses Joan Fisanich and Carol Feighner. 'Laid out' and 'up,' the maestro managed to retain his sense of humor, despite having been knocked unconscious and suffering injuries to his head, back and knee.  'I heard harps,' he cracked.  'I thought my time was up.' Referring to the $2,000 damage to his Cadillac, right, he jokingly remarked that he had 'now been reduced to a lowly station wagon.'  The car, left, which Harper said 'plowed into mine,' is being lowered by city towing service employes [employees], William Pierce and Albert Clark.  It is owned by John Becker, according to police. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nHospitals--Pennsylvania--Pittsburgh.\nBeds--Pennsylvania--Pittsburgh.\nNurses--Pennsylvania--Pittsburgh.\nHarper, Walter, 1932-",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59599",
+  "emuInput": {
+    "ecatalogue_key": 45579,
+    "irn": 59599,
+    "TitAccessionNo": "2001.35.45622",
+    "CreDateCreated": "November 1956",
+    "CreEarliestDate": "1956-11-01",
+    "CreLatestDate": "1956-11-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 17, 1956, pg. 1, reads: \"'Walt' Harper Injured in Car Crash - 'Walt Heard Harps' - So popular bandleader, 'Walt' Harper (center) wisecracked to a Courier reporter, Monday, from a bed in Pittsburgh Hospital, following an auto collision at Dallas and Hamilton Aves. The remark evoked laughter from nurses Joan Fisanich and Carol Feighner. 'Laid out' and 'up,' the maestro managed to retain his sense of humor, despite having been knocked unconscious and suffering injuries to his head, back and knee.  'I heard harps,' he cracked.  'I thought my time was up.' Referring to the $2,000 damage to his Cadillac, right, he jokingly remarked that he had 'now been reduced to a lowly station wagon.'  The car, left, which Harper said 'plowed into mine,' is being lowered by city towing service employes [employees], William Pierce and Albert Clark.  It is owned by John Becker, according to police. - Harris Photo.\"",
+    "TitMainTitle": "Nurses Joan Fisanich and Carol Feighner standing on either side of Walt Harper lying in hospital bed",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.Harper, Walter, 1932-",
+    "AdmGUIDValue_tab": "004bc83c-e4e9-4e13-885b-fc7c8f925aa2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67668,
+    "MulMultiMediaRef_key": 45587,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67668/sizes/59599-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45579,
+    "irn": 59599,
+    "TitAccessionNo": "2001.35.45622",
+    "CreDateCreated": "November 1956",
+    "CreEarliestDate": "1956-11-01",
+    "CreLatestDate": "1956-11-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 17, 1956, pg. 1, reads: \"'Walt' Harper Injured in Car Crash - 'Walt Heard Harps' - So popular bandleader, 'Walt' Harper (center) wisecracked to a Courier reporter, Monday, from a bed in Pittsburgh Hospital, following an auto collision at Dallas and Hamilton Aves. The remark evoked laughter from nurses Joan Fisanich and Carol Feighner. 'Laid out' and 'up,' the maestro managed to retain his sense of humor, despite having been knocked unconscious and suffering injuries to his head, back and knee.  'I heard harps,' he cracked.  'I thought my time was up.' Referring to the $2,000 damage to his Cadillac, right, he jokingly remarked that he had 'now been reduced to a lowly station wagon.'  The car, left, which Harper said 'plowed into mine,' is being lowered by city towing service employes [employees], William Pierce and Albert Clark.  It is owned by John Becker, according to police. - Harris Photo.\"",
+    "TitMainTitle": "Nurses Joan Fisanich and Carol Feighner standing on either side of Walt Harper lying in hospital bed",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hospitals--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.Harper, Walter, 1932-",
+    "AdmGUIDValue_tab": "004bc83c-e4e9-4e13-885b-fc7c8f925aa2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67668,
+    "MulMultiMediaRef_key": 45587,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67668/sizes/59599-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Carol Feighner",
+        "status": "suggested"
+      },
+      {
+        "data": "Walt Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "William Pierce",
+        "status": "suggested"
+      },
+      {
+        "data": "John Becker",
+        "status": "suggested"
+      },
+      {
+        "data": "Albert Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Fisanich",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hospitals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Nurses",
+        "status": "suggested"
+      },
+      {
+        "data": "Cardarelli, James",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Dallas",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Dallas",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Dallas",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Dallas",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'Walt' Harper Injured in Car Crash - 'Walt Heard Harps' - So popular bandleader, 'Walt' Harper (center) wisecracked to a Courier reporter, Monday, from a bed in Pittsburgh Hospital, following an auto collision at Dallas and Hamilton Aves. The remark evoked laughter from nurses Joan Fisanich and Carol Feighner. 'Laid out' and 'up,' the maestro managed to retain his sense of humor, despite having been knocked unconscious and suffering injuries to his head, back and knee.  'I heard harps,' he cracked.  'I thought my time was up.' Referring to the $2,000 damage to his Cadillac, right, he jokingly remarked that he had 'now been reduced to a lowly station wagon.'  The car, left, which Harper said 'plowed into mine,' is being lowered by city towing service employes [employees], William Pierce and Albert Clark.  It is owned by John Becker, according to police. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 17, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Hospitals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "November 17, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Harper, Walter, 1932",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Nurses",
+        "status": "suggested"
+      },
+      {
+        "data": "Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "Cadillac",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Walt Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "William Pierce",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "John Becker",
+        "status": "suggested"
+      },
+      {
+        "data": "Albert Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "patient",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "case",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

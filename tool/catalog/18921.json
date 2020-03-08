@@ -1,20 +1,312 @@
 {
-	"irn": "18921",
-	"emuInput": {
-		"ecatalogue_key": "86",
-		"irn": "18921",
-		"TitAccessionNo": "2001.35.10167",
-		"TitMainTitle": "James Fitzsimmons and Laura Doerzbacker standing in Bell telephone booth in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 25-27, 1958",
-		"CreEarliestDate": "1958-03-25",
-		"CreLatestDate": "1958-03-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5 reads: \"2. The Bell Telephone Company of Pennsylvania booth with representatives James Fitzsimmons and Laura Doerzbacker.\"",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.\nWomen--Pennsylvania--Pittsburgh.\nTelephones--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "18921",
+  "emuInput": {
+    "ecatalogue_key": 10141,
+    "irn": 18921,
+    "TitAccessionNo": "2001.35.10167",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5 reads: \"2. The Bell Telephone Company of Pennsylvania booth with representatives James Fitzsimmons and Laura Doerzbacker.\"",
+    "TitMainTitle": "James Fitzsimmons and Laura Doerzbacker standing in Bell telephone booth in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47373047-57a9-40c7-b1ca-dba60d30421f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26048,
+    "MulMultiMediaRef_key": 10149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26048/sizes/18921-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10141,
+    "irn": 18921,
+    "TitAccessionNo": "2001.35.10167",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5 reads: \"2. The Bell Telephone Company of Pennsylvania booth with representatives James Fitzsimmons and Laura Doerzbacker.\"",
+    "TitMainTitle": "James Fitzsimmons and Laura Doerzbacker standing in Bell telephone booth in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Women--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47373047-57a9-40c7-b1ca-dba60d30421f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26048,
+    "MulMultiMediaRef_key": 10149,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26048/sizes/18921-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "James Fitzsimmons",
+        "status": "suggested"
+      },
+      {
+        "data": "Laura Doerzbacker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephone",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "5",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "2. The Bell Telephone Company of Pennsylvania booth with representatives James Fitzsimmons and Laura Doerzbacker.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephones",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bell",
+        "status": "suggested"
+      },
+      {
+        "data": "James Fitzsimmons",
+        "status": "suggested"
+      },
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "1958",
+        "status": "suggested"
+      },
+      {
+        "data": "The Bell Telephone Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "machine",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "appliance",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "device",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      }
+    ]
+  }
 }

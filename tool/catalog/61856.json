@@ -1,20 +1,402 @@
 {
-	"irn": "61856",
-	"emuInput": {
-		"ecatalogue_key": "309",
-		"irn": "61856",
-		"TitAccessionNo": "2001.35.47844",
-		"TitMainTitle": "Group portrait of Sunday school teachers Mrs. J. D.Barkley, left, and Cato Wimbish, right, posed with seven boys and ten girls around table in Brushton Methodist Church on Easter Sunday",
-		"CreDateCreated": "April 1958",
-		"CreEarliestDate": "1958-04-01",
-		"CreLatestDate": "1958-04-12",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 12, 1958, pg. B4 reads: :\" \"Honeybunnies\" At Sunday School - These \"honeybunnies\" were enjoying their Easter Sunday school lesson at the Brushton Methodist Church when The Courier photographer dropped in to pay a visit. Not being at all camera-shy, they stopped long enough to give with their best smiles.  With them are Mrs. J.D.Barkley, left, and Mrs. Cato Wimbish, right, Sunday school teachers. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nPlants--Pennsylvania--Pittsburgh.\nPaintings--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nBrushton Methodist Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61856",
+  "emuInput": {
+    "ecatalogue_key": 47801,
+    "irn": 61856,
+    "TitAccessionNo": "2001.35.47844",
+    "CreDateCreated": "April 1958",
+    "CreEarliestDate": "1958-04-01",
+    "CreLatestDate": "1958-04-12",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 12, 1958, pg. B4 reads: :\" \"Honeybunnies\" At Sunday School - These \"honeybunnies\" were enjoying their Easter Sunday school lesson at the Brushton Methodist Church when The Courier photographer dropped in to pay a visit. Not being at all camera-shy, they stopped long enough to give with their best smiles.  With them are Mrs. J.D.Barkley, left, and Mrs. Cato Wimbish, right, Sunday school teachers. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Sunday school teachers Mrs. J. D.Barkley, left, and Cato Wimbish, right, posed with seven boys and ten girls around table in Brushton Methodist Church on Easter Sunday",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Brushton Methodist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "24945898-4c3c-462c-a155-319ee2df7678",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70264,
+    "MulMultiMediaRef_key": 47809,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70264/sizes/61856-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47801,
+    "irn": 61856,
+    "TitAccessionNo": "2001.35.47844",
+    "CreDateCreated": "April 1958",
+    "CreEarliestDate": "1958-04-01",
+    "CreLatestDate": "1958-04-12",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 12, 1958, pg. B4 reads: :\" \"Honeybunnies\" At Sunday School - These \"honeybunnies\" were enjoying their Easter Sunday school lesson at the Brushton Methodist Church when The Courier photographer dropped in to pay a visit. Not being at all camera-shy, they stopped long enough to give with their best smiles.  With them are Mrs. J.D.Barkley, left, and Mrs. Cato Wimbish, right, Sunday school teachers. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Sunday school teachers Mrs. J. D.Barkley, left, and Cato Wimbish, right, posed with seven boys and ten girls around table in Brushton Methodist Church on Easter Sunday",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Brushton Methodist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "24945898-4c3c-462c-a155-319ee2df7678",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70264,
+    "MulMultiMediaRef_key": 47809,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70264/sizes/61856-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "J.D.Barkley",
+        "status": "suggested"
+      },
+      {
+        "data": "Cato Wimbish",
+        "status": "suggested"
+      },
+      {
+        "data": "J. D.Barkley",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "April 12, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "the Brushton Methodist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Brushton Methodist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Brushton Methodist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "April 12, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Paintings",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

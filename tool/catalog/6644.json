@@ -1,20 +1,471 @@
 {
-	"irn": "6644",
-	"emuInput": {
-		"ecatalogue_key": "29",
-		"irn": "6644",
-		"TitAccessionNo": "2001.35.4054",
-		"TitMainTitle": "Demolition of Bethel AME Church with crane on left, Wylie Avenue and Elm Street, Hill District",
-		"CreDateCreated": "July 24, 1957",
-		"CreEarliestDate": "1957-07-24",
-		"CreLatestDate": "1957-07-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1957, pg. A8, reads: \"'Mother Bethel' bows to progress... 'and the walls come tumbling down.'\" Portion of accompanying article by B. H. Logan reads: \"...We might weep over the demise of this old building, but the church itself will continue to shine brighter and brighter until that final day.  Bethel AME Church is the oldest Negro congregation in Pittsburgh or Allegheny County.  It has contributed thousands of dollars to Wilberforce University and other institutions of learning.  It has contributed to Christian missions both home and foreign.  The people of Pittsburgh should never forget this struggling congregation.  We should stop long enough to sing her praises to God....\"",
-		"CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.\nHill District (Pittsburgh, Pa.)\nDemolition--Pennsylvania--Pittsburgh.\nConstruction and demolition debris--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nHill District  (Pittsburgh, Pa.)\nBethel African Methodist Episcopal Church (Pittsburgh, Pa.)\nWylie Avenue (Pittsburgh, Pa.)\nElm Street (Pittsburgh Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "6644",
+  "emuInput": {
+    "ecatalogue_key": 4045,
+    "irn": 6644,
+    "TitAccessionNo": "2001.35.4054",
+    "CreDateCreated": "July 24, 1957",
+    "CreEarliestDate": "1957-07-24",
+    "CreLatestDate": "1957-07-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1957, pg. A8, reads: \"'Mother Bethel' bows to progress... 'and the walls come tumbling down.'\" Portion of accompanying article by B. H. Logan reads: \"...We might weep over the demise of this old building, but the church itself will continue to shine brighter and brighter until that final day.  Bethel AME Church is the oldest Negro congregation in Pittsburgh or Allegheny County.  It has contributed thousands of dollars to Wilberforce University and other institutions of learning.  It has contributed to Christian missions both home and foreign.  The people of Pittsburgh should never forget this struggling congregation.  We should stop long enough to sing her praises to God....\"",
+    "TitMainTitle": "Demolition of Bethel AME Church with crane on left, Wylie Avenue and Elm Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.Hill District (Pittsburgh, Pa.)Demolition--Pennsylvania--Pittsburgh.Construction and demolition debris--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Hill District  (Pittsburgh, Pa.)Bethel African Methodist Episcopal Church (Pittsburgh, Pa.)Wylie Avenue (Pittsburgh, Pa.)Elm Street (Pittsburgh Pa.)",
+    "AdmGUIDValue_tab": "99292825-3dda-4fd4-9357-558df46a724f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19186,
+    "MulMultiMediaRef_key": 4048,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19186/sizes/6644-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4045,
+    "irn": 6644,
+    "TitAccessionNo": "2001.35.4054",
+    "CreDateCreated": "July 24, 1957",
+    "CreEarliestDate": "1957-07-24",
+    "CreLatestDate": "1957-07-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1957, pg. A8, reads: \"'Mother Bethel' bows to progress... 'and the walls come tumbling down.'\" Portion of accompanying article by B. H. Logan reads: \"...We might weep over the demise of this old building, but the church itself will continue to shine brighter and brighter until that final day.  Bethel AME Church is the oldest Negro congregation in Pittsburgh or Allegheny County.  It has contributed thousands of dollars to Wilberforce University and other institutions of learning.  It has contributed to Christian missions both home and foreign.  The people of Pittsburgh should never forget this struggling congregation.  We should stop long enough to sing her praises to God....\"",
+    "TitMainTitle": "Demolition of Bethel AME Church with crane on left, Wylie Avenue and Elm Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Church buildings--Pennsylvania--Pittsburgh.Hill District (Pittsburgh, Pa.)Demolition--Pennsylvania--Pittsburgh.Construction and demolition debris--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Hill District  (Pittsburgh, Pa.)Bethel African Methodist Episcopal Church (Pittsburgh, Pa.)Wylie Avenue (Pittsburgh, Pa.)Elm Street (Pittsburgh Pa.)",
+    "AdmGUIDValue_tab": "99292825-3dda-4fd4-9357-558df46a724f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19186,
+    "MulMultiMediaRef_key": 4048,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19186/sizes/6644-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "B. H. Logan",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wrecking",
+        "status": "suggested"
+      },
+      {
+        "data": "Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Construction and demolition debris",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elm Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elm Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elm Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elm Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "'Mother Bethel' bows to progress... 'and the walls come tumbling down.'\" Portion of accompanying article by B. H. Logan reads: \"...We might weep over the demise of this old building, but the church itself will continue to shine brighter and brighter until that final day.  Bethel AME Church is the oldest Negro congregation in Pittsburgh or Allegheny County.  It has contributed thousands of dollars to Wilberforce University and other institutions of learning.  It has contributed to Christian missions both home and foreign.  The people of Pittsburgh should never forget this struggling congregation.  We should stop long enough to sing her praises to God....",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 27, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "Elm Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Demolition of Bethel AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Christian",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": ")Demolition",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethel AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Mother Bethel'",
+        "status": "suggested"
+      },
+      {
+        "data": ")Elm Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilberforce University",
+        "status": "suggested"
+      },
+      {
+        "data": "Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": ")Bethel African Methodist Episcopal Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": ")Wylie Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Demolition",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Construction and demolition debris",
+        "status": "suggested"
+      },
+      {
+        "data": "B. H. Logan",
+        "status": "suggested"
+      },
+      {
+        "data": "July 27, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "history",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

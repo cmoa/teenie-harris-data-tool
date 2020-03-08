@@ -1,20 +1,360 @@
 {
-	"irn": "37059",
-	"emuInput": {
-		"ecatalogue_key": "176",
-		"irn": "37059",
-		"TitAccessionNo": "2001.35.24645",
-		"TitMainTitle": "Bride Amanda Bussey Henderson wearing satin gown with lace train, long lace sleeves, and lace yoke with satin edge, holding bouquet of lilies, posed in home of Mr. and Mrs. James Bussey, Singer Place",
-		"CreDateCreated": "September 1, 1951",
-		"CreEarliestDate": "1951-09-01",
-		"CreLatestDate": "1951-09-01",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nFireplaces--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "37059",
+  "emuInput": {
+    "ecatalogue_key": 24613,
+    "irn": 37059,
+    "TitAccessionNo": "2001.35.24645",
+    "CreDateCreated": "September 1, 1951",
+    "CreEarliestDate": "1951-09-01",
+    "CreLatestDate": "1951-09-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
+    "TitMainTitle": "Bride Amanda Bussey Henderson wearing satin gown with lace train, long lace sleeves, and lace yoke with satin edge, holding bouquet of lilies, posed in home of Mr. and Mrs. James Bussey, Singer Place",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31265837-8bfb-477c-863a-8b3b7d7140b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43187,
+    "MulMultiMediaRef_key": 24621,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43187/sizes/37059-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 24613,
+    "irn": 37059,
+    "TitAccessionNo": "2001.35.24645",
+    "CreDateCreated": "September 1, 1951",
+    "CreEarliestDate": "1951-09-01",
+    "CreLatestDate": "1951-09-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
+    "TitMainTitle": "Bride Amanda Bussey Henderson wearing satin gown with lace train, long lace sleeves, and lace yoke with satin edge, holding bouquet of lilies, posed in home of Mr. and Mrs. James Bussey, Singer Place",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31265837-8bfb-477c-863a-8b3b7d7140b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43187,
+    "MulMultiMediaRef_key": 24621,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43187/sizes/37059-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jesse T. Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Amanda Bussey Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "James Bussey",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Amanda Bussey",
+        "status": "suggested"
+      },
+      {
+        "data": "Henderson ] Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Jesse T. Hendersosn",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 15, 1951",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "September 15, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Henderson ] Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Sept. 1",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Singer Place",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      }
+    ]
+  }
 }

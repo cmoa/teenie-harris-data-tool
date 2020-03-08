@@ -1,20 +1,268 @@
 {
-	"irn": "35773",
-	"emuInput": {
-		"ecatalogue_key": "171",
-		"irn": "35773",
-		"TitAccessionNo": "2001.35.23469",
-		"TitMainTitle": "Portrait of baby Robert Chalmers Morse wearing light colored christening gown with ruffle and rounded collar, seated with both hands on knees, on leaf patterned sofa, possibly in home at 7435 Tioga Street",
-		"CreDateCreated": "January 1952",
-		"CreEarliestDate": "1952-01-01",
-		"CreLatestDate": "1952-01-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 19, 1952, pg. 25, reads: \"Blessed - The distinguished pastor, the Rev. C. A. Burell, officiated at the solemn blessing service conducted recently at Mount Ararat Baptist Church, in which the handsome young son of Mr. and Mrs. Robert W. Morse was christened. Godparents for young Robert Chalmers Morse are Mr. and Mrs. Robert L. Jones, who are shown with the infant. - Harris Photo.\"",
-		"CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "35773",
+  "emuInput": {
+    "ecatalogue_key": 23438,
+    "irn": 35773,
+    "TitAccessionNo": "2001.35.23469",
+    "CreDateCreated": "January 1952",
+    "CreEarliestDate": "1952-01-01",
+    "CreLatestDate": "1952-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 19, 1952, pg. 25, reads: \"Blessed - The distinguished pastor, the Rev. C. A. Burell, officiated at the solemn blessing service conducted recently at Mount Ararat Baptist Church, in which the handsome young son of Mr. and Mrs. Robert W. Morse was christened. Godparents for young Robert Chalmers Morse are Mr. and Mrs. Robert L. Jones, who are shown with the infant. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of baby Robert Chalmers Morse wearing light colored christening gown with ruffle and rounded collar, seated with both hands on knees, on leaf patterned sofa, possibly in home at 7435 Tioga Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0026cf13-4832-4d84-987d-b6a5e7bdeb6f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42024,
+    "MulMultiMediaRef_key": 23446,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42024/sizes/35773-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 23438,
+    "irn": 35773,
+    "TitAccessionNo": "2001.35.23469",
+    "CreDateCreated": "January 1952",
+    "CreEarliestDate": "1952-01-01",
+    "CreLatestDate": "1952-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 19, 1952, pg. 25, reads: \"Blessed - The distinguished pastor, the Rev. C. A. Burell, officiated at the solemn blessing service conducted recently at Mount Ararat Baptist Church, in which the handsome young son of Mr. and Mrs. Robert W. Morse was christened. Godparents for young Robert Chalmers Morse are Mr. and Mrs. Robert L. Jones, who are shown with the infant. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of baby Robert Chalmers Morse wearing light colored christening gown with ruffle and rounded collar, seated with both hands on knees, on leaf patterned sofa, possibly in home at 7435 Tioga Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0026cf13-4832-4d84-987d-b6a5e7bdeb6f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42024,
+    "MulMultiMediaRef_key": 23446,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42024/sizes/35773-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Robert Chalmers Morse",
+        "status": "suggested"
+      },
+      {
+        "data": "C. A. Burell",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert W. Morse",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Jones",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "25",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Blessed - The distinguished pastor, the Rev. C. A. Burell, officiated at the solemn blessing service conducted recently at Mount Ararat Baptist Church, in which the handsome young son of Mr. and Mrs. Robert W. Morse was christened. Godparents for young Robert Chalmers Morse are Mr. and Mrs. Robert L. Jones, who are shown with the infant. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 19, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga Street ...",
+        "status": "suggested"
+      },
+      {
+        "data": "Blessed - The",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Mount Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "January 19, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "toddler",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "infant",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

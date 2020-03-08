@@ -1,20 +1,376 @@
 {
-	"irn": "58928",
-	"emuInput": {
-		"ecatalogue_key": "274",
-		"irn": "58928",
-		"TitAccessionNo": "2001.35.45036",
-		"TitMainTitle": "Urban League Card-O-Rama planning members seated from left: Barbara Davis, Geraldine Goode; standing: Agnes Jones, Ardelle Douglas, and Lillian Haley posed behind table in interior with circular patterned curtains",
-		"CreDateCreated": "January 1960",
-		"CreEarliestDate": "1960-01-01",
-		"CreLatestDate": "1960-01-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper January 9, 1960, pg. 20, reads: \"Card-O-Rama Committee - Planning the card party, which will be given Jan. 15, 8 P.M., at the Homewood-Brushton YWCA, Kelly St., by the Upland Young Adult Unit of the Urban League, the committee makes final notations on its affair. Featured will be beautiful prizes, refreshments and a bonus for those arriving on time. Tickets may be secured from Barbara Davis, FR. 1-8015; Ardelle Douglas, PE. 1-1394, or any unit member. Pictured are Agnes Jones, Ardelle Douglas, chairman; Lillian Haley. Seated: Barbara Davis, president, and Geraldine Goode. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMeetings--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58928",
+  "emuInput": {
+    "ecatalogue_key": 44993,
+    "irn": 58928,
+    "TitAccessionNo": "2001.35.45036",
+    "CreDateCreated": "January 1960",
+    "CreEarliestDate": "1960-01-01",
+    "CreLatestDate": "1960-01-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper January 9, 1960, pg. 20, reads: \"Card-O-Rama Committee - Planning the card party, which will be given Jan. 15, 8 P.M., at the Homewood-Brushton YWCA, Kelly St., by the Upland Young Adult Unit of the Urban League, the committee makes final notations on its affair. Featured will be beautiful prizes, refreshments and a bonus for those arriving on time. Tickets may be secured from Barbara Davis, FR. 1-8015; Ardelle Douglas, PE. 1-1394, or any unit member. Pictured are Agnes Jones, Ardelle Douglas, chairman; Lillian Haley. Seated: Barbara Davis, president, and Geraldine Goode. - Harris Photo.\"",
+    "TitMainTitle": "Urban League Card-O-Rama planning members seated from left: Barbara Davis, Geraldine Goode; standing: Agnes Jones, Ardelle Douglas, and Lillian Haley posed behind table in interior with circular patterned curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16565423-f182-412c-94e2-69b3346c4185",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66905,
+    "MulMultiMediaRef_key": 45001,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66905/sizes/58928-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44993,
+    "irn": 58928,
+    "TitAccessionNo": "2001.35.45036",
+    "CreDateCreated": "January 1960",
+    "CreEarliestDate": "1960-01-01",
+    "CreLatestDate": "1960-01-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper January 9, 1960, pg. 20, reads: \"Card-O-Rama Committee - Planning the card party, which will be given Jan. 15, 8 P.M., at the Homewood-Brushton YWCA, Kelly St., by the Upland Young Adult Unit of the Urban League, the committee makes final notations on its affair. Featured will be beautiful prizes, refreshments and a bonus for those arriving on time. Tickets may be secured from Barbara Davis, FR. 1-8015; Ardelle Douglas, PE. 1-1394, or any unit member. Pictured are Agnes Jones, Ardelle Douglas, chairman; Lillian Haley. Seated: Barbara Davis, president, and Geraldine Goode. - Harris Photo.\"",
+    "TitMainTitle": "Urban League Card-O-Rama planning members seated from left: Barbara Davis, Geraldine Goode; standing: Agnes Jones, Ardelle Douglas, and Lillian Haley posed behind table in interior with circular patterned curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16565423-f182-412c-94e2-69b3346c4185",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66905,
+    "MulMultiMediaRef_key": 45001,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66905/sizes/58928-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ardelle Douglas",
+        "status": "suggested"
+      },
+      {
+        "data": "Agnes Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillian Haley",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Kelly St.",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Congresses",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the Homewood-Brushton YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "FR",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the Homewood-Brushton YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "FR",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the Homewood-Brushton YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "FR",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the Homewood-Brushton YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "FR",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Card-O-Rama Committee - Planning the card party, which will be given Jan. 15, 8 P.M., at the Homewood-Brushton YWCA, Kelly St., by the Upland Young Adult Unit of the Urban League, the committee makes final notations on its affair. Featured will be beautiful prizes, refreshments and a bonus for those arriving on time. Tickets may be secured from Barbara Davis, FR. 1-8015; Ardelle Douglas, PE. 1-1394, or any unit member. Pictured are Agnes Jones, Ardelle Douglas, chairman; Lillian Haley. Seated: Barbara Davis, president, and Geraldine Goode. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 9, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Agnes Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Urban League Card-O-Rama",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 15",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "the Upland Young Adult Unit of the Urban League",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "January 9, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "8 P.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "PE",
+        "status": "suggested"
+      },
+      {
+        "data": "Kelly St.",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "friendship",
+        "status": "suggested"
+      }
+    ]
+  }
 }

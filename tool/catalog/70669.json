@@ -1,20 +1,396 @@
 {
-	"irn": "70669",
-	"emuInput": {
-		"ecatalogue_key": "371",
-		"irn": "70669",
-		"TitAccessionNo": "2001.35.55999",
-		"TitMainTitle": "Group portrait of the Co-Ed \"Y\" members, seated, from left: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark, and Cynthia Burton; standing, from left: James Smith, James Simms, Stanford Butler, and Jan Willingham, posed around table in Wesley Center AME Zion Church, another version",
-		"CreDateCreated": "November 1961",
-		"CreEarliestDate": "1961-11-01",
-		"CreLatestDate": "1961-11-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 2, 1961, pg. 3B reads: \"Co-Ed \"Y\" Committee - These youths, representing the Co-ed \"Y\" group, which is in process of organization at the Wesley Center AME Zion Church, are planning a program for the \"Dinner Meeting,\" which will be held at the church, Dec. 2, at 6:30 P.M., with the pastor, the Rev. C.H. Foggie, as dinner host. Seated, left to right, are: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark and Cynthia Burton.  Standing, clockwise, are: James Smith, James Simms, Stanford Butler and Jan Willingham. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWesley Center African Methodist Episcopal Zion Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70669",
+  "emuInput": {
+    "ecatalogue_key": 55956,
+    "irn": 70669,
+    "TitAccessionNo": "2001.35.55999",
+    "CreDateCreated": "November 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-11-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 2, 1961, pg. 3B reads: \"Co-Ed \"Y\" Committee - These youths, representing the Co-ed \"Y\" group, which is in process of organization at the Wesley Center AME Zion Church, are planning a program for the \"Dinner Meeting,\" which will be held at the church, Dec. 2, at 6:30 P.M., with the pastor, the Rev. C.H. Foggie, as dinner host. Seated, left to right, are: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark and Cynthia Burton.  Standing, clockwise, are: James Smith, James Simms, Stanford Butler and Jan Willingham. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of the Co-Ed \"Y\" members, seated, from left: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark, and Cynthia Burton; standing, from left: James Smith, James Simms, Stanford Butler, and Jan Willingham, posed around table in Wesley Center AME Zion Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wesley Center African Methodist Episcopal Zion Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "30462505-da89-43c5-b841-c5e0172b9c84",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 86277,
+    "MulMultiMediaRef_key": 55965,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/86277/sizes/70669-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55956,
+    "irn": 70669,
+    "TitAccessionNo": "2001.35.55999",
+    "CreDateCreated": "November 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-11-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 2, 1961, pg. 3B reads: \"Co-Ed \"Y\" Committee - These youths, representing the Co-ed \"Y\" group, which is in process of organization at the Wesley Center AME Zion Church, are planning a program for the \"Dinner Meeting,\" which will be held at the church, Dec. 2, at 6:30 P.M., with the pastor, the Rev. C.H. Foggie, as dinner host. Seated, left to right, are: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark and Cynthia Burton.  Standing, clockwise, are: James Smith, James Simms, Stanford Butler and Jan Willingham. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of the Co-Ed \"Y\" members, seated, from left: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark, and Cynthia Burton; standing, from left: James Smith, James Simms, Stanford Butler, and Jan Willingham, posed around table in Wesley Center AME Zion Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wesley Center African Methodist Episcopal Zion Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "30462505-da89-43c5-b841-c5e0172b9c84",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 86277,
+    "MulMultiMediaRef_key": 55965,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/86277/sizes/70669-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Christine Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanford Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie McBride",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan Willingham",
+        "status": "suggested"
+      },
+      {
+        "data": "C.H. Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "James Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "James Simms",
+        "status": "suggested"
+      },
+      {
+        "data": "Alfred Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Cynthia Burton",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Franklin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Co-Ed \"Y\" Committee - These youths, representing the Co-ed \"Y\" group, which is in process of organization at the Wesley Center AME Zion Church, are planning a program for the \"Dinner Meeting,\" which will be held at the church, Dec. 2, at 6:30 P.M., with the pastor, the Rev. C.H. Foggie, as dinner host. Seated, left to right, are: Mamie McBride, Charles Franklin, Christine Williams, Alfred Clark and Cynthia Burton.  Standing, clockwise, are: James Smith, James Simms, Stanford Butler and Jan Willingham. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 2, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "December 2, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "James Simms",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Cynthia Burton",
+        "status": "suggested"
+      },
+      {
+        "data": "Wesley Center African Methodist Episcopal Zion Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "the \"Dinner Meeting",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Alfred Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Co-Ed",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "the Co-ed",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Franklin",
+        "status": "suggested"
+      },
+      {
+        "data": "Christine Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Dec. 2",
+        "status": "suggested"
+      },
+      {
+        "data": "the Wesley Center AME Zion Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Wesley Center AME Zion Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "6:30 P.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "James Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

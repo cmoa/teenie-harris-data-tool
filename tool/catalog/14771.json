@@ -1,20 +1,308 @@
 {
-	"irn": "14771",
-	"emuInput": {
-		"ecatalogue_key": "71",
-		"irn": "14771",
-		"TitAccessionNo": "2001.35.7989",
-		"TitMainTitle": "State liquor store clerks Lillian Asaf and Charles Coleman behind counter, in state store with advertisement for March of Dimes, Sixth and Wylie Avenues",
-		"CreDateCreated": "January 1947",
-		"CreEarliestDate": "1947-01-01",
-		"CreLatestDate": "1947-01-31",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 1, 1947, pg. 14, reads: \"Ain't Nobody Here But Us 'Spirits' - Liquor store employes [employees] got a little rest Monday, the first day of 'no ration' liquor sales. For long periods of time nary a customer entered the emporium for a spot of the stuff which made the late John Barrymore and W. C. Fields famous. Shelves were full of whiskey, gin, rum and wine, but takers were few and far between. The top photo is a scene at the State store at Sixth and Wylie Avenues showing clerks Lillian Asaf and Charles Coleman... Some customers ignore the end of liquor rationing Monday giving State store clerks a chance to catch up on paper work. - Harris Photo.\" [Accompanying image is of lines at grocery store of people buying butter instead.]",
-		"CatSubject_tab": "State Stores--Pennsylvania Liquor Control Board.\nMen--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "14771",
+  "emuInput": {
+    "ecatalogue_key": 7972,
+    "irn": 14771,
+    "TitAccessionNo": "2001.35.7989",
+    "CreDateCreated": "January 1947",
+    "CreEarliestDate": "1947-01-01",
+    "CreLatestDate": "1947-01-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 1, 1947, pg. 14, reads: \"Ain't Nobody Here But Us 'Spirits' - Liquor store employes [employees] got a little rest Monday, the first day of 'no ration' liquor sales. For long periods of time nary a customer entered the emporium for a spot of the stuff which made the late John Barrymore and W. C. Fields famous. Shelves were full of whiskey, gin, rum and wine, but takers were few and far between. The top photo is a scene at the State store at Sixth and Wylie Avenues showing clerks Lillian Asaf and Charles Coleman... Some customers ignore the end of liquor rationing Monday giving State store clerks a chance to catch up on paper work. - Harris Photo.\" [Accompanying image is of lines at grocery store of people buying butter instead.]",
+    "TitMainTitle": "State liquor store clerks Lillian Asaf and Charles Coleman behind counter, in state store with advertisement for March of Dimes, Sixth and Wylie Avenues",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "State Stores--Pennsylvania Liquor Control Board.Men--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "53513484-81ba-4123-8782-0fd9e81e32b0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23906,
+    "MulMultiMediaRef_key": 7980,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23906/sizes/14771-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7972,
+    "irn": 14771,
+    "TitAccessionNo": "2001.35.7989",
+    "CreDateCreated": "January 1947",
+    "CreEarliestDate": "1947-01-01",
+    "CreLatestDate": "1947-01-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 1, 1947, pg. 14, reads: \"Ain't Nobody Here But Us 'Spirits' - Liquor store employes [employees] got a little rest Monday, the first day of 'no ration' liquor sales. For long periods of time nary a customer entered the emporium for a spot of the stuff which made the late John Barrymore and W. C. Fields famous. Shelves were full of whiskey, gin, rum and wine, but takers were few and far between. The top photo is a scene at the State store at Sixth and Wylie Avenues showing clerks Lillian Asaf and Charles Coleman... Some customers ignore the end of liquor rationing Monday giving State store clerks a chance to catch up on paper work. - Harris Photo.\" [Accompanying image is of lines at grocery store of people buying butter instead.]",
+    "TitMainTitle": "State liquor store clerks Lillian Asaf and Charles Coleman behind counter, in state store with advertisement for March of Dimes, Sixth and Wylie Avenues",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "State Stores--Pennsylvania Liquor Control Board.Men--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "53513484-81ba-4123-8782-0fd9e81e32b0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23906,
+    "MulMultiMediaRef_key": 7980,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23906/sizes/14771-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Charles Coleman",
+        "status": "suggested"
+      },
+      {
+        "data": "W. C. Fields",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillian Asaf",
+        "status": "suggested"
+      },
+      {
+        "data": "John Barrymore",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Sixth",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Sixth",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Sixth",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Sixth",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Ain't Nobody Here But Us 'Spirits' - Liquor store employes [employees] got a little rest Monday, the first day of 'no ration' liquor sales. For long periods of time nary a customer entered the emporium for a spot of the stuff which made the late John Barrymore and W. C. Fields famous. Shelves were full of whiskey, gin, rum and wine, but takers were few and far between. The top photo is a scene at the State store at Sixth and Wylie Avenues showing clerks Lillian Asaf and Charles Coleman... Some customers ignore the end of liquor rationing Monday giving State store clerks a chance to catch up on paper work. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 1, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Ain't Nobody Here",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Coleman",
+        "status": "suggested"
+      },
+      {
+        "data": "State",
+        "status": "suggested"
+      },
+      {
+        "data": "State Stores",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "February 1, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "the first day",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "W. C. Fields",
+        "status": "suggested"
+      },
+      {
+        "data": "John Barrymore",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth",
+        "status": "suggested"
+      },
+      {
+        "data": "Dimes",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "March",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      }
+    ]
+  }
 }

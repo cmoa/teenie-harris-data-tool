@@ -1,20 +1,407 @@
 {
-	"irn": "63742",
-	"emuInput": {
-		"ecatalogue_key": "324",
-		"irn": "63742",
-		"TitAccessionNo": "2001.35.49748",
-		"TitMainTitle": "Catholic War Veterans Lloyd Davis, Florence Robinson, Commander Peter Hopkins, Louise L. Vogelsang, and Frank V. Middleton gathered during 24th annual CWV convention at Penn - Sheraton Hotel",
-		"CreDateCreated": "August 1959",
-		"CreEarliestDate": "1959-08-01",
-		"CreLatestDate": "1959-08-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 22, 1959, pg. A2, reads: \"Catholic War Vets - Shown with outgoing National Commander Peter Hopkins of the Catholic War Veterans, center, are, left to right: Lloyd Davis, chairman of the 1960 convention, to be held in August in Chicago; Mrs. Florence Robinson, distinguished social worker and CWV Ladies Auxiliary trustee for the Department of Illinois; Mrs. Louise L. Vogelsang, perhaps the only Negro woman in the United States to head a state department of a veteran's organization, because she is president of the New York Department of 70 posts, extending from Long Island to the American side of Niagara Falls, and Frank V. Middleton of Chicago, historian of the Department of Illinois, CWV. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nVeterans--Pennsylvania--Pittsburgh.\nBooks--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nDoors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "63742",
+  "emuInput": {
+    "ecatalogue_key": 49705,
+    "irn": 63742,
+    "TitAccessionNo": "2001.35.49748",
+    "CreDateCreated": "August 1959",
+    "CreEarliestDate": "1959-08-01",
+    "CreLatestDate": "1959-08-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 22, 1959, pg. A2, reads: \"Catholic War Vets - Shown with outgoing National Commander Peter Hopkins of the Catholic War Veterans, center, are, left to right: Lloyd Davis, chairman of the 1960 convention, to be held in August in Chicago; Mrs. Florence Robinson, distinguished social worker and CWV Ladies Auxiliary trustee for the Department of Illinois; Mrs. Louise L. Vogelsang, perhaps the only Negro woman in the United States to head a state department of a veteran's organization, because she is president of the New York Department of 70 posts, extending from Long Island to the American side of Niagara Falls, and Frank V. Middleton of Chicago, historian of the Department of Illinois, CWV. - Harris Photo.\"",
+    "TitMainTitle": "Catholic War Veterans Lloyd Davis, Florence Robinson, Commander Peter Hopkins, Louise L. Vogelsang, and Frank V. Middleton gathered during 24th annual CWV convention at Penn - Sheraton Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Veterans--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0027f062-716b-4410-ba2d-18000e3dea6e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72844,
+    "MulMultiMediaRef_key": 49713,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72844/sizes/63742-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 49705,
+    "irn": 63742,
+    "TitAccessionNo": "2001.35.49748",
+    "CreDateCreated": "August 1959",
+    "CreEarliestDate": "1959-08-01",
+    "CreLatestDate": "1959-08-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 22, 1959, pg. A2, reads: \"Catholic War Vets - Shown with outgoing National Commander Peter Hopkins of the Catholic War Veterans, center, are, left to right: Lloyd Davis, chairman of the 1960 convention, to be held in August in Chicago; Mrs. Florence Robinson, distinguished social worker and CWV Ladies Auxiliary trustee for the Department of Illinois; Mrs. Louise L. Vogelsang, perhaps the only Negro woman in the United States to head a state department of a veteran's organization, because she is president of the New York Department of 70 posts, extending from Long Island to the American side of Niagara Falls, and Frank V. Middleton of Chicago, historian of the Department of Illinois, CWV. - Harris Photo.\"",
+    "TitMainTitle": "Catholic War Veterans Lloyd Davis, Florence Robinson, Commander Peter Hopkins, Louise L. Vogelsang, and Frank V. Middleton gathered during 24th annual CWV convention at Penn - Sheraton Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Veterans--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0027f062-716b-4410-ba2d-18000e3dea6e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72844,
+    "MulMultiMediaRef_key": 49713,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72844/sizes/63742-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Niagara Falls",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lloyd Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Louise L. Vogelsang",
+        "status": "suggested"
+      },
+      {
+        "data": "Frank V. Middleton",
+        "status": "suggested"
+      },
+      {
+        "data": "Peter Hopkins",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Veterans",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Long Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Long Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Long Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Long Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Catholic War Vets - Shown with outgoing National Commander Peter Hopkins of the Catholic War Veterans, center, are, left to right: Lloyd Davis, chairman of the 1960 convention, to be held in August in Chicago; Mrs. Florence Robinson, distinguished social worker and CWV Ladies Auxiliary trustee for the Department of Illinois; Mrs. Louise L. Vogelsang, perhaps the only Negro woman in the United States to head a state department of a veteran's organization, because she is president of the New York Department of 70 posts, extending from Long Island to the American side of Niagara Falls, and Frank V. Middleton of Chicago, historian of the Department of Illinois, CWV. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 22, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Niagara Falls",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Veterans",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "August 22, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "the Department of Illinois",
+        "status": "suggested"
+      },
+      {
+        "data": "Lloyd Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "the New York Department",
+        "status": "suggested"
+      },
+      {
+        "data": "1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Long Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn - Sheraton Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "CWV Ladies Auxiliary",
+        "status": "suggested"
+      },
+      {
+        "data": "Catholic War Vets - Shown",
+        "status": "suggested"
+      },
+      {
+        "data": "Catholic War Veterans",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Peter Hopkins",
+        "status": "suggested"
+      },
+      {
+        "data": "the Catholic War Veterans",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "religion",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

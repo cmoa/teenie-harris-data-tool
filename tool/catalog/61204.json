@@ -1,20 +1,407 @@
 {
-	"irn": "61204",
-	"emuInput": {
-		"ecatalogue_key": "296",
-		"irn": "61204",
-		"TitAccessionNo": "2001.35.47136",
-		"TitMainTitle": "Group of young men and young women seated on folding chairs at banquet tables during Youth Lyceum banquet in Warren Methodist Church",
-		"CreDateCreated": "April 1957",
-		"CreEarliestDate": "1957-04-01",
-		"CreLatestDate": "1957-04-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 20, 1957, pg. A8 reads: \"Youth Lyceum Meets - Upper photo: Atty. Byrd Brown, standing, gave an inspiring address on the duty of teen-agers to themselves and the community, at the Youth Lyceum banquet, held in Warren Methodist Church, Saturday evening. Other guests included, left to right, Jack Butler, who introduced the guest speaker; Clair Coogan, vice principal at Schenley High School; Miss Gwendolyn L. Poinsetta, Attorney Brown, Carolyn Dickerson, Regis Bobonis and Beverly J. Butler...-Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nBanquets--Pennsylvania--Pittsburgh.\nWarren Methodist Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61204",
+  "emuInput": {
+    "ecatalogue_key": 47093,
+    "irn": 61204,
+    "TitAccessionNo": "2001.35.47136",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 20, 1957, pg. A8 reads: \"Youth Lyceum Meets - Upper photo: Atty. Byrd Brown, standing, gave an inspiring address on the duty of teen-agers to themselves and the community, at the Youth Lyceum banquet, held in Warren Methodist Church, Saturday evening. Other guests included, left to right, Jack Butler, who introduced the guest speaker; Clair Coogan, vice principal at Schenley High School; Miss Gwendolyn L. Poinsetta, Attorney Brown, Carolyn Dickerson, Regis Bobonis and Beverly J. Butler...-Harris Photo.\"",
+    "TitMainTitle": "Group of young men and young women seated on folding chairs at banquet tables during Youth Lyceum banquet in Warren Methodist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Warren Methodist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "98666483-769c-4c95-8501-72a96a829882",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69653,
+    "MulMultiMediaRef_key": 47101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69653/sizes/61204-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47093,
+    "irn": 61204,
+    "TitAccessionNo": "2001.35.47136",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 20, 1957, pg. A8 reads: \"Youth Lyceum Meets - Upper photo: Atty. Byrd Brown, standing, gave an inspiring address on the duty of teen-agers to themselves and the community, at the Youth Lyceum banquet, held in Warren Methodist Church, Saturday evening. Other guests included, left to right, Jack Butler, who introduced the guest speaker; Clair Coogan, vice principal at Schenley High School; Miss Gwendolyn L. Poinsetta, Attorney Brown, Carolyn Dickerson, Regis Bobonis and Beverly J. Butler...-Harris Photo.\"",
+    "TitMainTitle": "Group of young men and young women seated on folding chairs at banquet tables during Youth Lyceum banquet in Warren Methodist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Warren Methodist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "98666483-769c-4c95-8501-72a96a829882",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69653,
+    "MulMultiMediaRef_key": 47101,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69653/sizes/61204-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gwendolyn L. Poinsetta",
+        "status": "suggested"
+      },
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Clair Coogan",
+        "status": "suggested"
+      },
+      {
+        "data": "Byrd Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Regis Bobonis",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Beverly J. Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Dickerson",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Butler",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Youth Lyceum Meets - Upper photo: Atty. Byrd Brown, standing, gave an inspiring address on the duty of teen-agers to themselves and the community, at the Youth Lyceum banquet, held in Warren Methodist Church, Saturday evening. Other guests included, left to right, Jack Butler, who introduced the guest speaker; Clair Coogan, vice principal at Schenley High School; Miss Gwendolyn L. Poinsetta, Attorney Brown, Carolyn Dickerson, Regis Bobonis and Beverly J. Butler...-Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 20, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Youth Lyceum",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School",
+        "status": "suggested"
+      },
+      {
+        "data": "April 20, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Warren Methodist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Youth Lyceum Meets - Upper",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Byrd Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Regis Bobonis",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Warren Methodist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "banquet",
+        "status": "suggested"
+      }
+    ]
+  }
 }

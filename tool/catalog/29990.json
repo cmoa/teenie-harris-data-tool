@@ -1,20 +1,316 @@
 {
-	"irn": "29990",
-	"emuInput": {
-		"ecatalogue_key": "144",
-		"irn": "29990",
-		"TitAccessionNo": "2001.35.18459",
-		"TitMainTitle": "Alma Illery and Gordon Irving gathered around piano in WTAE television station studio",
-		"CreDateCreated": "April 1961",
-		"CreEarliestDate": "1961-04-01",
-		"CreLatestDate": "1961-04-08",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 8, 1961, pg. 18, reads: \"On TV Program - Mrs. Alma Illery, president and founder of the National Achievement Clubs Inc., poses with Mr. and Mrs. Gordon Irving, following their appearance on TV Channel 4. The trio participated in Easter inspirational program on TV Station WTAE. - Harris Photo.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nPianos--Pennsylvania--Pittsburgh.\nBenches--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nIllery, Alma.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "29990",
+  "emuInput": {
+    "ecatalogue_key": 18429,
+    "irn": 29990,
+    "TitAccessionNo": "2001.35.18459",
+    "CreDateCreated": "April 1961",
+    "CreEarliestDate": "1961-04-01",
+    "CreLatestDate": "1961-04-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 8, 1961, pg. 18, reads: \"On TV Program - Mrs. Alma Illery, president and founder of the National Achievement Clubs Inc., poses with Mr. and Mrs. Gordon Irving, following their appearance on TV Channel 4. The trio participated in Easter inspirational program on TV Station WTAE. - Harris Photo.\"",
+    "TitMainTitle": "Alma Illery and Gordon Irving gathered around piano in WTAE television station studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Benches--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Illery, Alma.",
+    "AdmGUIDValue_tab": "09202761-7e51-4360-8a4d-bd629b502201",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36050,
+    "MulMultiMediaRef_key": 18437,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36050/sizes/29990-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 18429,
+    "irn": 29990,
+    "TitAccessionNo": "2001.35.18459",
+    "CreDateCreated": "April 1961",
+    "CreEarliestDate": "1961-04-01",
+    "CreLatestDate": "1961-04-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 8, 1961, pg. 18, reads: \"On TV Program - Mrs. Alma Illery, president and founder of the National Achievement Clubs Inc., poses with Mr. and Mrs. Gordon Irving, following their appearance on TV Channel 4. The trio participated in Easter inspirational program on TV Station WTAE. - Harris Photo.\"",
+    "TitMainTitle": "Alma Illery and Gordon Irving gathered around piano in WTAE television station studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Benches--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Illery, Alma.",
+    "AdmGUIDValue_tab": "09202761-7e51-4360-8a4d-bd629b502201",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36050,
+    "MulMultiMediaRef_key": 18437,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36050/sizes/29990-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gordon Irving",
+        "status": "suggested"
+      },
+      {
+        "data": "Illery",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Benches",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "On TV Program - Mrs. Alma Illery, president and founder of the National Achievement Clubs Inc., poses with Mr. and Mrs. Gordon Irving, following their appearance on TV Channel 4. The trio participated in Easter inspirational program on TV Station WTAE. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 8, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Benches",
+        "status": "suggested"
+      },
+      {
+        "data": "April 8, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianos",
+        "status": "suggested"
+      },
+      {
+        "data": "Illery, Alma",
+        "status": "suggested"
+      },
+      {
+        "data": "Illery",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "WTAE",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Channel 4",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "the National Achievement Clubs Inc.",
+        "status": "suggested"
+      },
+      {
+        "data": "Gordon Irving",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "music",
+        "status": "suggested"
+      },
+      {
+        "data": "pianist",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "musical instrument accessory",
+        "status": "suggested"
+      },
+      {
+        "data": "musician",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

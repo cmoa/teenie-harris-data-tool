@@ -1,20 +1,224 @@
 {
-	"irn": "18917",
-	"emuInput": {
-		"ecatalogue_key": "85",
-		"irn": "18917",
-		"TitAccessionNo": "2001.35.10165",
-		"TitMainTitle": "C.J. Evans Jr. standing in Foremost Dairy booth advertising peach ice cream, in Hunt Armory for the 1954 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "June 10-12, 1954",
-		"CreEarliestDate": "1954-06-10",
-		"CreLatestDate": "1954-06-12",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 9 reads: \"Homemakers See Latest in Foods, Appliances...6. The Foremost Dairies, Inc., booth was the children's delight. Frozen, delicious ice cream bars were passed out the hundreds as visitors made repeated visits several times during the three evenings.  C.J. Evans Jr. was the representative...Harris Photo.\"",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nHunt Armory (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "18917",
+  "emuInput": {
+    "ecatalogue_key": 10139,
+    "irn": 18917,
+    "TitAccessionNo": "2001.35.10165",
+    "CreDateCreated": "June 10-12, 1954",
+    "CreEarliestDate": "1954-06-10",
+    "CreLatestDate": "1954-06-12",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 9 reads: \"Homemakers See Latest in Foods, Appliances...6. The Foremost Dairies, Inc., booth was the children's delight. Frozen, delicious ice cream bars were passed out the hundreds as visitors made repeated visits several times during the three evenings.  C.J. Evans Jr. was the representative...Harris Photo.\"",
+    "TitMainTitle": "C.J. Evans Jr. standing in Foremost Dairy booth advertising peach ice cream, in Hunt Armory for the 1954 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hunt Armory (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "69799053-128f-4dd2-b6ef-88c320166e96",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25940,
+    "MulMultiMediaRef_key": 10147,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25940/sizes/18917-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10139,
+    "irn": 18917,
+    "TitAccessionNo": "2001.35.10165",
+    "CreDateCreated": "June 10-12, 1954",
+    "CreEarliestDate": "1954-06-10",
+    "CreLatestDate": "1954-06-12",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 9 reads: \"Homemakers See Latest in Foods, Appliances...6. The Foremost Dairies, Inc., booth was the children's delight. Frozen, delicious ice cream bars were passed out the hundreds as visitors made repeated visits several times during the three evenings.  C.J. Evans Jr. was the representative...Harris Photo.\"",
+    "TitMainTitle": "C.J. Evans Jr. standing in Foremost Dairy booth advertising peach ice cream, in Hunt Armory for the 1954 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hunt Armory (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "69799053-128f-4dd2-b6ef-88c320166e96",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25940,
+    "MulMultiMediaRef_key": 10147,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25940/sizes/18917-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "C.J. Evans Jr.",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Homemakers See Latest in Foods, Appliances...6. The Foremost Dairies, Inc., booth was the children's delight. Frozen, delicious ice cream bars were passed out the hundreds as visitors made repeated visits several times during the three evenings.  C.J. Evans Jr. was the representative...Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 19, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "June 19, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Hunt Armory ",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Homemakers See Latest in Foods, Appliances...6.",
+        "status": "suggested"
+      },
+      {
+        "data": "The Foremost Dairies, Inc.",
+        "status": "suggested"
+      },
+      {
+        "data": "three evenings",
+        "status": "suggested"
+      },
+      {
+        "data": "1954",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

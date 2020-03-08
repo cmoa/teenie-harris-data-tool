@@ -1,20 +1,352 @@
 {
-	"irn": "54839",
-	"emuInput": {
-		"ecatalogue_key": "233",
-		"irn": "54839",
-		"TitAccessionNo": "2001.35.41603",
-		"TitMainTitle": "Jessie Vann handing down payment check to Clarence Rodgers, manager of Belmar Gardens, in office of Pittsburgh Courier Newspaper",
-		"CreDateCreated": "February 1953",
-		"CreEarliestDate": "1953-02-01",
-		"CreLatestDate": "1953-02-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 14, 1953, pg. 3 reads: \"To Buy Home In Belmar Gardens - Mrs. Robert L. Vann, president and publisher of the Courier, is shown presenting her down-payment check for $1,200 to Clarence Rodgers, manager of Belmar Gardens. The development, a citizens' cooperative project, expects to begin building in March.  One of the streets in project will be called Vann Drive, in honor of Mrs. Vann's late husband, Editor Robert L. Vann.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nVann, Jessie, 1889-1967.\nOffices--Pennsylvania--Pittsburgh.\nCalendars--Pennsylvania--Pittsburgh.\nPittsburgh Courier Publishing Co.\nOffice furniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "54839",
+  "emuInput": {
+    "ecatalogue_key": 41561,
+    "irn": 54839,
+    "TitAccessionNo": "2001.35.41603",
+    "CreDateCreated": "February 1953",
+    "CreEarliestDate": "1953-02-01",
+    "CreLatestDate": "1953-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 14, 1953, pg. 3 reads: \"To Buy Home In Belmar Gardens - Mrs. Robert L. Vann, president and publisher of the Courier, is shown presenting her down-payment check for $1,200 to Clarence Rodgers, manager of Belmar Gardens. The development, a citizens' cooperative project, expects to begin building in March.  One of the streets in project will be called Vann Drive, in honor of Mrs. Vann's late husband, Editor Robert L. Vann.\"",
+    "TitMainTitle": "Jessie Vann handing down payment check to Clarence Rodgers, manager of Belmar Gardens, in office of Pittsburgh Courier Newspaper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Offices--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Pittsburgh Courier Publishing Co.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "65684966-9799-43cc-93e0-c4e21f1fed22",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62364,
+    "MulMultiMediaRef_key": 41569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62364/sizes/54839-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41561,
+    "irn": 54839,
+    "TitAccessionNo": "2001.35.41603",
+    "CreDateCreated": "February 1953",
+    "CreEarliestDate": "1953-02-01",
+    "CreLatestDate": "1953-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 14, 1953, pg. 3 reads: \"To Buy Home In Belmar Gardens - Mrs. Robert L. Vann, president and publisher of the Courier, is shown presenting her down-payment check for $1,200 to Clarence Rodgers, manager of Belmar Gardens. The development, a citizens' cooperative project, expects to begin building in March.  One of the streets in project will be called Vann Drive, in honor of Mrs. Vann's late husband, Editor Robert L. Vann.\"",
+    "TitMainTitle": "Jessie Vann handing down payment check to Clarence Rodgers, manager of Belmar Gardens, in office of Pittsburgh Courier Newspaper",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Offices--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Pittsburgh Courier Publishing Co.Office furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "65684966-9799-43cc-93e0-c4e21f1fed22",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62364,
+    "MulMultiMediaRef_key": 41569,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62364/sizes/54839-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence Rodgers",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Office furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann (Liberty ship)",
+        "status": "suggested"
+      },
+      {
+        "data": "Calendars",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Belmar Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann Drive",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Belmar Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann Drive",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Belmar Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann Drive",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Belmar Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann Drive",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "To Buy Home In Belmar Gardens - Mrs. Robert L. Vann, president and publisher of the Courier, is shown presenting her down-payment check for $1,200 to Clarence Rodgers, manager of Belmar Gardens. The development, a citizens' cooperative project, expects to begin building in March.  One of the streets in project will be called Vann Drive, in honor of Mrs. Vann's late husband, Editor Robert L. Vann.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 14, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Office furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Publishing Co",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Newspaper",
+        "status": "suggested"
+      },
+      {
+        "data": "SS Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Calendars",
+        "status": "suggested"
+      },
+      {
+        "data": "February 14, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann Drive",
+        "status": "suggested"
+      },
+      {
+        "data": "March",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

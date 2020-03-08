@@ -1,20 +1,296 @@
 {
-	"irn": "70817",
-	"emuInput": {
-		"ecatalogue_key": "372",
-		"irn": "70817",
-		"TitAccessionNo": "2001.35.56038",
-		"TitMainTitle": "Joseph Watts wearing round sign inscribed \"I am a good Democrat, let's vote out the bad ones, pull 2nd lever\"",
-		"CreDateCreated": "November 1961",
-		"CreEarliestDate": "1961-11-01",
-		"CreLatestDate": "1961-11-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 11, 1961, pg. 2, reads: \"Candidates Work Hard in Victory Quest - 'Rebel' Democrat - 'Rebel' Democrat Committeeman Joseph Watts, Sixth District, 13th Ward, right charged party brass was stingy with patronage to Negroes. He urged Democrats to vote Republican, much to the delight of W. P. Young, GOP stalwart.  Watt's sign (inset) tells the story. - Harris Photos.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nPolitical campaigns--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70817",
+  "emuInput": {
+    "ecatalogue_key": 55995,
+    "irn": 70817,
+    "TitAccessionNo": "2001.35.56038",
+    "CreDateCreated": "November 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-11-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 11, 1961, pg. 2, reads: \"Candidates Work Hard in Victory Quest - 'Rebel' Democrat - 'Rebel' Democrat Committeeman Joseph Watts, Sixth District, 13th Ward, right charged party brass was stingy with patronage to Negroes. He urged Democrats to vote Republican, much to the delight of W. P. Young, GOP stalwart.  Watt's sign (inset) tells the story. - Harris Photos.\"",
+    "TitMainTitle": "Joseph Watts wearing round sign inscribed \"I am a good Democrat, let's vote out the bad ones, pull 2nd lever\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31167958-c1a7-4a0d-80ac-007456567354",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 86256,
+    "MulMultiMediaRef_key": 56004,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/86256/sizes/70817-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55995,
+    "irn": 70817,
+    "TitAccessionNo": "2001.35.56038",
+    "CreDateCreated": "November 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-11-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 11, 1961, pg. 2, reads: \"Candidates Work Hard in Victory Quest - 'Rebel' Democrat - 'Rebel' Democrat Committeeman Joseph Watts, Sixth District, 13th Ward, right charged party brass was stingy with patronage to Negroes. He urged Democrats to vote Republican, much to the delight of W. P. Young, GOP stalwart.  Watt's sign (inset) tells the story. - Harris Photos.\"",
+    "TitMainTitle": "Joseph Watts wearing round sign inscribed \"I am a good Democrat, let's vote out the bad ones, pull 2nd lever\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31167958-c1a7-4a0d-80ac-007456567354",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 86256,
+    "MulMultiMediaRef_key": 56004,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/86256/sizes/70817-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Joseph Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "W. P. Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Watt",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Rebel",
+        "status": "suggested"
+      },
+      {
+        "data": "Watt",
+        "status": "suggested"
+      },
+      {
+        "data": "G. O. P.",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Candidates Work Hard in Victory Quest - 'Rebel' Democrat - 'Rebel' Democrat Committeeman Joseph Watts, Sixth District, 13th Ward, right charged party brass was stingy with patronage to Negroes. He urged Democrats to vote Republican, much to the delight of W. P. Young, GOP stalwart.  Watt's sign (inset) tells the story. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 11, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrats",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "November 11, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "W. P. Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Watt",
+        "status": "suggested"
+      },
+      {
+        "data": "13th",
+        "status": "suggested"
+      },
+      {
+        "data": "GOP",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "Rebel",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

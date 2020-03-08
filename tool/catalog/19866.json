@@ -1,20 +1,324 @@
 {
-	"irn": "19866",
-	"emuInput": {
-		"ecatalogue_key": "94",
-		"irn": "19866",
-		"TitAccessionNo": "2001.35.10881",
-		"TitMainTitle": "Boy eating sample wiener on a toothpick with men and women standing behind him at Oswald & Hess Company booth in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 19-21, 1957",
-		"CreEarliestDate": "1957-03-19",
-		"CreLatestDate": "1957-03-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 18 reads: \"5. Miss Willa Rodgers, hostess for the Oswald and Hess Company, served O. and H. samples to delighted homemakers from their booth.\"",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nFood industry and trade--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "19866",
+  "emuInput": {
+    "ecatalogue_key": 10855,
+    "irn": 19866,
+    "TitAccessionNo": "2001.35.10881",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 18 reads: \"5. Miss Willa Rodgers, hostess for the Oswald and Hess Company, served O. and H. samples to delighted homemakers from their booth.\"",
+    "TitMainTitle": "Boy eating sample wiener on a toothpick with men and women standing behind him at Oswald & Hess Company booth in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Food industry and trade--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "01cd721a-af04-4076-a645-8be3683d2b44",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27102,
+    "MulMultiMediaRef_key": 10863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27102/sizes/19866-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10855,
+    "irn": 19866,
+    "TitAccessionNo": "2001.35.10881",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 18 reads: \"5. Miss Willa Rodgers, hostess for the Oswald and Hess Company, served O. and H. samples to delighted homemakers from their booth.\"",
+    "TitMainTitle": "Boy eating sample wiener on a toothpick with men and women standing behind him at Oswald & Hess Company booth in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Food industry and trade--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "01cd721a-af04-4076-a645-8be3683d2b44",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27102,
+    "MulMultiMediaRef_key": 10863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27102/sizes/19866-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Willa Rodgers",
+        "status": "suggested"
+      },
+      {
+        "data": "H.",
+        "status": "suggested"
+      },
+      {
+        "data": "O.",
+        "status": "suggested"
+      },
+      {
+        "data": "Oswald",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Food industry and trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "H.",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "5. Miss Willa Rodgers, hostess for the Oswald and Hess Company, served O. and H. samples to delighted homemakers from their booth.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 6, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "April 6, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Food industry and trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Oswald",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Oswald & Hess Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "H.",
+        "status": "suggested"
+      },
+      {
+        "data": "O.",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "music",
+        "status": "suggested"
+      }
+    ]
+  }
 }

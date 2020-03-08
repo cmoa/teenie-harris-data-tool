@@ -1,20 +1,388 @@
 {
-	"irn": "40466",
-	"emuInput": {
-		"ecatalogue_key": "195",
-		"irn": "40466",
-		"TitAccessionNo": "2001.35.27887",
-		"TitMainTitle": "George Mason, David Washington, Jessie Vann, Mrs. McKinley King receiving gift of appreciation, and Daisy Lampkin, during annual Alpha Phi Alpha picnic, North Park",
-		"CreDateCreated": "July 1946",
-		"CreEarliestDate": "1946-07-01",
-		"CreLatestDate": "1946-07-27",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 14 reads: \"Honor Prexy's Wife - Alpha Omicron Lambda Chapter of Alpha Phi Alpha Fraternity gave a special gift of appreciation to Mrs. McKinley King, wife of the fraternity president, at the annual picnic last Friday at North Park. On th photo (left to right) are :George Mason, emcee; David Washington, MRs. Robert L .Vann, Mrs. King and Mrs. Daisy Lampkin. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nVann, Jessie, 1889-1967.\nLampkin, Daisy E. (Daisy Elizabeth), 1882-1965.\nAllegheny County (Pa.).Department of Parks, Recreation, and Conservation.North Park.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "40466",
+  "emuInput": {
+    "ecatalogue_key": 27855,
+    "irn": 40466,
+    "TitAccessionNo": "2001.35.27887",
+    "CreDateCreated": "July 1946",
+    "CreEarliestDate": "1946-07-01",
+    "CreLatestDate": "1946-07-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 14 reads: \"Honor Prexy's Wife - Alpha Omicron Lambda Chapter of Alpha Phi Alpha Fraternity gave a special gift of appreciation to Mrs. McKinley King, wife of the fraternity president, at the annual picnic last Friday at North Park. On th photo (left to right) are :George Mason, emcee; David Washington, MRs. Robert L .Vann, Mrs. King and Mrs. Daisy Lampkin. - Harris Photo.\"",
+    "TitMainTitle": "George Mason, David Washington, Jessie Vann, Mrs. McKinley King receiving gift of appreciation, and Daisy Lampkin, during annual Alpha Phi Alpha picnic, North Park",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Lampkin, Daisy E. (Daisy Elizabeth), 1882-1965.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.North Park.",
+    "AdmGUIDValue_tab": "43035436-2d05-4c55-bc76-40893e983646",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47376,
+    "MulMultiMediaRef_key": 27863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47376/sizes/40466-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 27855,
+    "irn": 40466,
+    "TitAccessionNo": "2001.35.27887",
+    "CreDateCreated": "July 1946",
+    "CreEarliestDate": "1946-07-01",
+    "CreLatestDate": "1946-07-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 14 reads: \"Honor Prexy's Wife - Alpha Omicron Lambda Chapter of Alpha Phi Alpha Fraternity gave a special gift of appreciation to Mrs. McKinley King, wife of the fraternity president, at the annual picnic last Friday at North Park. On th photo (left to right) are :George Mason, emcee; David Washington, MRs. Robert L .Vann, Mrs. King and Mrs. Daisy Lampkin. - Harris Photo.\"",
+    "TitMainTitle": "George Mason, David Washington, Jessie Vann, Mrs. McKinley King receiving gift of appreciation, and Daisy Lampkin, during annual Alpha Phi Alpha picnic, North Park",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Lampkin, Daisy E. (Daisy Elizabeth), 1882-1965.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.North Park.",
+    "AdmGUIDValue_tab": "43035436-2d05-4c55-bc76-40893e983646",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47376,
+    "MulMultiMediaRef_key": 27863,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47376/sizes/40466-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Robert L .Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "McKinley King",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "King",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "David Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Phi Alpha",
+        "status": "suggested"
+      },
+      {
+        "data": "George Mason",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "North Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "North Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "North Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "North Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Honor Prexy's Wife - Alpha Omicron Lambda Chapter of Alpha Phi Alpha Fraternity gave a special gift of appreciation to Mrs. McKinley King, wife of the fraternity president, at the annual picnic last Friday at North Park. On th photo (left to right) are :George Mason, emcee; David Washington, MRs. Robert L .Vann, Mrs. King and Mrs. Daisy Lampkin. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 27, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "North Park",
+        "status": "suggested"
+      },
+      {
+        "data": "McKinley King",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "King",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Wife - Alpha Omicron Lambda Chapter of Alpha Phi Alpha Fraternity",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Phi Alpha",
+        "status": "suggested"
+      },
+      {
+        "data": "Department of Parks, Recreation, and Conservation",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Lampkin, Daisy E",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L .Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County ",
+        "status": "suggested"
+      },
+      {
+        "data": "July 27, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "David Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "George Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

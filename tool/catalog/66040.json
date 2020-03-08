@@ -1,20 +1,504 @@
 {
-	"irn": "66040",
-	"emuInput": {
-		"ecatalogue_key": "338",
-		"irn": "66040",
-		"TitAccessionNo": "2001.35.51815",
-		"TitMainTitle": "Out-of-town guests for Butler - Jones wedding, front row from left: Sara Writt Dunstan, Juanita Evans, Ruth Shipley, Fai Rucker, Ethel Jenkins; second row: Dorothy Perkins, Mabel Page Johnson; standing: Frankie Dean, Dorothy Gillespie, Doris Reynolds Attwood, Lydia Williams, and Mrs. Stephen T. Brooks posed on staircase in home of Corinne Lindsay",
-		"CreDateCreated": "June 1954",
-		"CreEarliestDate": "1954-06-01",
-		"CreLatestDate": "1954-06-26",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 26, 1954, pg. 11, reads: \"Visitors to Pittsburgh - The gorgeous group of socialites who came to Pittsburgh last week-end to attend the Butler - Jones wedding included relatives of the bride and close friends of the bride's mother, Mrs. Harold Butler (Billie). Shown here, front row, Mrs. Sara Writt Dunstan, N. Y.; Mrs. Juanita Evans, Cleveland; Mrs. Ruth Shipley, Baltimore - Washington; Mrs. Fai Rucker, Washington; Mrs. Ethel Jenkins, Cleveland. Second row: Dorothy Perkins, D. C., and Mrs. Mabel Page Johnson, Johnstown, Pa. Standing are Mrs. Frankie Dean, Washington; Mrs. Dorothy Gillespie, Cleveland; Mrs. Doris Reynolds Attwood and Lydia Williams of D. C. and Mrs. Stephen T. Brooks, Wilmington, Del. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nStairs--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "66040",
+  "emuInput": {
+    "ecatalogue_key": 51772,
+    "irn": 66040,
+    "TitAccessionNo": "2001.35.51815",
+    "CreDateCreated": "June 1954",
+    "CreEarliestDate": "1954-06-01",
+    "CreLatestDate": "1954-06-26",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 26, 1954, pg. 11, reads: \"Visitors to Pittsburgh - The gorgeous group of socialites who came to Pittsburgh last week-end to attend the Butler - Jones wedding included relatives of the bride and close friends of the bride's mother, Mrs. Harold Butler (Billie). Shown here, front row, Mrs. Sara Writt Dunstan, N. Y.; Mrs. Juanita Evans, Cleveland; Mrs. Ruth Shipley, Baltimore - Washington; Mrs. Fai Rucker, Washington; Mrs. Ethel Jenkins, Cleveland. Second row: Dorothy Perkins, D. C., and Mrs. Mabel Page Johnson, Johnstown, Pa. Standing are Mrs. Frankie Dean, Washington; Mrs. Dorothy Gillespie, Cleveland; Mrs. Doris Reynolds Attwood and Lydia Williams of D. C. and Mrs. Stephen T. Brooks, Wilmington, Del. - Harris Photo.\"",
+    "TitMainTitle": "Out-of-town guests for Butler - Jones wedding, front row from left: Sara Writt Dunstan, Juanita Evans, Ruth Shipley, Fai Rucker, Ethel Jenkins; second row: Dorothy Perkins, Mabel Page Johnson; standing: Frankie Dean, Dorothy Gillespie, Doris Reynolds Attwood, Lydia Williams, and Mrs. Stephen T. Brooks posed on staircase in home of Corinne Lindsay",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "43107517-f0ac-425a-bd1e-a6e0ec052d46",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75765,
+    "MulMultiMediaRef_key": 51780,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75765/sizes/66040-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 51772,
+    "irn": 66040,
+    "TitAccessionNo": "2001.35.51815",
+    "CreDateCreated": "June 1954",
+    "CreEarliestDate": "1954-06-01",
+    "CreLatestDate": "1954-06-26",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 26, 1954, pg. 11, reads: \"Visitors to Pittsburgh - The gorgeous group of socialites who came to Pittsburgh last week-end to attend the Butler - Jones wedding included relatives of the bride and close friends of the bride's mother, Mrs. Harold Butler (Billie). Shown here, front row, Mrs. Sara Writt Dunstan, N. Y.; Mrs. Juanita Evans, Cleveland; Mrs. Ruth Shipley, Baltimore - Washington; Mrs. Fai Rucker, Washington; Mrs. Ethel Jenkins, Cleveland. Second row: Dorothy Perkins, D. C., and Mrs. Mabel Page Johnson, Johnstown, Pa. Standing are Mrs. Frankie Dean, Washington; Mrs. Dorothy Gillespie, Cleveland; Mrs. Doris Reynolds Attwood and Lydia Williams of D. C. and Mrs. Stephen T. Brooks, Wilmington, Del. - Harris Photo.\"",
+    "TitMainTitle": "Out-of-town guests for Butler - Jones wedding, front row from left: Sara Writt Dunstan, Juanita Evans, Ruth Shipley, Fai Rucker, Ethel Jenkins; second row: Dorothy Perkins, Mabel Page Johnson; standing: Frankie Dean, Dorothy Gillespie, Doris Reynolds Attwood, Lydia Williams, and Mrs. Stephen T. Brooks posed on staircase in home of Corinne Lindsay",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "43107517-f0ac-425a-bd1e-a6e0ec052d46",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75765,
+    "MulMultiMediaRef_key": 51780,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75765/sizes/66040-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Frankie Dean",
+        "status": "suggested"
+      },
+      {
+        "data": "Sara Writt Dunstan",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Shipley",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Stephen T. Brooks",
+        "status": "suggested"
+      },
+      {
+        "data": "Lydia Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Reynolds Attwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Corinne Lindsay",
+        "status": "suggested"
+      },
+      {
+        "data": "N. Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Jenkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Juanita Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Gillespie",
+        "status": "suggested"
+      },
+      {
+        "data": "Billie",
+        "status": "suggested"
+      },
+      {
+        "data": "Mabel Page Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "D. C.",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Perkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Fai Rucker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnstown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilmington",
+        "status": "suggested"
+      },
+      {
+        "data": "Del.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnstown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilmington",
+        "status": "suggested"
+      },
+      {
+        "data": "Del.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnstown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilmington",
+        "status": "suggested"
+      },
+      {
+        "data": "Del.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnstown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilmington",
+        "status": "suggested"
+      },
+      {
+        "data": "Del.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Visitors to Pittsburgh - The gorgeous group of socialites who came to Pittsburgh last week-end to attend the Butler - Jones wedding included relatives of the bride and close friends of the bride's mother, Mrs. Harold Butler (Billie). Shown here, front row, Mrs. Sara Writt Dunstan, N. Y.; Mrs. Juanita Evans, Cleveland; Mrs. Ruth Shipley, Baltimore - Washington; Mrs. Fai Rucker, Washington; Mrs. Ethel Jenkins, Cleveland. Second row: Dorothy Perkins, D. C., and Mrs. Mabel Page Johnson, Johnstown, Pa. Standing are Mrs. Frankie Dean, Washington; Mrs. Dorothy Gillespie, Cleveland; Mrs. Doris Reynolds Attwood and Lydia Williams of D. C. and Mrs. Stephen T. Brooks, Wilmington, Del. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 26, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Lydia Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Juanita Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "Billie",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "June 26, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Shipley",
+        "status": "suggested"
+      },
+      {
+        "data": "D.",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Butler - Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "D. C.",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Gillespie",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Perkins",
+        "status": "suggested"
+      },
+      {
+        "data": "last week-end",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "N. Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Del. - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      }
+    ]
+  }
 }

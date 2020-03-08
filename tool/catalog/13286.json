@@ -1,20 +1,436 @@
 {
-	"irn": "13286",
-	"emuInput": {
-		"ecatalogue_key": "56",
-		"irn": "13286",
-		"TitAccessionNo": "2001.35.6873",
-		"TitMainTitle": "Annual Elks parade, with Elks drill team from Cleveland marching in uniform and holding canes, in front of Northside Elks Lodge No. 124, Wylie Avenue, Hill District",
-		"CreDateCreated": "August 31, 1943",
-		"CreEarliestDate": "1943-08-31",
-		"CreLatestDate": "1943-08-31",
-		"PhyMediumComments": "black-and-white: Agfa Superpan Press safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 4, 1943, pg. 14, reads: \"Elkdom on Parade! ... Thousands See Colorful Event ... Nation Represented. Tuesday afternoon, the Elks held their famous annual convention parade.  Up and down the hills of Pittsburgh marched the members of the Antlered Herd to the cheers and applause of thousands of spectators.  While not as long as parades in other years, it was still colorful and entertaining... 15. Cleveland, Ohio, drill team on parade as the stands look on... - Courier Photos by Harris, Sockwell and Olmstead.\"",
-		"CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.\nCrowds--Pennsylvania--Pittsburgh.\nElks (Fraternal order).\nBuildings--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nWylie Avenue (Pittsburgh, Pa.)\nHill District (Pittsburgh, Pa.)\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13286",
+  "emuInput": {
+    "ecatalogue_key": 6858,
+    "irn": 13286,
+    "TitAccessionNo": "2001.35.6873",
+    "CreDateCreated": "August 31, 1943",
+    "CreEarliestDate": "1943-08-31",
+    "CreLatestDate": "1943-08-31",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Press safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 4, 1943, pg. 14, reads: \"Elkdom on Parade! ... Thousands See Colorful Event ... Nation Represented. Tuesday afternoon, the Elks held their famous annual convention parade.  Up and down the hills of Pittsburgh marched the members of the Antlered Herd to the cheers and applause of thousands of spectators.  While not as long as parades in other years, it was still colorful and entertaining... 15. Cleveland, Ohio, drill team on parade as the stands look on... - Courier Photos by Harris, Sockwell and Olmstead.\"",
+    "TitMainTitle": "Annual Elks parade, with Elks drill team from Cleveland marching in uniform and holding canes, in front of Northside Elks Lodge No. 124, Wylie Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.Elks (Fraternal order).Buildings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Wylie Avenue (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01e421d7-c2ac-4429-a6d6-2ffee2a6e780",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22526,
+    "MulMultiMediaRef_key": 6866,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22526/sizes/13286-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6858,
+    "irn": 13286,
+    "TitAccessionNo": "2001.35.6873",
+    "CreDateCreated": "August 31, 1943",
+    "CreEarliestDate": "1943-08-31",
+    "CreLatestDate": "1943-08-31",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Press safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 4, 1943, pg. 14, reads: \"Elkdom on Parade! ... Thousands See Colorful Event ... Nation Represented. Tuesday afternoon, the Elks held their famous annual convention parade.  Up and down the hills of Pittsburgh marched the members of the Antlered Herd to the cheers and applause of thousands of spectators.  While not as long as parades in other years, it was still colorful and entertaining... 15. Cleveland, Ohio, drill team on parade as the stands look on... - Courier Photos by Harris, Sockwell and Olmstead.\"",
+    "TitMainTitle": "Annual Elks parade, with Elks drill team from Cleveland marching in uniform and holding canes, in front of Northside Elks Lodge No. 124, Wylie Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Parades--Pennsylvania--Pittsburgh.Crowds--Pennsylvania--Pittsburgh.Elks (Fraternal order).Buildings--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Wylie Avenue (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01e421d7-c2ac-4429-a6d6-2ffee2a6e780",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22526,
+    "MulMultiMediaRef_key": 6866,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22526/sizes/13286-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Sockwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Olmstead",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside Elks Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside Elks Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside Elks Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Cleveland",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside Elks Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Elkdom on Parade! ... Thousands See Colorful Event ... Nation Represented. Tuesday afternoon, the Elks held their famous annual convention parade.  Up and down the hills of Pittsburgh marched the members of the Antlered Herd to the cheers and applause of thousands of spectators.  While not as long as parades in other years, it was still colorful and entertaining... 15. Cleveland, Ohio, drill team on parade as the stands look on... - Courier Photos by Harris, Sockwell and Olmstead.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 4, 1943",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside Elks Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Antlered Herd",
+        "status": "suggested"
+      },
+      {
+        "data": "Sockwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Olmstead",
+        "status": "suggested"
+      },
+      {
+        "data": "September 4, 1943",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "other years",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Elks ",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Elks",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "history",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "pedestrian",
+        "status": "suggested"
+      }
+    ]
+  }
 }

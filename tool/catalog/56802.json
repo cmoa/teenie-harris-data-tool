@@ -1,20 +1,343 @@
 {
-	"irn": "56802",
-	"emuInput": {
-		"ecatalogue_key": "254",
-		"irn": "56802",
-		"TitAccessionNo": "2001.35.43315",
-		"TitMainTitle": "Group portrait of Las Catena Club members with husbands and friends, including: Carl Talbott, in center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, and Chauncey Williams; last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams, and Gloria Talbott, posed in home of Mr. and Mrs. Carl Talbott for New Year's party",
-		"CreDateCreated": "December 1954 - January 1955",
-		"CreEarliestDate": "1954-12-15",
-		"CreLatestDate": "1955-01-08",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier, January 8, 1955, pg. 24 reads: \"New Year's Eve...was a gala night for members of the Las Catena Club who entertained their husbands and friends with a party at the home of Mr. and Mrs. Carl Talbott.  The club, aimed at charity, begins its new year by presenting a basket of food to a new Homestead mother who has ten youngsters.  Pictured are Carl Ealbott [Talbott], center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, Chauncey Williams.  Last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams and Gloria Talbott. - Harris Photo.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.\nClubs--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56802",
+  "emuInput": {
+    "ecatalogue_key": 43273,
+    "irn": 56802,
+    "TitAccessionNo": "2001.35.43315",
+    "CreDateCreated": "December 1954 - January 1955",
+    "CreEarliestDate": "1954-12-15",
+    "CreLatestDate": "1955-01-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier, January 8, 1955, pg. 24 reads: \"New Year's Eve...was a gala night for members of the Las Catena Club who entertained their husbands and friends with a party at the home of Mr. and Mrs. Carl Talbott.  The club, aimed at charity, begins its new year by presenting a basket of food to a new Homestead mother who has ten youngsters.  Pictured are Carl Ealbott [Talbott], center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, Chauncey Williams.  Last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams and Gloria Talbott. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Las Catena Club members with husbands and friends, including: Carl Talbott, in center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, and Chauncey Williams; last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams, and Gloria Talbott, posed in home of Mr. and Mrs. Carl Talbott for New Year's party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "41549860-a652-480a-abea-b5dda29cf0f4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64974,
+    "MulMultiMediaRef_key": 43281,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64974/sizes/56802-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43273,
+    "irn": 56802,
+    "TitAccessionNo": "2001.35.43315",
+    "CreDateCreated": "December 1954 - January 1955",
+    "CreEarliestDate": "1954-12-15",
+    "CreLatestDate": "1955-01-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier, January 8, 1955, pg. 24 reads: \"New Year's Eve...was a gala night for members of the Las Catena Club who entertained their husbands and friends with a party at the home of Mr. and Mrs. Carl Talbott.  The club, aimed at charity, begins its new year by presenting a basket of food to a new Homestead mother who has ten youngsters.  Pictured are Carl Ealbott [Talbott], center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, Chauncey Williams.  Last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams and Gloria Talbott. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Las Catena Club members with husbands and friends, including: Carl Talbott, in center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, and Chauncey Williams; last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams, and Gloria Talbott, posed in home of Mr. and Mrs. Carl Talbott for New Year's party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "41549860-a652-480a-abea-b5dda29cf0f4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64974,
+    "MulMultiMediaRef_key": 43281,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64974/sizes/56802-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": false,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Chauncey Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Carl Ealbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Carl Talbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Milton Blandberg",
+        "status": "suggested"
+      },
+      {
+        "data": "Alcia Harrison",
+        "status": "suggested"
+      },
+      {
+        "data": "Earl Goodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Goodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Belinda Blandberg",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriett Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Roscoe Beatty",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloria Talbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Talbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Julietta Beatty",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Harrison",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [],
+    "BibliographyPage": [
+      {
+        "data": "24",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "New Year's Eve...was a gala night for members of the Las Catena Club who entertained their husbands and friends with a party at the home of Mr. and Mrs. Carl Talbott.  The club, aimed at charity, begins its new year by presenting a basket of food to a new Homestead mother who has ten youngsters.  Pictured are Carl Ealbott [Talbott], center; Jack Harrison, Julietta Beatty, Alcia Harrison, Earl Goodson, Florence Goodson, Chauncey Williams.  Last row: Belinda Blandberg, Milton Blandberg, Roscoe Beatty, Harriett Williams and Gloria Talbott. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 8, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Chauncey Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Las Catena Club",
+        "status": "suggested"
+      },
+      {
+        "data": "January 8, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Goodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Talbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "the Las Catena Club",
+        "status": "suggested"
+      },
+      {
+        "data": "New Year's Eve",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "New Year's",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloria Talbott",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Harrison",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

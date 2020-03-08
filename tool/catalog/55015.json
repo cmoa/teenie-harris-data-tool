@@ -1,20 +1,324 @@
 {
-	"irn": "55015",
-	"emuInput": {
-		"ecatalogue_key": "235",
-		"irn": "55015",
-		"TitAccessionNo": "2001.35.41742",
-		"TitMainTitle": "Group portrait of men from Greater Pittsburgh Improvement League and Forbes Field vending company: Thomas A. Anderson, Sam Montain, Myron O'Briskey, Elmer B. Harrison, and James McCoy Jr., posed in office",
-		"CreDateCreated": "April 1953",
-		"CreEarliestDate": "1953-04-01",
-		"CreLatestDate": "1953-04-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 16, reads: \"WORKING OUT DETAILS FOR 30 JOBS - When the Greater Pittsburgh Improvement League secured jobs for thirty vendor concession salesmen who started to work at Forbes Field this week, this group, representing the Greater Pittsburgh Improvement League and the vending company at Forbes Field, worked out the final details. Left to right are Thomas A. Anderson of the GPIL, Sam Montain, union steward; Myron O'Briskey, general manager; Mr. Elmer B. Harrison of the GPIL, and James McCoy Jr., of the GPIL - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nPhotographs--Pennsylvania--Pittsburgh.\nCalendars--Pennsylvania--Pittsburgh.\nDoors--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nMcCoy, James.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55015",
+  "emuInput": {
+    "ecatalogue_key": 41700,
+    "irn": 55015,
+    "TitAccessionNo": "2001.35.41742",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 16, reads: \"WORKING OUT DETAILS FOR 30 JOBS - When the Greater Pittsburgh Improvement League secured jobs for thirty vendor concession salesmen who started to work at Forbes Field this week, this group, representing the Greater Pittsburgh Improvement League and the vending company at Forbes Field, worked out the final details. Left to right are Thomas A. Anderson of the GPIL, Sam Montain, union steward; Myron O'Briskey, general manager; Mr. Elmer B. Harrison of the GPIL, and James McCoy Jr., of the GPIL - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of men from Greater Pittsburgh Improvement League and Forbes Field vending company: Thomas A. Anderson, Sam Montain, Myron O'Briskey, Elmer B. Harrison, and James McCoy Jr., posed in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.McCoy, James.",
+    "AdmGUIDValue_tab": "75388325-8774-4107-a204-22c872001c56",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62673,
+    "MulMultiMediaRef_key": 41708,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62673/sizes/55015-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41700,
+    "irn": 55015,
+    "TitAccessionNo": "2001.35.41742",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 16, reads: \"WORKING OUT DETAILS FOR 30 JOBS - When the Greater Pittsburgh Improvement League secured jobs for thirty vendor concession salesmen who started to work at Forbes Field this week, this group, representing the Greater Pittsburgh Improvement League and the vending company at Forbes Field, worked out the final details. Left to right are Thomas A. Anderson of the GPIL, Sam Montain, union steward; Myron O'Briskey, general manager; Mr. Elmer B. Harrison of the GPIL, and James McCoy Jr., of the GPIL - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of men from Greater Pittsburgh Improvement League and Forbes Field vending company: Thomas A. Anderson, Sam Montain, Myron O'Briskey, Elmer B. Harrison, and James McCoy Jr., posed in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.Calendars--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.McCoy, James.",
+    "AdmGUIDValue_tab": "75388325-8774-4107-a204-22c872001c56",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62673,
+    "MulMultiMediaRef_key": 41708,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62673/sizes/55015-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Elmer B. Harrison",
+        "status": "suggested"
+      },
+      {
+        "data": "James McCoy Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Myron O'Briskey",
+        "status": "suggested"
+      },
+      {
+        "data": "Sam Montain",
+        "status": "suggested"
+      },
+      {
+        "data": "GPIL",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas A. Anderson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Photographs",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Calendars",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "WORKING OUT DETAILS FOR 30 JOBS - When the Greater Pittsburgh Improvement League secured jobs for thirty vendor concession salesmen who started to work at Forbes Field this week, this group, representing the Greater Pittsburgh Improvement League and the vending company at Forbes Field, worked out the final details. Left to right are Thomas A. Anderson of the GPIL, Sam Montain, union steward; Myron O'Briskey, general manager; Mr. Elmer B. Harrison of the GPIL, and James McCoy Jr., of the GPIL - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 25, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Photographs",
+        "status": "suggested"
+      },
+      {
+        "data": "Greater Pittsburgh Improvement League",
+        "status": "suggested"
+      },
+      {
+        "data": "the Greater Pittsburgh Improvement League",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "the GPIL - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "McCoy, James",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "April 25, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Calendars",
+        "status": "suggested"
+      },
+      {
+        "data": "GPIL",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas A. Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

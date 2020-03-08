@@ -1,20 +1,296 @@
 {
-	"irn": "13840",
-	"emuInput": {
-		"ecatalogue_key": "64",
-		"irn": "13840",
-		"TitAccessionNo": "2001.35.7381",
-		"TitMainTitle": "Car, driven by Robert Ziegler, with extensive front end damage and broken windshield, from accident with trailer truck, another version",
-		"CreDateCreated": "November 1945",
-		"CreEarliestDate": "1945-11-01",
-		"CreLatestDate": "1945-11-17",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1945, pg. 13, reads: \"Smashup - A trailer truck driven by Jack Boun, 1068 Blackadore Street, collided with this machine driven by Robert Ziegler, 1313 Reedsdale Street, Saturday, causing two passengers, Sallie Turner, and Willa Mae Hightower, to suffer injuries. - Courier Photo.\"",
-		"CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.\nAutomobile accidents--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13840",
+  "emuInput": {
+    "ecatalogue_key": 7364,
+    "irn": 13840,
+    "TitAccessionNo": "2001.35.7381",
+    "CreDateCreated": "November 1945",
+    "CreEarliestDate": "1945-11-01",
+    "CreLatestDate": "1945-11-17",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1945, pg. 13, reads: \"Smashup - A trailer truck driven by Jack Boun, 1068 Blackadore Street, collided with this machine driven by Robert Ziegler, 1313 Reedsdale Street, Saturday, causing two passengers, Sallie Turner, and Willa Mae Hightower, to suffer injuries. - Courier Photo.\"",
+    "TitMainTitle": "Car, driven by Robert Ziegler, with extensive front end damage and broken windshield, from accident with trailer truck, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile accidents--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "022a8cdf-d496-48dc-b557-eae17d32855f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22983,
+    "MulMultiMediaRef_key": 7372,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22983/sizes/13840-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7364,
+    "irn": 13840,
+    "TitAccessionNo": "2001.35.7381",
+    "CreDateCreated": "November 1945",
+    "CreEarliestDate": "1945-11-01",
+    "CreLatestDate": "1945-11-17",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1945, pg. 13, reads: \"Smashup - A trailer truck driven by Jack Boun, 1068 Blackadore Street, collided with this machine driven by Robert Ziegler, 1313 Reedsdale Street, Saturday, causing two passengers, Sallie Turner, and Willa Mae Hightower, to suffer injuries. - Courier Photo.\"",
+    "TitMainTitle": "Car, driven by Robert Ziegler, with extensive front end damage and broken windshield, from accident with trailer truck, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile accidents--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "022a8cdf-d496-48dc-b557-eae17d32855f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22983,
+    "MulMultiMediaRef_key": 7372,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22983/sizes/13840-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Robert Ziegler",
+        "status": "suggested"
+      },
+      {
+        "data": "Sallie Turner",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Boun",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Traffic accidents",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Reedsdale Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Reedsdale Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Reedsdale Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Reedsdale Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Smashup - A trailer truck driven by Jack Boun, 1068 Blackadore Street, collided with this machine driven by Robert Ziegler, 1313 Reedsdale Street, Saturday, causing two passengers, Sallie Turner, and Willa Mae Hightower, to suffer injuries. - Courier Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 17, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile accidents",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Willa Mae Hightower",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Ziegler",
+        "status": "suggested"
+      },
+      {
+        "data": "Sallie Turner",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Reedsdale Street",
+        "status": "suggested"
+      },
+      {
+        "data": "November 17, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive lighting",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "wheel",
+        "status": "suggested"
+      },
+      {
+        "data": "headlamp",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive exterior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

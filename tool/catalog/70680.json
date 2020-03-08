@@ -1,20 +1,295 @@
 {
-	"irn": "70680",
-	"emuInput": {
-		"ecatalogue_key": "370",
-		"irn": "70680",
-		"TitAccessionNo": "2001.35.55952",
-		"TitMainTitle": "Group of young boys and girls holding basketballs, footballs, fishing rods, and board games, gathered on field in South Park for the annual Pittsburgh Courier Newsboys' Picnic",
-		"CreDateCreated": "August 1961",
-		"CreEarliestDate": "1961-08-01",
-		"CreLatestDate": "1961-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \"Outstanding Newsboys And Girls win top awards of rods and reels, basketballs, footballs, games and other prizes.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.\nGirls--Pennsylvania--South Park.\nBoys--Pennsylvania--South Park.\nGroup portraits--Pennsylvania--South Park.\nFences--Pennsylvania--South Park.\nAthletic fields--Pennsylvania--South Park.\nSporting goods--Pennsylvania--South Park.\nGames--Pennsylvania--South Park.\nChildren--Pennsylvania--South Park.\nAllegheny County (Pa.)\nDepartment of Parks, Recreation, and Conservation--Pennsylvania--South Park.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70680",
+  "emuInput": {
+    "ecatalogue_key": 55909,
+    "irn": 70680,
+    "TitAccessionNo": "2001.35.55952",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \"Outstanding Newsboys And Girls win top awards of rods and reels, basketballs, footballs, games and other prizes.\"",
+    "TitMainTitle": "Group of young boys and girls holding basketballs, footballs, fishing rods, and board games, gathered on field in South Park for the annual Pittsburgh Courier Newsboys' Picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.Girls--Pennsylvania--South Park.Boys--Pennsylvania--South Park.Group portraits--Pennsylvania--South Park.Fences--Pennsylvania--South Park.Athletic fields--Pennsylvania--South Park.Sporting goods--Pennsylvania--South Park.Games--Pennsylvania--South Park.Children--Pennsylvania--South Park.Allegheny County (Pa.)Department of Parks, Recreation, and Conservation--Pennsylvania--South Park.",
+    "AdmGUIDValue_tab": "73309914-576f-4f95-8f11-ce9cce478dcd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89322,
+    "MulMultiMediaRef_key": 55918,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89322/sizes/70680-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55909,
+    "irn": 70680,
+    "TitAccessionNo": "2001.35.55952",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \"Outstanding Newsboys And Girls win top awards of rods and reels, basketballs, footballs, games and other prizes.\"",
+    "TitMainTitle": "Group of young boys and girls holding basketballs, footballs, fishing rods, and board games, gathered on field in South Park for the annual Pittsburgh Courier Newsboys' Picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.Girls--Pennsylvania--South Park.Boys--Pennsylvania--South Park.Group portraits--Pennsylvania--South Park.Fences--Pennsylvania--South Park.Athletic fields--Pennsylvania--South Park.Sporting goods--Pennsylvania--South Park.Games--Pennsylvania--South Park.Children--Pennsylvania--South Park.Allegheny County (Pa.)Department of Parks, Recreation, and Conservation--Pennsylvania--South Park.",
+    "AdmGUIDValue_tab": "73309914-576f-4f95-8f11-ce9cce478dcd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89322,
+    "MulMultiMediaRef_key": 55918,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89322/sizes/70680-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletic fields",
+        "status": "suggested"
+      },
+      {
+        "data": "Sporting goods",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Games",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Outstanding Newsboys And Girls win top awards of rods and reels, basketballs, footballs, games and other prizes.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 2, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Athletic fields",
+        "status": "suggested"
+      },
+      {
+        "data": "Sporting goods",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County ",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Games",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Newsboys'",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": ")Department of Parks, Recreation, and Conservation",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "September 2, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "history",
+        "status": "suggested"
+      }
+    ]
+  }
 }

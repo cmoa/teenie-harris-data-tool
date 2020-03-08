@@ -1,20 +1,468 @@
 {
-	"irn": "13506",
-	"emuInput": {
-		"ecatalogue_key": "62",
-		"irn": "13506",
-		"TitAccessionNo": "2001.35.7062",
-		"TitMainTitle": "Horace Henderson and Lena Horne holding sheet music in Stanley Theatre, another version",
-		"CreDateCreated": "November - December 1944",
-		"CreEarliestDate": "1944-11-01",
-		"CreLatestDate": "1944-12-09",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, Louisiana edition, December 9, 1944, pg. 13, reads: \"Looking It Over - That's what luscious Lena Horne, glamorous stage and screen star, and Horace Henderson, famed arranger and conductor, are doing prior to a recording session in Hollywood [image taken in Pittsburgh].  In addition to her waxing date, Lena is slated to make two pictures and is set for another public appearance tour of the Nation's theatres. - Harris Photo.\"",
-		"CatSubject_tab": "Horne, Lena.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nSuits (Clothing)--Pennsylvania--Pittsburgh.\nSheet music--Pennsylvania--Pittsburgh.\nSofas--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.\nStanley Theatre (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13506",
+  "emuInput": {
+    "ecatalogue_key": 7047,
+    "irn": 13506,
+    "TitAccessionNo": "2001.35.7062",
+    "CreDateCreated": "November - December 1944",
+    "CreEarliestDate": "1944-11-01",
+    "CreLatestDate": "1944-12-09",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, Louisiana edition, December 9, 1944, pg. 13, reads: \"Looking It Over - That's what luscious Lena Horne, glamorous stage and screen star, and Horace Henderson, famed arranger and conductor, are doing prior to a recording session in Hollywood [image taken in Pittsburgh].  In addition to her waxing date, Lena is slated to make two pictures and is set for another public appearance tour of the Nation's theatres. - Harris Photo.\"",
+    "TitMainTitle": "Horace Henderson and Lena Horne holding sheet music in Stanley Theatre, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Horne, Lena.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Sheet music--Pennsylvania--Pittsburgh.Sofas--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Stanley Theatre (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "05310332-7591-45de-a7fe-59dea151449b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22411,
+    "MulMultiMediaRef_key": 7055,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22411/sizes/13506-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7047,
+    "irn": 13506,
+    "TitAccessionNo": "2001.35.7062",
+    "CreDateCreated": "November - December 1944",
+    "CreEarliestDate": "1944-11-01",
+    "CreLatestDate": "1944-12-09",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, Louisiana edition, December 9, 1944, pg. 13, reads: \"Looking It Over - That's what luscious Lena Horne, glamorous stage and screen star, and Horace Henderson, famed arranger and conductor, are doing prior to a recording session in Hollywood [image taken in Pittsburgh].  In addition to her waxing date, Lena is slated to make two pictures and is set for another public appearance tour of the Nation's theatres. - Harris Photo.\"",
+    "TitMainTitle": "Horace Henderson and Lena Horne holding sheet music in Stanley Theatre, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Horne, Lena.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Sheet music--Pennsylvania--Pittsburgh.Sofas--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Stanley Theatre (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "05310332-7591-45de-a7fe-59dea151449b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22411,
+    "MulMultiMediaRef_key": 7055,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22411/sizes/13506-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Horace Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena Horne",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Sofas",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Sheet music",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Louisiana",
+        "status": "suggested"
+      },
+      {
+        "data": "Hollywood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh].",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Louisiana",
+        "status": "suggested"
+      },
+      {
+        "data": "Hollywood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh].",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Louisiana",
+        "status": "suggested"
+      },
+      {
+        "data": "Hollywood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh].",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Louisiana",
+        "status": "suggested"
+      },
+      {
+        "data": "Hollywood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh].",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Looking It Over - That's what luscious Lena Horne, glamorous stage and screen star, and Horace Henderson, famed arranger and conductor, are doing prior to a recording session in Hollywood [image taken in Pittsburgh].  In addition to her waxing date, Lena is slated to make two pictures and is set for another public appearance tour of the Nation's theatres. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "Louisiana edition, December 9, 1944",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "Sofas",
+        "status": "suggested"
+      },
+      {
+        "data": "Looking It Over -",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanley Theatre ",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "Horne, Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "December 9, 1944",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanley Theatre",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Nation",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Horace Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Sheet music",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "romance",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

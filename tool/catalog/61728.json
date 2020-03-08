@@ -1,20 +1,356 @@
 {
-	"irn": "61728",
-	"emuInput": {
-		"ecatalogue_key": "307",
-		"irn": "61728",
-		"TitAccessionNo": "2001.35.47721",
-		"TitMainTitle": "Thelma Bennett wearing light colored quilted satin robe with collar, seated on bed holding newborn son Freddie, with nurse on right, in interior with light colored walls",
-		"CreDateCreated": "March 1958",
-		"CreEarliestDate": "1958-03-01",
-		"CreLatestDate": "1958-03-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 22, 1958, pg. 1 reads: \"16th Child - Mrs. Thelma Bennett of 12 Monhagen St., North Side, fondly holds her newborn son. The baby, named Freddie, is the only one of Mrs. Bennett's children born by Caesarean section.  Mother and child are \"doing well,\" - Harris Photo.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nBeds--Pennsylvania--Pittsburgh.\nNurses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61728",
+  "emuInput": {
+    "ecatalogue_key": 47678,
+    "irn": 61728,
+    "TitAccessionNo": "2001.35.47721",
+    "CreDateCreated": "March 1958",
+    "CreEarliestDate": "1958-03-01",
+    "CreLatestDate": "1958-03-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 22, 1958, pg. 1 reads: \"16th Child - Mrs. Thelma Bennett of 12 Monhagen St., North Side, fondly holds her newborn son. The baby, named Freddie, is the only one of Mrs. Bennett's children born by Caesarean section.  Mother and child are \"doing well,\" - Harris Photo.\"",
+    "TitMainTitle": "Thelma Bennett wearing light colored quilted satin robe with collar, seated on bed holding newborn son Freddie, with nurse on right, in interior with light colored walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00121309-ab3b-46a5-8c28-3b8499a6018a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70199,
+    "MulMultiMediaRef_key": 47686,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70199/sizes/61728-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47678,
+    "irn": 61728,
+    "TitAccessionNo": "2001.35.47721",
+    "CreDateCreated": "March 1958",
+    "CreEarliestDate": "1958-03-01",
+    "CreLatestDate": "1958-03-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 22, 1958, pg. 1 reads: \"16th Child - Mrs. Thelma Bennett of 12 Monhagen St., North Side, fondly holds her newborn son. The baby, named Freddie, is the only one of Mrs. Bennett's children born by Caesarean section.  Mother and child are \"doing well,\" - Harris Photo.\"",
+    "TitMainTitle": "Thelma Bennett wearing light colored quilted satin robe with collar, seated on bed holding newborn son Freddie, with nurse on right, in interior with light colored walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Nurses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00121309-ab3b-46a5-8c28-3b8499a6018a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70199,
+    "MulMultiMediaRef_key": 47686,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70199/sizes/61728-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Thelma Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Freddie",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Nurses",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "16th Child - Mrs. Thelma Bennett of 12 Monhagen St., North Side, fondly holds her newborn son. The baby, named Freddie, is the only one of Mrs. Bennett's children born by Caesarean section.  Mother and child are \"doing well,\" - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 22, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Thelma Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Nurses",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "March 22, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Freddie",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Monhagen St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "\" - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "mother",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "infant",
+        "status": "suggested"
+      }
+    ]
+  }
 }

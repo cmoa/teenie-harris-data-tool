@@ -1,20 +1,528 @@
 {
-	"irn": "975",
-	"emuInput": {
-		"ecatalogue_key": "3",
-		"irn": "975",
-		"TitAccessionNo": "2001.35.193",
-		"TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
-		"CreDateCreated": "June 1946",
-		"CreEarliestDate": "1946-06-01",
-		"CreLatestDate": "1946-06-29",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
-		"CatSubject_tab": "Little League Baseball, inc.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nSports teams--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nDavis (Baseball team : Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "975",
+  "emuInput": {
+    "ecatalogue_key": 191,
+    "irn": 975,
+    "TitAccessionNo": "2001.35.193",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-29",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
+    "TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Little League Baseball, inc.Coaches (Athletics)--Pennsylvania--Pittsburgh.Athletes--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Baseball teams--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Sports teams--Pennsylvania--Pittsburgh.Ammon Center (Pittsburgh, Pa.)Davis (Baseball team : Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "98212082-3779-48c7-ab1e-aa28ea12118c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16880,
+    "MulMultiMediaRef_key": 192,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16880/sizes/975-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 191,
+    "irn": 975,
+    "TitAccessionNo": "2001.35.193",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-29",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper June 29, 1946, pg. 32, reads: \"Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.\"",
+    "TitMainTitle": "Davis Athletic Club sandlot baseball team wearing \"Davis A. C.\" uniforms, standing from left: manager Finley T. Davis, Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver, George Parker; kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner, Charles Parker, and mascot Charles Patton seated in front, on Ammon Recreation Center field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Little League Baseball, inc.Coaches (Athletics)--Pennsylvania--Pittsburgh.Athletes--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Baseball teams--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Sports teams--Pennsylvania--Pittsburgh.Ammon Center (Pittsburgh, Pa.)Davis (Baseball team : Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "98212082-3779-48c7-ab1e-aa28ea12118c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16880,
+    "MulMultiMediaRef_key": 192,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16880/sizes/975-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Isaac Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Davis A. C. \"",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Jerry Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Patton",
+        "status": "suggested"
+      },
+      {
+        "data": "Mascot Charles Patton",
+        "status": "suggested"
+      },
+      {
+        "data": "Finley T. Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Carter",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Sanford",
+        "status": "suggested"
+      },
+      {
+        "data": "Melvin Sanford",
+        "status": "suggested"
+      },
+      {
+        "data": "George Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Elzy Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Trent",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Baseball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Sports teams",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "32",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Junior Diamond Stars - One of the best young sandlot teams in the Pittsburgh area is the Davis Athletic Club, representing the Davis Home.  Pictured above, the team has won its first three games this season, and last year finished second in the Honus Wagner League.  Standing: Finley T. Davis, manager; Eugene Sanford, Donald Trent, Richard Carter, Joseph Weaver and George Parker.  Kneeling: Jerry Joyner, Isaac Brown, Melvin Sanford, Elzy Wilson, Timothy Joyner and Charles Parker.  In the center is Mascot Charles Patton. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 29, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "Little League Baseball, inc",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "the Davis Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Patton",
+        "status": "suggested"
+      },
+      {
+        "data": "last year",
+        "status": "suggested"
+      },
+      {
+        "data": "June 29, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "the Honus Wagner League",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Carter",
+        "status": "suggested"
+      },
+      {
+        "data": "Sports teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Davis Athletic Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": ")Davis ",
+        "status": "suggested"
+      },
+      {
+        "data": "Isaac Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "this season",
+        "status": "suggested"
+      },
+      {
+        "data": "Jerry Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Sanford",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      },
+      {
+        "data": "George Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Trent",
+        "status": "suggested"
+      },
+      {
+        "data": "the Davis Athletic Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

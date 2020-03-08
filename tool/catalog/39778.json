@@ -1,20 +1,308 @@
 {
-	"irn": "39778",
-	"emuInput": {
-		"ecatalogue_key": "194",
-		"irn": "39778",
-		"TitAccessionNo": "2001.35.27201",
-		"TitMainTitle": "Portrait of Patricia Ann Garner, winner of baby contest sponsored by Carter Chapel AME Church posed with doll covered in dollar bills, Harris Studio, another version",
-		"CreDateCreated": "May - June 1945",
-		"CreEarliestDate": "1945-05-01",
-		"CreLatestDate": "1945-06-16",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 16, 1945, pg. 18, reads: \"The Winner!  - At a recent baby contest sponsored by Carter Chapel AME Church, Patricia Ann Garner was winner of the first prize, a baby doll with ten-dollar bills pinned on it.  Second prize of $5 went to Catherine Strong, and third prize of $2.50 wen to Clyde Reed Jr. - Harris Photo.\"",
-		"CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nDolls--Pennsylvania--Pittsburgh.\nGirls--Portraits--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "39778",
+  "emuInput": {
+    "ecatalogue_key": 27169,
+    "irn": 39778,
+    "TitAccessionNo": "2001.35.27201",
+    "CreDateCreated": "May - June 1945",
+    "CreEarliestDate": "1945-05-01",
+    "CreLatestDate": "1945-06-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 16, 1945, pg. 18, reads: \"The Winner!  - At a recent baby contest sponsored by Carter Chapel AME Church, Patricia Ann Garner was winner of the first prize, a baby doll with ten-dollar bills pinned on it.  Second prize of $5 went to Catherine Strong, and third prize of $2.50 wen to Clyde Reed Jr. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of Patricia Ann Garner, winner of baby contest sponsored by Carter Chapel AME Church posed with doll covered in dollar bills, Harris Studio, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Dolls--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01b4c158-db09-4890-af9f-ed798d3f2acc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 46255,
+    "MulMultiMediaRef_key": 27177,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/46255/sizes/39778-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 27169,
+    "irn": 39778,
+    "TitAccessionNo": "2001.35.27201",
+    "CreDateCreated": "May - June 1945",
+    "CreEarliestDate": "1945-05-01",
+    "CreLatestDate": "1945-06-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 16, 1945, pg. 18, reads: \"The Winner!  - At a recent baby contest sponsored by Carter Chapel AME Church, Patricia Ann Garner was winner of the first prize, a baby doll with ten-dollar bills pinned on it.  Second prize of $5 went to Catherine Strong, and third prize of $2.50 wen to Clyde Reed Jr. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of Patricia Ann Garner, winner of baby contest sponsored by Carter Chapel AME Church posed with doll covered in dollar bills, Harris Studio, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Dolls--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01b4c158-db09-4890-af9f-ed798d3f2acc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 46255,
+    "MulMultiMediaRef_key": 27177,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/46255/sizes/39778-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Patricia Ann Garner",
+        "status": "suggested"
+      },
+      {
+        "data": "Catherine Strong",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Dolls",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Winner!  - At a recent baby contest sponsored by Carter Chapel AME Church, Patricia Ann Garner was winner of the first prize, a baby doll with ten-dollar bills pinned on it.  Second prize of $5 went to Catherine Strong, and third prize of $2.50 wen to Clyde Reed Jr. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 16, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": ")Dolls",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Carter Chapel AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "June 16, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Catherine Strong",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "The Winner",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "toddler",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "infant",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

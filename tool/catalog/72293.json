@@ -1,20 +1,288 @@
 {
-	"irn": "72293",
-	"emuInput": {
-		"ecatalogue_key": "392",
-		"irn": "72293",
-		"TitAccessionNo": "2001.35.57067",
-		"TitMainTitle": "Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, wearing square patterned apron, holding watering can and cup, standing in front of sink in kitchen with ribbed glass window with plants and ivy branch",
-		"CreDateCreated": "c. 1962",
-		"CreEarliestDate": "1959",
-		"CreLatestDate": "1965",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 2, 1962, pg. 11 reads: \"Window Decoration - Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, shows how plants can be used as window decorations. The greenery is used instead of curtains for the big window over the sink in her kitchen.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nKitchen appliances--Pennsylvania--Pittsburgh.\nKitchens--Pennsylvania--Pittsburgh.\nPlants--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72293",
+  "emuInput": {
+    "ecatalogue_key": 57024,
+    "irn": 72293,
+    "TitAccessionNo": "2001.35.57067",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 2, 1962, pg. 11 reads: \"Window Decoration - Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, shows how plants can be used as window decorations. The greenery is used instead of curtains for the big window over the sink in her kitchen.\"",
+    "TitMainTitle": "Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, wearing square patterned apron, holding watering can and cup, standing in front of sink in kitchen with ribbed glass window with plants and ivy branch",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Kitchen appliances--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "44398378-4d36-48c1-8cc2-576714269e3a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91347,
+    "MulMultiMediaRef_key": 57033,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91347/sizes/72293-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57024,
+    "irn": 72293,
+    "TitAccessionNo": "2001.35.57067",
+    "CreDateCreated": "c. 1962",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1965",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 2, 1962, pg. 11 reads: \"Window Decoration - Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, shows how plants can be used as window decorations. The greenery is used instead of curtains for the big window over the sink in her kitchen.\"",
+    "TitMainTitle": "Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, wearing square patterned apron, holding watering can and cup, standing in front of sink in kitchen with ribbed glass window with plants and ivy branch",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Kitchen appliances--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "44398378-4d36-48c1-8cc2-576714269e3a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91347,
+    "MulMultiMediaRef_key": 57033,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91347/sizes/72293-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Herbert Simmons",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchens",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchen appliances",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Window Decoration - Mrs. Herbert Simmons, president of the Stoop 'n' Bend Garden Club, shows how plants can be used as window decorations. The greenery is used instead of curtains for the big window over the sink in her kitchen.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 2, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "room",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "kitchen",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchens",
+        "status": "suggested"
+      },
+      {
+        "data": "Window Decoration - Mrs.",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "the Stoop 'n' Bend Garden Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbert Simmons",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "June 2, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchen appliances",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "interior design",
+        "status": "suggested"
+      },
+      {
+        "data": "bathroom",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "mirror",
+        "status": "suggested"
+      },
+      {
+        "data": "product",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,427 @@
 {
-	"irn": "70205",
-	"emuInput": {
-		"ecatalogue_key": "365",
-		"irn": "70205",
-		"TitAccessionNo": "2001.35.55593",
-		"TitMainTitle": "Group of women and men, including Joseph Kane, fifth from left, seated to the left of Atty. James L. Bruggeman, Atty. J.C.Tallant, third from left, and John Scott, second from left, gathered around rectangular conference table for zoning hearing in office interior, City County Building",
-		"CreDateCreated": "February 1961",
-		"CreEarliestDate": "1961-02-01",
-		"CreLatestDate": "1961-02-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1961, pg. A1 reads: \"At Zoning Board Hearing - Joseph Kane (fifth from left), seated to the left of his attorney, James L. Bruggeman, faced stiff opposition at this Zoning Board of Adjustment hearing, from Stanton Heights residents who protested the board's granting Kane a permit to build a house at 1048 Promier St. Protesting that the lot was not adequate for the construction of a home, were John Scott of 1055 Premier St. (second from left, seated), several other residents, including two Negro families, and Atty. J.C.Tallant (third from left), who represented the complainers. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nCigars--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nMeetings--Pennsylvania--Pittsburgh.\nCity-County Building (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70205",
+  "emuInput": {
+    "ecatalogue_key": 55550,
+    "irn": 70205,
+    "TitAccessionNo": "2001.35.55593",
+    "CreDateCreated": "February 1961",
+    "CreEarliestDate": "1961-02-01",
+    "CreLatestDate": "1961-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1961, pg. A1 reads: \"At Zoning Board Hearing - Joseph Kane (fifth from left), seated to the left of his attorney, James L. Bruggeman, faced stiff opposition at this Zoning Board of Adjustment hearing, from Stanton Heights residents who protested the board's granting Kane a permit to build a house at 1048 Promier St. Protesting that the lot was not adequate for the construction of a home, were John Scott of 1055 Premier St. (second from left, seated), several other residents, including two Negro families, and Atty. J.C.Tallant (third from left), who represented the complainers. - Harris Photo.\"",
+    "TitMainTitle": "Group of women and men, including Joseph Kane, fifth from left, seated to the left of Atty. James L. Bruggeman, Atty. J.C.Tallant, third from left, and John Scott, second from left, gathered around rectangular conference table for zoning hearing in office interior, City County Building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cigars--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.City-County Building (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "79466489-8468-4979-8a4e-5794e92b5767",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87798,
+    "MulMultiMediaRef_key": 55559,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87798/sizes/70205-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55550,
+    "irn": 70205,
+    "TitAccessionNo": "2001.35.55593",
+    "CreDateCreated": "February 1961",
+    "CreEarliestDate": "1961-02-01",
+    "CreLatestDate": "1961-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1961, pg. A1 reads: \"At Zoning Board Hearing - Joseph Kane (fifth from left), seated to the left of his attorney, James L. Bruggeman, faced stiff opposition at this Zoning Board of Adjustment hearing, from Stanton Heights residents who protested the board's granting Kane a permit to build a house at 1048 Promier St. Protesting that the lot was not adequate for the construction of a home, were John Scott of 1055 Premier St. (second from left, seated), several other residents, including two Negro families, and Atty. J.C.Tallant (third from left), who represented the complainers. - Harris Photo.\"",
+    "TitMainTitle": "Group of women and men, including Joseph Kane, fifth from left, seated to the left of Atty. James L. Bruggeman, Atty. J.C.Tallant, third from left, and John Scott, second from left, gathered around rectangular conference table for zoning hearing in office interior, City County Building",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cigars--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.City-County Building (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "79466489-8468-4979-8a4e-5794e92b5767",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87798,
+    "MulMultiMediaRef_key": 55559,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87798/sizes/70205-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "St.",
+        "status": "suggested"
+      },
+      {
+        "data": "J.C.Tallant",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "John Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "James L. Bruggeman",
+        "status": "suggested"
+      },
+      {
+        "data": "Kane",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Cigars",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanton Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanton Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanton Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanton Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "At Zoning Board Hearing - Joseph Kane (fifth from left), seated to the left of his attorney, James L. Bruggeman, faced stiff opposition at this Zoning Board of Adjustment hearing, from Stanton Heights residents who protested the board's granting Kane a permit to build a house at 1048 Promier St. Protesting that the lot was not adequate for the construction of a home, were John Scott of 1055 Premier St. (second from left, seated), several other residents, including two Negro families, and Atty. J.C.Tallant (third from left), who represented the complainers. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 25, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Cigars",
+        "status": "suggested"
+      },
+      {
+        "data": "St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Zoning Board Hearing - Joseph Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "Atty",
+        "status": "suggested"
+      },
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "February 25, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "this Zoning Board of Adjustment",
+        "status": "suggested"
+      },
+      {
+        "data": "John Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "City-County Building ",
+        "status": "suggested"
+      },
+      {
+        "data": "meeting",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "public relations",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

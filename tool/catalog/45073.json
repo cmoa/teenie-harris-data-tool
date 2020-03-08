@@ -1,20 +1,368 @@
 {
-	"irn": "45073",
-	"emuInput": {
-		"ecatalogue_key": "205",
-		"irn": "45073",
-		"TitAccessionNo": "2001.35.32306",
-		"TitMainTitle": "Mrs. E. C. English, Mrs. Ralph Houston, Irv Griffin, and Helen Duncan gathered around newspaper, in Pittsburgh Courier Newspaper printing plant",
-		"CreDateCreated": "June 1946",
-		"CreEarliestDate": "1946-06-01",
-		"CreLatestDate": "1946-06-22",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1946, pg. 20, reads: \"Visit Courier Plant - Among the recent visitors to The Pittsburgh Courier plant were (left to right): Mrs. E. C. English and Mrs. Ralph Houston of Albuquerque, N. M.; Irv Griffin, graduate of the University of Pittsburgh; Mrs. Helen Duncan of East Orange, N. J. Mrs. Duncan and the other out-of-towners were guests of Miss Marilyn Duncan who received her master of science degree last week from the School of Applied Social Sciences at the University of Pittsburgh. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nPrinting presses--Pennsylvania--Pittsburgh.\nPittsburgh Courier Publishing Co.\nHats--Pennsylvania--Pittsburgh.\nNewspapers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "45073",
+  "emuInput": {
+    "ecatalogue_key": 32271,
+    "irn": 45073,
+    "TitAccessionNo": "2001.35.32306",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-22",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1946, pg. 20, reads: \"Visit Courier Plant - Among the recent visitors to The Pittsburgh Courier plant were (left to right): Mrs. E. C. English and Mrs. Ralph Houston of Albuquerque, N. M.; Irv Griffin, graduate of the University of Pittsburgh; Mrs. Helen Duncan of East Orange, N. J. Mrs. Duncan and the other out-of-towners were guests of Miss Marilyn Duncan who received her master of science degree last week from the School of Applied Social Sciences at the University of Pittsburgh. - Harris Photo.\"",
+    "TitMainTitle": "Mrs. E. C. English, Mrs. Ralph Houston, Irv Griffin, and Helen Duncan gathered around newspaper, in Pittsburgh Courier Newspaper printing plant",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Printing presses--Pennsylvania--Pittsburgh.Pittsburgh Courier Publishing Co.Hats--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0148e855-fe7a-450b-b7f2-17c211125cdd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51776,
+    "MulMultiMediaRef_key": 32279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51776/sizes/45073-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 32271,
+    "irn": 45073,
+    "TitAccessionNo": "2001.35.32306",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-22",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1946, pg. 20, reads: \"Visit Courier Plant - Among the recent visitors to The Pittsburgh Courier plant were (left to right): Mrs. E. C. English and Mrs. Ralph Houston of Albuquerque, N. M.; Irv Griffin, graduate of the University of Pittsburgh; Mrs. Helen Duncan of East Orange, N. J. Mrs. Duncan and the other out-of-towners were guests of Miss Marilyn Duncan who received her master of science degree last week from the School of Applied Social Sciences at the University of Pittsburgh. - Harris Photo.\"",
+    "TitMainTitle": "Mrs. E. C. English, Mrs. Ralph Houston, Irv Griffin, and Helen Duncan gathered around newspaper, in Pittsburgh Courier Newspaper printing plant",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Printing presses--Pennsylvania--Pittsburgh.Pittsburgh Courier Publishing Co.Hats--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0148e855-fe7a-450b-b7f2-17c211125cdd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 51776,
+    "MulMultiMediaRef_key": 32279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/51776/sizes/45073-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Irv Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Houston",
+        "status": "suggested"
+      },
+      {
+        "data": "E. C. English",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "N. M.",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "Duncan",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Newspapers",
+        "status": "suggested"
+      },
+      {
+        "data": "Printing presses",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Albuquerque",
+        "status": "suggested"
+      },
+      {
+        "data": "East Orange",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Albuquerque",
+        "status": "suggested"
+      },
+      {
+        "data": "East Orange",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Albuquerque",
+        "status": "suggested"
+      },
+      {
+        "data": "East Orange",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Albuquerque",
+        "status": "suggested"
+      },
+      {
+        "data": "East Orange",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Visit Courier Plant - Among the recent visitors to The Pittsburgh Courier plant were (left to right): Mrs. E. C. English and Mrs. Ralph Houston of Albuquerque, N. M.; Irv Griffin, graduate of the University of Pittsburgh; Mrs. Helen Duncan of East Orange, N. J. Mrs. Duncan and the other out-of-towners were guests of Miss Marilyn Duncan who received her master of science degree last week from the School of Applied Social Sciences at the University of Pittsburgh. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 22, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Houston",
+        "status": "suggested"
+      },
+      {
+        "data": "June 22, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "E. C. English",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Newspaper",
+        "status": "suggested"
+      },
+      {
+        "data": "N. M.",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "the School of Applied Social Sciences",
+        "status": "suggested"
+      },
+      {
+        "data": "Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Newspapers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Publishing Co",
+        "status": "suggested"
+      },
+      {
+        "data": "the University of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Printing presses",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "hat",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

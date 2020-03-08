@@ -1,20 +1,376 @@
 {
-	"irn": "33778",
-	"emuInput": {
-		"ecatalogue_key": "167",
-		"irn": "33778",
-		"TitAccessionNo": "2001.35.21699",
-		"TitMainTitle": "Group portrait of Maude Jones, Christine Hunt, and Marie Harris, posed outside of Mt. Carmel Baptist Church for Fourth Annual Garden Party and Fashion Show, North Versailles",
-		"CreDateCreated": "July 1970",
-		"CreEarliestDate": "1970-07-01",
-		"CreLatestDate": "1970-07-25",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 25, 1970, pg. 18 reads: \"These Six Attractive Models paraded the latest in mod summer fashions at the Fourth Annual Garden Party and Fashion Show sponsored by the Mt. Carmel Baptist Church in Crestas Terrace, North Versailles, recently. Two of the models are members of the New Pittsburgh COurier's 1970 list of Ten Best Dressed Women.  Pictured from left in popular pants attire are: Mrs. Maude Jones, New Courier's Best Dressed; Miss Christine Hunt, Miss Marie Harris...- Harris Photo.\"",
-		"CatSubject_tab": "Mt. Carmel Baptist Church (North Versailles, Pa.)\nChurches--Pennsylvania--North Versailles.\nAutomobiles--Pennsylvania--North Versailles.\nWomen--Pennsylvania--North Versailles.\nFashion models--Pennsylvania--North Versailles.\nJones, Maude.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "33778",
+  "emuInput": {
+    "ecatalogue_key": 21668,
+    "irn": 33778,
+    "TitAccessionNo": "2001.35.21699",
+    "CreDateCreated": "July 1970",
+    "CreEarliestDate": "1970-07-01",
+    "CreLatestDate": "1970-07-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 25, 1970, pg. 18 reads: \"These Six Attractive Models paraded the latest in mod summer fashions at the Fourth Annual Garden Party and Fashion Show sponsored by the Mt. Carmel Baptist Church in Crestas Terrace, North Versailles, recently. Two of the models are members of the New Pittsburgh COurier's 1970 list of Ten Best Dressed Women.  Pictured from left in popular pants attire are: Mrs. Maude Jones, New Courier's Best Dressed; Miss Christine Hunt, Miss Marie Harris...- Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Maude Jones, Christine Hunt, and Marie Harris, posed outside of Mt. Carmel Baptist Church for Fourth Annual Garden Party and Fashion Show, North Versailles",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Mt. Carmel Baptist Church (North Versailles, Pa.)Churches--Pennsylvania--North Versailles.Automobiles--Pennsylvania--North Versailles.Women--Pennsylvania--North Versailles.Fashion models--Pennsylvania--North Versailles.Jones, Maude.",
+    "AdmGUIDValue_tab": "42644829-eff8-48b8-ac6a-9b34666fbc00",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40036,
+    "MulMultiMediaRef_key": 21676,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40036/sizes/33778-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 21668,
+    "irn": 33778,
+    "TitAccessionNo": "2001.35.21699",
+    "CreDateCreated": "July 1970",
+    "CreEarliestDate": "1970-07-01",
+    "CreLatestDate": "1970-07-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 25, 1970, pg. 18 reads: \"These Six Attractive Models paraded the latest in mod summer fashions at the Fourth Annual Garden Party and Fashion Show sponsored by the Mt. Carmel Baptist Church in Crestas Terrace, North Versailles, recently. Two of the models are members of the New Pittsburgh COurier's 1970 list of Ten Best Dressed Women.  Pictured from left in popular pants attire are: Mrs. Maude Jones, New Courier's Best Dressed; Miss Christine Hunt, Miss Marie Harris...- Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Maude Jones, Christine Hunt, and Marie Harris, posed outside of Mt. Carmel Baptist Church for Fourth Annual Garden Party and Fashion Show, North Versailles",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Mt. Carmel Baptist Church (North Versailles, Pa.)Churches--Pennsylvania--North Versailles.Automobiles--Pennsylvania--North Versailles.Women--Pennsylvania--North Versailles.Fashion models--Pennsylvania--North Versailles.Jones, Maude.",
+    "AdmGUIDValue_tab": "42644829-eff8-48b8-ac6a-9b34666fbc00",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40036,
+    "MulMultiMediaRef_key": 21676,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40036/sizes/33778-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Marie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Maude Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Christine Hunt",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Models (Persons)",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "North Versailles",
+        "status": "suggested"
+      },
+      {
+        "data": "the Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Crestas Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "North Versailles",
+        "status": "suggested"
+      },
+      {
+        "data": "the Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Crestas Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "North Versailles",
+        "status": "suggested"
+      },
+      {
+        "data": "the Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Crestas Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "North Versailles",
+        "status": "suggested"
+      },
+      {
+        "data": "the Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Crestas Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "These Six Attractive Models paraded the latest in mod summer fashions at the Fourth Annual Garden Party and Fashion Show sponsored by the Mt. Carmel Baptist Church in Crestas Terrace, North Versailles, recently. Two of the models are members of the New Pittsburgh COurier's 1970 list of Ten Best Dressed Women.  Pictured from left in popular pants attire are: Mrs. Maude Jones, New Courier's Best Dressed; Miss Christine Hunt, Miss Marie Harris...- Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 25, 1970",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "summer",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion Show",
+        "status": "suggested"
+      },
+      {
+        "data": "the Mt. Carmel Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "New Courier's",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion models",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "the New Pittsburgh COurier's",
+        "status": "suggested"
+      },
+      {
+        "data": ")Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "the Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "1970",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Maude Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Maude",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "July 25, 1970",
+        "status": "suggested"
+      },
+      {
+        "data": " Carmel Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Christine Hunt",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Carmel Baptist Church for Fourth Annual Garden Party",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

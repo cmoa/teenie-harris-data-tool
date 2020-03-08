@@ -1,20 +1,304 @@
 {
-	"irn": "17389",
-	"emuInput": {
-		"ecatalogue_key": "77",
-		"irn": "17389",
-		"TitAccessionNo": "2001.35.9112",
-		"TitMainTitle": "Sequoias club members, from left: Frances Parr, Yvonne Hall, Betty Hord (Jones), Alma Rector, Imogene Perrin, Virginia Jackson, and Maxine Wright posed with hands on knees in front of Pittsburgh Courier newspaper billboard with image of soldier on stretcher",
-		"CreDateCreated": "October 1945",
-		"CreEarliestDate": "1945-10-01",
-		"CreLatestDate": "1945-10-27",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 27, 1945, pg. 15, reads: \"Sequoias - These young ladies are tossing a hop at the Parish House, Centre Avenue, on November 2.  Left to right: Frances Parr, Yvonne Hall, Betty Hord, Alma Rector, Emogene [Imogene] Parrin [Perrin], Virginia Jackson and Maxine Wright. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBillboards--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "17389",
+  "emuInput": {
+    "ecatalogue_key": 9089,
+    "irn": 17389,
+    "TitAccessionNo": "2001.35.9112",
+    "CreDateCreated": "October 1945",
+    "CreEarliestDate": "1945-10-01",
+    "CreLatestDate": "1945-10-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 27, 1945, pg. 15, reads: \"Sequoias - These young ladies are tossing a hop at the Parish House, Centre Avenue, on November 2.  Left to right: Frances Parr, Yvonne Hall, Betty Hord, Alma Rector, Emogene [Imogene] Parrin [Perrin], Virginia Jackson and Maxine Wright. - Harris Photo.\"",
+    "TitMainTitle": "Sequoias club members, from left: Frances Parr, Yvonne Hall, Betty Hord (Jones), Alma Rector, Imogene Perrin, Virginia Jackson, and Maxine Wright posed with hands on knees in front of Pittsburgh Courier newspaper billboard with image of soldier on stretcher",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Billboards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "66253682-2ba9-4aa7-84fe-09f781c0339b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24809,
+    "MulMultiMediaRef_key": 9097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24809/sizes/17389-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 9089,
+    "irn": 17389,
+    "TitAccessionNo": "2001.35.9112",
+    "CreDateCreated": "October 1945",
+    "CreEarliestDate": "1945-10-01",
+    "CreLatestDate": "1945-10-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 27, 1945, pg. 15, reads: \"Sequoias - These young ladies are tossing a hop at the Parish House, Centre Avenue, on November 2.  Left to right: Frances Parr, Yvonne Hall, Betty Hord, Alma Rector, Emogene [Imogene] Parrin [Perrin], Virginia Jackson and Maxine Wright. - Harris Photo.\"",
+    "TitMainTitle": "Sequoias club members, from left: Frances Parr, Yvonne Hall, Betty Hord (Jones), Alma Rector, Imogene Perrin, Virginia Jackson, and Maxine Wright posed with hands on knees in front of Pittsburgh Courier newspaper billboard with image of soldier on stretcher",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Billboards--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "66253682-2ba9-4aa7-84fe-09f781c0339b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24809,
+    "MulMultiMediaRef_key": 9097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24809/sizes/17389-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Frances Parr",
+        "status": "suggested"
+      },
+      {
+        "data": "Maxine Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Emogene [ Imogene ]",
+        "status": "suggested"
+      },
+      {
+        "data": "Imogene Perrin",
+        "status": "suggested"
+      },
+      {
+        "data": "Yvonne Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Hord",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Billboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "15",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Sequoias - These young ladies are tossing a hop at the Parish House, Centre Avenue, on November 2.  Left to right: Frances Parr, Yvonne Hall, Betty Hord, Alma Rector, Emogene [Imogene] Parrin [Perrin], Virginia Jackson and Maxine Wright. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 27, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Frances Parr",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Yvonne Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Maxine Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "the Parish House",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Hord",
+        "status": "suggested"
+      },
+      {
+        "data": "Billboards",
+        "status": "suggested"
+      },
+      {
+        "data": "October 27, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Emogene [ Imogene ]",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Alma Rector",
+        "status": "suggested"
+      },
+      {
+        "data": "November 2",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

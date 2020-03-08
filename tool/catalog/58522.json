@@ -1,20 +1,364 @@
 {
-	"irn": "58522",
-	"emuInput": {
-		"ecatalogue_key": "269",
-		"irn": "58522",
-		"TitAccessionNo": "2001.35.44655",
-		"TitMainTitle": "Group portrait of ten members of the John Hanners family surrounding Red Cross case worker Anne M. Gasson after house fire, another version",
-		"CreDateCreated": "January 1956",
-		"CreEarliestDate": "1956-01-01",
-		"CreLatestDate": "1956-01-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3 reads: \"Fire Victims - Members of the John Hanners, a family of fourteen, gather around Miss Anne M. Gasson, Red Cross disaster case worker, for aid after a six-alarm fire gutted their Jewell [Jewel] Street home and left them homeless early last Friday. The parents have secured a North Side home but this week have little money for food and no funds for furnishings for the home. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58522",
+  "emuInput": {
+    "ecatalogue_key": 44612,
+    "irn": 58522,
+    "TitAccessionNo": "2001.35.44655",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3 reads: \"Fire Victims - Members of the John Hanners, a family of fourteen, gather around Miss Anne M. Gasson, Red Cross disaster case worker, for aid after a six-alarm fire gutted their Jewell [Jewel] Street home and left them homeless early last Friday. The parents have secured a North Side home but this week have little money for food and no funds for furnishings for the home. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of ten members of the John Hanners family surrounding Red Cross case worker Anne M. Gasson after house fire, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06241650-3194-4b1a-8fad-05f04bf53690",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66489,
+    "MulMultiMediaRef_key": 44620,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66489/sizes/58522-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44612,
+    "irn": 58522,
+    "TitAccessionNo": "2001.35.44655",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3 reads: \"Fire Victims - Members of the John Hanners, a family of fourteen, gather around Miss Anne M. Gasson, Red Cross disaster case worker, for aid after a six-alarm fire gutted their Jewell [Jewel] Street home and left them homeless early last Friday. The parents have secured a North Side home but this week have little money for food and no funds for furnishings for the home. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of ten members of the John Hanners family surrounding Red Cross case worker Anne M. Gasson after house fire, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06241650-3194-4b1a-8fad-05f04bf53690",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66489,
+    "MulMultiMediaRef_key": 44620,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66489/sizes/58522-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John Hanners",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne M. Gasson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Fire Victims - Members of the John Hanners, a family of fourteen, gather around Miss Anne M. Gasson, Red Cross disaster case worker, for aid after a six-alarm fire gutted their Jewell [Jewel] Street home and left them homeless early last Friday. The parents have secured a North Side home but this week have little money for food and no funds for furnishings for the home. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "John Hanners",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Red Cross",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewell [Jewel]",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire Victims - Members",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "early last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

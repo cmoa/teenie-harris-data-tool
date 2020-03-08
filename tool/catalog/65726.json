@@ -1,20 +1,427 @@
 {
-	"irn": "65726",
-	"emuInput": {
-		"ecatalogue_key": "334",
-		"irn": "65726",
-		"TitAccessionNo": "2001.35.51471",
-		"TitMainTitle": "Group portrait of groom John Moore and bride Ophelia Berrien Moore cutting three tiered cake, with two women, possibly Mrs. Fred C. Berrien on left and Mrs. Ada Fluellen on right, in Central Baptist Church",
-		"CreDateCreated": "July - August 1953",
-		"CreEarliestDate": "1953-07-01",
-		"CreLatestDate": "1953-08-01",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 1, 1953, pg. 10 reads: Berrien-Moore Wedding -Mr. and Mrs. John Moore cut their wedding cake at the charming reception which followed their wedding in Central Baptist Church recently. The Rev. Cornell E. Talley officiated.  The bride is the former Ophelia Berrien, daughter of Mr. and Mrs. Fred C. Berrien; the groom is the son of Mrs. Ada Fluellen.  The bridal gown was of handsome skinner satin with billowing tulle and Chantilly face. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nCentral Baptist Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "65726",
+  "emuInput": {
+    "ecatalogue_key": 51428,
+    "irn": 65726,
+    "TitAccessionNo": "2001.35.51471",
+    "CreDateCreated": "July - August 1953",
+    "CreEarliestDate": "1953-07-01",
+    "CreLatestDate": "1953-08-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 1, 1953, pg. 10 reads: Berrien-Moore Wedding -Mr. and Mrs. John Moore cut their wedding cake at the charming reception which followed their wedding in Central Baptist Church recently. The Rev. Cornell E. Talley officiated.  The bride is the former Ophelia Berrien, daughter of Mr. and Mrs. Fred C. Berrien; the groom is the son of Mrs. Ada Fluellen.  The bridal gown was of handsome skinner satin with billowing tulle and Chantilly face. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of groom John Moore and bride Ophelia Berrien Moore cutting three tiered cake, with two women, possibly Mrs. Fred C. Berrien on left and Mrs. Ada Fluellen on right, in Central Baptist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Central Baptist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "99790822-c830-405d-899a-3542f5ff50d5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75349,
+    "MulMultiMediaRef_key": 51436,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75349/sizes/65726-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 51428,
+    "irn": 65726,
+    "TitAccessionNo": "2001.35.51471",
+    "CreDateCreated": "July - August 1953",
+    "CreEarliestDate": "1953-07-01",
+    "CreLatestDate": "1953-08-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 1, 1953, pg. 10 reads: Berrien-Moore Wedding -Mr. and Mrs. John Moore cut their wedding cake at the charming reception which followed their wedding in Central Baptist Church recently. The Rev. Cornell E. Talley officiated.  The bride is the former Ophelia Berrien, daughter of Mr. and Mrs. Fred C. Berrien; the groom is the son of Mrs. Ada Fluellen.  The bridal gown was of handsome skinner satin with billowing tulle and Chantilly face. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of groom John Moore and bride Ophelia Berrien Moore cutting three tiered cake, with two women, possibly Mrs. Fred C. Berrien on left and Mrs. Ada Fluellen on right, in Central Baptist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Central Baptist Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "99790822-c830-405d-899a-3542f5ff50d5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75349,
+    "MulMultiMediaRef_key": 51436,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75349/sizes/65726-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fred C. Berrien",
+        "status": "suggested"
+      },
+      {
+        "data": "Ophelia Berrien Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Berrien",
+        "status": "suggested"
+      },
+      {
+        "data": "Cornell E. Talley",
+        "status": "suggested"
+      },
+      {
+        "data": "John Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Ophelia Berrien",
+        "status": "suggested"
+      },
+      {
+        "data": "Ada Fluellen",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "August 1, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Berrien",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "John Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Central Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "August 1, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Central Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "tradition",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding ceremony supply",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "headpiece",
+        "status": "suggested"
+      }
+    ]
+  }
 }

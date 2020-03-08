@@ -1,20 +1,315 @@
 {
-	"irn": "72052",
-	"emuInput": {
-		"ecatalogue_key": "388",
-		"irn": "72052",
-		"TitAccessionNo": "2001.35.56879",
-		"TitMainTitle": "Group portrait of man and woman wearing dark satin short sleeved gown with circular brooch,seated at square banquet table for Chi Delta Mu dinner dance in New Arena Supper Club",
-		"CreDateCreated": "February 1960",
-		"CreEarliestDate": "1960-02-01",
-		"CreLatestDate": "1960-02-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 20, 1960, pg. B10 reads: \"Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier newspaper, February 20, 1960, pg. A7 by Toki Schalk Johnson reads:\"Wednesday brought forth the annual dinner dance given by the Chi Delta Mu Fraternity in beautifully decorated New Arena.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nDinner parties--Pennsylvania--Pittsburgh.\nDinners and dining--Pennsylvania--Pittsburgh.\nNew Arena Supper Club (Pittsburgh, Pa.)\nFraternal organizations--Pennsylvania--Pittsburgh.\nChi Delta Mu",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72052",
+  "emuInput": {
+    "ecatalogue_key": 56836,
+    "irn": 72052,
+    "TitAccessionNo": "2001.35.56879",
+    "CreDateCreated": "February 1960",
+    "CreEarliestDate": "1960-02-01",
+    "CreLatestDate": "1960-02-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 20, 1960, pg. B10 reads: \"Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier newspaper, February 20, 1960, pg. A7 by Toki Schalk Johnson reads:\"Wednesday brought forth the annual dinner dance given by the Chi Delta Mu Fraternity in beautifully decorated New Arena.\"",
+    "TitMainTitle": "Group portrait of man and woman wearing dark satin short sleeved gown with circular brooch,seated at square banquet table for Chi Delta Mu dinner dance in New Arena Supper Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Dinner parties--Pennsylvania--Pittsburgh.Dinners and dining--Pennsylvania--Pittsburgh.New Arena Supper Club (Pittsburgh, Pa.)Fraternal organizations--Pennsylvania--Pittsburgh.Chi Delta Mu",
+    "AdmGUIDValue_tab": "50990051-172d-4f64-b14a-7ef2246f7706",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94393,
+    "MulMultiMediaRef_key": 56845,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94393/sizes/72052-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56836,
+    "irn": 72052,
+    "TitAccessionNo": "2001.35.56879",
+    "CreDateCreated": "February 1960",
+    "CreEarliestDate": "1960-02-01",
+    "CreLatestDate": "1960-02-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 20, 1960, pg. B10 reads: \"Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier newspaper, February 20, 1960, pg. A7 by Toki Schalk Johnson reads:\"Wednesday brought forth the annual dinner dance given by the Chi Delta Mu Fraternity in beautifully decorated New Arena.\"",
+    "TitMainTitle": "Group portrait of man and woman wearing dark satin short sleeved gown with circular brooch,seated at square banquet table for Chi Delta Mu dinner dance in New Arena Supper Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Dinner parties--Pennsylvania--Pittsburgh.Dinners and dining--Pennsylvania--Pittsburgh.New Arena Supper Club (Pittsburgh, Pa.)Fraternal organizations--Pennsylvania--Pittsburgh.Chi Delta Mu",
+    "AdmGUIDValue_tab": "50990051-172d-4f64-b14a-7ef2246f7706",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94393,
+    "MulMultiMediaRef_key": 56845,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94393/sizes/72052-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Toki Schalk Johnson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Fraternal organizations",
+        "status": "suggested"
+      },
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier newspaper, February 20, 1960, pg. B10 reads: \"Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier newspaper, February 20, 1960, pg. A7 by Toki Schalk Johnson reads:\"Wednesday brought forth the annual dinner dance given by the Chi Delta Mu Fraternity in beautifully decorated New Arena.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 20, 1960, pg. B10 reads: \"Chi Delta Mu Fraternity Entertains Lavishly.\" Portion of accompanying article published in Pittsburgh Courier newspaper, February 20, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "February 20, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Chi Delta Mu",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Chi Delta Mu Fraternity Entertains Lavishly",
+        "status": "suggested"
+      },
+      {
+        "data": ")Fraternal organizations",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinner parties",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena Supper Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena Supper Club",
+        "status": "suggested"
+      },
+      {
+        "data": "New Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Chi Delta M",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the Chi Delta Mu Fraternity",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      }
+    ]
+  }
 }

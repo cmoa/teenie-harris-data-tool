@@ -1,20 +1,396 @@
 {
-	"irn": "61962",
-	"emuInput": {
-		"ecatalogue_key": "310",
-		"irn": "61962",
-		"TitAccessionNo": "2001.35.47893",
-		"TitMainTitle": "Ethelyn Sanders and Alonzo R. Sanders examining piece of burned railroad flare, and seated on patterned armchair in their home in Washington, Pennsylvania, another version",
-		"CreDateCreated": "May 1958",
-		"CreEarliestDate": "1958-05-01",
-		"CreLatestDate": "1958-05-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. 3, reads: \"Evidence? - Mr. and Mrs. Alonzo R. Sanders of 52 Shannon Ave., Washington, Pa., examine a piece of a burned out railroad flare which was found several yards away from their new home, which was under construction prior to fire burning it down to its foundation, on Christy Rd., at Eighty-Four, Pa., last week. Presence of the flare has not been explained. Police and firemen report they have been unable to find any evidence of arson. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Washington.\nMen--Pennsylvania--Washington.\nWomen--Pennsylvania--Washington.\nChairs--Pennsylvania--Washington.\nInteriors--Pennsylvania--Washington.\nEyeglasses--Pennsylvania--Washington.\nDoors--Pennsylvania--Washington.\nSanders, Alonzo R.\nDiscrimination--Pennsylvania--Washington.\nRacism--Pennsylvania--Washington.\nHate Crimes--Pennsylvania--Washington.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61962",
+  "emuInput": {
+    "ecatalogue_key": 47850,
+    "irn": 61962,
+    "TitAccessionNo": "2001.35.47893",
+    "CreDateCreated": "May 1958",
+    "CreEarliestDate": "1958-05-01",
+    "CreLatestDate": "1958-05-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. 3, reads: \"Evidence? - Mr. and Mrs. Alonzo R. Sanders of 52 Shannon Ave., Washington, Pa., examine a piece of a burned out railroad flare which was found several yards away from their new home, which was under construction prior to fire burning it down to its foundation, on Christy Rd., at Eighty-Four, Pa., last week. Presence of the flare has not been explained. Police and firemen report they have been unable to find any evidence of arson. - Harris Photo.\"",
+    "TitMainTitle": "Ethelyn Sanders and Alonzo R. Sanders examining piece of burned railroad flare, and seated on patterned armchair in their home in Washington, Pennsylvania, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Washington.Men--Pennsylvania--Washington.Women--Pennsylvania--Washington.Chairs--Pennsylvania--Washington.Interiors--Pennsylvania--Washington.Eyeglasses--Pennsylvania--Washington.Doors--Pennsylvania--Washington.Sanders, Alonzo R.Discrimination--Pennsylvania--Washington.Racism--Pennsylvania--Washington.Hate Crimes--Pennsylvania--Washington.",
+    "AdmGUIDValue_tab": "28952148-94fd-49db-8ce7-8227e93029f0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70645,
+    "MulMultiMediaRef_key": 47858,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70645/sizes/61962-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47850,
+    "irn": 61962,
+    "TitAccessionNo": "2001.35.47893",
+    "CreDateCreated": "May 1958",
+    "CreEarliestDate": "1958-05-01",
+    "CreLatestDate": "1958-05-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. 3, reads: \"Evidence? - Mr. and Mrs. Alonzo R. Sanders of 52 Shannon Ave., Washington, Pa., examine a piece of a burned out railroad flare which was found several yards away from their new home, which was under construction prior to fire burning it down to its foundation, on Christy Rd., at Eighty-Four, Pa., last week. Presence of the flare has not been explained. Police and firemen report they have been unable to find any evidence of arson. - Harris Photo.\"",
+    "TitMainTitle": "Ethelyn Sanders and Alonzo R. Sanders examining piece of burned railroad flare, and seated on patterned armchair in their home in Washington, Pennsylvania, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Washington.Men--Pennsylvania--Washington.Women--Pennsylvania--Washington.Chairs--Pennsylvania--Washington.Interiors--Pennsylvania--Washington.Eyeglasses--Pennsylvania--Washington.Doors--Pennsylvania--Washington.Sanders, Alonzo R.Discrimination--Pennsylvania--Washington.Racism--Pennsylvania--Washington.Hate Crimes--Pennsylvania--Washington.",
+    "AdmGUIDValue_tab": "28952148-94fd-49db-8ce7-8227e93029f0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70645,
+    "MulMultiMediaRef_key": 47858,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70645/sizes/61962-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Christy Rd .",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethelyn Sanders",
+        "status": "suggested"
+      },
+      {
+        "data": "Alonzo R. Sanders",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Discrimination",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Racism",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Hate crimes",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Shannon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Shannon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Shannon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Shannon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Evidence? - Mr. and Mrs. Alonzo R. Sanders of 52 Shannon Ave., Washington, Pa., examine a piece of a burned out railroad flare which was found several yards away from their new home, which was under construction prior to fire burning it down to its foundation, on Christy Rd., at Eighty-Four, Pa., last week. Presence of the flare has not been explained. Police and firemen report they have been unable to find any evidence of arson. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 10, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Discrimination",
+        "status": "suggested"
+      },
+      {
+        "data": "Racism",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hate Crimes",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "52",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Sanders, Alonzo R",
+        "status": "suggested"
+      },
+      {
+        "data": "May 10, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Shannon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "necktie",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

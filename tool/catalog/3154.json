@@ -1,20 +1,328 @@
 {
-	"irn": "3154",
-	"emuInput": {
-		"ecatalogue_key": "13",
-		"irn": "3154",
-		"TitAccessionNo": "2001.35.1715",
-		"TitMainTitle": "Coach \"Buddy\" Parker handing football to Pittsburgh Steelers football player, on athletic field at Slippery Rock State Teachers College",
-		"CreDateCreated": "July 1961",
-		"CreEarliestDate": "1961-07-01",
-		"CreLatestDate": "1961-07-29",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 29, 1961, pg. 24, reads: \"Nine Negroes Among 22 Steeler Hopefuls - \"Here, on the campus of Slippery Rock State Teachers College, Tuesday morning, the eager but cold eyes of Coach Buddy Parker were weighing the muscular symphony of 22 individual 1961 Pittsburgh Steelers' rookies, nine of whom were young men of color...\"",
-		"CatSubject_tab": "Men--Pennsylvania--Slippery Rock.\nFootball players--Pennsylvania--Slippery Rock.\nFootball coaches--Pennsylvania--Slippery Rock.\nFootball--Pennsylvania--Slippery Rock.\nPittsburgh Steelers (Football team).\nSlippery Rock State Teachers College.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "3154",
+  "emuInput": {
+    "ecatalogue_key": 1713,
+    "irn": 3154,
+    "TitAccessionNo": "2001.35.1715",
+    "CreDateCreated": "July 1961",
+    "CreEarliestDate": "1961-07-01",
+    "CreLatestDate": "1961-07-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 29, 1961, pg. 24, reads: \"Nine Negroes Among 22 Steeler Hopefuls - \"Here, on the campus of Slippery Rock State Teachers College, Tuesday morning, the eager but cold eyes of Coach Buddy Parker were weighing the muscular symphony of 22 individual 1961 Pittsburgh Steelers' rookies, nine of whom were young men of color...\"",
+    "TitMainTitle": "Coach \"Buddy\" Parker handing football to Pittsburgh Steelers football player, on athletic field at Slippery Rock State Teachers College",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Slippery Rock.Football players--Pennsylvania--Slippery Rock.Football coaches--Pennsylvania--Slippery Rock.Football--Pennsylvania--Slippery Rock.Pittsburgh Steelers (Football team).Slippery Rock State Teachers College.",
+    "AdmGUIDValue_tab": "17831633-f884-40ec-9a38-aaeffb97f612",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16033,
+    "MulMultiMediaRef_key": 1715,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16033/sizes/3154-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 1713,
+    "irn": 3154,
+    "TitAccessionNo": "2001.35.1715",
+    "CreDateCreated": "July 1961",
+    "CreEarliestDate": "1961-07-01",
+    "CreLatestDate": "1961-07-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 29, 1961, pg. 24, reads: \"Nine Negroes Among 22 Steeler Hopefuls - \"Here, on the campus of Slippery Rock State Teachers College, Tuesday morning, the eager but cold eyes of Coach Buddy Parker were weighing the muscular symphony of 22 individual 1961 Pittsburgh Steelers' rookies, nine of whom were young men of color...\"",
+    "TitMainTitle": "Coach \"Buddy\" Parker handing football to Pittsburgh Steelers football player, on athletic field at Slippery Rock State Teachers College",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Slippery Rock.Football players--Pennsylvania--Slippery Rock.Football coaches--Pennsylvania--Slippery Rock.Football--Pennsylvania--Slippery Rock.Pittsburgh Steelers (Football team).Slippery Rock State Teachers College.",
+    "AdmGUIDValue_tab": "17831633-f884-40ec-9a38-aaeffb97f612",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16033,
+    "MulMultiMediaRef_key": 1715,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16033/sizes/3154-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Buddy Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Parker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Buddy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Football",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Football coaches",
+        "status": "suggested"
+      },
+      {
+        "data": "Football players",
+        "status": "suggested"
+      },
+      {
+        "data": "Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock State College",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "24",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Nine Negroes Among 22 Steeler Hopefuls - \"Here, on the campus of Slippery Rock State Teachers College, Tuesday morning, the eager but cold eyes of Coach Buddy Parker were weighing the muscular symphony of 22 individual 1961 Pittsburgh Steelers' rookies, nine of whom were young men of color...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 29, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Steeler",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Buddy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Steelers'",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Steelers",
+        "status": "suggested"
+      },
+      {
+        "data": "Football",
+        "status": "suggested"
+      },
+      {
+        "data": "Slippery Rock State Teachers College",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "July 29, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Football coaches",
+        "status": "suggested"
+      },
+      {
+        "data": "Football players",
+        "status": "suggested"
+      },
+      {
+        "data": "Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Steelers ",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,336 @@
 {
-	"irn": "1546",
-	"emuInput": {
-		"ecatalogue_key": "4",
-		"irn": "1546",
-		"TitAccessionNo": "2001.35.255",
-		"TitMainTitle": "Ammon Pony League baseball team, first row from left: co-captain Ronald Jackson, Michael Simms, Kenneth Blackwell, Alan Taylor; second row: co-captain Robert Ryan, Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston, manager Edward Dean; third row: coach David Boggus and Rennard Braxton posed on field",
-		"CreDateCreated": "August 1962",
-		"CreEarliestDate": "1962-08-01",
-		"CreLatestDate": "1962-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 1, 1962, pg. 20, reads: \"Pony Leaguers - Members of the Ammon Pony League team turned in an outstanding diamond performance this season. Left to right, front row: Ronald Jackson, co-captain; Michael Simms, Kenneth Blackwell and Alan Taylor. Second row: Robert Ryan, co-captain; Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston and Manager Edward Dean. Third row: Coach David Boggus and Rennard Braxton. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nBaseball teams--Pennsylvania--Pittsburgh.\nBaseball fields--Pennsylvania--Pittsburgh.\nBaseball bats--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "1546",
+  "emuInput": {
+    "ecatalogue_key": 253,
+    "irn": 1546,
+    "TitAccessionNo": "2001.35.255",
+    "CreDateCreated": "August 1962",
+    "CreEarliestDate": "1962-08-01",
+    "CreLatestDate": "1962-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 1, 1962, pg. 20, reads: \"Pony Leaguers - Members of the Ammon Pony League team turned in an outstanding diamond performance this season. Left to right, front row: Ronald Jackson, co-captain; Michael Simms, Kenneth Blackwell and Alan Taylor. Second row: Robert Ryan, co-captain; Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston and Manager Edward Dean. Third row: Coach David Boggus and Rennard Braxton. - Harris Photo.\"",
+    "TitMainTitle": "Ammon Pony League baseball team, first row from left: co-captain Ronald Jackson, Michael Simms, Kenneth Blackwell, Alan Taylor; second row: co-captain Robert Ryan, Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston, manager Edward Dean; third row: coach David Boggus and Rennard Braxton posed on field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Baseball teams--Pennsylvania--Pittsburgh.Baseball fields--Pennsylvania--Pittsburgh.Baseball bats--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0107dd7d-f933-43e0-a0da-7215d284b9b0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15091,
+    "MulMultiMediaRef_key": 255,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15091/sizes/1546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 253,
+    "irn": 1546,
+    "TitAccessionNo": "2001.35.255",
+    "CreDateCreated": "August 1962",
+    "CreEarliestDate": "1962-08-01",
+    "CreLatestDate": "1962-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 1, 1962, pg. 20, reads: \"Pony Leaguers - Members of the Ammon Pony League team turned in an outstanding diamond performance this season. Left to right, front row: Ronald Jackson, co-captain; Michael Simms, Kenneth Blackwell and Alan Taylor. Second row: Robert Ryan, co-captain; Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston and Manager Edward Dean. Third row: Coach David Boggus and Rennard Braxton. - Harris Photo.\"",
+    "TitMainTitle": "Ammon Pony League baseball team, first row from left: co-captain Ronald Jackson, Michael Simms, Kenneth Blackwell, Alan Taylor; second row: co-captain Robert Ryan, Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston, manager Edward Dean; third row: coach David Boggus and Rennard Braxton posed on field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Baseball teams--Pennsylvania--Pittsburgh.Baseball fields--Pennsylvania--Pittsburgh.Baseball bats--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0107dd7d-f933-43e0-a0da-7215d284b9b0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15091,
+    "MulMultiMediaRef_key": 255,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15091/sizes/1546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ralph Greene",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Marshall",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenneth Blackwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Ronald Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Rennard Braxton",
+        "status": "suggested"
+      },
+      {
+        "data": "David Boggus",
+        "status": "suggested"
+      },
+      {
+        "data": "John Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Michael Simms",
+        "status": "suggested"
+      },
+      {
+        "data": "Alan Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Dean",
+        "status": "suggested"
+      },
+      {
+        "data": "Ronald Broadway",
+        "status": "suggested"
+      },
+      {
+        "data": "George Weston",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Ryan",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball bats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball fields",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pony Leaguers - Members of the Ammon Pony League team turned in an outstanding diamond performance this season. Left to right, front row: Ronald Jackson, co-captain; Michael Simms, Kenneth Blackwell and Alan Taylor. Second row: Robert Ryan, co-captain; Ronald Broadway, Ralph Greene, John Jackson, Robert Marshall, George Weston and Manager Edward Dean. Third row: Coach David Boggus and Rennard Braxton. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 1, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Kenneth Blackwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "John Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Alan Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball bats",
+        "status": "suggested"
+      },
+      {
+        "data": "George Weston",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pony League",
+        "status": "suggested"
+      },
+      {
+        "data": "Ronald Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "September 1, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "this season",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Dean",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ammon Pony League",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball fields",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Greene",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Marshall",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Michael Simms",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "crew",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "water",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

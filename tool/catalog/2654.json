@@ -1,20 +1,319 @@
 {
-	"irn": "2654",
-	"emuInput": {
-		"ecatalogue_key": "12",
-		"irn": "2654",
-		"TitAccessionNo": "2001.35.1257",
-		"TitMainTitle": "Portrait of Raymond \"Ray\" Saunders holding prize winning pastel street scape, at Western Pennsylvania Scholastic Art competition",
-		"CreDateCreated": "February 1952",
-		"CreEarliestDate": "1952-02-01",
-		"CreLatestDate": "1952-02-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 23, 1952, pg. 24, reads: \"Scholastic Art Winner - Raymond Saunders, a Schenley High School junior, was awarded first prize of $25 in pictorial division of the Western Pennsylvania Scholastic Art competition.. He was one of the six major winners whose entries will compete in the national exhibition at Carnegie Institute in May. The local exhibition, one of forty-three held annually across the country, will be shown at Kaufmann's Auditorium starting Feb. 23.  Mr. Saunders, who lives at 234 Burrows Street, is a student of Joseph Fitzpatrick. - Harris Photo.",
-		"CatSubject_tab": "Saunders, Raymond\nArt--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "2654",
+  "emuInput": {
+    "ecatalogue_key": 1255,
+    "irn": 2654,
+    "TitAccessionNo": "2001.35.1257",
+    "CreDateCreated": "February 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-02-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 23, 1952, pg. 24, reads: \"Scholastic Art Winner - Raymond Saunders, a Schenley High School junior, was awarded first prize of $25 in pictorial division of the Western Pennsylvania Scholastic Art competition.. He was one of the six major winners whose entries will compete in the national exhibition at Carnegie Institute in May. The local exhibition, one of forty-three held annually across the country, will be shown at Kaufmann's Auditorium starting Feb. 23.  Mr. Saunders, who lives at 234 Burrows Street, is a student of Joseph Fitzpatrick. - Harris Photo.",
+    "TitMainTitle": "Portrait of Raymond \"Ray\" Saunders holding prize winning pastel street scape, at Western Pennsylvania Scholastic Art competition",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Saunders, RaymondArt--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00e8fb32-96c4-4ce6-94a9-82841bf9bc74",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14823,
+    "MulMultiMediaRef_key": 1257,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14823/sizes/2654-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 1255,
+    "irn": 2654,
+    "TitAccessionNo": "2001.35.1257",
+    "CreDateCreated": "February 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-02-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 23, 1952, pg. 24, reads: \"Scholastic Art Winner - Raymond Saunders, a Schenley High School junior, was awarded first prize of $25 in pictorial division of the Western Pennsylvania Scholastic Art competition.. He was one of the six major winners whose entries will compete in the national exhibition at Carnegie Institute in May. The local exhibition, one of forty-three held annually across the country, will be shown at Kaufmann's Auditorium starting Feb. 23.  Mr. Saunders, who lives at 234 Burrows Street, is a student of Joseph Fitzpatrick. - Harris Photo.",
+    "TitMainTitle": "Portrait of Raymond \"Ray\" Saunders holding prize winning pastel street scape, at Western Pennsylvania Scholastic Art competition",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Saunders, RaymondArt--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00e8fb32-96c4-4ce6-94a9-82841bf9bc74",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14823,
+    "MulMultiMediaRef_key": 1257,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14823/sizes/2654-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Joseph Fitzpatrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Saunders",
+        "status": "suggested"
+      },
+      {
+        "data": "Raymond \" Ray \" Saunders",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Saunders.",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "May.",
+        "status": "suggested"
+      },
+      {
+        "data": "Kaufmann's Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "May.",
+        "status": "suggested"
+      },
+      {
+        "data": "Kaufmann's Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "May.",
+        "status": "suggested"
+      },
+      {
+        "data": "Kaufmann's Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "May.",
+        "status": "suggested"
+      },
+      {
+        "data": "Kaufmann's Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "24",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "February 23, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Saunders, RaymondArt",
+        "status": "suggested"
+      },
+      {
+        "data": "Kaufmann's Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Fitzpatrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "February 23, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Feb. 23",
+        "status": "suggested"
+      },
+      {
+        "data": "the Western Pennsylvania Scholastic Art",
+        "status": "suggested"
+      },
+      {
+        "data": "Saunders",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Institute",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "vision care",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "glasses",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "art",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "drawing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

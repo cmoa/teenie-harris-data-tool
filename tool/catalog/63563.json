@@ -1,20 +1,311 @@
 {
-	"irn": "63563",
-	"emuInput": {
-		"ecatalogue_key": "322",
-		"irn": "63563",
-		"TitAccessionNo": "2001.35.49543",
-		"TitMainTitle": "Group of men and women, including man wearing dark suit with pin inscribed \"Republicans United Can Win\" on lapel, and eyeglasses, seated at tables in Carlton House for GOP Harmony meeting",
-		"CreDateCreated": "June 1959",
-		"CreEarliestDate": "1959-06-01",
-		"CreLatestDate": "1959-06-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 27, 1959, pg. A1 reads: \"GOP Harmony Meeting - Republican nominees, defeated candidates, and those who withdrew from the May 19 primary race met the newly appointed campaign chairman, Harry R. Rowland, last Friday, in Carlton House, and heard pledges of harmony and all-out strategy for victory in November. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nCarlton House (Pittsburgh, Pa.)\nBanquets--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nNeckties--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMirrors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "63563",
+  "emuInput": {
+    "ecatalogue_key": 49500,
+    "irn": 63563,
+    "TitAccessionNo": "2001.35.49543",
+    "CreDateCreated": "June 1959",
+    "CreEarliestDate": "1959-06-01",
+    "CreLatestDate": "1959-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 27, 1959, pg. A1 reads: \"GOP Harmony Meeting - Republican nominees, defeated candidates, and those who withdrew from the May 19 primary race met the newly appointed campaign chairman, Harry R. Rowland, last Friday, in Carlton House, and heard pledges of harmony and all-out strategy for victory in November. - Harris Photo.\"",
+    "TitMainTitle": "Group of men and women, including man wearing dark suit with pin inscribed \"Republicans United Can Win\" on lapel, and eyeglasses, seated at tables in Carlton House for GOP Harmony meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Carlton House (Pittsburgh, Pa.)Banquets--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00d9e976-774b-40f4-9a50-ab45d37e4840",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72312,
+    "MulMultiMediaRef_key": 49508,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72312/sizes/63563-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 49500,
+    "irn": 63563,
+    "TitAccessionNo": "2001.35.49543",
+    "CreDateCreated": "June 1959",
+    "CreEarliestDate": "1959-06-01",
+    "CreLatestDate": "1959-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 27, 1959, pg. A1 reads: \"GOP Harmony Meeting - Republican nominees, defeated candidates, and those who withdrew from the May 19 primary race met the newly appointed campaign chairman, Harry R. Rowland, last Friday, in Carlton House, and heard pledges of harmony and all-out strategy for victory in November. - Harris Photo.\"",
+    "TitMainTitle": "Group of men and women, including man wearing dark suit with pin inscribed \"Republicans United Can Win\" on lapel, and eyeglasses, seated at tables in Carlton House for GOP Harmony meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Carlton House (Pittsburgh, Pa.)Banquets--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00d9e976-774b-40f4-9a50-ab45d37e4840",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72312,
+    "MulMultiMediaRef_key": 49508,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72312/sizes/63563-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harry R. Rowland",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "G. O. P.",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Banquets",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Banquets",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Banquets",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Banquets",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "GOP Harmony Meeting - Republican nominees, defeated candidates, and those who withdrew from the May 19 primary race met the newly appointed campaign chairman, Harry R. Rowland, last Friday, in Carlton House, and heard pledges of harmony and all-out strategy for victory in November. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 27, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "November",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "May 19",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": ")Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "June 27, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Republicans",
+        "status": "suggested"
+      },
+      {
+        "data": "GOP",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House ",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      }
+    ]
+  }
 }

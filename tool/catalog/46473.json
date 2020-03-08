@@ -1,20 +1,472 @@
 {
-	"irn": "46473",
-	"emuInput": {
-		"ecatalogue_key": "206",
-		"irn": "46473",
-		"TitAccessionNo": "2001.35.33586",
-		"TitMainTitle": "Dancers, singers, and entertainers including Mamie Hamilton and Gwendolyn Hamilton in first row, James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings in middle row, and John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar in rear, gathered for Dilettantes group program in Centre Avenue YMCA with Henry O. Tanner painting \"Christ and His Mother\" on wall",
-		"CreDateCreated": "September 1946",
-		"CreEarliestDate": "1946-09-01",
-		"CreLatestDate": "1946-09-21",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 21, 1946, pg. 16, reads: \"Dilettantes Entertain Local Celebrities - The Dilettantes, an interracial group interested in cultural development, entertained a delegation of visitors at their meeting held at the Centre Avenue Branch YMCA Friday evening, Sept. 13... Center picture shows members of the Dilettantes who presented a program of ballet dancing, interpretive dancing and vocal selections. Back row: John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar. Middle row: James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings. Front row: Hamilton sisters... - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nYoung Men's Christian Association (Pittsburgh, Pa.)\nPaintings--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nDancers--Pennsylvania--Pittsburgh.\nDance costume--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "46473",
+  "emuInput": {
+    "ecatalogue_key": 33551,
+    "irn": 46473,
+    "TitAccessionNo": "2001.35.33586",
+    "CreDateCreated": "September 1946",
+    "CreEarliestDate": "1946-09-01",
+    "CreLatestDate": "1946-09-21",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 21, 1946, pg. 16, reads: \"Dilettantes Entertain Local Celebrities - The Dilettantes, an interracial group interested in cultural development, entertained a delegation of visitors at their meeting held at the Centre Avenue Branch YMCA Friday evening, Sept. 13... Center picture shows members of the Dilettantes who presented a program of ballet dancing, interpretive dancing and vocal selections. Back row: John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar. Middle row: James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings. Front row: Hamilton sisters... - Harris Photo.\"",
+    "TitMainTitle": "Dancers, singers, and entertainers including Mamie Hamilton and Gwendolyn Hamilton in first row, James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings in middle row, and John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar in rear, gathered for Dilettantes group program in Centre Avenue YMCA with Henry O. Tanner painting \"Christ and His Mother\" on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Paintings--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Dancers--Pennsylvania--Pittsburgh.Dance costume--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00a50c7c-e076-4b2c-90ed-a72a7a67824f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 52973,
+    "MulMultiMediaRef_key": 33559,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52973/sizes/46473-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 33551,
+    "irn": 46473,
+    "TitAccessionNo": "2001.35.33586",
+    "CreDateCreated": "September 1946",
+    "CreEarliestDate": "1946-09-01",
+    "CreLatestDate": "1946-09-21",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 21, 1946, pg. 16, reads: \"Dilettantes Entertain Local Celebrities - The Dilettantes, an interracial group interested in cultural development, entertained a delegation of visitors at their meeting held at the Centre Avenue Branch YMCA Friday evening, Sept. 13... Center picture shows members of the Dilettantes who presented a program of ballet dancing, interpretive dancing and vocal selections. Back row: John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar. Middle row: James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings. Front row: Hamilton sisters... - Harris Photo.\"",
+    "TitMainTitle": "Dancers, singers, and entertainers including Mamie Hamilton and Gwendolyn Hamilton in first row, James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings in middle row, and John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar in rear, gathered for Dilettantes group program in Centre Avenue YMCA with Henry O. Tanner painting \"Christ and His Mother\" on wall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Paintings--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Dancers--Pennsylvania--Pittsburgh.Dance costume--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00a50c7c-e076-4b2c-90ed-a72a7a67824f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 52973,
+    "MulMultiMediaRef_key": 33559,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/52973/sizes/46473-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John Wanamaker",
+        "status": "suggested"
+      },
+      {
+        "data": "Marcella Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Courar",
+        "status": "suggested"
+      },
+      {
+        "data": "Gwendolyn Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "Letitia Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Floyd Rawlings",
+        "status": "suggested"
+      },
+      {
+        "data": "James Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Childs",
+        "status": "suggested"
+      },
+      {
+        "data": "James Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanley Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry O. Tanner",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dancers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Dance costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Paintings",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Paintings",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Paintings",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Paintings",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dilettantes Entertain Local Celebrities - The Dilettantes, an interracial group interested in cultural development, entertained a delegation of visitors at their meeting held at the Centre Avenue Branch YMCA Friday evening, Sept. 13... Center picture shows members of the Dilettantes who presented a program of ballet dancing, interpretive dancing and vocal selections. Back row: John Wanamaker, Marcella Wilson, Letitia Goode, Stanley Tucker, Harriet Courar. Middle row: James Smith, Juanita Yet, James Coles, Velma Woodbury Carey, Ethel Childs, Floyd Rawlings. Front row: Hamilton sisters... - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 21, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "James Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanley Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Dancers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": ")Paintings",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "September 21, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Velma Woodbury Carey",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Dilettantes",
+        "status": "suggested"
+      },
+      {
+        "data": "Dance costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "John Wanamaker",
+        "status": "suggested"
+      },
+      {
+        "data": "Sept. 13",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Men's Christian Association ",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry O. Tanner",
+        "status": "suggested"
+      },
+      {
+        "data": "Christ and His Mother",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "James Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Dilettantes Entertain Local Celebrities -",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Childs",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      }
+    ]
+  }
 }

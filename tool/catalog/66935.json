@@ -1,20 +1,464 @@
 {
-	"irn": "66935",
-	"emuInput": {
-		"ecatalogue_key": "345",
-		"irn": "66935",
-		"TitAccessionNo": "2001.35.52741",
-		"TitMainTitle": "Tommy Smith All Stars softball team, front row from left: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey, Jimmy Atkins; standing: manager Fuzzy Walton, Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Thomas J. \"Tommy\" Smith, on Ammon Field",
-		"CreDateCreated": "May 1959",
-		"CreEarliestDate": "1959-05-01",
-		"CreLatestDate": "1959-05-16",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 16, 1959, pg. 27, reads: \"Tommy Smith All-Stars - The Tommy Smith All-Stars, defending champions of the Ammon Slow Pitch League, again are listed among the favorite for loop supremacy.  Members of the team are, left to right, front row: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey and Jimmy Atkins.  Standing: Fuzzy Walton, manager; Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Tommy Smith, owner.  Not shown is Chick Jones, business manager. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nSoftball players--Pennsylvania--Pittsburgh.\nSmith, Tommy.\nAthletes--Pennsylvania--Pittsburgh.\nSoftball teams--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nAmmon Field (Pittsburgh, Pa.)\nHill District  (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "66935",
+  "emuInput": {
+    "ecatalogue_key": 52698,
+    "irn": 66935,
+    "TitAccessionNo": "2001.35.52741",
+    "CreDateCreated": "May 1959",
+    "CreEarliestDate": "1959-05-01",
+    "CreLatestDate": "1959-05-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 16, 1959, pg. 27, reads: \"Tommy Smith All-Stars - The Tommy Smith All-Stars, defending champions of the Ammon Slow Pitch League, again are listed among the favorite for loop supremacy.  Members of the team are, left to right, front row: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey and Jimmy Atkins.  Standing: Fuzzy Walton, manager; Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Tommy Smith, owner.  Not shown is Chick Jones, business manager. - Harris Photo.\"",
+    "TitMainTitle": "Tommy Smith All Stars softball team, front row from left: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey, Jimmy Atkins; standing: manager Fuzzy Walton, Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Thomas J. \"Tommy\" Smith, on Ammon Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Softball players--Pennsylvania--Pittsburgh.Smith, Tommy.Athletes--Pennsylvania--Pittsburgh.Softball teams--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Ammon Field (Pittsburgh, Pa.)Hill District  (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0323cf8f-2ab8-48e4-ad0a-6bea54ec6d64",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76753,
+    "MulMultiMediaRef_key": 52706,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76753/sizes/66935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 52698,
+    "irn": 66935,
+    "TitAccessionNo": "2001.35.52741",
+    "CreDateCreated": "May 1959",
+    "CreEarliestDate": "1959-05-01",
+    "CreLatestDate": "1959-05-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 16, 1959, pg. 27, reads: \"Tommy Smith All-Stars - The Tommy Smith All-Stars, defending champions of the Ammon Slow Pitch League, again are listed among the favorite for loop supremacy.  Members of the team are, left to right, front row: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey and Jimmy Atkins.  Standing: Fuzzy Walton, manager; Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Tommy Smith, owner.  Not shown is Chick Jones, business manager. - Harris Photo.\"",
+    "TitMainTitle": "Tommy Smith All Stars softball team, front row from left: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey, Jimmy Atkins; standing: manager Fuzzy Walton, Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Thomas J. \"Tommy\" Smith, on Ammon Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Softball players--Pennsylvania--Pittsburgh.Smith, Tommy.Athletes--Pennsylvania--Pittsburgh.Softball teams--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Ammon Field (Pittsburgh, Pa.)Hill District  (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0323cf8f-2ab8-48e4-ad0a-6bea54ec6d64",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76753,
+    "MulMultiMediaRef_key": 52706,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76753/sizes/66935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jeep Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Fuzzy Walton",
+        "status": "suggested"
+      },
+      {
+        "data": "Tommy Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. \" Tommy \" Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Jimmy Atkins",
+        "status": "suggested"
+      },
+      {
+        "data": "William Woodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Norris Cohey",
+        "status": "suggested"
+      },
+      {
+        "data": "Gabe Patterson",
+        "status": "suggested"
+      },
+      {
+        "data": "Hamp Sandrige",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Josh Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Daniel Nevells",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "George Pennix",
+        "status": "suggested"
+      },
+      {
+        "data": "Chick Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Holt",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Holt",
+        "status": "suggested"
+      },
+      {
+        "data": "Frank Stotts",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Atkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Wendell Austin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Softball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Softball players",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "27",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Tommy Smith All-Stars - The Tommy Smith All-Stars, defending champions of the Ammon Slow Pitch League, again are listed among the favorite for loop supremacy.  Members of the team are, left to right, front row: Josh Gibson, Joe Atkins, Charles Lewis, Frank Stotts, George Pennix, Hamp Sandrige, Norris Cohey and Jimmy Atkins.  Standing: Fuzzy Walton, manager; Ernie Butler, Charles Holt, William Woodson, Gabe Patterson, Bill Johnson, Daniel Nevells, Wendell Austin, Harry Holt, Jeep Johnson and Tommy Smith, owner.  Not shown is Chick Jones, business manager. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 16, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "May 16, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeep Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Fuzzy Walton",
+        "status": "suggested"
+      },
+      {
+        "data": "Tommy Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Jimmy Atkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Softball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Field ",
+        "status": "suggested"
+      },
+      {
+        "data": "William Woodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Softball players",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Josh Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Holt",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Holt",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Atkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ammon Slow Pitch League",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Wendell Austin",
+        "status": "suggested"
+      },
+      {
+        "data": "Smith, Tommy",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "military",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "troop",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "military person",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      }
+    ]
+  }
 }

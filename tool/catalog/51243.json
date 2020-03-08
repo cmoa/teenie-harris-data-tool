@@ -1,20 +1,260 @@
 {
-	"irn": "51243",
-	"emuInput": {
-		"ecatalogue_key": "213",
-		"irn": "51243",
-		"TitAccessionNo": "2001.35.38076",
-		"TitMainTitle": "Group portrait of fifteen women, including Antoinette Jones fourth from right, standing in courtroom with wood panels, American flag, and door on right",
-		"CreDateCreated": "January 1954",
-		"CreEarliestDate": "1954-01-01",
-		"CreLatestDate": "1954-01-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 9, 1954, pg. 17, reads: \"Wife Greeted - A group of Pittsburghers shared the happy hour with Mrs. Antoinette Jones, the councilman's wife, fourth from right, and her visiting relatives.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nJones, Antoinette.\nCourthouses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "51243",
+  "emuInput": {
+    "ecatalogue_key": 38035,
+    "irn": 51243,
+    "TitAccessionNo": "2001.35.38076",
+    "CreDateCreated": "January 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 9, 1954, pg. 17, reads: \"Wife Greeted - A group of Pittsburghers shared the happy hour with Mrs. Antoinette Jones, the councilman's wife, fourth from right, and her visiting relatives.\"",
+    "TitMainTitle": "Group portrait of fifteen women, including Antoinette Jones fourth from right, standing in courtroom with wood panels, American flag, and door on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Jones, Antoinette.Courthouses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22036436-7604-4a05-99fc-22409e38ba53",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58422,
+    "MulMultiMediaRef_key": 38043,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58422/sizes/51243-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38035,
+    "irn": 51243,
+    "TitAccessionNo": "2001.35.38076",
+    "CreDateCreated": "January 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 9, 1954, pg. 17, reads: \"Wife Greeted - A group of Pittsburghers shared the happy hour with Mrs. Antoinette Jones, the councilman's wife, fourth from right, and her visiting relatives.\"",
+    "TitMainTitle": "Group portrait of fifteen women, including Antoinette Jones fourth from right, standing in courtroom with wood panels, American flag, and door on right",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Jones, Antoinette.Courthouses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22036436-7604-4a05-99fc-22409e38ba53",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58422,
+    "MulMultiMediaRef_key": 38043,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58422/sizes/51243-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Antoinette Jones",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Courthouses",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Wife Greeted - A group of Pittsburghers shared the happy hour with Mrs. Antoinette Jones, the councilman's wife, fourth from right, and her visiting relatives.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 9, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Wife Greeted - A",
+        "status": "suggested"
+      },
+      {
+        "data": "Courthouses",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Antoinette",
+        "status": "suggested"
+      },
+      {
+        "data": "the happy hour",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburghers",
+        "status": "suggested"
+      },
+      {
+        "data": "Antoinette Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "January 9, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

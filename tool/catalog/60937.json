@@ -1,20 +1,358 @@
 {
-	"irn": "60937",
-	"emuInput": {
-		"ecatalogue_key": "293",
-		"irn": "60937",
-		"TitAccessionNo": "2001.35.46950",
-		"TitMainTitle": "Westinghouse Junior High School students and staff, including Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Yvonne Blyshak, Mamie Stewart, Rose Tibbets, Shirley Montgomery, and Floyd Hopewell, gathered around boxes of food for Aged Ministers and Laymen's Home",
-		"CreDateCreated": "January 1958",
-		"CreEarliestDate": "1958-01-01",
-		"CreLatestDate": "1958-01-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1958, page A8, reads: \"From Westinghouse - Mrs. Mamie Stewart (center), superintendent of the Aged Ministers and Laymen's Home, receives a gift of food from (left to right) Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Mrs. Yvonne Blyshak, a junior counsellor; Rose Tibbets, Shirley Montgomery and Floyd Hopewell, in behalf of the students of Westinghouse Junior High School and the Student Council. The gift was 32 boxes of canned foods and groceries. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nFood--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nCharities--Pennsylvania--Pittsburgh.\nWestinghouse High School (Pittsburgh, Pa.)\nStewart, Mamie.\nMazzatti, Louis.\nShoemaker, Nancy.\nTaylor, Jewel.\nBlyshak, Yvonne.\nTibbets, Rose.\nMontgomery, Shirley.\nHopewell, Floyd.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60937",
+  "emuInput": {
+    "ecatalogue_key": 46907,
+    "irn": 60937,
+    "TitAccessionNo": "2001.35.46950",
+    "CreDateCreated": "January 1958",
+    "CreEarliestDate": "1958-01-01",
+    "CreLatestDate": "1958-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1958, page A8, reads: \"From Westinghouse - Mrs. Mamie Stewart (center), superintendent of the Aged Ministers and Laymen's Home, receives a gift of food from (left to right) Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Mrs. Yvonne Blyshak, a junior counsellor; Rose Tibbets, Shirley Montgomery and Floyd Hopewell, in behalf of the students of Westinghouse Junior High School and the Student Council. The gift was 32 boxes of canned foods and groceries. - Harris Photo.\"",
+    "TitMainTitle": "Westinghouse Junior High School students and staff, including Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Yvonne Blyshak, Mamie Stewart, Rose Tibbets, Shirley Montgomery, and Floyd Hopewell, gathered around boxes of food for Aged Ministers and Laymen's Home",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Charities--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)Stewart, Mamie.Mazzatti, Louis.Shoemaker, Nancy.Taylor, Jewel.Blyshak, Yvonne.Tibbets, Rose.Montgomery, Shirley.Hopewell, Floyd.",
+    "AdmGUIDValue_tab": "64250472-c3a2-4e5f-9411-4720cf9a18bd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69263,
+    "MulMultiMediaRef_key": 46915,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69263/sizes/60937-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46907,
+    "irn": 60937,
+    "TitAccessionNo": "2001.35.46950",
+    "CreDateCreated": "January 1958",
+    "CreEarliestDate": "1958-01-01",
+    "CreLatestDate": "1958-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1958, page A8, reads: \"From Westinghouse - Mrs. Mamie Stewart (center), superintendent of the Aged Ministers and Laymen's Home, receives a gift of food from (left to right) Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Mrs. Yvonne Blyshak, a junior counsellor; Rose Tibbets, Shirley Montgomery and Floyd Hopewell, in behalf of the students of Westinghouse Junior High School and the Student Council. The gift was 32 boxes of canned foods and groceries. - Harris Photo.\"",
+    "TitMainTitle": "Westinghouse Junior High School students and staff, including Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Yvonne Blyshak, Mamie Stewart, Rose Tibbets, Shirley Montgomery, and Floyd Hopewell, gathered around boxes of food for Aged Ministers and Laymen's Home",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Charities--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)Stewart, Mamie.Mazzatti, Louis.Shoemaker, Nancy.Taylor, Jewel.Blyshak, Yvonne.Tibbets, Rose.Montgomery, Shirley.Hopewell, Floyd.",
+    "AdmGUIDValue_tab": "64250472-c3a2-4e5f-9411-4720cf9a18bd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69263,
+    "MulMultiMediaRef_key": 46915,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69263/sizes/60937-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Nancy Shoemaker",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Rose Tibbets",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie Stewart",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis Mazzatti",
+        "status": "suggested"
+      },
+      {
+        "data": "Floyd Hopewell",
+        "status": "suggested"
+      },
+      {
+        "data": "Yvonne Blyshak",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewel Taylor",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Charities",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "From Westinghouse - Mrs. Mamie Stewart (center), superintendent of the Aged Ministers and Laymen's Home, receives a gift of food from (left to right) Louis Mazzatti, Nancy Shoemaker, Jewel Taylor, Mrs. Yvonne Blyshak, a junior counsellor; Rose Tibbets, Shirley Montgomery and Floyd Hopewell, in behalf of the students of Westinghouse Junior High School and the Student Council. The gift was 32 boxes of canned foods and groceries. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "Shoemaker, Nancy",
+        "status": "suggested"
+      },
+      {
+        "data": "Hopewell, Floyd",
+        "status": "suggested"
+      },
+      {
+        "data": "Nancy Shoemaker",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Taylor, Jewel",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Mazzatti, Louis",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Charities",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewel Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": ")Stewart, Mamie",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery, Shirley",
+        "status": "suggested"
+      },
+      {
+        "data": "January 4, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Blyshak, Yvonne",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Student Council",
+        "status": "suggested"
+      },
+      {
+        "data": "the Aged Ministers and Laymen's Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie Stewart",
+        "status": "suggested"
+      },
+      {
+        "data": "A8",
+        "status": "suggested"
+      },
+      {
+        "data": "Tibbets, Rose",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

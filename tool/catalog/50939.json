@@ -1,20 +1,428 @@
 {
-	"irn": "50939",
-	"emuInput": {
-		"ecatalogue_key": "212",
-		"irn": "50939",
-		"TitAccessionNo": "2001.35.37797",
-		"TitMainTitle": "Barbara Jackson, Rosa Jones, and Thomas Woods posed with bicycles and roller skates, in Hill City, vertical format",
-		"CreDateCreated": "May 1951",
-		"CreEarliestDate": "1951-05-01",
-		"CreLatestDate": "1951-05-19",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 19, 1951, pg. 2, reads: \"'Wish We'd Win These' - Three Hill City citizens, Barbara Jackson, Rosa Jones and Thomas Woods, fondle some of the prizes which will be given to young citizens of the youth municipality in a contest to determine the outstanding Hill City citizens. A junior high school boy and girl will receive the bicycle and forty-eight other young people will receive pairs of skates.  Prizes were secured by the Hill City board of directors.  The contest closes May 22, and awards will be made May 29.  A few entry blanks are still available at Hill City, 2038 Bedford Avenue. - Harris Photo.\"",
-		"CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBicycles--Pennsylvania--Pittsburgh.\nRoller skates--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nHill City Municipal Building (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "50939",
+  "emuInput": {
+    "ecatalogue_key": 37756,
+    "irn": 50939,
+    "TitAccessionNo": "2001.35.37797",
+    "CreDateCreated": "May 1951",
+    "CreEarliestDate": "1951-05-01",
+    "CreLatestDate": "1951-05-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 19, 1951, pg. 2, reads: \"'Wish We'd Win These' - Three Hill City citizens, Barbara Jackson, Rosa Jones and Thomas Woods, fondle some of the prizes which will be given to young citizens of the youth municipality in a contest to determine the outstanding Hill City citizens. A junior high school boy and girl will receive the bicycle and forty-eight other young people will receive pairs of skates.  Prizes were secured by the Hill City board of directors.  The contest closes May 22, and awards will be made May 29.  A few entry blanks are still available at Hill City, 2038 Bedford Avenue. - Harris Photo.\"",
+    "TitMainTitle": "Barbara Jackson, Rosa Jones, and Thomas Woods posed with bicycles and roller skates, in Hill City, vertical format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Bicycles--Pennsylvania--Pittsburgh.Roller skates--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Hill City Municipal Building (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02b3567e-95e1-41a0-bccf-b23579fb9610",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58741,
+    "MulMultiMediaRef_key": 37764,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58741/sizes/50939-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 37756,
+    "irn": 50939,
+    "TitAccessionNo": "2001.35.37797",
+    "CreDateCreated": "May 1951",
+    "CreEarliestDate": "1951-05-01",
+    "CreLatestDate": "1951-05-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 19, 1951, pg. 2, reads: \"'Wish We'd Win These' - Three Hill City citizens, Barbara Jackson, Rosa Jones and Thomas Woods, fondle some of the prizes which will be given to young citizens of the youth municipality in a contest to determine the outstanding Hill City citizens. A junior high school boy and girl will receive the bicycle and forty-eight other young people will receive pairs of skates.  Prizes were secured by the Hill City board of directors.  The contest closes May 22, and awards will be made May 29.  A few entry blanks are still available at Hill City, 2038 Bedford Avenue. - Harris Photo.\"",
+    "TitMainTitle": "Barbara Jackson, Rosa Jones, and Thomas Woods posed with bicycles and roller skates, in Hill City, vertical format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Bicycles--Pennsylvania--Pittsburgh.Roller skates--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Hill City Municipal Building (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02b3567e-95e1-41a0-bccf-b23579fb9610",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 58741,
+    "MulMultiMediaRef_key": 37764,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/58741/sizes/50939-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Thomas Woods",
+        "status": "suggested"
+      },
+      {
+        "data": "Rosa Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jackson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Bicycles and bicycling",
+        "status": "suggested"
+      },
+      {
+        "data": "Bicycles",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Roller skates",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'Wish We'd Win These' - Three Hill City citizens, Barbara Jackson, Rosa Jones and Thomas Woods, fondle some of the prizes which will be given to young citizens of the youth municipality in a contest to determine the outstanding Hill City citizens. A junior high school boy and girl will receive the bicycle and forty-eight other young people will receive pairs of skates.  Prizes were secured by the Hill City board of directors.  The contest closes May 22, and awards will be made May 29.  A few entry blanks are still available at Hill City, 2038 Bedford Avenue. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 19, 1951",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "bicycle",
+        "status": "suggested"
+      },
+      {
+        "data": "wheel",
+        "status": "suggested"
+      },
+      {
+        "data": "Roller skates",
+        "status": "suggested"
+      },
+      {
+        "data": "May 19, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "Wish We'd Win These' - Three",
+        "status": "suggested"
+      },
+      {
+        "data": "May 22",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas Woods",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Municipal Building ",
+        "status": "suggested"
+      },
+      {
+        "data": "Rosa Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "2038",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Bicycles",
+        "status": "suggested"
+      },
+      {
+        "data": "May 29",
+        "status": "suggested"
+      },
+      {
+        "data": "tricycle",
+        "status": "suggested"
+      },
+      {
+        "data": "land vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "cycling",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "conveyance",
+        "status": "suggested"
+      },
+      {
+        "data": "road bicycle",
+        "status": "suggested"
+      },
+      {
+        "data": "bicycle wheel",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "sports equipment",
+        "status": "suggested"
+      },
+      {
+        "data": "bike",
+        "status": "suggested"
+      },
+      {
+        "data": "hybrid bicycle",
+        "status": "suggested"
+      }
+    ]
+  }
 }

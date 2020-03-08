@@ -1,20 +1,436 @@
 {
-	"irn": "57426",
-	"emuInput": {
-		"ecatalogue_key": "259",
-		"irn": "57426",
-		"TitAccessionNo": "2001.35.43942",
-		"TitMainTitle": "Bertha Gloster, Ralph Gloster, and Gladys Mason standing in front of polling place with Silas Knox for Constable poster, during 1955 primary elections, Bedford Dwellings",
-		"CreDateCreated": "May 1955",
-		"CreEarliestDate": "1955-05-01",
-		"CreLatestDate": "1955-05-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 21, 1955, pg. 17 reads: \"Not Happy Nor Worried - Ralph Gloster listens to chatter between his wife, Bertha, on the left, and Gladys Mason, on the right, as they discuss the turnout in the first district on Tuesday. Gloster, candidate for alderman, pledged to carry Thomas J. Smith, which he did, and was contented with a token vote for himself.  His campaigning for the day was limited to his own district-and his promise.  -Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nPolling places--Pennsylvania--Pittsburgh.\nPolitical campaigns--Pennsylvania--Pittsburgh.\nGloster, Ralph.\nBedford Dwellings (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "57426",
+  "emuInput": {
+    "ecatalogue_key": 43900,
+    "irn": 57426,
+    "TitAccessionNo": "2001.35.43942",
+    "CreDateCreated": "May 1955",
+    "CreEarliestDate": "1955-05-01",
+    "CreLatestDate": "1955-05-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 21, 1955, pg. 17 reads: \"Not Happy Nor Worried - Ralph Gloster listens to chatter between his wife, Bertha, on the left, and Gladys Mason, on the right, as they discuss the turnout in the first district on Tuesday. Gloster, candidate for alderman, pledged to carry Thomas J. Smith, which he did, and was contented with a token vote for himself.  His campaigning for the day was limited to his own district-and his promise.  -Harris Photo.\"",
+    "TitMainTitle": "Bertha Gloster, Ralph Gloster, and Gladys Mason standing in front of polling place with Silas Knox for Constable poster, during 1955 primary elections, Bedford Dwellings",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Polling places--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Gloster, Ralph.Bedford Dwellings (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01ea2e76-7047-4a77-8d0f-48003c8fa319",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65628,
+    "MulMultiMediaRef_key": 43908,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65628/sizes/57426-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43900,
+    "irn": 57426,
+    "TitAccessionNo": "2001.35.43942",
+    "CreDateCreated": "May 1955",
+    "CreEarliestDate": "1955-05-01",
+    "CreLatestDate": "1955-05-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 21, 1955, pg. 17 reads: \"Not Happy Nor Worried - Ralph Gloster listens to chatter between his wife, Bertha, on the left, and Gladys Mason, on the right, as they discuss the turnout in the first district on Tuesday. Gloster, candidate for alderman, pledged to carry Thomas J. Smith, which he did, and was contented with a token vote for himself.  His campaigning for the day was limited to his own district-and his promise.  -Harris Photo.\"",
+    "TitMainTitle": "Bertha Gloster, Ralph Gloster, and Gladys Mason standing in front of polling place with Silas Knox for Constable poster, during 1955 primary elections, Bedford Dwellings",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Polling places--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Gloster, Ralph.Bedford Dwellings (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01ea2e76-7047-4a77-8d0f-48003c8fa319",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65628,
+    "MulMultiMediaRef_key": 43908,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65628/sizes/57426-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gladys Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloster",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha Gloster",
+        "status": "suggested"
+      },
+      {
+        "data": "Silas Knox",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Gloster",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Polling places",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Not Happy Nor Worried - Ralph Gloster listens to chatter between his wife, Bertha, on the left, and Gladys Mason, on the right, as they discuss the turnout in the first district on Tuesday. Gloster, candidate for alderman, pledged to carry Thomas J. Smith, which he did, and was contented with a token vote for himself.  His campaigning for the day was limited to his own district-and his promise.  -Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 21, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "May 21, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Not Happy",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Dwellings",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloster, Ralph",
+        "status": "suggested"
+      },
+      {
+        "data": "Polling places",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloster",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Dwellings ",
+        "status": "suggested"
+      },
+      {
+        "data": "the day",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

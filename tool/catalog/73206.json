@@ -1,20 +1,352 @@
 {
-	"irn": "73206",
-	"emuInput": {
-		"ecatalogue_key": "400",
-		"irn": "73206",
-		"TitAccessionNo": "2001.35.57702",
-		"TitMainTitle": "Jacqueline Farrell and Michele Jones wearing \"Bill Scranton\" sashes, standing on either side of Robert Mosely or Mosley, in front of tiled wall at Republican rally at Civic Arena",
-		"CreDateCreated": "1962",
-		"CreEarliestDate": "1962",
-		"CreLatestDate": "1962",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 3, 1962, pg. 18, reads: \"Ike Drew the People, Their Attention, Cheers - Main speaker at the GOP rally last week was former President Eisenhower. For the occasion, a gala program was planned.  Among participants were, left photo, Robert Mosley, who sang the \"Star Spangled Banner\" and led the audience in Pledge of Allegiance to the Flag.  He is flanked by two of the \"Beauties for Scranton,\" Jacqueline Farrell, left and Michele Jones... - Harris Photos.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nRibbons--Pennsylvania--Pittsburgh.\nAdvertising, Political--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "73206",
+  "emuInput": {
+    "ecatalogue_key": 57659,
+    "irn": 73206,
+    "TitAccessionNo": "2001.35.57702",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 3, 1962, pg. 18, reads: \"Ike Drew the People, Their Attention, Cheers - Main speaker at the GOP rally last week was former President Eisenhower. For the occasion, a gala program was planned.  Among participants were, left photo, Robert Mosley, who sang the \"Star Spangled Banner\" and led the audience in Pledge of Allegiance to the Flag.  He is flanked by two of the \"Beauties for Scranton,\" Jacqueline Farrell, left and Michele Jones... - Harris Photos.\"",
+    "TitMainTitle": "Jacqueline Farrell and Michele Jones wearing \"Bill Scranton\" sashes, standing on either side of Robert Mosely or Mosley, in front of tiled wall at Republican rally at Civic Arena",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Ribbons--Pennsylvania--Pittsburgh.Advertising, Political--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "59867805-d0aa-4398-bc59-170040e46449",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93519,
+    "MulMultiMediaRef_key": 57668,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93519/sizes/73206-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57659,
+    "irn": 73206,
+    "TitAccessionNo": "2001.35.57702",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 3, 1962, pg. 18, reads: \"Ike Drew the People, Their Attention, Cheers - Main speaker at the GOP rally last week was former President Eisenhower. For the occasion, a gala program was planned.  Among participants were, left photo, Robert Mosley, who sang the \"Star Spangled Banner\" and led the audience in Pledge of Allegiance to the Flag.  He is flanked by two of the \"Beauties for Scranton,\" Jacqueline Farrell, left and Michele Jones... - Harris Photos.\"",
+    "TitMainTitle": "Jacqueline Farrell and Michele Jones wearing \"Bill Scranton\" sashes, standing on either side of Robert Mosely or Mosley, in front of tiled wall at Republican rally at Civic Arena",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Ribbons--Pennsylvania--Pittsburgh.Advertising, Political--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "59867805-d0aa-4398-bc59-170040e46449",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93519,
+    "MulMultiMediaRef_key": 57668,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93519/sizes/73206-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Michele Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Farrell",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Mosley",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Mosely",
+        "status": "suggested"
+      },
+      {
+        "data": "Ike Drew",
+        "status": "suggested"
+      },
+      {
+        "data": "Eisenhower",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Lagrange, Francis",
+        "status": "suggested"
+      },
+      {
+        "data": "G. O. P.",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising, Political",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Ribbons",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Ike Drew the People, Their Attention, Cheers - Main speaker at the GOP rally last week was former President Eisenhower. For the occasion, a gala program was planned.  Among participants were, left photo, Robert Mosley, who sang the \"Star Spangled Banner\" and led the audience in Pledge of Allegiance to the Flag.  He is flanked by two of the \"Beauties for Scranton,\" Jacqueline Farrell, left and Michele Jones... - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 3, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Star Spangled Banner",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pledge of Allegiance",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Flag",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising, Political",
+        "status": "suggested"
+      },
+      {
+        "data": "Michele Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Mosley",
+        "status": "suggested"
+      },
+      {
+        "data": "the \"Beauties for Scranton",
+        "status": "suggested"
+      },
+      {
+        "data": "Ribbons",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "November 3, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill Scranton",
+        "status": "suggested"
+      },
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "GOP",
+        "status": "suggested"
+      },
+      {
+        "data": "Eisenhower",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Mosley",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Farrell",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Mosely",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

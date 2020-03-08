@@ -1,20 +1,320 @@
 {
-	"irn": "55056",
-	"emuInput": {
-		"ecatalogue_key": "236",
-		"irn": "55056",
-		"TitAccessionNo": "2001.35.41770",
-		"TitMainTitle": "Comedian Timmie Rogers and Richard Shumann, holding Pittsburgh Courier newspaper, standing in Pittsburgh Courier office",
-		"CreDateCreated": "April 1953",
-		"CreEarliestDate": "1953-04-01",
-		"CreLatestDate": "1953-04-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 2, 1953, pg. 22 reads: \" 'I'd Love Me, If...!' - \"I'd love me if I would pick up next week's edition of the Courier and see my face plastered from coast to coast on its theatrical pages,\" top-notch comedian Timmie Rogers tells Richard Shumann of the Pittsburgh office of the Capital Records Company, when the pair visited Managing Editor William G Nunn at the Courier's main plant in Pittsburgh last Wednesday. The trip was made to help promote Timmie Rogers' new record called \"I'd Love Me,\" and its flip-side, also by Rogers, entitled \"Saturday Night.\" - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nNewspapers--Pennsylvania--Pittsburgh.\nPhotographs--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55056",
+  "emuInput": {
+    "ecatalogue_key": 41728,
+    "irn": 55056,
+    "TitAccessionNo": "2001.35.41770",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 2, 1953, pg. 22 reads: \" 'I'd Love Me, If...!' - \"I'd love me if I would pick up next week's edition of the Courier and see my face plastered from coast to coast on its theatrical pages,\" top-notch comedian Timmie Rogers tells Richard Shumann of the Pittsburgh office of the Capital Records Company, when the pair visited Managing Editor William G Nunn at the Courier's main plant in Pittsburgh last Wednesday. The trip was made to help promote Timmie Rogers' new record called \"I'd Love Me,\" and its flip-side, also by Rogers, entitled \"Saturday Night.\" - Harris Photo.\"",
+    "TitMainTitle": "Comedian Timmie Rogers and Richard Shumann, holding Pittsburgh Courier newspaper, standing in Pittsburgh Courier office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00073e65-cf02-4cb4-a7ba-a0ea8345f437",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62603,
+    "MulMultiMediaRef_key": 41736,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62603/sizes/55056-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41728,
+    "irn": 55056,
+    "TitAccessionNo": "2001.35.41770",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 2, 1953, pg. 22 reads: \" 'I'd Love Me, If...!' - \"I'd love me if I would pick up next week's edition of the Courier and see my face plastered from coast to coast on its theatrical pages,\" top-notch comedian Timmie Rogers tells Richard Shumann of the Pittsburgh office of the Capital Records Company, when the pair visited Managing Editor William G Nunn at the Courier's main plant in Pittsburgh last Wednesday. The trip was made to help promote Timmie Rogers' new record called \"I'd Love Me,\" and its flip-side, also by Rogers, entitled \"Saturday Night.\" - Harris Photo.\"",
+    "TitMainTitle": "Comedian Timmie Rogers and Richard Shumann, holding Pittsburgh Courier newspaper, standing in Pittsburgh Courier office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Newspapers--Pennsylvania--Pittsburgh.Photographs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00073e65-cf02-4cb4-a7ba-a0ea8345f437",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62603,
+    "MulMultiMediaRef_key": 41736,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62603/sizes/55056-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "William G Nunn",
+        "status": "suggested"
+      },
+      {
+        "data": "Timmie Rogers",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Shumann",
+        "status": "suggested"
+      },
+      {
+        "data": "Timmie Rogers '",
+        "status": "suggested"
+      },
+      {
+        "data": "Rogers",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Photographs",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Newspapers",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "22",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " 'I'd Love Me, If...!' - \"I'd love me if I would pick up next week's edition of the Courier and see my face plastered from coast to coast on its theatrical pages,\" top-notch comedian Timmie Rogers tells Richard Shumann of the Pittsburgh office of the Capital Records Company, when the pair visited Managing Editor William G Nunn at the Courier's main plant in Pittsburgh last Wednesday. The trip was made to help promote Timmie Rogers' new record called \"I'd Love Me,\" and its flip-side, also by Rogers, entitled \"Saturday Night.\" - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 2, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Timmie Rogers '",
+        "status": "suggested"
+      },
+      {
+        "data": "Timmie Rogers",
+        "status": "suggested"
+      },
+      {
+        "data": "Photographs",
+        "status": "suggested"
+      },
+      {
+        "data": "last Wednesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Newspapers",
+        "status": "suggested"
+      },
+      {
+        "data": "'I'd Love Me",
+        "status": "suggested"
+      },
+      {
+        "data": "I'd Love Me",
+        "status": "suggested"
+      },
+      {
+        "data": "Rogers",
+        "status": "suggested"
+      },
+      {
+        "data": "May 2, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday Night",
+        "status": "suggested"
+      },
+      {
+        "data": "the Capital Records Company",
+        "status": "suggested"
+      },
+      {
+        "data": "next week's",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      }
+    ]
+  }
 }

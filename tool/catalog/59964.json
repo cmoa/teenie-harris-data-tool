@@ -1,20 +1,395 @@
 {
-	"irn": "59964",
-	"emuInput": {
-		"ecatalogue_key": "283",
-		"irn": "59964",
-		"TitAccessionNo": "2001.35.45955",
-		"TitMainTitle": "Children, including boy wearing striped cap and jacket, and two toned shoes, descending steps outside of Bethany Baptist Church on Easter Sunday, Tioga Street",
-		"CreDateCreated": "April 21, 1957",
-		"CreEarliestDate": "1957-04-21",
-		"CreLatestDate": "1957-04-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, pg. 3 reads: Cut as Buttons - They surely are, unless you can't appreciate the latest in Easter wearing apparel for members of the younger set. Dig my man in the striped blazer and matching cap and sport shoes.  Real crazy, eh?  The group is leaving Bethany Baptist Church on Tioga St., Easter Sunday morning.\"",
-		"CatSubject_tab": "Bethany Baptist Church (Pittsburgh, Pa.)\nChildren--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nTioga Street (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59964",
+  "emuInput": {
+    "ecatalogue_key": 45912,
+    "irn": 59964,
+    "TitAccessionNo": "2001.35.45955",
+    "CreDateCreated": "April 21, 1957",
+    "CreEarliestDate": "1957-04-21",
+    "CreLatestDate": "1957-04-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, pg. 3 reads: Cut as Buttons - They surely are, unless you can't appreciate the latest in Easter wearing apparel for members of the younger set. Dig my man in the striped blazer and matching cap and sport shoes.  Real crazy, eh?  The group is leaving Bethany Baptist Church on Tioga St., Easter Sunday morning.\"",
+    "TitMainTitle": "Children, including boy wearing striped cap and jacket, and two toned shoes, descending steps outside of Bethany Baptist Church on Easter Sunday, Tioga Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bethany Baptist Church (Pittsburgh, Pa.)Children--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Tioga Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "009b5ac7-70b3-4763-916f-aa8391009e8c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67933,
+    "MulMultiMediaRef_key": 45920,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67933/sizes/59964-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45912,
+    "irn": 59964,
+    "TitAccessionNo": "2001.35.45955",
+    "CreDateCreated": "April 21, 1957",
+    "CreEarliestDate": "1957-04-21",
+    "CreLatestDate": "1957-04-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, pg. 3 reads: Cut as Buttons - They surely are, unless you can't appreciate the latest in Easter wearing apparel for members of the younger set. Dig my man in the striped blazer and matching cap and sport shoes.  Real crazy, eh?  The group is leaving Bethany Baptist Church on Tioga St., Easter Sunday morning.\"",
+    "TitMainTitle": "Children, including boy wearing striped cap and jacket, and two toned shoes, descending steps outside of Bethany Baptist Church on Easter Sunday, Tioga Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bethany Baptist Church (Pittsburgh, Pa.)Children--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Tioga Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "009b5ac7-70b3-4763-916f-aa8391009e8c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67933,
+    "MulMultiMediaRef_key": 45920,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67933/sizes/59964-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Cut",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Tioga",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Tioga",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Tioga",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Tioga",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Tioga Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "April 27, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Tioga Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Cut",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": ")Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "April 27, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethany Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethany Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "style",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

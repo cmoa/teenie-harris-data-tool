@@ -1,20 +1,484 @@
 {
-	"irn": "61352",
-	"emuInput": {
-		"ecatalogue_key": "299",
-		"irn": "61352",
-		"TitAccessionNo": "2001.35.47320",
-		"TitMainTitle": "Crowd gathered around M. Lifsher & Son booth with woman wearing rabbit costume handing out items, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 19-21, 1957",
-		"CreEarliestDate": "1957-03-19",
-		"CreLatestDate": "1957-03-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 1 reads: \"2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"\nCutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 17 reads: \"5. The M. Lifsher and Son booth showing Saf-T-Tilt window won by Mrs. Fannie Nelson, 2166 Elmore Sq. James (Jim) H. Bloom, left, and representatives made the award\"",
-		"CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nCostumes--Pennsylvania--Pittsburgh.\nExhibit booths--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61352",
+  "emuInput": {
+    "ecatalogue_key": 47277,
+    "irn": 61352,
+    "TitAccessionNo": "2001.35.47320",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 1 reads: \"2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 17 reads: \"5. The M. Lifsher and Son booth showing Saf-T-Tilt window won by Mrs. Fannie Nelson, 2166 Elmore Sq. James (Jim) H. Bloom, left, and representatives made the award\"",
+    "TitMainTitle": "Crowd gathered around M. Lifsher & Son booth with woman wearing rabbit costume handing out items, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Exhibit booths--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "69578685-898e-4e81-a6ff-9b1339e18ac7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69537,
+    "MulMultiMediaRef_key": 47285,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69537/sizes/61352-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47277,
+    "irn": 61352,
+    "TitAccessionNo": "2001.35.47320",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 1 reads: \"2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 17 reads: \"5. The M. Lifsher and Son booth showing Saf-T-Tilt window won by Mrs. Fannie Nelson, 2166 Elmore Sq. James (Jim) H. Bloom, left, and representatives made the award\"",
+    "TitMainTitle": "Crowd gathered around M. Lifsher & Son booth with woman wearing rabbit costume handing out items, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Exhibit booths--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "69578685-898e-4e81-a6ff-9b1339e18ac7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69537,
+    "MulMultiMediaRef_key": 47285,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69537/sizes/61352-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "The M. Lifsher",
+        "status": "suggested"
+      },
+      {
+        "data": "H. Bloom",
+        "status": "suggested"
+      },
+      {
+        "data": "Son",
+        "status": "suggested"
+      },
+      {
+        "data": "Saf - T - Tilt",
+        "status": "suggested"
+      },
+      {
+        "data": "Jim",
+        "status": "suggested"
+      },
+      {
+        "data": "Fannie Nelson",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Glick",
+        "status": "suggested"
+      },
+      {
+        "data": "M. Lifsher & Son",
+        "status": "suggested"
+      },
+      {
+        "data": "James",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Exhibit booths",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "New Diamond",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Sq",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "New Diamond",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Sq",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "New Diamond",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Sq",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "New Diamond",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Sq",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier newspaper, April 6, 1957, pg. 1 reads: \"2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"Cutline of related image published in Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      },
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 17 reads: \"5. The M. Lifsher and Son booth showing Saf-T-Tilt window won by Mrs. Fannie Nelson, 2166 Elmore Sq. James (Jim) H. Bloom, left, and representatives made the award",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 6, 1957, pg. 1 reads: \"2,000 at Opening Night - A jam-packed crowd of 2,000 persons attended the opening night of The Courier Home Service Fair at Syria Mosque, Tuesday night. Here is shown part of the throng flocked around the New Diamond market booth to receive jars of spaghetti given away by manager Charles Glick to the first 300 women to visit his booth.  The fair, one of the best ever presented in Pittsburgh, will close tonight (Thursday, March 21).  It will  be the biggest prize night of the fair and another capacity crowd is expected. - Harris photo.\"Cutline of related image published in Pittsburgh Courier newspaper, April 6, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "Jim",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "tonight",
+        "status": "suggested"
+      },
+      {
+        "data": "1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Saf - T - Tilt",
+        "status": "suggested"
+      },
+      {
+        "data": "New Diamond",
+        "status": "suggested"
+      },
+      {
+        "data": "Exhibit booths",
+        "status": "suggested"
+      },
+      {
+        "data": "the opening night",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Costumes",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "April 6, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "The Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Opening Night - A",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday, March 21",
+        "status": "suggested"
+      },
+      {
+        "data": "H. Bloom",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Son",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "James",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Sq",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "shop",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,352 @@
 {
-	"irn": "37063",
-	"emuInput": {
-		"ecatalogue_key": "177",
-		"irn": "37063",
-		"TitAccessionNo": "2001.35.24649",
-		"TitMainTitle": "Groom Jesse T. Henderson Jr. and bride Amanda Bussey Henderson seated in automobile",
-		"CreDateCreated": "September 1, 1951",
-		"CreEarliestDate": "1951-09-01",
-		"CreLatestDate": "1951-09-01",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "37063",
+  "emuInput": {
+    "ecatalogue_key": 24617,
+    "irn": 37063,
+    "TitAccessionNo": "2001.35.24649",
+    "CreDateCreated": "September 1, 1951",
+    "CreEarliestDate": "1951-09-01",
+    "CreLatestDate": "1951-09-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
+    "TitMainTitle": "Groom Jesse T. Henderson Jr. and bride Amanda Bussey Henderson seated in automobile",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42673950-2f70-484a-961d-ad67018f0ad7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43191,
+    "MulMultiMediaRef_key": 24625,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43191/sizes/37063-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 24617,
+    "irn": 37063,
+    "TitAccessionNo": "2001.35.24649",
+    "CreDateCreated": "September 1, 1951",
+    "CreEarliestDate": "1951-09-01",
+    "CreLatestDate": "1951-09-01",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 15, 1951, pg. 10 reads: \" Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.\"",
+    "TitMainTitle": "Groom Jesse T. Henderson Jr. and bride Amanda Bussey Henderson seated in automobile",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42673950-2f70-484a-961d-ad67018f0ad7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43191,
+    "MulMultiMediaRef_key": 24625,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43191/sizes/37063-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jesse T. Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Amanda Bussey Henderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Groom Jesse T. Henderson Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "James Bussey",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Amanda Bussey",
+        "status": "suggested"
+      },
+      {
+        "data": "Henderson ] Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Jesse T. Hendersosn",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Amsterdam",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " Mrs. Jesse T. Henderson - Harris Photo.\" Portion of accompanying article reads: \"Mary Amanda Bussey, daughter of Mr. and Mrs. James Bussey of Singer Place, was married on Sept. 1 at Trinity AME Church to Jesse T. Hendersosn [Henderson] Jr., son of Mr. and Mrs. Jesse T. Henderson, Amsterdam, N.Y.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 15, 1951",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "September 15, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Henderson ] Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Sept. 1",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Singer Place",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "laughter",
+        "status": "suggested"
+      },
+      {
+        "data": "socialite",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

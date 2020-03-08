@@ -1,20 +1,379 @@
 {
-	"irn": "55824",
-	"emuInput": {
-		"ecatalogue_key": "242",
-		"irn": "55824",
-		"TitAccessionNo": "2001.35.42492",
-		"TitMainTitle": "Group of young men, and women, including one wearing eyeglasses, light colored short sleeved round scoop neckline dress, and small button earrings, seated at tables in Centre Avenue YMCA for Youth Conference",
-		"CreDateCreated": "April 1956",
-		"CreEarliestDate": "1956-04-01",
-		"CreLatestDate": "1956-04-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 28, 1956, pg. A29 reads: \"Listen Attentively - Delegates to the Youth Conference held at the Centre Avenue YMCA last week-end listen attentively as the Rev. Virgil D. Moccia, of Bidwell Presbyterian Church, speaks to them. Over 100 young people attended. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nBanquets--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.\nYoung Men's Christian Association (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55824",
+  "emuInput": {
+    "ecatalogue_key": 42450,
+    "irn": 55824,
+    "TitAccessionNo": "2001.35.42492",
+    "CreDateCreated": "April 1956",
+    "CreEarliestDate": "1956-04-01",
+    "CreLatestDate": "1956-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 28, 1956, pg. A29 reads: \"Listen Attentively - Delegates to the Youth Conference held at the Centre Avenue YMCA last week-end listen attentively as the Rev. Virgil D. Moccia, of Bidwell Presbyterian Church, speaks to them. Over 100 young people attended. - Harris Photo.\"",
+    "TitMainTitle": "Group of young men, and women, including one wearing eyeglasses, light colored short sleeved round scoop neckline dress, and small button earrings, seated at tables in Centre Avenue YMCA for Youth Conference",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "41737031-df92-4fbe-accf-515d05efa554",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63658,
+    "MulMultiMediaRef_key": 42458,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63658/sizes/55824-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42450,
+    "irn": 55824,
+    "TitAccessionNo": "2001.35.42492",
+    "CreDateCreated": "April 1956",
+    "CreEarliestDate": "1956-04-01",
+    "CreLatestDate": "1956-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 28, 1956, pg. A29 reads: \"Listen Attentively - Delegates to the Youth Conference held at the Centre Avenue YMCA last week-end listen attentively as the Rev. Virgil D. Moccia, of Bidwell Presbyterian Church, speaks to them. Over 100 young people attended. - Harris Photo.\"",
+    "TitMainTitle": "Group of young men, and women, including one wearing eyeglasses, light colored short sleeved round scoop neckline dress, and small button earrings, seated at tables in Centre Avenue YMCA for Youth Conference",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Banquets--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "41737031-df92-4fbe-accf-515d05efa554",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63658,
+    "MulMultiMediaRef_key": 42458,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63658/sizes/55824-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Virgil D. Moccia",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Listen Attentively - Delegates to the Youth Conference held at the Centre Avenue YMCA last week-end listen attentively as the Rev. Virgil D. Moccia, of Bidwell Presbyterian Church, speaks to them. Over 100 young people attended. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 28, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "the Youth Conference",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bidwell Presbyterian Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "April 28, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Listen Attentively - Delegates",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Men's Christian Association ",
+        "status": "suggested"
+      },
+      {
+        "data": "last week-end",
+        "status": "suggested"
+      },
+      {
+        "data": "YMCA",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,351 @@
 {
-	"irn": "72365",
-	"emuInput": {
-		"ecatalogue_key": "393",
-		"irn": "72365",
-		"TitAccessionNo": "2001.35.57094",
-		"TitMainTitle": "Hazel Garland interviewing Mrs. Ellis Blockson, president of the City-County Federation of Negro Women's Clubs, in Pittsburgh Courier newspaper offices",
-		"CreDateCreated": "March 1962",
-		"CreEarliestDate": "1962-03-01",
-		"CreLatestDate": "1962-03-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1962, pg. A14 reads: \"Mapping Plans - Mrs. Ellis Blockson, right, president of the City-County Federation of Negro Women's Clubs, discusses with the Courier's Hazel Garland plans for publicizing the Public Services Institute, which the federation is co-sponsoring with the Carnegie Library and 17 other women's organizations. The institute is slated for March 29, beginning at 10 A.M., at Carnegie Hall in Oakland. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nOffices--Pennsylvania--Pittsburgh.\nDesks--Pennsylvania--Pittsburgh.\nGarland, Hazel.\nPittsburgh Courier Newspaper (Pittsburgh, Pa.)\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72365",
+  "emuInput": {
+    "ecatalogue_key": 57051,
+    "irn": 72365,
+    "TitAccessionNo": "2001.35.57094",
+    "CreDateCreated": "March 1962",
+    "CreEarliestDate": "1962-03-01",
+    "CreLatestDate": "1962-03-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1962, pg. A14 reads: \"Mapping Plans - Mrs. Ellis Blockson, right, president of the City-County Federation of Negro Women's Clubs, discusses with the Courier's Hazel Garland plans for publicizing the Public Services Institute, which the federation is co-sponsoring with the Carnegie Library and 17 other women's organizations. The institute is slated for March 29, beginning at 10 A.M., at Carnegie Hall in Oakland. - Harris Photo.\"",
+    "TitMainTitle": "Hazel Garland interviewing Mrs. Ellis Blockson, president of the City-County Federation of Negro Women's Clubs, in Pittsburgh Courier newspaper offices",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Garland, Hazel.Pittsburgh Courier Newspaper (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "15542596-3005-44d7-be90-032528f676c3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91294,
+    "MulMultiMediaRef_key": 57060,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91294/sizes/72365-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57051,
+    "irn": 72365,
+    "TitAccessionNo": "2001.35.57094",
+    "CreDateCreated": "March 1962",
+    "CreEarliestDate": "1962-03-01",
+    "CreLatestDate": "1962-03-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1962, pg. A14 reads: \"Mapping Plans - Mrs. Ellis Blockson, right, president of the City-County Federation of Negro Women's Clubs, discusses with the Courier's Hazel Garland plans for publicizing the Public Services Institute, which the federation is co-sponsoring with the Carnegie Library and 17 other women's organizations. The institute is slated for March 29, beginning at 10 A.M., at Carnegie Hall in Oakland. - Harris Photo.\"",
+    "TitMainTitle": "Hazel Garland interviewing Mrs. Ellis Blockson, president of the City-County Federation of Negro Women's Clubs, in Pittsburgh Courier newspaper offices",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Garland, Hazel.Pittsburgh Courier Newspaper (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "15542596-3005-44d7-be90-032528f676c3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 91294,
+    "MulMultiMediaRef_key": 57060,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/91294/sizes/72365-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Hazel Garland",
+        "status": "suggested"
+      },
+      {
+        "data": "Ellis Blockson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Desks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the City-County Federation of Negro Women's Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the City-County Federation of Negro Women's Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the City-County Federation of Negro Women's Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the City-County Federation of Negro Women's Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Mapping Plans - Mrs. Ellis Blockson, right, president of the City-County Federation of Negro Women's Clubs, discusses with the Courier's Hazel Garland plans for publicizing the Public Services Institute, which the federation is co-sponsoring with the Carnegie Library and 17 other women's organizations. The institute is slated for March 29, beginning at 10 A.M., at Carnegie Hall in Oakland. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 24, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "March 24, 1962,",
+        "status": "suggested"
+      },
+      {
+        "data": "March 29",
+        "status": "suggested"
+      },
+      {
+        "data": "Hazel Garland",
+        "status": "suggested"
+      },
+      {
+        "data": "the Public Services Institute",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Mapping Plans",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "the Carnegie Library",
+        "status": "suggested"
+      },
+      {
+        "data": "Garland, Hazel",
+        "status": "suggested"
+      },
+      {
+        "data": "Desks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "10 A.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Newspaper ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "technology",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "electronic device",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

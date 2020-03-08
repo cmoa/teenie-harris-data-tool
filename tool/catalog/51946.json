@@ -1,20 +1,360 @@
 {
-	"irn": "51946",
-	"emuInput": {
-		"ecatalogue_key": "218",
-		"irn": "51946",
-		"TitAccessionNo": "2001.35.38718",
-		"TitMainTitle": "Group portrait of four ministers wearing dark vestments, including Reverend Allen on right, posed in Ebenezer AME Church during AME General Conference, Detroit, another version",
-		"CreDateCreated": "May 1940",
-		"CreEarliestDate": "1940-05-01",
-		"CreLatestDate": "1940-05-11",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 1 reads: \" 'In God's Name Have Mercy!' Shouts Vernon As Conference Blasts Hopes - Delegates Deaf to Eloquent Plea of Former Leader in Church - Episcopal Committee Firm for Retirement, but Refuses to Pass on Character. - FLASH! No Appeal for Vernon! - Detroit, Mich., May 9 - In a heated battle on the Conference...Monday morning. Bishop W.T. Vernon lost his last chance to appeal the decision of the body made Saturday when his reinstatement...active bishop was refused.  The vote to reconsider was...against.\"  Portion of accompanying article by Julia B. Jones reads: \"Detroit, May 9 - A torrent of \"ayes\" and \"Nays\" burst forth here Saturday morning when the all-powerful Episcopal Committee, in its first report to the Assembly, recommended that Bishop W.T. Vernon of Kansas remain...the retired list...\"",
-		"CatSubject_tab": "Men--Michigan--Detroit.\nChurches--Michigan--Detroit.\nGroup portraits--Michigan--Detroit.\nWindows--Michigan--Detroit.\nClergy--Michigan--Detroit.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Michigan",
-		"CreDistrict_tab": "Wayne county",
-		"CreCity_tab": "Detroit",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "51946",
+  "emuInput": {
+    "ecatalogue_key": 38677,
+    "irn": 51946,
+    "TitAccessionNo": "2001.35.38718",
+    "CreDateCreated": "May 1940",
+    "CreEarliestDate": "1940-05-01",
+    "CreLatestDate": "1940-05-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 1 reads: \" 'In God's Name Have Mercy!' Shouts Vernon As Conference Blasts Hopes - Delegates Deaf to Eloquent Plea of Former Leader in Church - Episcopal Committee Firm for Retirement, but Refuses to Pass on Character. - FLASH! No Appeal for Vernon! - Detroit, Mich., May 9 - In a heated battle on the Conference...Monday morning. Bishop W.T. Vernon lost his last chance to appeal the decision of the body made Saturday when his reinstatement...active bishop was refused.  The vote to reconsider was...against.\"  Portion of accompanying article by Julia B. Jones reads: \"Detroit, May 9 - A torrent of \"ayes\" and \"Nays\" burst forth here Saturday morning when the all-powerful Episcopal Committee, in its first report to the Assembly, recommended that Bishop W.T. Vernon of Kansas remain...the retired list...\"",
+    "TitMainTitle": "Group portrait of four ministers wearing dark vestments, including Reverend Allen on right, posed in Ebenezer AME Church during AME General Conference, Detroit, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Michigan",
+    "CreDistrict_tab": "Wayne county",
+    "CreCity_tab": "Detroit",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Michigan--Detroit.Churches--Michigan--Detroit.Group portraits--Michigan--Detroit.Windows--Michigan--Detroit.Clergy--Michigan--Detroit.",
+    "AdmGUIDValue_tab": "89078894-2a22-4f2b-bdc6-08bd10c6970a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59321,
+    "MulMultiMediaRef_key": 38685,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59321/sizes/51946-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38677,
+    "irn": 51946,
+    "TitAccessionNo": "2001.35.38718",
+    "CreDateCreated": "May 1940",
+    "CreEarliestDate": "1940-05-01",
+    "CreLatestDate": "1940-05-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 1 reads: \" 'In God's Name Have Mercy!' Shouts Vernon As Conference Blasts Hopes - Delegates Deaf to Eloquent Plea of Former Leader in Church - Episcopal Committee Firm for Retirement, but Refuses to Pass on Character. - FLASH! No Appeal for Vernon! - Detroit, Mich., May 9 - In a heated battle on the Conference...Monday morning. Bishop W.T. Vernon lost his last chance to appeal the decision of the body made Saturday when his reinstatement...active bishop was refused.  The vote to reconsider was...against.\"  Portion of accompanying article by Julia B. Jones reads: \"Detroit, May 9 - A torrent of \"ayes\" and \"Nays\" burst forth here Saturday morning when the all-powerful Episcopal Committee, in its first report to the Assembly, recommended that Bishop W.T. Vernon of Kansas remain...the retired list...\"",
+    "TitMainTitle": "Group portrait of four ministers wearing dark vestments, including Reverend Allen on right, posed in Ebenezer AME Church during AME General Conference, Detroit, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Michigan",
+    "CreDistrict_tab": "Wayne county",
+    "CreCity_tab": "Detroit",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Michigan--Detroit.Churches--Michigan--Detroit.Group portraits--Michigan--Detroit.Windows--Michigan--Detroit.Clergy--Michigan--Detroit.",
+    "AdmGUIDValue_tab": "89078894-2a22-4f2b-bdc6-08bd10c6970a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59321,
+    "MulMultiMediaRef_key": 38685,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59321/sizes/51946-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "W.T. Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia B. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Allen",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Mich.",
+        "status": "suggested"
+      },
+      {
+        "data": "W.T. Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Kansas",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Mich.",
+        "status": "suggested"
+      },
+      {
+        "data": "W.T. Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Kansas",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Mich.",
+        "status": "suggested"
+      },
+      {
+        "data": "W.T. Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Kansas",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Mich.",
+        "status": "suggested"
+      },
+      {
+        "data": "W.T. Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Kansas",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " 'In God's Name Have Mercy!' Shouts Vernon As Conference Blasts Hopes - Delegates Deaf to Eloquent Plea of Former Leader in Church - Episcopal Committee Firm for Retirement, but Refuses to Pass on Character. - FLASH! No Appeal for Vernon! - Detroit, Mich., May 9 - In a heated battle on the Conference...Monday morning. Bishop W.T. Vernon lost his last chance to appeal the decision of the body made Saturday when his reinstatement...active bishop was refused.  The vote to reconsider was...against.\"  Portion of accompanying article by Julia B. Jones reads: \"Detroit, May 9 - A torrent of \"ayes\" and \"Nays\" burst forth here Saturday morning when the all-powerful Episcopal Committee, in its first report to the Assembly, recommended that Bishop W.T. Vernon of Kansas remain...the retired list...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "Philadelphia edition, May 11, 1940",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Assembly",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "May 9",
+        "status": "suggested"
+      },
+      {
+        "data": "Episcopal Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Ebenezer AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "'In God's Name Have Mercy!'",
+        "status": "suggested"
+      },
+      {
+        "data": "AME General Conference",
+        "status": "suggested"
+      },
+      {
+        "data": "May 9 - A",
+        "status": "suggested"
+      },
+      {
+        "data": "Allen",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Church - Episcopal Committee Firm for Retirement",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "May 11, 1940",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "elder",
+        "status": "suggested"
+      }
+    ]
+  }
 }

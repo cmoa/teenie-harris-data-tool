@@ -1,20 +1,312 @@
 {
-	"irn": "62577",
-	"emuInput": {
-		"ecatalogue_key": "315",
-		"irn": "62577",
-		"TitAccessionNo": "2001.35.48495",
-		"TitMainTitle": "W. Stuart Helm and George I. Bloom, standing at podium in Webster Hall for Republican State Committee meeting",
-		"CreDateCreated": "September 6, 1958",
-		"CreEarliestDate": "1958-09-06",
-		"CreLatestDate": "1958-09-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - Iron Out Details - W. Stuart Helm, Speaker of the House of Representatives, left, and George I. Bloom, chairman of the Republican State Committee, went into a huddle last Saturday morning before the state committee opened, and worked out details for conduction the session.\" Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBanners--Pennsylvania--Pittsburgh.\nWebster Hall (Pittsburgh, Pa.)\nBloom, George.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62577",
+  "emuInput": {
+    "ecatalogue_key": 48452,
+    "irn": 62577,
+    "TitAccessionNo": "2001.35.48495",
+    "CreDateCreated": "September 6, 1958",
+    "CreEarliestDate": "1958-09-06",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - Iron Out Details - W. Stuart Helm, Speaker of the House of Representatives, left, and George I. Bloom, chairman of the Republican State Committee, went into a huddle last Saturday morning before the state committee opened, and worked out details for conduction the session.\" Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
+    "TitMainTitle": "W. Stuart Helm and George I. Bloom, standing at podium in Webster Hall for Republican State Committee meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Bloom, George.",
+    "AdmGUIDValue_tab": "01487aea-df57-4d7a-8b45-fdf035b21149",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71017,
+    "MulMultiMediaRef_key": 48460,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71017/sizes/62577-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48452,
+    "irn": 62577,
+    "TitAccessionNo": "2001.35.48495",
+    "CreDateCreated": "September 6, 1958",
+    "CreEarliestDate": "1958-09-06",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - Iron Out Details - W. Stuart Helm, Speaker of the House of Representatives, left, and George I. Bloom, chairman of the Republican State Committee, went into a huddle last Saturday morning before the state committee opened, and worked out details for conduction the session.\" Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
+    "TitMainTitle": "W. Stuart Helm and George I. Bloom, standing at podium in Webster Hall for Republican State Committee meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Bloom, George.",
+    "AdmGUIDValue_tab": "01487aea-df57-4d7a-8b45-fdf035b21149",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71017,
+    "MulMultiMediaRef_key": 48460,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71017/sizes/62577-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "George I. Bloom",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Stuart Helm",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Bloom",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Bloom",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Bloom",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Bloom",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - Iron Out Details - W. Stuart Helm, Speaker of the House of Representatives, left, and George I. Bloom, chairman of the Republican State Committee, went into a huddle last Saturday morning before the state committee opened, and worked out details for conduction the session.\" Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 13, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": ")Bloom, George",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican State Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Hotel Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "the House of Representatives",
+        "status": "suggested"
+      },
+      {
+        "data": "September 13, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "The Republican State Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Hall ",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "George I. Bloom",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "the Republican State Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      }
+    ]
+  }
 }

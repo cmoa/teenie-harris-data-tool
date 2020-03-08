@@ -1,20 +1,332 @@
 {
-	"irn": "10902",
-	"emuInput": {
-		"ecatalogue_key": "45",
-		"irn": "10902",
-		"TitAccessionNo": "2001.35.5932",
-		"TitMainTitle": "J. W. Hicks standing next to Chrysler in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 25-27, 1958",
-		"CreEarliestDate": "1958-03-25",
-		"CreLatestDate": "1958-03-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5, reads: \"'9. J.W. Kicks, sales representative, proudly shows off the beautiful new 1958 Chrysler. - Harris Photo.\"",
-		"CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.\nAutomobile dealers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.\nMen--Portraits--Pennsylvania--Pittsburgh.\nBoys--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "10902",
+  "emuInput": {
+    "ecatalogue_key": 5922,
+    "irn": 10902,
+    "TitAccessionNo": "2001.35.5932",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5, reads: \"'9. J.W. Kicks, sales representative, proudly shows off the beautiful new 1958 Chrysler. - Harris Photo.\"",
+    "TitMainTitle": "J. W. Hicks standing next to Chrysler in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile dealers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Portraits--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "76755624-c150-4261-961e-7c01d36bce7e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21642,
+    "MulMultiMediaRef_key": 5929,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21642/sizes/10902-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 5922,
+    "irn": 10902,
+    "TitAccessionNo": "2001.35.5932",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 5, reads: \"'9. J.W. Kicks, sales representative, proudly shows off the beautiful new 1958 Chrysler. - Harris Photo.\"",
+    "TitMainTitle": "J. W. Hicks standing next to Chrysler in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile dealers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Portraits--Pennsylvania--Pittsburgh.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "76755624-c150-4261-961e-7c01d36bce7e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21642,
+    "MulMultiMediaRef_key": 5929,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21642/sizes/10902-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "J.W. Kicks",
+        "status": "suggested"
+      },
+      {
+        "data": "J. W. Hicks",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile dealers",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "5",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'9. J.W. Kicks, sales representative, proudly shows off the beautiful new 1958 Chrysler. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "wheel",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Chrysler",
+        "status": "suggested"
+      },
+      {
+        "data": "1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile dealers",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "J. W. Hicks",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive exterior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "automobile",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive lighting",
+        "status": "suggested"
+      },
+      {
+        "data": "auto",
+        "status": "suggested"
+      },
+      {
+        "data": "headlamp",
+        "status": "suggested"
+      }
+    ]
+  }
 }

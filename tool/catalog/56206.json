@@ -1,20 +1,448 @@
 {
-	"irn": "56206",
-	"emuInput": {
-		"ecatalogue_key": "248",
-		"irn": "56206",
-		"TitAccessionNo": "2001.35.42795",
-		"TitMainTitle": "Group portrait of Baxter Junior High School graduates, from left, front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, and Anne Marie Thompson; second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves, and Janice E. Finney, posed in Hayes School of Music",
-		"CreDateCreated": "January - February 1954",
-		"CreEarliestDate": "1954-01-01",
-		"CreLatestDate": "1954-02-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 6, 1954, pg. 10 reads: \"Baxter Graduates - The 1954 graduating class of Baxter Junior High School held its prom Tuesday night at the Hayes School of Music and provided this pretty picture. Front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, Anne Marie Thompson.  Second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves and Janice E. Finney. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nPaintings--Pennsylvania--Pittsburgh.\nHayes School of Music (Pittsburgh, Pa.)\nFinney, Janice.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56206",
+  "emuInput": {
+    "ecatalogue_key": 42753,
+    "irn": 56206,
+    "TitAccessionNo": "2001.35.42795",
+    "CreDateCreated": "January - February 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-02-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 6, 1954, pg. 10 reads: \"Baxter Graduates - The 1954 graduating class of Baxter Junior High School held its prom Tuesday night at the Hayes School of Music and provided this pretty picture. Front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, Anne Marie Thompson.  Second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves and Janice E. Finney. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Baxter Junior High School graduates, from left, front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, and Anne Marie Thompson; second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves, and Janice E. Finney, posed in Hayes School of Music",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Hayes School of Music (Pittsburgh, Pa.)Finney, Janice.",
+    "AdmGUIDValue_tab": "03582c96-2d60-4549-b5de-aaee6ea5ce90",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63971,
+    "MulMultiMediaRef_key": 42761,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63971/sizes/56206-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42753,
+    "irn": 56206,
+    "TitAccessionNo": "2001.35.42795",
+    "CreDateCreated": "January - February 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-02-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 6, 1954, pg. 10 reads: \"Baxter Graduates - The 1954 graduating class of Baxter Junior High School held its prom Tuesday night at the Hayes School of Music and provided this pretty picture. Front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, Anne Marie Thompson.  Second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves and Janice E. Finney. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Baxter Junior High School graduates, from left, front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, and Anne Marie Thompson; second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves, and Janice E. Finney, posed in Hayes School of Music",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Hayes School of Music (Pittsburgh, Pa.)Finney, Janice.",
+    "AdmGUIDValue_tab": "03582c96-2d60-4549-b5de-aaee6ea5ce90",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63971,
+    "MulMultiMediaRef_key": 42761,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63971/sizes/56206-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Anne Marie Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Jean Allen",
+        "status": "suggested"
+      },
+      {
+        "data": "Teddy Ward",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Joanne Couch",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Card",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernetta Bagley",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Chita Cato",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Benson",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Juanita Bryant",
+        "status": "suggested"
+      },
+      {
+        "data": "Fayverne Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Boone",
+        "status": "suggested"
+      },
+      {
+        "data": "Ronald Lee Graves",
+        "status": "suggested"
+      },
+      {
+        "data": "Janice E. Finney",
+        "status": "suggested"
+      },
+      {
+        "data": "Cecelia Moors",
+        "status": "suggested"
+      },
+      {
+        "data": "Ceates Pryor",
+        "status": "suggested"
+      },
+      {
+        "data": "Nathaniel Nowlin",
+        "status": "suggested"
+      },
+      {
+        "data": "James Hayes",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtis Ross",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Finney",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Finney",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Finney",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Finney",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Baxter Graduates - The 1954 graduating class of Baxter Junior High School held its prom Tuesday night at the Hayes School of Music and provided this pretty picture. Front row: Fayverne Robinson, Cecelia Moors, Barbara Boone, Juanita Bryant, Anne Marie Thompson.  Second row: Joan Gibson, Barbara Card, Ceates Pryor, Betty Jean Allen,  Betty Anne Moore, Nathaniel Nowlin, Teddy Ward, Joanne Couch, Curtis Ross, Robert Benson, Vernetta Bagley, James Hayes, Ella Mae Drakes, Doris Chita Cato, Ronald Lee Graves and Janice E. Finney. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 6, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne Marie Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Baxter Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Paintings",
+        "status": "suggested"
+      },
+      {
+        "data": "Ella Mae Drakes",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hayes School of Music",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Card",
+        "status": "suggested"
+      },
+      {
+        "data": "February 6, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": ")Finney, Janice",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Benson",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtis Ross",
+        "status": "suggested"
+      },
+      {
+        "data": "Hayes School of Music",
+        "status": "suggested"
+      },
+      {
+        "data": "Juanita Bryant",
+        "status": "suggested"
+      },
+      {
+        "data": "Hayes School of Music ",
+        "status": "suggested"
+      },
+      {
+        "data": "Baxter Graduates -",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Boone",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "1954",
+        "status": "suggested"
+      },
+      {
+        "data": "James Hayes",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

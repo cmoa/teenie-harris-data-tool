@@ -1,20 +1,267 @@
 {
-	"irn": "21264",
-	"emuInput": {
-		"ecatalogue_key": "106",
-		"irn": "21264",
-		"TitAccessionNo": "2001.35.12029",
-		"TitMainTitle": "Copy of newspaper clipping of Mr. Morris Fountain and Mrs. Miriam Sharpe Fountain, with \"Married in Chicago\" headline above couple",
-		"CreDateCreated": "c. 1940",
-		"CreEarliestDate": "1935",
-		"CreLatestDate": "1945",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of copied image published in Pittsburgh Courier newspaper, January 11, 1941, pg. 8, reads, \"Married in Chicago - Mr. and Mrs. Morris Fountain, the former Miss Miriam Sharpe, were married by Rev. J. C. Austin, in Chicago last Friday. - Gushimere photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21264",
+  "emuInput": {
+    "ecatalogue_key": 11999,
+    "irn": 21264,
+    "TitAccessionNo": "2001.35.12029",
+    "CreDateCreated": "c. 1940",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of copied image published in Pittsburgh Courier newspaper, January 11, 1941, pg. 8, reads, \"Married in Chicago - Mr. and Mrs. Morris Fountain, the former Miss Miriam Sharpe, were married by Rev. J. C. Austin, in Chicago last Friday. - Gushimere photo.\"",
+    "TitMainTitle": "Copy of newspaper clipping of Mr. Morris Fountain and Mrs. Miriam Sharpe Fountain, with \"Married in Chicago\" headline above couple",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "008d662b-5bd6-4a1f-baca-2c0303f09caa",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 27664,
+    "MulMultiMediaRef_key": 12007,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27664/sizes/21264-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11999,
+    "irn": 21264,
+    "TitAccessionNo": "2001.35.12029",
+    "CreDateCreated": "c. 1940",
+    "CreEarliestDate": "1935",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of copied image published in Pittsburgh Courier newspaper, January 11, 1941, pg. 8, reads, \"Married in Chicago - Mr. and Mrs. Morris Fountain, the former Miss Miriam Sharpe, were married by Rev. J. C. Austin, in Chicago last Friday. - Gushimere photo.\"",
+    "TitMainTitle": "Copy of newspaper clipping of Mr. Morris Fountain and Mrs. Miriam Sharpe Fountain, with \"Married in Chicago\" headline above couple",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "008d662b-5bd6-4a1f-baca-2c0303f09caa",
+    "AdmPublishWebNoPassword": "No",
+    "MultiMedia_irn": 27664,
+    "MulMultiMediaRef_key": 12007,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27664/sizes/21264-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "J. C. Austin",
+        "status": "suggested"
+      },
+      {
+        "data": "Morris Fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "Miriam Sharpe",
+        "status": "suggested"
+      },
+      {
+        "data": "Miriam Sharpe Fountain",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "January 11, 1941",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "J. C. Austin",
+        "status": "suggested"
+      },
+      {
+        "data": "Married in Chicago",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "January 11, 1941",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "history",
+        "status": "suggested"
+      },
+      {
+        "data": "screen",
+        "status": "suggested"
+      },
+      {
+        "data": "poster",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      }
+    ]
+  }
 }

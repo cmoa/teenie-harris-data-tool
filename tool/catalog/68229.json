@@ -1,20 +1,315 @@
 {
-	"irn": "68229",
-	"emuInput": {
-		"ecatalogue_key": "359",
-		"irn": "68229",
-		"TitAccessionNo": "2001.35.53978",
-		"TitMainTitle": "Group portrait of groom Milton Jones wearing double breasted suit, and bride Esther Coles Jones wearing suit and corsage, cutting two tiered wedding cake, standing in front of fireplace and landscape patterned wallpaper, another version",
-		"CreDateCreated": "October 1955",
-		"CreEarliestDate": "1955-10-01",
-		"CreLatestDate": "1955-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A17, reads: \"Happily Wed - Mr. and Mrs. Milton Jones were married in October. Pictured, the bride, the former Mrs. Esther Coles, helps cut cake. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWallpaper--Pennsylvania--Pittsburgh.\nFireplaces--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nJones, Milton.\nJones, Esther Coles.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "68229",
+  "emuInput": {
+    "ecatalogue_key": 53935,
+    "irn": 68229,
+    "TitAccessionNo": "2001.35.53978",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A17, reads: \"Happily Wed - Mr. and Mrs. Milton Jones were married in October. Pictured, the bride, the former Mrs. Esther Coles, helps cut cake. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of groom Milton Jones wearing double breasted suit, and bride Esther Coles Jones wearing suit and corsage, cutting two tiered wedding cake, standing in front of fireplace and landscape patterned wallpaper, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Jones, Milton.Jones, Esther Coles.",
+    "AdmGUIDValue_tab": "29052689-235d-4aef-8ba7-3238d604463e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79250,
+    "MulMultiMediaRef_key": 53944,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79250/sizes/68229-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53935,
+    "irn": 68229,
+    "TitAccessionNo": "2001.35.53978",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A17, reads: \"Happily Wed - Mr. and Mrs. Milton Jones were married in October. Pictured, the bride, the former Mrs. Esther Coles, helps cut cake. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of groom Milton Jones wearing double breasted suit, and bride Esther Coles Jones wearing suit and corsage, cutting two tiered wedding cake, standing in front of fireplace and landscape patterned wallpaper, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Jones, Milton.Jones, Esther Coles.",
+    "AdmGUIDValue_tab": "29052689-235d-4aef-8ba7-3238d604463e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 79250,
+    "MulMultiMediaRef_key": 53944,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/79250/sizes/68229-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Esther Coles Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Esther Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Milton Jones",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "October",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Happily Wed - Mr. and Mrs. Milton Jones were married in October. Pictured, the bride, the former Mrs. Esther Coles, helps cut cake. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 29, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Milton",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "October 29, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Esther Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Esther Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "October",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Milton Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

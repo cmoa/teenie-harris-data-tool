@@ -1,20 +1,430 @@
 {
-	"irn": "14337",
-	"emuInput": {
-		"ecatalogue_key": "66",
-		"irn": "14337",
-		"TitAccessionNo": "2001.35.7645",
-		"TitMainTitle": "Boy standing along Batavia Street in muddy lot with parked cars with building with sign reading \"Bennett Dist. Co.\" and Sunoco gas station in background",
-		"CreDateCreated": "February 1958",
-		"CreEarliestDate": "1958-02-01",
-		"CreLatestDate": "1958-02-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 1, 1958, page A2, reads: \"Walk in Mud of Get Hit - Youngsters traveling to and from Bennett School, on this section of Batavia St., near Bennett St., must walk in deep mud because there are no good sidewalks. Batavia St. is in vicinity of Oakwood and Bennett, and accommodates less than five families. The absence of a large bloc of potential voters could be the reason for an accumulation of mud and slush. - Harris Photo.\"",
-		"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nParking lots--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nGas stations--Pennsylvania--Pittsburgh.\nBatavia Street (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "14337",
+  "emuInput": {
+    "ecatalogue_key": 7628,
+    "irn": 14337,
+    "TitAccessionNo": "2001.35.7645",
+    "CreDateCreated": "February 1958",
+    "CreEarliestDate": "1958-02-01",
+    "CreLatestDate": "1958-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 1, 1958, page A2, reads: \"Walk in Mud of Get Hit - Youngsters traveling to and from Bennett School, on this section of Batavia St., near Bennett St., must walk in deep mud because there are no good sidewalks. Batavia St. is in vicinity of Oakwood and Bennett, and accommodates less than five families. The absence of a large bloc of potential voters could be the reason for an accumulation of mud and slush. - Harris Photo.\"",
+    "TitMainTitle": "Boy standing along Batavia Street in muddy lot with parked cars with building with sign reading \"Bennett Dist. Co.\" and Sunoco gas station in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Gas stations--Pennsylvania--Pittsburgh.Batavia Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "020f54cc-c05f-44eb-8e57-ff5dae67dc29",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23590,
+    "MulMultiMediaRef_key": 7636,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23590/sizes/14337-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7628,
+    "irn": 14337,
+    "TitAccessionNo": "2001.35.7645",
+    "CreDateCreated": "February 1958",
+    "CreEarliestDate": "1958-02-01",
+    "CreLatestDate": "1958-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 1, 1958, page A2, reads: \"Walk in Mud of Get Hit - Youngsters traveling to and from Bennett School, on this section of Batavia St., near Bennett St., must walk in deep mud because there are no good sidewalks. Batavia St. is in vicinity of Oakwood and Bennett, and accommodates less than five families. The absence of a large bloc of potential voters could be the reason for an accumulation of mud and slush. - Harris Photo.\"",
+    "TitMainTitle": "Boy standing along Batavia Street in muddy lot with parked cars with building with sign reading \"Bennett Dist. Co.\" and Sunoco gas station in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Gas stations--Pennsylvania--Pittsburgh.Batavia Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "020f54cc-c05f-44eb-8e57-ff5dae67dc29",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23590,
+    "MulMultiMediaRef_key": 7636,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23590/sizes/14337-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Service stations",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett School",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Batavia Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Batavia Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Batavia Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Batavia Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Walk in Mud of Get Hit - Youngsters traveling to and from Bennett School, on this section of Batavia St., near Bennett St., must walk in deep mud because there are no good sidewalks. Batavia St. is in vicinity of Oakwood and Bennett, and accommodates less than five families. The absence of a large bloc of potential voters could be the reason for an accumulation of mud and slush. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "snow",
+        "status": "suggested"
+      },
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Gas stations",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett Dist.",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett School",
+        "status": "suggested"
+      },
+      {
+        "data": "Batavia Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Walk in Mud of Get Hit - Youngsters",
+        "status": "suggested"
+      },
+      {
+        "data": "March 1, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunoco",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "winter",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "transport",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "water",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      }
+    ]
+  }
 }

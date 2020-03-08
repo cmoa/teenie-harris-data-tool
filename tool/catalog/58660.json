@@ -1,20 +1,308 @@
 {
-	"irn": "58660",
-	"emuInput": {
-		"ecatalogue_key": "270",
-		"irn": "58660",
-		"TitAccessionNo": "2001.35.44707",
-		"TitMainTitle": "Three houses, one with hexagon Insulbrick, with severe fire and water damage after six-alarm fire, Jewel Street, Polish Hill",
-		"CreDateCreated": "January 1956",
-		"CreEarliestDate": "1956-01-01",
-		"CreLatestDate": "1956-01-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3, reads: \"Heroic Action Here - Refuse collectors Paul Sweeney and Kenneth Kiney caught 62-year-old Mrs. Anna Helwich as she leaped from the second-story window of the center structure during the whiplashing fire which also forced nearby neighbors Michael Kobus and the John Hanners to flee. - Harris Photo.\"",
-		"CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.\nTrees--Pennsylvania--Pittsburgh.\nFire-damage--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58660",
+  "emuInput": {
+    "ecatalogue_key": 44664,
+    "irn": 58660,
+    "TitAccessionNo": "2001.35.44707",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3, reads: \"Heroic Action Here - Refuse collectors Paul Sweeney and Kenneth Kiney caught 62-year-old Mrs. Anna Helwich as she leaped from the second-story window of the center structure during the whiplashing fire which also forced nearby neighbors Michael Kobus and the John Hanners to flee. - Harris Photo.\"",
+    "TitMainTitle": "Three houses, one with hexagon Insulbrick, with severe fire and water damage after six-alarm fire, Jewel Street, Polish Hill",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Fire-damage--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0239198a-e90e-49ea-b7be-0a9f2ad674db",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67014,
+    "MulMultiMediaRef_key": 44672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67014/sizes/58660-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44664,
+    "irn": 58660,
+    "TitAccessionNo": "2001.35.44707",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 21, 1956, pg. 3, reads: \"Heroic Action Here - Refuse collectors Paul Sweeney and Kenneth Kiney caught 62-year-old Mrs. Anna Helwich as she leaped from the second-story window of the center structure during the whiplashing fire which also forced nearby neighbors Michael Kobus and the John Hanners to flee. - Harris Photo.\"",
+    "TitMainTitle": "Three houses, one with hexagon Insulbrick, with severe fire and water damage after six-alarm fire, Jewel Street, Polish Hill",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.Fire-damage--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0239198a-e90e-49ea-b7be-0a9f2ad674db",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67014,
+    "MulMultiMediaRef_key": 44672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67014/sizes/58660-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Insulbrick",
+        "status": "suggested"
+      },
+      {
+        "data": "the John Hanners",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenneth Kiney",
+        "status": "suggested"
+      },
+      {
+        "data": "Michael Kobus",
+        "status": "suggested"
+      },
+      {
+        "data": "Anna Helwich",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Sweeney",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trees",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Jewel Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Jewel Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Jewel Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Jewel Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Heroic Action Here - Refuse collectors Paul Sweeney and Kenneth Kiney caught 62-year-old Mrs. Anna Helwich as she leaped from the second-story window of the center structure during the whiplashing fire which also forced nearby neighbors Michael Kobus and the John Hanners to flee. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire-damage",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewel Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Trees",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Polish",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Sweeney",
+        "status": "suggested"
+      },
+      {
+        "data": "fence",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "barrier",
+        "status": "suggested"
+      },
+      {
+        "data": "winter",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "shack",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "obstruction",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      }
+    ]
+  }
 }

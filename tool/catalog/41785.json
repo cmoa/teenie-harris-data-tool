@@ -1,20 +1,364 @@
 {
-	"irn": "41785",
-	"emuInput": {
-		"ecatalogue_key": "197",
-		"irn": "41785",
-		"TitAccessionNo": "2001.35.29188",
-		"TitMainTitle": "Herron Hill Junior High School principal John H. Morgart presenting awards to students, on stage in Herron Hill Junior High School with sponge painted backdrop with trees",
-		"CreDateCreated": "February 1947",
-		"CreEarliestDate": "1947-02-01",
-		"CreLatestDate": "1947-02-08",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 8, 1947, pg. 2, reads: \"Presents Awards - Promotion exercises for the 9-A Class of Herron Hill Junior High School were held last Tuesday at 2 P. M. Principal John H. Morgart made the awards which went to Robert Murray and Cora Briggs who received Gerwig Awards, and 8-A students Norman Fisher and Elinor Williams who received the American Legion Award. - Harris Photo.\"",
-		"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nHerron Hill Junior High School (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "41785",
+  "emuInput": {
+    "ecatalogue_key": 29156,
+    "irn": 41785,
+    "TitAccessionNo": "2001.35.29188",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-08",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 8, 1947, pg. 2, reads: \"Presents Awards - Promotion exercises for the 9-A Class of Herron Hill Junior High School were held last Tuesday at 2 P. M. Principal John H. Morgart made the awards which went to Robert Murray and Cora Briggs who received Gerwig Awards, and 8-A students Norman Fisher and Elinor Williams who received the American Legion Award. - Harris Photo.\"",
+    "TitMainTitle": "Herron Hill Junior High School principal John H. Morgart presenting awards to students, on stage in Herron Hill Junior High School with sponge painted backdrop with trees",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01765340-6308-41c4-a4f0-55ec4c0d6155",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48520,
+    "MulMultiMediaRef_key": 29164,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48520/sizes/41785-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 29156,
+    "irn": 41785,
+    "TitAccessionNo": "2001.35.29188",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-08",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper February 8, 1947, pg. 2, reads: \"Presents Awards - Promotion exercises for the 9-A Class of Herron Hill Junior High School were held last Tuesday at 2 P. M. Principal John H. Morgart made the awards which went to Robert Murray and Cora Briggs who received Gerwig Awards, and 8-A students Norman Fisher and Elinor Williams who received the American Legion Award. - Harris Photo.\"",
+    "TitMainTitle": "Herron Hill Junior High School principal John H. Morgart presenting awards to students, on stage in Herron Hill Junior High School with sponge painted backdrop with trees",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01765340-6308-41c4-a4f0-55ec4c0d6155",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48520,
+    "MulMultiMediaRef_key": 29164,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48520/sizes/41785-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John H. Morgart",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Murray",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Cora Briggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Elinor Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Norman Fisher",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerwig Awards",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Presents Awards - Promotion exercises for the 9-A Class of Herron Hill Junior High School were held last Tuesday at 2 P. M. Principal John H. Morgart made the awards which went to Robert Murray and Cora Briggs who received Gerwig Awards, and 8-A students Norman Fisher and Elinor Williams who received the American Legion Award. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 8, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Herron Hill Junior High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "the American Legion Award",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Murray",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "February 8, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "Cora Briggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "2 P. M. Principal John H. Morgart",
+        "status": "suggested"
+      },
+      {
+        "data": "Elinor Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Norman Fisher",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "last Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

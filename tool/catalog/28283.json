@@ -1,20 +1,396 @@
 {
-	"irn": "28283",
-	"emuInput": {
-		"ecatalogue_key": "138",
-		"irn": "28283",
-		"TitAccessionNo": "2001.35.17341",
-		"TitMainTitle": "Hubert Ivey, Father John LaBauve, Roland Sawyer, Henry Musamali, Peter Kanari, and James McCoy posed in Loendi Club for NAACP Young Adult meeting",
-		"CreDateCreated": "March 1962",
-		"CreEarliestDate": "1962-03-01",
-		"CreLatestDate": "1962-03-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 10, 1962, pg. 17, reads: \"AT NAACP MEET - Surprise visitors to the recent Young Adult meeting of the National Association for the Advancement of Colored People, at the Loendi Club, were Henry Musamali (fourth from left) of Uganda, East Africa, and Peter Kanari, of Kenya, East Africa. The entire group includes (left to right), Hubert Isey [sic] president for the Young Adult NAACP; Fr. John LaBauve, paster of St. Richard Church; Roland Sawyer, Loendi president; Mr. Musamali, Mr. Kanari, and James McCoy, civil rights coordinator of District 16 of the United Steel Workers of America. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nClergy--Pennsylvania--Pittsburgh.\nClocks and watches--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nLoendi Club (Pittsburgh, Pa.).\nPriests--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "28283",
+  "emuInput": {
+    "ecatalogue_key": 17311,
+    "irn": 28283,
+    "TitAccessionNo": "2001.35.17341",
+    "CreDateCreated": "March 1962",
+    "CreEarliestDate": "1962-03-01",
+    "CreLatestDate": "1962-03-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 10, 1962, pg. 17, reads: \"AT NAACP MEET - Surprise visitors to the recent Young Adult meeting of the National Association for the Advancement of Colored People, at the Loendi Club, were Henry Musamali (fourth from left) of Uganda, East Africa, and Peter Kanari, of Kenya, East Africa. The entire group includes (left to right), Hubert Isey [sic] president for the Young Adult NAACP; Fr. John LaBauve, paster of St. Richard Church; Roland Sawyer, Loendi president; Mr. Musamali, Mr. Kanari, and James McCoy, civil rights coordinator of District 16 of the United Steel Workers of America. - Harris Photo.\"",
+    "TitMainTitle": "Hubert Ivey, Father John LaBauve, Roland Sawyer, Henry Musamali, Peter Kanari, and James McCoy posed in Loendi Club for NAACP Young Adult meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).Priests--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42327846-c35a-4311-b76e-f16717d17a8c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33898,
+    "MulMultiMediaRef_key": 17319,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33898/sizes/28283-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 17311,
+    "irn": 28283,
+    "TitAccessionNo": "2001.35.17341",
+    "CreDateCreated": "March 1962",
+    "CreEarliestDate": "1962-03-01",
+    "CreLatestDate": "1962-03-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 10, 1962, pg. 17, reads: \"AT NAACP MEET - Surprise visitors to the recent Young Adult meeting of the National Association for the Advancement of Colored People, at the Loendi Club, were Henry Musamali (fourth from left) of Uganda, East Africa, and Peter Kanari, of Kenya, East Africa. The entire group includes (left to right), Hubert Isey [sic] president for the Young Adult NAACP; Fr. John LaBauve, paster of St. Richard Church; Roland Sawyer, Loendi president; Mr. Musamali, Mr. Kanari, and James McCoy, civil rights coordinator of District 16 of the United Steel Workers of America. - Harris Photo.\"",
+    "TitMainTitle": "Hubert Ivey, Father John LaBauve, Roland Sawyer, Henry Musamali, Peter Kanari, and James McCoy posed in Loendi Club for NAACP Young Adult meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).Priests--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "42327846-c35a-4311-b76e-f16717d17a8c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33898,
+    "MulMultiMediaRef_key": 17319,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33898/sizes/28283-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "James McCoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Roland Sawyer",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Musamali",
+        "status": "suggested"
+      },
+      {
+        "data": "Hubert Isey",
+        "status": "suggested"
+      },
+      {
+        "data": "Kanari",
+        "status": "suggested"
+      },
+      {
+        "data": "John LaBauve",
+        "status": "suggested"
+      },
+      {
+        "data": "Musamali",
+        "status": "suggested"
+      },
+      {
+        "data": "Peter Kanari",
+        "status": "suggested"
+      },
+      {
+        "data": "Hubert Ivey",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Kanarēs, Kōnstantinos, 1793-1877",
+        "status": "suggested"
+      },
+      {
+        "data": "Priests",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Uganda",
+        "status": "suggested"
+      },
+      {
+        "data": "East Africa",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenya",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Uganda",
+        "status": "suggested"
+      },
+      {
+        "data": "East Africa",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenya",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Uganda",
+        "status": "suggested"
+      },
+      {
+        "data": "East Africa",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenya",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Uganda",
+        "status": "suggested"
+      },
+      {
+        "data": "East Africa",
+        "status": "suggested"
+      },
+      {
+        "data": "Kenya",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "AT NAACP MEET - Surprise visitors to the recent Young Adult meeting of the National Association for the Advancement of Colored People, at the Loendi Club, were Henry Musamali (fourth from left) of Uganda, East Africa, and Peter Kanari, of Kenya, East Africa. The entire group includes (left to right), Hubert Isey [sic] president for the Young Adult NAACP; Fr. John LaBauve, paster of St. Richard Church; Roland Sawyer, Loendi president; Mr. Musamali, Mr. Kanari, and James McCoy, civil rights coordinator of District 16 of the United Steel Workers of America. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 10, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "March 10, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "District 16",
+        "status": "suggested"
+      },
+      {
+        "data": "Kanari",
+        "status": "suggested"
+      },
+      {
+        "data": "St. Richard Church",
+        "status": "suggested"
+      },
+      {
+        "data": "James McCoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Roland Sawyer",
+        "status": "suggested"
+      },
+      {
+        "data": "the United Steel Workers of America",
+        "status": "suggested"
+      },
+      {
+        "data": "Musamali",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Adult",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi",
+        "status": "suggested"
+      },
+      {
+        "data": "Priests",
+        "status": "suggested"
+      },
+      {
+        "data": "the National Association for the Advancement of Colored People",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

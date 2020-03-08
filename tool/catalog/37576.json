@@ -1,20 +1,399 @@
 {
-	"irn": "37576",
-	"emuInput": {
-		"ecatalogue_key": "181",
-		"irn": "37576",
-		"TitAccessionNo": "2001.35.25281",
-		"TitMainTitle": "Full length portrait of two women, including bride Betty Harris Gaskins, and two men, including groom Tommy Gaskins, in Harris Studio",
-		"CreDateCreated": "1946",
-		"CreEarliestDate": "1946",
-		"CreLatestDate": "1946",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946. pg. 2, reads: \"HOLY MATRIMONY - Miss Betty Harris, daughter of George E. Harris of 2121 Wylie Avenue, and Thomas E. Gaskins were united in marriage recently at the home of the Rev. Cornell E. Talley with a few friends in attendance.  A reception was held the following day at the home of the bride's grandmother, Mrs. Florence Graves, of 6706 Deary Street, East End.  George E. Harris, is the brother of Courier Photographer Charles \"Teenie\" Harris. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "37576",
+  "emuInput": {
+    "ecatalogue_key": 25249,
+    "irn": 37576,
+    "TitAccessionNo": "2001.35.25281",
+    "CreDateCreated": "1946",
+    "CreEarliestDate": "1946",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946. pg. 2, reads: \"HOLY MATRIMONY - Miss Betty Harris, daughter of George E. Harris of 2121 Wylie Avenue, and Thomas E. Gaskins were united in marriage recently at the home of the Rev. Cornell E. Talley with a few friends in attendance.  A reception was held the following day at the home of the bride's grandmother, Mrs. Florence Graves, of 6706 Deary Street, East End.  George E. Harris, is the brother of Courier Photographer Charles \"Teenie\" Harris. - Harris Photo.\"",
+    "TitMainTitle": "Full length portrait of two women, including bride Betty Harris Gaskins, and two men, including groom Tommy Gaskins, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "023ad34d-33ee-49b7-8a8e-7ff5c9dbf79b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44145,
+    "MulMultiMediaRef_key": 25257,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44145/sizes/37576-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 25249,
+    "irn": 37576,
+    "TitAccessionNo": "2001.35.25281",
+    "CreDateCreated": "1946",
+    "CreEarliestDate": "1946",
+    "CreLatestDate": "1946",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946. pg. 2, reads: \"HOLY MATRIMONY - Miss Betty Harris, daughter of George E. Harris of 2121 Wylie Avenue, and Thomas E. Gaskins were united in marriage recently at the home of the Rev. Cornell E. Talley with a few friends in attendance.  A reception was held the following day at the home of the bride's grandmother, Mrs. Florence Graves, of 6706 Deary Street, East End.  George E. Harris, is the brother of Courier Photographer Charles \"Teenie\" Harris. - Harris Photo.\"",
+    "TitMainTitle": "Full length portrait of two women, including bride Betty Harris Gaskins, and two men, including groom Tommy Gaskins, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "023ad34d-33ee-49b7-8a8e-7ff5c9dbf79b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44145,
+    "MulMultiMediaRef_key": 25257,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44145/sizes/37576-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Tommy Gaskins",
+        "status": "suggested"
+      },
+      {
+        "data": "Cornell E. Talley",
+        "status": "suggested"
+      },
+      {
+        "data": "George E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Graves",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas E. Gaskins",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie \" Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Harris Gaskins",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "6706 Deary Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "6706 Deary Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "6706 Deary Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "6706 Deary Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "HOLY MATRIMONY - Miss Betty Harris, daughter of George E. Harris of 2121 Wylie Avenue, and Thomas E. Gaskins were united in marriage recently at the home of the Rev. Cornell E. Talley with a few friends in attendance.  A reception was held the following day at the home of the bride's grandmother, Mrs. Florence Graves, of 6706 Deary Street, East End.  George E. Harris, is the brother of Courier Photographer Charles \"Teenie\" Harris. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the following day",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie \" Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "East End",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "6706 Deary Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "George E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Graves",
+        "status": "suggested"
+      },
+      {
+        "data": "July 27, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      }
+    ]
+  }
 }

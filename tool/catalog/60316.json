@@ -1,20 +1,434 @@
 {
-	"irn": "60316",
-	"emuInput": {
-		"ecatalogue_key": "288",
-		"irn": "60316",
-		"TitAccessionNo": "2001.35.46297",
-		"TitMainTitle": "Group portrait of varsity letter recipients, from left, first row: John Wilkins and William Lindsey; second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, and Art Smith, with coach J.D. Geyer, posed in Letsche School",
-		"CreDateCreated": "June 1957",
-		"CreEarliestDate": "1957-06-01",
-		"CreLatestDate": "1957-06-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1957, pg. A9 reads:\"Letsche Honors Athletes - Letsche School honored the members of its basketball teams, the Varsity and All-Stars recently by presenting the boys with letters and trophies, in recognition of their fine sportsmanship. Top photo: Letter recipients were, left to right, first row: John Wilkins and William Lindsey.  Second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, Art Smith and J.D. Geyer, coach...-Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nTrophies--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nLetsche Elementary School (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60316",
+  "emuInput": {
+    "ecatalogue_key": 46254,
+    "irn": 60316,
+    "TitAccessionNo": "2001.35.46297",
+    "CreDateCreated": "June 1957",
+    "CreEarliestDate": "1957-06-01",
+    "CreLatestDate": "1957-06-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1957, pg. A9 reads:\"Letsche Honors Athletes - Letsche School honored the members of its basketball teams, the Varsity and All-Stars recently by presenting the boys with letters and trophies, in recognition of their fine sportsmanship. Top photo: Letter recipients were, left to right, first row: John Wilkins and William Lindsey.  Second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, Art Smith and J.D. Geyer, coach...-Harris Photo.\"",
+    "TitMainTitle": "Group portrait of varsity letter recipients, from left, first row: John Wilkins and William Lindsey; second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, and Art Smith, with coach J.D. Geyer, posed in Letsche School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Letsche Elementary School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "030cc58a-15aa-49c4-8d34-52b3c4fe000f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68322,
+    "MulMultiMediaRef_key": 46262,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68322/sizes/60316-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46254,
+    "irn": 60316,
+    "TitAccessionNo": "2001.35.46297",
+    "CreDateCreated": "June 1957",
+    "CreEarliestDate": "1957-06-01",
+    "CreLatestDate": "1957-06-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 22, 1957, pg. A9 reads:\"Letsche Honors Athletes - Letsche School honored the members of its basketball teams, the Varsity and All-Stars recently by presenting the boys with letters and trophies, in recognition of their fine sportsmanship. Top photo: Letter recipients were, left to right, first row: John Wilkins and William Lindsey.  Second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, Art Smith and J.D. Geyer, coach...-Harris Photo.\"",
+    "TitMainTitle": "Group portrait of varsity letter recipients, from left, first row: John Wilkins and William Lindsey; second row: David Webb, William Craven, Sam Fleming, Jerry McCrommon, Ray Cutler, Claude Griffin, Philip Cox, and Art Smith, with coach J.D. Geyer, posed in Letsche School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Letsche Elementary School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "030cc58a-15aa-49c4-8d34-52b3c4fe000f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68322,
+    "MulMultiMediaRef_key": 46262,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68322/sizes/60316-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John Wilkins",
+        "status": "suggested"
+      },
+      {
+        "data": "William Craven",
+        "status": "suggested"
+      },
+      {
+        "data": "Ray Cutler",
+        "status": "suggested"
+      },
+      {
+        "data": "Art Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Sam Fleming",
+        "status": "suggested"
+      },
+      {
+        "data": "J.D. Geyer",
+        "status": "suggested"
+      },
+      {
+        "data": "William Lindsey",
+        "status": "suggested"
+      },
+      {
+        "data": "Jerry McCrommon",
+        "status": "suggested"
+      },
+      {
+        "data": "Philip Cox",
+        "status": "suggested"
+      },
+      {
+        "data": "Claude Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "David Webb",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams, Lindsey",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "June 22, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "William Craven",
+        "status": "suggested"
+      },
+      {
+        "data": "John Wilkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Art Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "June 22, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Honors Athletes - Letsche School",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Philip Cox",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "David Webb",
+        "status": "suggested"
+      },
+      {
+        "data": "Letsche Elementary School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "William Lindsey",
+        "status": "suggested"
+      },
+      {
+        "data": "Varsity",
+        "status": "suggested"
+      },
+      {
+        "data": "Sam Fleming",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Letsche School",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "nurse",
+        "status": "suggested"
+      }
+    ]
+  }
 }

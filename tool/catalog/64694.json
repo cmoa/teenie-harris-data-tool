@@ -1,20 +1,379 @@
 {
-	"irn": "64694",
-	"emuInput": {
-		"ecatalogue_key": "327",
-		"irn": "64694",
-		"TitAccessionNo": "2001.35.50550",
-		"TitMainTitle": "Group portrait of Thomas J. \"Tommy\" Smith, and Mr. and Mrs. Charles Thompson, toasting in Thompson home for third wedding anniversary",
-		"CreDateCreated": "January 1959",
-		"CreEarliestDate": "1959-01-01",
-		"CreLatestDate": "1959-01-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. A16 reads: \"Third Anniversary Celebration - Some members of the family and several intimate friends were on hand, last week, to help Mr. and Mrs. Charles Thompson of 611 Larimer Ave., East Liberty, celebrate their third wedding anniversary. it was a delightful occasion for the happy couple and guests.  The Courier photographer took this picture during a pause in festivities.  Left to right: Mrs. Thompson and daughter, Magnolia Smith.  Back row: Constable Thomas J. Smith, brother of Mrs. Thompson, and Mrs. Thompson. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nNeckties--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nDrinking customs--Pennsylvania--Pittsburgh.\nSmith, Tommy.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "64694",
+  "emuInput": {
+    "ecatalogue_key": 50507,
+    "irn": 64694,
+    "TitAccessionNo": "2001.35.50550",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. A16 reads: \"Third Anniversary Celebration - Some members of the family and several intimate friends were on hand, last week, to help Mr. and Mrs. Charles Thompson of 611 Larimer Ave., East Liberty, celebrate their third wedding anniversary. it was a delightful occasion for the happy couple and guests.  The Courier photographer took this picture during a pause in festivities.  Left to right: Mrs. Thompson and daughter, Magnolia Smith.  Back row: Constable Thomas J. Smith, brother of Mrs. Thompson, and Mrs. Thompson. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Thomas J. \"Tommy\" Smith, and Mr. and Mrs. Charles Thompson, toasting in Thompson home for third wedding anniversary",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Drinking customs--Pennsylvania--Pittsburgh.Smith, Tommy.",
+    "AdmGUIDValue_tab": "11469110-375e-4de9-8204-e8ae0df36f1f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74445,
+    "MulMultiMediaRef_key": 50515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74445/sizes/64694-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 50507,
+    "irn": 64694,
+    "TitAccessionNo": "2001.35.50550",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. A16 reads: \"Third Anniversary Celebration - Some members of the family and several intimate friends were on hand, last week, to help Mr. and Mrs. Charles Thompson of 611 Larimer Ave., East Liberty, celebrate their third wedding anniversary. it was a delightful occasion for the happy couple and guests.  The Courier photographer took this picture during a pause in festivities.  Left to right: Mrs. Thompson and daughter, Magnolia Smith.  Back row: Constable Thomas J. Smith, brother of Mrs. Thompson, and Mrs. Thompson. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Thomas J. \"Tommy\" Smith, and Mr. and Mrs. Charles Thompson, toasting in Thompson home for third wedding anniversary",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Drinking customs--Pennsylvania--Pittsburgh.Smith, Tommy.",
+    "AdmGUIDValue_tab": "11469110-375e-4de9-8204-e8ae0df36f1f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74445,
+    "MulMultiMediaRef_key": 50515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74445/sizes/64694-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "A16",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. \" Tommy \" Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Smith",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Drinking customs",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Thompson",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Third Anniversary Celebration - Some members of the family and several intimate friends were on hand, last week, to help Mr. and Mrs. Charles Thompson of 611 Larimer Ave., East Liberty, celebrate their third wedding anniversary. it was a delightful occasion for the happy couple and guests.  The Courier photographer took this picture during a pause in festivities.  Left to right: Mrs. Thompson and daughter, Magnolia Smith.  Back row: Constable Thomas J. Smith, brother of Mrs. Thompson, and Mrs. Thompson. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 24, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "January 24, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Drinking customs",
+        "status": "suggested"
+      },
+      {
+        "data": "Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "A16",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas J. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Smith, Tommy",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      }
+    ]
+  }
 }

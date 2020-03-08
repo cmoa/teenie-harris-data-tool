@@ -1,20 +1,384 @@
 {
-	"irn": "5201",
-	"emuInput": {
-		"ecatalogue_key": "20",
-		"irn": "5201",
-		"TitAccessionNo": "2001.35.3148",
-		"TitMainTitle": "Children, some in bathing suits, possibly including Rebecca Tab in center, Vernon Vaughn in light colored top, and Sara Mae Allen in back, standing on Webster Avenue under spray from fire hose, near Webster Avenue firehouse at Wandless Street, Hill District",
-		"CreDateCreated": "August 1947",
-		"CreEarliestDate": "1947-08-01",
-		"CreLatestDate": "1947-08-31",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 30, 1947, pg. 12, reads: \"Cooling Off in Style - These kiddies have Fireman Joe Watts to thank for one of the best of 'cooling-off' periods last week when the weather was at its stickiest. After the genial fireman turned on the large cool stream on them from the hose, squeals of pleasure could be heard the length of the block.  The Webster Avenue Firehouse was fun headquarters that day.  Though not shown in picture, Fireman Watts was really the 'man behind the fun.' - Harris Photo.\"",
-		"CatSubject_tab": "Children--Pennsylvania--Pittsburgh.\nFire hydrants--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nHouses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "5201",
+  "emuInput": {
+    "ecatalogue_key": 3141,
+    "irn": 5201,
+    "TitAccessionNo": "2001.35.3148",
+    "CreDateCreated": "August 1947",
+    "CreEarliestDate": "1947-08-01",
+    "CreLatestDate": "1947-08-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 30, 1947, pg. 12, reads: \"Cooling Off in Style - These kiddies have Fireman Joe Watts to thank for one of the best of 'cooling-off' periods last week when the weather was at its stickiest. After the genial fireman turned on the large cool stream on them from the hose, squeals of pleasure could be heard the length of the block.  The Webster Avenue Firehouse was fun headquarters that day.  Though not shown in picture, Fireman Watts was really the 'man behind the fun.' - Harris Photo.\"",
+    "TitMainTitle": "Children, some in bathing suits, possibly including Rebecca Tab in center, Vernon Vaughn in light colored top, and Sara Mae Allen in back, standing on Webster Avenue under spray from fire hose, near Webster Avenue firehouse at Wandless Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Fire hydrants--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "44747333-a1e0-4584-aca4-9d86760ca3d3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17583,
+    "MulMultiMediaRef_key": 3143,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17583/sizes/5201-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 3141,
+    "irn": 5201,
+    "TitAccessionNo": "2001.35.3148",
+    "CreDateCreated": "August 1947",
+    "CreEarliestDate": "1947-08-01",
+    "CreLatestDate": "1947-08-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 30, 1947, pg. 12, reads: \"Cooling Off in Style - These kiddies have Fireman Joe Watts to thank for one of the best of 'cooling-off' periods last week when the weather was at its stickiest. After the genial fireman turned on the large cool stream on them from the hose, squeals of pleasure could be heard the length of the block.  The Webster Avenue Firehouse was fun headquarters that day.  Though not shown in picture, Fireman Watts was really the 'man behind the fun.' - Harris Photo.\"",
+    "TitMainTitle": "Children, some in bathing suits, possibly including Rebecca Tab in center, Vernon Vaughn in light colored top, and Sara Mae Allen in back, standing on Webster Avenue under spray from fire hose, near Webster Avenue firehouse at Wandless Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Fire hydrants--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "44747333-a1e0-4584-aca4-9d86760ca3d3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17583,
+    "MulMultiMediaRef_key": 3143,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17583/sizes/5201-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Joe Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Rebecca Tab",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireman Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Sara Mae Allen",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon Vaughn",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon, Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Hydrants",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Webster Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Wandless Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "The Webster Avenue Firehouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Webster Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Wandless Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "The Webster Avenue Firehouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Webster Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Wandless Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "The Webster Avenue Firehouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Webster Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Wandless Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "The Webster Avenue Firehouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Cooling Off in Style - These kiddies have Fireman Joe Watts to thank for one of the best of 'cooling-off' periods last week when the weather was at its stickiest. After the genial fireman turned on the large cool stream on them from the hose, squeals of pleasure could be heard the length of the block.  The Webster Avenue Firehouse was fun headquarters that day.  Though not shown in picture, Fireman Watts was really the 'man behind the fun.' - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 30, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "water",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire hydrants",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "August 30, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "The Webster Avenue Firehouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Cooling Off in Style - These",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Vernon Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Wandless Street",
+        "status": "suggested"
+      },
+      {
+        "data": "that day",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "reflection",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "landscape",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "structure",
+        "status": "suggested"
+      }
+    ]
+  }
 }

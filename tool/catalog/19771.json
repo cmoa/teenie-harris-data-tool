@@ -1,20 +1,280 @@
 {
-	"irn": "19771",
-	"emuInput": {
-		"ecatalogue_key": "93",
-		"irn": "19771",
-		"TitAccessionNo": "2001.35.10830",
-		"TitMainTitle": "Crowd of people gathered around Ruby Young playing organ next to Pepsi-Cola booth in Syria Mosque for the 1955 Pittsburgh Courier Home Service Fair, another version",
-		"CreDateCreated": "June 22-24, 1955",
-		"CreEarliestDate": "1955-06-22",
-		"CreLatestDate": "1955-06-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 2, 1955, pg. 27 reads: \"13. Part of the enormous crowd attracted by talented Miss Ruby Young, versatile organist, who charmed them with sweet and hot music played on a Hammond Organ.\"",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nOrgans---Pennsylvania--Pittsburgh.\nYoung, Ruby.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "19771",
+  "emuInput": {
+    "ecatalogue_key": 10804,
+    "irn": 19771,
+    "TitAccessionNo": "2001.35.10830",
+    "CreDateCreated": "June 22-24, 1955",
+    "CreEarliestDate": "1955-06-22",
+    "CreLatestDate": "1955-06-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 2, 1955, pg. 27 reads: \"13. Part of the enormous crowd attracted by talented Miss Ruby Young, versatile organist, who charmed them with sweet and hot music played on a Hammond Organ.\"",
+    "TitMainTitle": "Crowd of people gathered around Ruby Young playing organ next to Pepsi-Cola booth in Syria Mosque for the 1955 Pittsburgh Courier Home Service Fair, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Young, Ruby.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "35118227-b1eb-41bd-bbfc-2db01c8373a0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27131,
+    "MulMultiMediaRef_key": 10812,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27131/sizes/19771-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10804,
+    "irn": 19771,
+    "TitAccessionNo": "2001.35.10830",
+    "CreDateCreated": "June 22-24, 1955",
+    "CreEarliestDate": "1955-06-22",
+    "CreLatestDate": "1955-06-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 2, 1955, pg. 27 reads: \"13. Part of the enormous crowd attracted by talented Miss Ruby Young, versatile organist, who charmed them with sweet and hot music played on a Hammond Organ.\"",
+    "TitMainTitle": "Crowd of people gathered around Ruby Young playing organ next to Pepsi-Cola booth in Syria Mosque for the 1955 Pittsburgh Courier Home Service Fair, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Young, Ruby.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "35118227-b1eb-41bd-bbfc-2db01c8373a0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27131,
+    "MulMultiMediaRef_key": 10812,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27131/sizes/19771-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ruby Young",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "27",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "13. Part of the enormous crowd attracted by talented Miss Ruby Young, versatile organist, who charmed them with sweet and hot music played on a Hammond Organ.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 2, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hammond Organ",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Young, Ruby",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruby Young",
+        "status": "suggested"
+      },
+      {
+        "data": "1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Pepsi-Cola",
+        "status": "suggested"
+      },
+      {
+        "data": "July 2, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "restaurant",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "banquet",
+        "status": "suggested"
+      }
+    ]
+  }
 }

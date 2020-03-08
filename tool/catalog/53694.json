@@ -1,20 +1,308 @@
 {
-	"irn": "53694",
-	"emuInput": {
-		"ecatalogue_key": "227",
-		"irn": "53694",
-		"TitAccessionNo": "2001.35.40478",
-		"TitMainTitle": "Helen Tolliver and Leon Reis standing in front of Dr. Ralph Bunche display in Carnegie Library",
-		"CreDateCreated": "October 1950",
-		"CreEarliestDate": "1950-10-01",
-		"CreLatestDate": "1950-10-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 1, reads: \"Dr. Ralph Bunche Honored - Because of the heavy demand by library patrons for information concerning Dr. Ralph Bunche, Nobel Peace Prize winner for 1950, Carnegie Library recently erected a literary exhibit in honor of the distinguished career diplomat. Left to right: The Misses Leon Reis and Helen Tolliver, library clerks, view a series of articles about Dr. Bunche's, historic work at Rhodes, Dodecanese Islands, which were written by pg. L. Prattis, executive editor of The Courier, who was the only journalist present at Rhodes during the sessions.  The Courier donated the articles to the exhibit. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nLibraries--Pennsylvania--Pittsburgh.\nBooks--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nCarnegie Library of Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "53694",
+  "emuInput": {
+    "ecatalogue_key": 40437,
+    "irn": 53694,
+    "TitAccessionNo": "2001.35.40478",
+    "CreDateCreated": "October 1950",
+    "CreEarliestDate": "1950-10-01",
+    "CreLatestDate": "1950-10-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 1, reads: \"Dr. Ralph Bunche Honored - Because of the heavy demand by library patrons for information concerning Dr. Ralph Bunche, Nobel Peace Prize winner for 1950, Carnegie Library recently erected a literary exhibit in honor of the distinguished career diplomat. Left to right: The Misses Leon Reis and Helen Tolliver, library clerks, view a series of articles about Dr. Bunche's, historic work at Rhodes, Dodecanese Islands, which were written by pg. L. Prattis, executive editor of The Courier, who was the only journalist present at Rhodes during the sessions.  The Courier donated the articles to the exhibit. - Harris Photo.\"",
+    "TitMainTitle": "Helen Tolliver and Leon Reis standing in front of Dr. Ralph Bunche display in Carnegie Library",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Libraries--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Carnegie Library of Pittsburgh.",
+    "AdmGUIDValue_tab": "22597606-3e5e-468a-b29a-716928eba596",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61039,
+    "MulMultiMediaRef_key": 40445,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61039/sizes/53694-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 40437,
+    "irn": 53694,
+    "TitAccessionNo": "2001.35.40478",
+    "CreDateCreated": "October 1950",
+    "CreEarliestDate": "1950-10-01",
+    "CreLatestDate": "1950-10-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 1, reads: \"Dr. Ralph Bunche Honored - Because of the heavy demand by library patrons for information concerning Dr. Ralph Bunche, Nobel Peace Prize winner for 1950, Carnegie Library recently erected a literary exhibit in honor of the distinguished career diplomat. Left to right: The Misses Leon Reis and Helen Tolliver, library clerks, view a series of articles about Dr. Bunche's, historic work at Rhodes, Dodecanese Islands, which were written by pg. L. Prattis, executive editor of The Courier, who was the only journalist present at Rhodes during the sessions.  The Courier donated the articles to the exhibit. - Harris Photo.\"",
+    "TitMainTitle": "Helen Tolliver and Leon Reis standing in front of Dr. Ralph Bunche display in Carnegie Library",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Libraries--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Carnegie Library of Pittsburgh.",
+    "AdmGUIDValue_tab": "22597606-3e5e-468a-b29a-716928eba596",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61039,
+    "MulMultiMediaRef_key": 40445,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61039/sizes/53694-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Helen Tolliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "Leon Reis",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Bunche",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Libraries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dr. Ralph Bunche Honored - Because of the heavy demand by library patrons for information concerning Dr. Ralph Bunche, Nobel Peace Prize winner for 1950, Carnegie Library recently erected a literary exhibit in honor of the distinguished career diplomat. Left to right: The Misses Leon Reis and Helen Tolliver, library clerks, view a series of articles about Dr. Bunche's, historic work at Rhodes, Dodecanese Islands, which were written by pg. L. Prattis, executive editor of The Courier, who was the only journalist present at Rhodes during the sessions.  The Courier donated the articles to the exhibit. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 21, 1950",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Libraries",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "1950",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Library",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "October 21, 1950",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Library of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Nobel Peace Prize",
+        "status": "suggested"
+      },
+      {
+        "data": "Rhodes",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Rhodes, Dodecanese Islands",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

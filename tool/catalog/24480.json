@@ -1,20 +1,352 @@
 {
-	"irn": "24480",
-	"emuInput": {
-		"ecatalogue_key": "119",
-		"irn": "24480",
-		"TitAccessionNo": "2001.35.14603",
-		"TitMainTitle": "Portrait of Rochelle Robinson modeling hairstyle of mass of curls seated on top of head, in Pittsburgh Hilton Ballroom for Gloria Golden Grate's Hair Unlimited show",
-		"CreDateCreated": "May 1965",
-		"CreEarliestDate": "1965-05-01",
-		"CreLatestDate": "1965-05-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1965, pg. 8, reads: \"Gloria's Hair Unlimited Show - The golden glow of the Hilton Ballroom beamed on a double-dozen lovely models on Sunday as Gloria Grate's second hair show drew an interested throng. Shown here are several models and their intriguing hair-do's.  Top row, left to right: Rochelle Robinson wearing 'The Hill Top Tower'; June Rodgers and the mahd [mad] 'Flower Basket'; Hattie Knox shows how Golden Haze over a permanent can be 'Soft and Sophisticated'; elegant Ann Perry is just right for an evening at a formal dance.  Lower photos, left to right; Mrs. Delores Sledge wears three Fastenfast hair pieces for the 'Discotheque Look'; the 'Pre-Teen Pony Lift' is modeled by young Paulette Silvers; Beraline Crawford models 'Eastern Accent' and  last, Sandra Taylor wears one long all-over wig for the 'Free and Easy' style. - Harris Photos.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nHilton Hotel (Pittsburgh, Pa.)\nHairstyles--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "24480",
+  "emuInput": {
+    "ecatalogue_key": 14573,
+    "irn": 24480,
+    "TitAccessionNo": "2001.35.14603",
+    "CreDateCreated": "May 1965",
+    "CreEarliestDate": "1965-05-01",
+    "CreLatestDate": "1965-05-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1965, pg. 8, reads: \"Gloria's Hair Unlimited Show - The golden glow of the Hilton Ballroom beamed on a double-dozen lovely models on Sunday as Gloria Grate's second hair show drew an interested throng. Shown here are several models and their intriguing hair-do's.  Top row, left to right: Rochelle Robinson wearing 'The Hill Top Tower'; June Rodgers and the mahd [mad] 'Flower Basket'; Hattie Knox shows how Golden Haze over a permanent can be 'Soft and Sophisticated'; elegant Ann Perry is just right for an evening at a formal dance.  Lower photos, left to right; Mrs. Delores Sledge wears three Fastenfast hair pieces for the 'Discotheque Look'; the 'Pre-Teen Pony Lift' is modeled by young Paulette Silvers; Beraline Crawford models 'Eastern Accent' and  last, Sandra Taylor wears one long all-over wig for the 'Free and Easy' style. - Harris Photos.\"",
+    "TitMainTitle": "Portrait of Rochelle Robinson modeling hairstyle of mass of curls seated on top of head, in Pittsburgh Hilton Ballroom for Gloria Golden Grate's Hair Unlimited show",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hilton Hotel (Pittsburgh, Pa.)Hairstyles--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "015469cd-a2ea-466d-bf47-d4d3d15c4a4c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30890,
+    "MulMultiMediaRef_key": 14581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30890/sizes/24480-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 14573,
+    "irn": 24480,
+    "TitAccessionNo": "2001.35.14603",
+    "CreDateCreated": "May 1965",
+    "CreEarliestDate": "1965-05-01",
+    "CreLatestDate": "1965-05-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1965, pg. 8, reads: \"Gloria's Hair Unlimited Show - The golden glow of the Hilton Ballroom beamed on a double-dozen lovely models on Sunday as Gloria Grate's second hair show drew an interested throng. Shown here are several models and their intriguing hair-do's.  Top row, left to right: Rochelle Robinson wearing 'The Hill Top Tower'; June Rodgers and the mahd [mad] 'Flower Basket'; Hattie Knox shows how Golden Haze over a permanent can be 'Soft and Sophisticated'; elegant Ann Perry is just right for an evening at a formal dance.  Lower photos, left to right; Mrs. Delores Sledge wears three Fastenfast hair pieces for the 'Discotheque Look'; the 'Pre-Teen Pony Lift' is modeled by young Paulette Silvers; Beraline Crawford models 'Eastern Accent' and  last, Sandra Taylor wears one long all-over wig for the 'Free and Easy' style. - Harris Photos.\"",
+    "TitMainTitle": "Portrait of Rochelle Robinson modeling hairstyle of mass of curls seated on top of head, in Pittsburgh Hilton Ballroom for Gloria Golden Grate's Hair Unlimited show",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hilton Hotel (Pittsburgh, Pa.)Hairstyles--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "015469cd-a2ea-466d-bf47-d4d3d15c4a4c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30890,
+    "MulMultiMediaRef_key": 14581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30890/sizes/24480-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Hattie Knox",
+        "status": "suggested"
+      },
+      {
+        "data": "Sandra Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloria Grate 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Beraline Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Ann Perry",
+        "status": "suggested"
+      },
+      {
+        "data": "Rochelle Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Paulette Silvers",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Sledge",
+        "status": "suggested"
+      },
+      {
+        "data": "Flower Basket '",
+        "status": "suggested"
+      },
+      {
+        "data": "June Rodgers",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Hairstyles",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Gloria's Hair Unlimited Show - The golden glow of the Hilton Ballroom beamed on a double-dozen lovely models on Sunday as Gloria Grate's second hair show drew an interested throng. Shown here are several models and their intriguing hair-do's.  Top row, left to right: Rochelle Robinson wearing 'The Hill Top Tower'; June Rodgers and the mahd [mad] 'Flower Basket'; Hattie Knox shows how Golden Haze over a permanent can be 'Soft and Sophisticated'; elegant Ann Perry is just right for an evening at a formal dance.  Lower photos, left to right; Mrs. Delores Sledge wears three Fastenfast hair pieces for the 'Discotheque Look'; the 'Pre-Teen Pony Lift' is modeled by young Paulette Silvers; Beraline Crawford models 'Eastern Accent' and  last, Sandra Taylor wears one long all-over wig for the 'Free and Easy' style. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 22, 1965",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "hair",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "the 'Free and Easy'",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hairstyles",
+        "status": "suggested"
+      },
+      {
+        "data": "Sandra Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Hilton Hotel ",
+        "status": "suggested"
+      },
+      {
+        "data": "Flower Basket '",
+        "status": "suggested"
+      },
+      {
+        "data": "June Rodgers",
+        "status": "suggested"
+      },
+      {
+        "data": "May 22, 1965",
+        "status": "suggested"
+      },
+      {
+        "data": "an evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Soft and Sophisticated'",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Golden Haze",
+        "status": "suggested"
+      },
+      {
+        "data": "Fastenfast",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "'The Hill Top Tower'",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Hilton Ballroom",
+        "status": "suggested"
+      },
+      {
+        "data": "Ann Perry",
+        "status": "suggested"
+      },
+      {
+        "data": "the 'Discotheque Look'",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "hairstyle",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "shoulder",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "forehead",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "black hair",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,408 @@
 {
-	"irn": "20858",
-	"emuInput": {
-		"ecatalogue_key": "102",
-		"irn": "20858",
-		"TitAccessionNo": "2001.35.11614",
-		"TitMainTitle": "Centre Avenue YMCA basketball team with Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence, Donald Myers, physical education director Walter Crocker, and coach Merman Austin, posed in Y formation in gymnasium",
-		"CreDateCreated": "December 1955",
-		"CreEarliestDate": "1955-12-01",
-		"CreLatestDate": "1955-12-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 17, 1955, pg. 30, reads: \"'Y' Big Five - The powerful Centre Avenue 'Y' Big Five meets the McKeesport 'Y,' winners in the County League last season, at the Centre Avenue 'Y,' Friday night at 8:30.  A 7:30 preliminary pits the Olympic Trotters against the McKeesport Jayvees.  Players listed are Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence and Donald Myers.  Rear center (in street clothes) left to right, are Walter Crocker, 'Y' physical education director; Myers and Merman Austin, coach. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nBasketball teams--Pennsylvania--Pittsburgh.\nBasketball players--Pennsylvania--Pittsburgh.\nYoung Men's Christian Association (Pittsburgh, Pa.)\nGymnasiums--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20858",
+  "emuInput": {
+    "ecatalogue_key": 11584,
+    "irn": 20858,
+    "TitAccessionNo": "2001.35.11614",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 17, 1955, pg. 30, reads: \"'Y' Big Five - The powerful Centre Avenue 'Y' Big Five meets the McKeesport 'Y,' winners in the County League last season, at the Centre Avenue 'Y,' Friday night at 8:30.  A 7:30 preliminary pits the Olympic Trotters against the McKeesport Jayvees.  Players listed are Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence and Donald Myers.  Rear center (in street clothes) left to right, are Walter Crocker, 'Y' physical education director; Myers and Merman Austin, coach. - Harris Photo.\"",
+    "TitMainTitle": "Centre Avenue YMCA basketball team with Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence, Donald Myers, physical education director Walter Crocker, and coach Merman Austin, posed in Y formation in gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Basketball teams--Pennsylvania--Pittsburgh.Basketball players--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01a6df15-b7ce-4e00-bd34-96a8838fbd59",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27559,
+    "MulMultiMediaRef_key": 11592,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27559/sizes/20858-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11584,
+    "irn": 20858,
+    "TitAccessionNo": "2001.35.11614",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 17, 1955, pg. 30, reads: \"'Y' Big Five - The powerful Centre Avenue 'Y' Big Five meets the McKeesport 'Y,' winners in the County League last season, at the Centre Avenue 'Y,' Friday night at 8:30.  A 7:30 preliminary pits the Olympic Trotters against the McKeesport Jayvees.  Players listed are Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence and Donald Myers.  Rear center (in street clothes) left to right, are Walter Crocker, 'Y' physical education director; Myers and Merman Austin, coach. - Harris Photo.\"",
+    "TitMainTitle": "Centre Avenue YMCA basketball team with Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence, Donald Myers, physical education director Walter Crocker, and coach Merman Austin, posed in Y formation in gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Basketball teams--Pennsylvania--Pittsburgh.Basketball players--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01a6df15-b7ce-4e00-bd34-96a8838fbd59",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27559,
+    "MulMultiMediaRef_key": 11592,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27559/sizes/20858-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Myers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pat Wade",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Crocker",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Barber",
+        "status": "suggested"
+      },
+      {
+        "data": "Ray Gloster",
+        "status": "suggested"
+      },
+      {
+        "data": "James Covington",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Branch",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Lawrence",
+        "status": "suggested"
+      },
+      {
+        "data": "Craig Copeland",
+        "status": "suggested"
+      },
+      {
+        "data": "Merman Austin",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Myers",
+        "status": "suggested"
+      },
+      {
+        "data": "Rudy Riley",
+        "status": "suggested"
+      },
+      {
+        "data": "James Atkins",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Myers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Gymnasiums",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball players",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "30",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'Y' Big Five - The powerful Centre Avenue 'Y' Big Five meets the McKeesport 'Y,' winners in the County League last season, at the Centre Avenue 'Y,' Friday night at 8:30.  A 7:30 preliminary pits the Olympic Trotters against the McKeesport Jayvees.  Players listed are Samuel Barber, James Covington, Rudy Riley, James Atkins, Robert Branch, Pat Wade, Craig Copeland, Ray Gloster, Harry Lawrence and Donald Myers.  Rear center (in street clothes) left to right, are Walter Crocker, 'Y' physical education director; Myers and Merman Austin, coach. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 17, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "7:30",
+        "status": "suggested"
+      },
+      {
+        "data": "the Olympic Trotters",
+        "status": "suggested"
+      },
+      {
+        "data": "the County League",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Crocker",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "the Centre Avenue '",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Barber",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Men's Christian Association ",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Myers",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball players",
+        "status": "suggested"
+      },
+      {
+        "data": "James Atkins",
+        "status": "suggested"
+      },
+      {
+        "data": "last season",
+        "status": "suggested"
+      },
+      {
+        "data": "December 17, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Myers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday night",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball teams",
+        "status": "suggested"
+      },
+      {
+        "data": ")Gymnasiums",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "James Covington",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Branch",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Lawrence",
+        "status": "suggested"
+      },
+      {
+        "data": "Craig Copeland",
+        "status": "suggested"
+      },
+      {
+        "data": "8:30",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "performance",
+        "status": "suggested"
+      }
+    ]
+  }
 }

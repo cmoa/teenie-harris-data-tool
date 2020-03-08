@@ -1,20 +1,307 @@
 {
-	"irn": "31512",
-	"emuInput": {
-		"ecatalogue_key": "152",
-		"irn": "31512",
-		"TitAccessionNo": "2001.35.19576",
-		"TitMainTitle": "Woman handing small vase with flowers or plant to another woman, possibly Mrs. Johnson, in front of banner inscribed \"G.L.C. Club, Homestead, Pennsylvania, organized 1912\", in Clark Memorial Baptist Church, Homestead",
-		"CreDateCreated": "1962",
-		"CreEarliestDate": "1962",
-		"CreLatestDate": "1962",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 3, 1962, pg. A14, reads: \"HOMESTEAD'S GLC CLUB - Members of he GLC Club of Homestead which celebrated its 50th anniversary last Friday night at Clark Memorial Baptist Church... - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Homestead.\nGroup portraits--Pennsylvania--Homestead.\nClark Memorial Baptist Church (Homestead, Pa.)\nOrganizations--Pennsylvania--Homestead.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "31512",
+  "emuInput": {
+    "ecatalogue_key": 19546,
+    "irn": 31512,
+    "TitAccessionNo": "2001.35.19576",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 3, 1962, pg. A14, reads: \"HOMESTEAD'S GLC CLUB - Members of he GLC Club of Homestead which celebrated its 50th anniversary last Friday night at Clark Memorial Baptist Church... - Harris Photo.\"",
+    "TitMainTitle": "Woman handing small vase with flowers or plant to another woman, possibly Mrs. Johnson, in front of banner inscribed \"G.L.C. Club, Homestead, Pennsylvania, organized 1912\", in Clark Memorial Baptist Church, Homestead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Homestead.Group portraits--Pennsylvania--Homestead.Clark Memorial Baptist Church (Homestead, Pa.)Organizations--Pennsylvania--Homestead.",
+    "AdmGUIDValue_tab": "79325849-57c1-46db-8738-73d30bdeb05d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37837,
+    "MulMultiMediaRef_key": 19554,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37837/sizes/31512-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 19546,
+    "irn": 31512,
+    "TitAccessionNo": "2001.35.19576",
+    "CreDateCreated": "1962",
+    "CreEarliestDate": "1962",
+    "CreLatestDate": "1962",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 3, 1962, pg. A14, reads: \"HOMESTEAD'S GLC CLUB - Members of he GLC Club of Homestead which celebrated its 50th anniversary last Friday night at Clark Memorial Baptist Church... - Harris Photo.\"",
+    "TitMainTitle": "Woman handing small vase with flowers or plant to another woman, possibly Mrs. Johnson, in front of banner inscribed \"G.L.C. Club, Homestead, Pennsylvania, organized 1912\", in Clark Memorial Baptist Church, Homestead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Homestead.Group portraits--Pennsylvania--Homestead.Clark Memorial Baptist Church (Homestead, Pa.)Organizations--Pennsylvania--Homestead.",
+    "AdmGUIDValue_tab": "79325849-57c1-46db-8738-73d30bdeb05d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37837,
+    "MulMultiMediaRef_key": 19554,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37837/sizes/31512-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "HOMESTEAD'S GLC CLUB - Members of he GLC Club of Homestead which celebrated its 50th anniversary last Friday night at Clark Memorial Baptist Church... - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 3, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Clark Memorial Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": ")Organizations",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Clark Memorial Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "G.L.C. Club",
+        "status": "suggested"
+      },
+      {
+        "data": "March 3, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "1912",
+        "status": "suggested"
+      },
+      {
+        "data": "GLC Club of Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "HOMESTEAD'S",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion accessory",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "tradition",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "textile",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal accessory",
+        "status": "suggested"
+      }
+    ]
+  }
 }

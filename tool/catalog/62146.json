@@ -1,20 +1,283 @@
 {
-	"irn": "62146",
-	"emuInput": {
-		"ecatalogue_key": "311",
-		"irn": "62146",
-		"TitAccessionNo": "2001.35.48082",
-		"TitMainTitle": "Lieut. Gen. Charles E. Hart standing with Col. Paul E. Benson, recipient of Commanders trophy, on lawn of the University of Pittsburgh",
-		"CreDateCreated": "May 1958",
-		"CreEarliestDate": "1958-05-01",
-		"CreLatestDate": "1958-05-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. A24 reads: \"Receives Trophy - Commander's Trophy for most outstanding National Guard unit of Army Air Defense Commons is presented to Col. Paul E. Benson, commanding officer of the 708th Nike Missile Battalion, in a ceremony on the University of Pittsburgh campus. Congratulating Col. Benson is Lieut. Gen. Charles E. Hart. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nMilitary uniforms--Pennsylvania--Pittsburgh.\nTrophies--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62146",
+  "emuInput": {
+    "ecatalogue_key": 48039,
+    "irn": 62146,
+    "TitAccessionNo": "2001.35.48082",
+    "CreDateCreated": "May 1958",
+    "CreEarliestDate": "1958-05-01",
+    "CreLatestDate": "1958-05-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. A24 reads: \"Receives Trophy - Commander's Trophy for most outstanding National Guard unit of Army Air Defense Commons is presented to Col. Paul E. Benson, commanding officer of the 708th Nike Missile Battalion, in a ceremony on the University of Pittsburgh campus. Congratulating Col. Benson is Lieut. Gen. Charles E. Hart. - Harris Photo.\"",
+    "TitMainTitle": "Lieut. Gen. Charles E. Hart standing with Col. Paul E. Benson, recipient of Commanders trophy, on lawn of the University of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22918331-6ba0-4049-9661-784f3753c87a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70421,
+    "MulMultiMediaRef_key": 48047,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70421/sizes/62146-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48039,
+    "irn": 62146,
+    "TitAccessionNo": "2001.35.48082",
+    "CreDateCreated": "May 1958",
+    "CreEarliestDate": "1958-05-01",
+    "CreLatestDate": "1958-05-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 10, 1958, pg. A24 reads: \"Receives Trophy - Commander's Trophy for most outstanding National Guard unit of Army Air Defense Commons is presented to Col. Paul E. Benson, commanding officer of the 708th Nike Missile Battalion, in a ceremony on the University of Pittsburgh campus. Congratulating Col. Benson is Lieut. Gen. Charles E. Hart. - Harris Photo.\"",
+    "TitMainTitle": "Lieut. Gen. Charles E. Hart standing with Col. Paul E. Benson, recipient of Commanders trophy, on lawn of the University of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Trophies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22918331-6ba0-4049-9661-784f3753c87a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70421,
+    "MulMultiMediaRef_key": 48047,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70421/sizes/62146-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Charles E. Hart",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul E. Benson",
+        "status": "suggested"
+      },
+      {
+        "data": "Benson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Receives Trophy - Commander's Trophy for most outstanding National Guard unit of Army Air Defense Commons is presented to Col. Paul E. Benson, commanding officer of the 708th Nike Missile Battalion, in a ceremony on the University of Pittsburgh campus. Congratulating Col. Benson is Lieut. Gen. Charles E. Hart. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 10, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "National Guard",
+        "status": "suggested"
+      },
+      {
+        "data": "the 708th Nike Missile Battalion",
+        "status": "suggested"
+      },
+      {
+        "data": "Army Air Defense Commons",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "the University of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "May 10, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul E. Benson",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Lieut",
+        "status": "suggested"
+      },
+      {
+        "data": "Benson",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles E. Hart",
+        "status": "suggested"
+      },
+      {
+        "data": "Receives Trophy - Commander's Trophy",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

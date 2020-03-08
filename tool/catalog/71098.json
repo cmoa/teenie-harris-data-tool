@@ -1,20 +1,334 @@
 {
-	"irn": "71098",
-	"emuInput": {
-		"ecatalogue_key": "375",
-		"irn": "71098",
-		"TitAccessionNo": "2001.35.56314",
-		"TitMainTitle": "Portrait of boy wearing geometric patterned shirt over light colored t-shirt, holding basketball, at South Park for Pittsburgh Courier newsboys picnic",
-		"CreDateCreated": "September 2, 1960",
-		"CreEarliestDate": "1960-09-02",
-		"CreLatestDate": "1960-09-02",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 10, 1960, pg. A2, reads: \"Top Newsboys Win Top Prizes - The smiling faces of Courier newsboy prize-winners were quite evident at the annual picnic last Friday in South Park. These boys received sports equipment, consisting of footballs, basketballs, ping pong and badminton sets, baseballs, bats and gloves.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nBasketball--Pennsylvania--Pittsburgh.\nAllegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.\nBoys--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "71098",
+  "emuInput": {
+    "ecatalogue_key": 56271,
+    "irn": 71098,
+    "TitAccessionNo": "2001.35.56314",
+    "CreDateCreated": "September 2, 1960",
+    "CreEarliestDate": "1960-09-02",
+    "CreLatestDate": "1960-09-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 10, 1960, pg. A2, reads: \"Top Newsboys Win Top Prizes - The smiling faces of Courier newsboy prize-winners were quite evident at the annual picnic last Friday in South Park. These boys received sports equipment, consisting of footballs, basketballs, ping pong and badminton sets, baseballs, bats and gloves.\"",
+    "TitMainTitle": "Portrait of boy wearing geometric patterned shirt over light colored t-shirt, holding basketball, at South Park for Pittsburgh Courier newsboys picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Basketball--Pennsylvania--Pittsburgh.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "21061639-f9e2-4cdb-ba44-fefe53228386",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87307,
+    "MulMultiMediaRef_key": 56280,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87307/sizes/71098-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56271,
+    "irn": 71098,
+    "TitAccessionNo": "2001.35.56314",
+    "CreDateCreated": "September 2, 1960",
+    "CreEarliestDate": "1960-09-02",
+    "CreLatestDate": "1960-09-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 10, 1960, pg. A2, reads: \"Top Newsboys Win Top Prizes - The smiling faces of Courier newsboy prize-winners were quite evident at the annual picnic last Friday in South Park. These boys received sports equipment, consisting of footballs, basketballs, ping pong and badminton sets, baseballs, bats and gloves.\"",
+    "TitMainTitle": "Portrait of boy wearing geometric patterned shirt over light colored t-shirt, holding basketball, at South Park for Pittsburgh Courier newsboys picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Basketball--Pennsylvania--Pittsburgh.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.Boys--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "21061639-f9e2-4cdb-ba44-fefe53228386",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87307,
+    "MulMultiMediaRef_key": 56280,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87307/sizes/71098-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Top Newsboys Win Top Prizes - The smiling faces of Courier newsboy prize-winners were quite evident at the annual picnic last Friday in South Park. These boys received sports equipment, consisting of footballs, basketballs, ping pong and badminton sets, baseballs, bats and gloves.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 10, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "Top Newsboys Win Top Prizes -",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County ",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "September 10, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Department of Parks, Recreation, and Conservation",
+        "status": "suggested"
+      },
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "baseball",
+        "status": "suggested"
+      },
+      {
+        "data": "ball",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "eye",
+        "status": "suggested"
+      },
+      {
+        "data": "equipment",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,320 @@
 {
-	"irn": "20894",
-	"emuInput": {
-		"ecatalogue_key": "103",
-		"irn": "20894",
-		"TitAccessionNo": "2001.35.11681",
-		"TitMainTitle": "Portrait of Delores Woodfork wearing scoop neck dress with gathers at neckline and beaded earrings, seated next to desk with wooden statue, another pose",
-		"CreDateCreated": "September 1963",
-		"CreEarliestDate": "1963-09-01",
-		"CreLatestDate": "1963-09-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 16 reads: \"Dynamic Danettes - Voicing their intention to make each one of their club members an NAACP life member, the Dynamic Danet[t]es Civic CLub is busy making plans to raise more funds. Left to right: Treasurer Margaret Nelson, General Chairman Florence Hutchinson, Secretary Gladys Brown, Audelle Wade, Delores Woodfork, Vice President Gladys Lawson, Betty Culberson, Jesse Grogan and President Ida Jones. - Harris Photos.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nClubs--Pennsylvania--Pittsburgh.\nJewelry--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20894",
+  "emuInput": {
+    "ecatalogue_key": 11651,
+    "irn": 20894,
+    "TitAccessionNo": "2001.35.11681",
+    "CreDateCreated": "September 1963",
+    "CreEarliestDate": "1963-09-01",
+    "CreLatestDate": "1963-09-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 16 reads: \"Dynamic Danettes - Voicing their intention to make each one of their club members an NAACP life member, the Dynamic Danet[t]es Civic CLub is busy making plans to raise more funds. Left to right: Treasurer Margaret Nelson, General Chairman Florence Hutchinson, Secretary Gladys Brown, Audelle Wade, Delores Woodfork, Vice President Gladys Lawson, Betty Culberson, Jesse Grogan and President Ida Jones. - Harris Photos.\"",
+    "TitMainTitle": "Portrait of Delores Woodfork wearing scoop neck dress with gathers at neckline and beaded earrings, seated next to desk with wooden statue, another pose",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40110785-fac2-4c23-8ec2-3691bfa602ce",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14654,
+    "MulMultiMediaRef_key": 11659,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14654/sizes/20894-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11651,
+    "irn": 20894,
+    "TitAccessionNo": "2001.35.11681",
+    "CreDateCreated": "September 1963",
+    "CreEarliestDate": "1963-09-01",
+    "CreLatestDate": "1963-09-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 16 reads: \"Dynamic Danettes - Voicing their intention to make each one of their club members an NAACP life member, the Dynamic Danet[t]es Civic CLub is busy making plans to raise more funds. Left to right: Treasurer Margaret Nelson, General Chairman Florence Hutchinson, Secretary Gladys Brown, Audelle Wade, Delores Woodfork, Vice President Gladys Lawson, Betty Culberson, Jesse Grogan and President Ida Jones. - Harris Photos.\"",
+    "TitMainTitle": "Portrait of Delores Woodfork wearing scoop neck dress with gathers at neckline and beaded earrings, seated next to desk with wooden statue, another pose",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40110785-fac2-4c23-8ec2-3691bfa602ce",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 14654,
+    "MulMultiMediaRef_key": 11659,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/14654/sizes/20894-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Betty Culberson",
+        "status": "suggested"
+      },
+      {
+        "data": "Ida Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Jesse Grogan",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Audelle Wade",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Hutchinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Nelson",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Woodfork",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dynamic Danettes - Voicing their intention to make each one of their club members an NAACP life member, the Dynamic Danet[t]es Civic CLub is busy making plans to raise more funds. Left to right: Treasurer Margaret Nelson, General Chairman Florence Hutchinson, Secretary Gladys Brown, Audelle Wade, Delores Woodfork, Vice President Gladys Lawson, Betty Culberson, Jesse Grogan and President Ida Jones. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 21, 1963",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "Ida Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "NAACP",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "September 21, 1963,",
+        "status": "suggested"
+      },
+      {
+        "data": "Dynamic Danet[t]es Civic CLub",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Nelson",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "shoulder",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

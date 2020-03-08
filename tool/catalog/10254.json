@@ -1,20 +1,392 @@
 {
-	"irn": "10254",
-	"emuInput": {
-		"ecatalogue_key": "43",
-		"irn": "10254",
-		"TitAccessionNo": "2001.35.5802",
-		"TitMainTitle": "Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly, standing in front of painted stone backdrop, for Beauty Shop Owners' Fashion Review in Schenley High School",
-		"CreDateCreated": "March 1945",
-		"CreEarliestDate": "1945-03-01",
-		"CreLatestDate": "1945-03-31",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1945, pg. 8 reads: \"Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.\"  Related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nFur--Pennsylvania--Pittsburgh.\nFashion models--Pennsylvania--Pittsburgh.\nSchenley High School (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "10254",
+  "emuInput": {
+    "ecatalogue_key": 5792,
+    "irn": 10254,
+    "TitAccessionNo": "2001.35.5802",
+    "CreDateCreated": "March 1945",
+    "CreEarliestDate": "1945-03-01",
+    "CreLatestDate": "1945-03-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1945, pg. 8 reads: \"Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.\"  Related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13",
+    "TitMainTitle": "Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly, standing in front of painted stone backdrop, for Beauty Shop Owners' Fashion Review in Schenley High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Fur--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.Schenley High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "63209427-36cb-47ba-b7f3-f11418213d19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21196,
+    "MulMultiMediaRef_key": 5799,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21196/sizes/10254-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 5792,
+    "irn": 10254,
+    "TitAccessionNo": "2001.35.5802",
+    "CreDateCreated": "March 1945",
+    "CreEarliestDate": "1945-03-01",
+    "CreLatestDate": "1945-03-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 24, 1945, pg. 8 reads: \"Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.\"  Related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13",
+    "TitMainTitle": "Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly, standing in front of painted stone backdrop, for Beauty Shop Owners' Fashion Review in Schenley High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Fur--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.Schenley High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "63209427-36cb-47ba-b7f3-f11418213d19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 21196,
+    "MulMultiMediaRef_key": 5799,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/21196/sizes/10254-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Beverly",
+        "status": "suggested"
+      },
+      {
+        "data": "Emily King",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter Parade",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Delany",
+        "status": "suggested"
+      },
+      {
+        "data": "E. Bernice Coleman",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Moore",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Fur",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Models (Persons)",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier newspaper, March 24, 1945, pg. 8 reads: \"Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.\"  Related images published in Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      },
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 24, 1945, pg. 8 reads: \"Gorgeous Glamour Girls - This bevy of fashionable young women added plenty of dash and charm to the Beauty Shop Owners' Fashion Revue, Tuesday evening, in Schenley High School Auditorium. Smartly dressed from head to toe, they set the pace for styles in Easter Parade and summer sports wear.  Right photo, suited and ready for Easter: Emily King, E. Bernice Coleman, Helen Delany, Sarah Moore, and Gladys Beverly.-Harris Photo.\"  Related images published in Pittsburgh Courier newspaper, March 24, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion models",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "the Beauty Shop Owners'",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School Auditorium",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Beauty Shop Owners' Fashion Review",
+        "status": "suggested"
+      },
+      {
+        "data": "Easter Parade",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Gorgeous Glamour Girls -",
+        "status": "suggested"
+      },
+      {
+        "data": "Fur",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Emily King",
+        "status": "suggested"
+      },
+      {
+        "data": "March 24, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      }
+    ]
+  }
 }

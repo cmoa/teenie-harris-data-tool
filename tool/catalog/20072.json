@@ -1,20 +1,332 @@
 {
-	"irn": "20072",
-	"emuInput": {
-		"ecatalogue_key": "96",
-		"irn": "20072",
-		"TitAccessionNo": "2001.35.11074",
-		"TitMainTitle": "Portrait of Helen Phillips posed with hand on hip, in front of scalloped background, in Harris Studio",
-		"CreDateCreated": "January - February 1939",
-		"CreEarliestDate": "1939-01-01",
-		"CreLatestDate": "1939-02-04",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 4, 1939, pg. 9, reads: \"Representing Smoky City - Lovely Helen Phillips will represent the Pittsburgh Chapter of the Debs About Town, when they meet in New York next week-end. (Photo by Harris).\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nClothing and dress--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20072",
+  "emuInput": {
+    "ecatalogue_key": 11047,
+    "irn": 20072,
+    "TitAccessionNo": "2001.35.11074",
+    "CreDateCreated": "January - February 1939",
+    "CreEarliestDate": "1939-01-01",
+    "CreLatestDate": "1939-02-04",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 4, 1939, pg. 9, reads: \"Representing Smoky City - Lovely Helen Phillips will represent the Pittsburgh Chapter of the Debs About Town, when they meet in New York next week-end. (Photo by Harris).\"",
+    "TitMainTitle": "Portrait of Helen Phillips posed with hand on hip, in front of scalloped background, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Clothing and dress--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "46262205-1d03-42e0-b0f4-6897c01b515f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27030,
+    "MulMultiMediaRef_key": 11055,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27030/sizes/20072-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11047,
+    "irn": 20072,
+    "TitAccessionNo": "2001.35.11074",
+    "CreDateCreated": "January - February 1939",
+    "CreEarliestDate": "1939-01-01",
+    "CreLatestDate": "1939-02-04",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 4, 1939, pg. 9, reads: \"Representing Smoky City - Lovely Helen Phillips will represent the Pittsburgh Chapter of the Debs About Town, when they meet in New York next week-end. (Photo by Harris).\"",
+    "TitMainTitle": "Portrait of Helen Phillips posed with hand on hip, in front of scalloped background, in Harris Studio",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Clothing and dress--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "46262205-1d03-42e0-b0f4-6897c01b515f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27030,
+    "MulMultiMediaRef_key": 11055,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27030/sizes/20072-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Helen Phillips",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Representing Smoky City - Lovely Helen Phillips will represent the Pittsburgh Chapter of the Debs About Town, when they meet in New York next week-end. (Photo by Harris).",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 4, 1939",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "the Pittsburgh Chapter of the Debs About Town",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Phillips",
+        "status": "suggested"
+      },
+      {
+        "data": ")Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "next week-end",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "February 4, 1939",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "model",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "outerwear",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "pattern",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

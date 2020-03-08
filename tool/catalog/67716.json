@@ -1,20 +1,324 @@
 {
-	"irn": "67716",
-	"emuInput": {
-		"ecatalogue_key": "352",
-		"irn": "67716",
-		"TitAccessionNo": "2001.35.53379",
-		"TitMainTitle": "Group portrait of eight Alpha Kappa Alpha members, from left: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes, and Geri Reynolds, gathered around table to finalize debutante cotillion plans, another version",
-		"CreDateCreated": "January 1954",
-		"CreEarliestDate": "1954-01-01",
-		"CreLatestDate": "1954-01-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 30, 1954, pg. 11 reads: \"AKA Cotillion Committee - Pictured making final plans for the third annual AKA Debutante Cotillion, to be held Feb. 20, in Syria Mosque, are, from left to right: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes and Geri Reynolds. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nMirrors--Pennsylvania--Pittsburgh.\nAlpha Kappa Alpha Sorority.\nGuyn, Ruth.\nAdams, Lillian.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67716",
+  "emuInput": {
+    "ecatalogue_key": 53336,
+    "irn": 67716,
+    "TitAccessionNo": "2001.35.53379",
+    "CreDateCreated": "January 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-01-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 30, 1954, pg. 11 reads: \"AKA Cotillion Committee - Pictured making final plans for the third annual AKA Debutante Cotillion, to be held Feb. 20, in Syria Mosque, are, from left to right: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes and Geri Reynolds. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of eight Alpha Kappa Alpha members, from left: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes, and Geri Reynolds, gathered around table to finalize debutante cotillion plans, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Alpha Kappa Alpha Sorority.Guyn, Ruth.Adams, Lillian.",
+    "AdmGUIDValue_tab": "85267923-6079-4dcb-914e-1debb13802dc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78051,
+    "MulMultiMediaRef_key": 53344,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78051/sizes/67716-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53336,
+    "irn": 67716,
+    "TitAccessionNo": "2001.35.53379",
+    "CreDateCreated": "January 1954",
+    "CreEarliestDate": "1954-01-01",
+    "CreLatestDate": "1954-01-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 30, 1954, pg. 11 reads: \"AKA Cotillion Committee - Pictured making final plans for the third annual AKA Debutante Cotillion, to be held Feb. 20, in Syria Mosque, are, from left to right: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes and Geri Reynolds. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of eight Alpha Kappa Alpha members, from left: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes, and Geri Reynolds, gathered around table to finalize debutante cotillion plans, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Alpha Kappa Alpha Sorority.Guyn, Ruth.Adams, Lillian.",
+    "AdmGUIDValue_tab": "85267923-6079-4dcb-914e-1debb13802dc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78051,
+    "MulMultiMediaRef_key": 53344,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78051/sizes/67716-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Emmalene Hayes",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois S. Curry",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillian H. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Geri Reynolds",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary H. Page",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth B. Guyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn V. Waters",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "AKA Cotillion Committee - Pictured making final plans for the third annual AKA Debutante Cotillion, to be held Feb. 20, in Syria Mosque, are, from left to right: Evelyn V. Waters, Mary H. Page, Ruth B. Guyn, Lillian H. Adams, Lois S. Curry, Emmalene Hayes and Geri Reynolds. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 30, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Feb. 20",
+        "status": "suggested"
+      },
+      {
+        "data": "Cotillion Committee - Pictured",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Kappa Alpha",
+        "status": "suggested"
+      },
+      {
+        "data": "Guyn, Ruth",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Geri Reynolds",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "January 30, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary H. Page",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Kappa Alpha Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Adams, Lillian",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "marimba",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

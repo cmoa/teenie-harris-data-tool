@@ -1,20 +1,376 @@
 {
-	"irn": "54510",
-	"emuInput": {
-		"ecatalogue_key": "230",
-		"irn": "54510",
-		"TitAccessionNo": "2001.35.41206",
-		"TitMainTitle": "Group portrait of leaders in the Allegheny Union Baptist Association, including left to right: Reverends H. R. Williams, J. A. Williams, G. F. Nelson, E. P. Tunie, A. M. Waller, S. L. Spear, S. A. Thurston, and H. H. Gaines, posed in Metropolitan Baptist Church, Northside, another version",
-		"CreDateCreated": "1954",
-		"CreEarliestDate": "1954",
-		"CreLatestDate": "1954",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 24, 1954, pg. 6, reads: \"Baptist Leaders Greet Moderator - Dr. E. pg. Tunie was greeted by leaders of the Allegheny Union Baptist Association at Metropolitan Baptist Church, North Side, last week. Here, left to right, the Revs. H. R. Williams, secretary; J. A. Williams, former moderator, UBA: G. F. Nelson, a director; E. P. Tunie, moderator; B. H. Logan, chairman, board of directors; A. M. Waller, vice moderator; S. L. Spear, host pastor and former moderator of ABGA; S. A. Thurston, elected first treasurer, and H. H. Gaines, corresponding secretary. - Harris Photo.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMeetings--Pennsylvania--Pittsburgh.\nStages (Platforms)--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nHandshaking--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "54510",
+  "emuInput": {
+    "ecatalogue_key": 41164,
+    "irn": 54510,
+    "TitAccessionNo": "2001.35.41206",
+    "CreDateCreated": "1954",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 24, 1954, pg. 6, reads: \"Baptist Leaders Greet Moderator - Dr. E. pg. Tunie was greeted by leaders of the Allegheny Union Baptist Association at Metropolitan Baptist Church, North Side, last week. Here, left to right, the Revs. H. R. Williams, secretary; J. A. Williams, former moderator, UBA: G. F. Nelson, a director; E. P. Tunie, moderator; B. H. Logan, chairman, board of directors; A. M. Waller, vice moderator; S. L. Spear, host pastor and former moderator of ABGA; S. A. Thurston, elected first treasurer, and H. H. Gaines, corresponding secretary. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of leaders in the Allegheny Union Baptist Association, including left to right: Reverends H. R. Williams, J. A. Williams, G. F. Nelson, E. P. Tunie, A. M. Waller, S. L. Spear, S. A. Thurston, and H. H. Gaines, posed in Metropolitan Baptist Church, Northside, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "35166063-56d2-4ebe-a88d-13fc6f77b475",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61844,
+    "MulMultiMediaRef_key": 41172,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61844/sizes/54510-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41164,
+    "irn": 54510,
+    "TitAccessionNo": "2001.35.41206",
+    "CreDateCreated": "1954",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 24, 1954, pg. 6, reads: \"Baptist Leaders Greet Moderator - Dr. E. pg. Tunie was greeted by leaders of the Allegheny Union Baptist Association at Metropolitan Baptist Church, North Side, last week. Here, left to right, the Revs. H. R. Williams, secretary; J. A. Williams, former moderator, UBA: G. F. Nelson, a director; E. P. Tunie, moderator; B. H. Logan, chairman, board of directors; A. M. Waller, vice moderator; S. L. Spear, host pastor and former moderator of ABGA; S. A. Thurston, elected first treasurer, and H. H. Gaines, corresponding secretary. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of leaders in the Allegheny Union Baptist Association, including left to right: Reverends H. R. Williams, J. A. Williams, G. F. Nelson, E. P. Tunie, A. M. Waller, S. L. Spear, S. A. Thurston, and H. H. Gaines, posed in Metropolitan Baptist Church, Northside, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "35166063-56d2-4ebe-a88d-13fc6f77b475",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61844,
+    "MulMultiMediaRef_key": 41172,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61844/sizes/54510-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "S. A. Thurston",
+        "status": "suggested"
+      },
+      {
+        "data": "E. P. Tunie",
+        "status": "suggested"
+      },
+      {
+        "data": "A. M. Waller",
+        "status": "suggested"
+      },
+      {
+        "data": "J. A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "B. H. Logan",
+        "status": "suggested"
+      },
+      {
+        "data": "H. R. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "G. F. Nelson",
+        "status": "suggested"
+      },
+      {
+        "data": "H. H. Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "Tunie",
+        "status": "suggested"
+      },
+      {
+        "data": "S. L. Spear",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "Revs",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "North Side",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "6",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Baptist Leaders Greet Moderator - Dr. E. pg. Tunie was greeted by leaders of the Allegheny Union Baptist Association at Metropolitan Baptist Church, North Side, last week. Here, left to right, the Revs. H. R. Williams, secretary; J. A. Williams, former moderator, UBA: G. F. Nelson, a director; E. P. Tunie, moderator; B. H. Logan, chairman, board of directors; A. M. Waller, vice moderator; S. L. Spear, host pastor and former moderator of ABGA; S. A. Thurston, elected first treasurer, and H. H. Gaines, corresponding secretary. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 24, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "S. A. Thurston",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "H. R. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "the Allegheny Union Baptist Association",
+        "status": "suggested"
+      },
+      {
+        "data": "G. F. Nelson",
+        "status": "suggested"
+      },
+      {
+        "data": "Metropolitan Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "ABGA",
+        "status": "suggested"
+      },
+      {
+        "data": "Baptist",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "J. A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "Stages (Platforms)",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "H. H. Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "Tunie",
+        "status": "suggested"
+      },
+      {
+        "data": "S. L. Spear",
+        "status": "suggested"
+      },
+      {
+        "data": "UBA",
+        "status": "suggested"
+      },
+      {
+        "data": "July 24, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Revs",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "B. H. Logan",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

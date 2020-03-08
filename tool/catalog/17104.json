@@ -1,20 +1,308 @@
 {
-	"irn": "17104",
-	"emuInput": {
-		"ecatalogue_key": "75",
-		"irn": "17104",
-		"TitAccessionNo": "2001.35.8946",
-		"TitMainTitle": "Display of three caskets and palm trees in viewing room at Gaines Funeral Home",
-		"CreDateCreated": "May 1939",
-		"CreEarliestDate": "1939-05-01",
-		"CreLatestDate": "1939-05-27",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 27, 1939, pg. 18, reads: \"Gaines Funeral Home Reflects 'The World of Tomorrow' Most Modern Equipment Plus Scientific, Efficient Service Marks New Step Forward ... Pictures reading top left to right: ... REPOSING ROOM - Three bodies can be handily displayed at one time.... THE FUNERAL services may be held in home, in the church or in Gaines' well appointed chapel. Complete arrangements for the services will be made by one of the staff, including the minister of the family's choice, the music and musicians and even the pallbearers, if desired.- Photos by Harris ... George W. Gaines, Director of Funerals ... 220 Auburn Street, E. E., Pittsburgh, Pa.\"",
-		"CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.\nGaines Funeral Home (Pittsburgh, Pa.)\nFlowers--Pennsylvania--Pittsburgh.\nCaskets--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "17104",
+  "emuInput": {
+    "ecatalogue_key": 8924,
+    "irn": 17104,
+    "TitAccessionNo": "2001.35.8946",
+    "CreDateCreated": "May 1939",
+    "CreEarliestDate": "1939-05-01",
+    "CreLatestDate": "1939-05-27",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 27, 1939, pg. 18, reads: \"Gaines Funeral Home Reflects 'The World of Tomorrow' Most Modern Equipment Plus Scientific, Efficient Service Marks New Step Forward ... Pictures reading top left to right: ... REPOSING ROOM - Three bodies can be handily displayed at one time.... THE FUNERAL services may be held in home, in the church or in Gaines' well appointed chapel. Complete arrangements for the services will be made by one of the staff, including the minister of the family's choice, the music and musicians and even the pallbearers, if desired.- Photos by Harris ... George W. Gaines, Director of Funerals ... 220 Auburn Street, E. E., Pittsburgh, Pa.\"",
+    "TitMainTitle": "Display of three caskets and palm trees in viewing room at Gaines Funeral Home",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.Gaines Funeral Home (Pittsburgh, Pa.)Flowers--Pennsylvania--Pittsburgh.Caskets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "28503060-235c-4521-9d36-c16345eff508",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25121,
+    "MulMultiMediaRef_key": 8932,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25121/sizes/17104-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 8924,
+    "irn": 17104,
+    "TitAccessionNo": "2001.35.8946",
+    "CreDateCreated": "May 1939",
+    "CreEarliestDate": "1939-05-01",
+    "CreLatestDate": "1939-05-27",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 27, 1939, pg. 18, reads: \"Gaines Funeral Home Reflects 'The World of Tomorrow' Most Modern Equipment Plus Scientific, Efficient Service Marks New Step Forward ... Pictures reading top left to right: ... REPOSING ROOM - Three bodies can be handily displayed at one time.... THE FUNERAL services may be held in home, in the church or in Gaines' well appointed chapel. Complete arrangements for the services will be made by one of the staff, including the minister of the family's choice, the music and musicians and even the pallbearers, if desired.- Photos by Harris ... George W. Gaines, Director of Funerals ... 220 Auburn Street, E. E., Pittsburgh, Pa.\"",
+    "TitMainTitle": "Display of three caskets and palm trees in viewing room at Gaines Funeral Home",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.Gaines Funeral Home (Pittsburgh, Pa.)Flowers--Pennsylvania--Pittsburgh.Caskets--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "28503060-235c-4521-9d36-c16345eff508",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25121,
+    "MulMultiMediaRef_key": 8932,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25121/sizes/17104-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "George W. Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "Gaines",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Funeral homes",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Boxes",
+        "status": "suggested"
+      },
+      {
+        "data": "Chests",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Auburn Street",
+        "status": "suggested"
+      },
+      {
+        "data": "E. E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Flowers",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Auburn Street",
+        "status": "suggested"
+      },
+      {
+        "data": "E. E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Flowers",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Auburn Street",
+        "status": "suggested"
+      },
+      {
+        "data": "E. E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Flowers",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Auburn Street",
+        "status": "suggested"
+      },
+      {
+        "data": "E. E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Flowers",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Gaines Funeral Home Reflects 'The World of Tomorrow' Most Modern Equipment Plus Scientific, Efficient Service Marks New Step Forward ... Pictures reading top left to right: ... REPOSING ROOM - Three bodies can be handily displayed at one time.... THE FUNERAL services may be held in home, in the church or in Gaines' well appointed chapel. Complete arrangements for the services will be made by one of the staff, including the minister of the family's choice, the music and musicians and even the pallbearers, if desired.- Photos by Harris ... George W. Gaines, Director of Funerals ... 220 Auburn Street, E. E., Pittsburgh, Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 27, 1939",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Funeral homes",
+        "status": "suggested"
+      },
+      {
+        "data": ")Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Gaines",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Auburn Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Gaines Funeral Home ",
+        "status": "suggested"
+      },
+      {
+        "data": "May 27, 1939",
+        "status": "suggested"
+      },
+      {
+        "data": "Caskets",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "chair",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

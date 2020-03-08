@@ -1,20 +1,279 @@
 {
-	"irn": "67974",
-	"emuInput": {
-		"ecatalogue_key": "356",
-		"irn": "67974",
-		"TitAccessionNo": "2001.35.53767",
-		"TitMainTitle": "Portrait of June Morris wearing dark sweater and necklace with heart shaped pendant, posed in front of light colored background in Harris Studio for Hill City Teen Queen contest",
-		"CreDateCreated": "March 1954",
-		"CreEarliestDate": "1954-03-01",
-		"CreLatestDate": "1954-03-13",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 13, 1954, pg. 12 reads: \" More Queen Contestants - Another group of Pittsburgh teen-agers who are clamoring to wear the crown of Hill City Queen includes, left to right,...June Morris...Harris Photos.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67974",
+  "emuInput": {
+    "ecatalogue_key": 53724,
+    "irn": 67974,
+    "TitAccessionNo": "2001.35.53767",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 13, 1954, pg. 12 reads: \" More Queen Contestants - Another group of Pittsburgh teen-agers who are clamoring to wear the crown of Hill City Queen includes, left to right,...June Morris...Harris Photos.\"",
+    "TitMainTitle": "Portrait of June Morris wearing dark sweater and necklace with heart shaped pendant, posed in front of light colored background in Harris Studio for Hill City Teen Queen contest",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "88472330-aaaf-4be7-92dc-ea4af797a6d6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78170,
+    "MulMultiMediaRef_key": 53733,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78170/sizes/67974-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53724,
+    "irn": 67974,
+    "TitAccessionNo": "2001.35.53767",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 13, 1954, pg. 12 reads: \" More Queen Contestants - Another group of Pittsburgh teen-agers who are clamoring to wear the crown of Hill City Queen includes, left to right,...June Morris...Harris Photos.\"",
+    "TitMainTitle": "Portrait of June Morris wearing dark sweater and necklace with heart shaped pendant, posed in front of light colored background in Harris Studio for Hill City Teen Queen contest",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "88472330-aaaf-4be7-92dc-ea4af797a6d6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78170,
+    "MulMultiMediaRef_key": 53733,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78170/sizes/67974-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " More Queen Contestants - Another group of Pittsburgh teen-agers who are clamoring to wear the crown of Hill City Queen includes, left to right,...June Morris...Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 13, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "face",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "March 13, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Teen Queen",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "June",
+        "status": "suggested"
+      },
+      {
+        "data": "More Queen Contestants - Another",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Queen",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,358 @@
 {
-	"irn": "36686",
-	"emuInput": {
-		"ecatalogue_key": "172",
-		"irn": "36686",
-		"TitAccessionNo": "2001.35.24025",
-		"TitMainTitle": "William Stewart Amoco service station with pennant banners and grand opening signs, Herron and Webster Avenues, Hill District",
-		"CreDateCreated": "August - September 1958",
-		"CreEarliestDate": "1958-08-01",
-		"CreLatestDate": "1958-09-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 6, 1958, pg. A19, reads: Grand Opening - Activity is shown at the recent grand opening of William Stewart's beautifully remodeled Amoco Service Station at Herron and Webster Aves.  Visitors collected prizes, tokens and souvenirs during the three-day celebration, which attracted thousands of well-wishers. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nGas stations--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "36686",
+  "emuInput": {
+    "ecatalogue_key": 23994,
+    "irn": 36686,
+    "TitAccessionNo": "2001.35.24025",
+    "CreDateCreated": "August - September 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 6, 1958, pg. A19, reads: Grand Opening - Activity is shown at the recent grand opening of William Stewart's beautifully remodeled Amoco Service Station at Herron and Webster Aves.  Visitors collected prizes, tokens and souvenirs during the three-day celebration, which attracted thousands of well-wishers. - Harris Photo.\"",
+    "TitMainTitle": "William Stewart Amoco service station with pennant banners and grand opening signs, Herron and Webster Avenues, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Gas stations--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01429968-d37e-41c5-b5b0-2369f76580b6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42555,
+    "MulMultiMediaRef_key": 24002,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42555/sizes/36686-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 23994,
+    "irn": 36686,
+    "TitAccessionNo": "2001.35.24025",
+    "CreDateCreated": "August - September 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 6, 1958, pg. A19, reads: Grand Opening - Activity is shown at the recent grand opening of William Stewart's beautifully remodeled Amoco Service Station at Herron and Webster Aves.  Visitors collected prizes, tokens and souvenirs during the three-day celebration, which attracted thousands of well-wishers. - Harris Photo.\"",
+    "TitMainTitle": "William Stewart Amoco service station with pennant banners and grand opening signs, Herron and Webster Avenues, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Gas stations--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01429968-d37e-41c5-b5b0-2369f76580b6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42555,
+    "MulMultiMediaRef_key": 24002,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42555/sizes/36686-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "William Stewart Amoco",
+        "status": "suggested"
+      },
+      {
+        "data": "William Stewart 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Service stations",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Webster Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Webster Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Webster Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Webster Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "September 6, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Aves",
+        "status": "suggested"
+      },
+      {
+        "data": "September 6, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "three-day",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "A19",
+        "status": "suggested"
+      },
+      {
+        "data": "Gas stations",
+        "status": "suggested"
+      },
+      {
+        "data": "Amoco Service Station",
+        "status": "suggested"
+      },
+      {
+        "data": "William Stewart 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "transport",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "handcart",
+        "status": "suggested"
+      }
+    ]
+  }
 }

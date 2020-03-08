@@ -1,20 +1,460 @@
 {
-	"irn": "66645",
-	"emuInput": {
-		"ecatalogue_key": "343",
-		"irn": "66645",
-		"TitAccessionNo": "2001.35.52531",
-		"TitMainTitle": "Group portrait of man, and two women, including one on right wearing light colored short sleeved dress with floral lace overlay and ribbon on left shoulder, standing in interior of the Greene Hearth for Brown Lyons wedding, horizontal version",
-		"CreDateCreated": "1953",
-		"CreEarliestDate": "1953",
-		"CreLatestDate": "1953",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 22, 1953, pg. 11 reads: \"Marriage Announced - Mr. and Mrs. John B. Lyons announce the marriage of their daughter, Frances, to Albert T. Brown, which took place on Saturday, Aug. 15, at 1:30, in church of the Holy Cross, with the Rev. Samuel D. Rudder, officiating. Mrs. Theodore Witcher, sister of the bride was the matron of honor, while Alex Brown, the groom's brother, served as best man.  He is the son of Mrs. Fanny Brown.  The bride is a teacher in the A. Leo Weil School, and Mr. Brown is employed at the Arbuthnot Stevenson Company, and is the senior warden at Holy Cross Church.  Following a honeymoon trip to New York, the couple will reside at 7200 Hermitage Street. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGreene Hearth (Pittsburgh, Pa.)\nElderly people--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nWallpaper--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "66645",
+  "emuInput": {
+    "ecatalogue_key": 52488,
+    "irn": 66645,
+    "TitAccessionNo": "2001.35.52531",
+    "CreDateCreated": "1953",
+    "CreEarliestDate": "1953",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 22, 1953, pg. 11 reads: \"Marriage Announced - Mr. and Mrs. John B. Lyons announce the marriage of their daughter, Frances, to Albert T. Brown, which took place on Saturday, Aug. 15, at 1:30, in church of the Holy Cross, with the Rev. Samuel D. Rudder, officiating. Mrs. Theodore Witcher, sister of the bride was the matron of honor, while Alex Brown, the groom's brother, served as best man.  He is the son of Mrs. Fanny Brown.  The bride is a teacher in the A. Leo Weil School, and Mr. Brown is employed at the Arbuthnot Stevenson Company, and is the senior warden at Holy Cross Church.  Following a honeymoon trip to New York, the couple will reside at 7200 Hermitage Street. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of man, and two women, including one on right wearing light colored short sleeved dress with floral lace overlay and ribbon on left shoulder, standing in interior of the Greene Hearth for Brown Lyons wedding, horizontal version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)Elderly people--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39657629-b3c5-4773-aad1-7ee4296bf1c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76610,
+    "MulMultiMediaRef_key": 52496,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76610/sizes/66645-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 52488,
+    "irn": 66645,
+    "TitAccessionNo": "2001.35.52531",
+    "CreDateCreated": "1953",
+    "CreEarliestDate": "1953",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 22, 1953, pg. 11 reads: \"Marriage Announced - Mr. and Mrs. John B. Lyons announce the marriage of their daughter, Frances, to Albert T. Brown, which took place on Saturday, Aug. 15, at 1:30, in church of the Holy Cross, with the Rev. Samuel D. Rudder, officiating. Mrs. Theodore Witcher, sister of the bride was the matron of honor, while Alex Brown, the groom's brother, served as best man.  He is the son of Mrs. Fanny Brown.  The bride is a teacher in the A. Leo Weil School, and Mr. Brown is employed at the Arbuthnot Stevenson Company, and is the senior warden at Holy Cross Church.  Following a honeymoon trip to New York, the couple will reside at 7200 Hermitage Street. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of man, and two women, including one on right wearing light colored short sleeved dress with floral lace overlay and ribbon on left shoulder, standing in interior of the Greene Hearth for Brown Lyons wedding, horizontal version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)Elderly people--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39657629-b3c5-4773-aad1-7ee4296bf1c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76610,
+    "MulMultiMediaRef_key": 52496,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76610/sizes/66645-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Theodore Witcher",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel D. Rudder",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Fanny Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Alex Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown Lyons",
+        "status": "suggested"
+      },
+      {
+        "data": "John B. Lyons",
+        "status": "suggested"
+      },
+      {
+        "data": "Albert T. Brown",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Older people",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "7200 Hermitage Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "7200 Hermitage Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "7200 Hermitage Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "7200 Hermitage Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Marriage Announced - Mr. and Mrs. John B. Lyons announce the marriage of their daughter, Frances, to Albert T. Brown, which took place on Saturday, Aug. 15, at 1:30, in church of the Holy Cross, with the Rev. Samuel D. Rudder, officiating. Mrs. Theodore Witcher, sister of the bride was the matron of honor, while Alex Brown, the groom's brother, served as best man.  He is the son of Mrs. Fanny Brown.  The bride is a teacher in the A. Leo Weil School, and Mr. Brown is employed at the Arbuthnot Stevenson Company, and is the senior warden at Holy Cross Church.  Following a honeymoon trip to New York, the couple will reside at 7200 Hermitage Street. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 22, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearth ",
+        "status": "suggested"
+      },
+      {
+        "data": "Theodore Witcher",
+        "status": "suggested"
+      },
+      {
+        "data": "the Arbuthnot Stevenson Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Fanny Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Elderly people",
+        "status": "suggested"
+      },
+      {
+        "data": "1:30",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "John B. Lyons",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "7200 Hermitage Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "the A. Leo Weil School",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown Lyons",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances",
+        "status": "suggested"
+      },
+      {
+        "data": "Holy Cross Church",
+        "status": "suggested"
+      },
+      {
+        "data": ")Elderly people",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday, Aug. 15",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the Holy Cross",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Alex Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "August 22, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "socialite",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

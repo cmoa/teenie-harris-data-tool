@@ -1,20 +1,363 @@
 {
-	"irn": "27658",
-	"emuInput": {
-		"ecatalogue_key": "132",
-		"irn": "27658",
-		"TitAccessionNo": "2001.35.16857",
-		"TitMainTitle": "Group portrait of thirteen FROGS members, possibly including John Stanton fourth from left in front, and Linn Washington second from left and Atty. Henry Smith fourth from left in back, posed in front of bandstand in Gateway Plaza",
-		"CreDateCreated": "August 1958",
-		"CreEarliestDate": "1958-08-01",
-		"CreLatestDate": "1958-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 9, 1958, pg. A15, reads: \"'FROGS' Guests - Getting a bang out of the annual Frog formal held at Gateway Plaza... - Teenie Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nFROGS Club (Pittsburgh, Pa.)\nGateway Plaza (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "27658",
+  "emuInput": {
+    "ecatalogue_key": 16827,
+    "irn": 27658,
+    "TitAccessionNo": "2001.35.16857",
+    "CreDateCreated": "August 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 9, 1958, pg. A15, reads: \"'FROGS' Guests - Getting a bang out of the annual Frog formal held at Gateway Plaza... - Teenie Harris Photo.\"",
+    "TitMainTitle": "Group portrait of thirteen FROGS members, possibly including John Stanton fourth from left in front, and Linn Washington second from left and Atty. Henry Smith fourth from left in back, posed in front of bandstand in Gateway Plaza",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Gateway Plaza (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "50031161-dce1-4e3c-a9ee-9ba50692c024",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33359,
+    "MulMultiMediaRef_key": 16835,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33359/sizes/27658-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16827,
+    "irn": 27658,
+    "TitAccessionNo": "2001.35.16857",
+    "CreDateCreated": "August 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 9, 1958, pg. A15, reads: \"'FROGS' Guests - Getting a bang out of the annual Frog formal held at Gateway Plaza... - Teenie Harris Photo.\"",
+    "TitMainTitle": "Group portrait of thirteen FROGS members, possibly including John Stanton fourth from left in front, and Linn Washington second from left and Atty. Henry Smith fourth from left in back, posed in front of bandstand in Gateway Plaza",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Gateway Plaza (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "50031161-dce1-4e3c-a9ee-9ba50692c024",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33359,
+    "MulMultiMediaRef_key": 16835,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33359/sizes/27658-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Linn Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "John Stanton",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Smith",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Frog",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "'FROGS' Guests - Getting a bang out of the annual Frog formal held at Gateway Plaza... - Teenie Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 9, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Henry Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "John Stanton",
+        "status": "suggested"
+      },
+      {
+        "data": "FROGS Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Frog",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": ")Gateway Plaza ",
+        "status": "suggested"
+      },
+      {
+        "data": "' Guests - Getting",
+        "status": "suggested"
+      },
+      {
+        "data": "August 9, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "nurse",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "staff",
+        "status": "suggested"
+      }
+    ]
+  }
 }

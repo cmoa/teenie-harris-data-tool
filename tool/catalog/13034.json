@@ -1,20 +1,475 @@
 {
-	"irn": "13034",
-	"emuInput": {
-		"ecatalogue_key": "52",
-		"irn": "13034",
-		"TitAccessionNo": "2001.35.6734",
-		"TitMainTitle": "Boxer \"Jersey\" Joe Walcott with baby on lap getting haircut from barber Clarence \"Speedy\" Williams in Crystal Barber Shop",
-		"CreDateCreated": "July 1951",
-		"CreEarliestDate": "1951-07-01",
-		"CreLatestDate": "1951-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "The Crystal Barber Shop and Billiard Parlor was owned by Woogie Harris.\nCutline of related image published in Pittsburgh Courier newspaper, July 28, 1951, page 2, reads: \"Detectives Guard Champ's Haircut - When the new heavyweight champion, Jersey Joe Walcott, stopped off at \"Woogie\" Harris' Crystal Barber Shop on Wylie Avenue last Thursday to get a haircut after his knockout of Ezzard Charles, the previous night, the crowd that wanted to get a look at Walcott were so thick police had to protect him from his admirers. Here Detectives Eugene Parker, James Voyle Parker and John B. Thompson, who acted as bodyguards for Walcott while he was here, wait for the new champ to get his hair clipped by barber \"Speedy\" Williams. - Harris Photo\"",
-		"CatSubject_tab": "Barbers--Pennsylvania--Pittsburgh.\nBarber shops--Pennsylvania--Pittsburgh.\nBoxers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.\nWalcott, Jersey Joe, 1914-1994.\nWilliams, Clarence.\nCrystal Barber Shop (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13034",
+  "emuInput": {
+    "ecatalogue_key": 6719,
+    "irn": 13034,
+    "TitAccessionNo": "2001.35.6734",
+    "CreDateCreated": "July 1951",
+    "CreEarliestDate": "1951-07-01",
+    "CreLatestDate": "1951-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "The Crystal Barber Shop and Billiard Parlor was owned by Woogie Harris.Cutline of related image published in Pittsburgh Courier newspaper, July 28, 1951, page 2, reads: \"Detectives Guard Champ's Haircut - When the new heavyweight champion, Jersey Joe Walcott, stopped off at \"Woogie\" Harris' Crystal Barber Shop on Wylie Avenue last Thursday to get a haircut after his knockout of Ezzard Charles, the previous night, the crowd that wanted to get a look at Walcott were so thick police had to protect him from his admirers. Here Detectives Eugene Parker, James Voyle Parker and John B. Thompson, who acted as bodyguards for Walcott while he was here, wait for the new champ to get his hair clipped by barber \"Speedy\" Williams. - Harris Photo\"",
+    "TitMainTitle": "Boxer \"Jersey\" Joe Walcott with baby on lap getting haircut from barber Clarence \"Speedy\" Williams in Crystal Barber Shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Barbers--Pennsylvania--Pittsburgh.Barber shops--Pennsylvania--Pittsburgh.Boxers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Walcott, Jersey Joe, 1914-1994.Williams, Clarence.Crystal Barber Shop (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "035123a2-c8bd-48cb-998a-c59132f04970",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22247,
+    "MulMultiMediaRef_key": 6727,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22247/sizes/13034-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6719,
+    "irn": 13034,
+    "TitAccessionNo": "2001.35.6734",
+    "CreDateCreated": "July 1951",
+    "CreEarliestDate": "1951-07-01",
+    "CreLatestDate": "1951-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "The Crystal Barber Shop and Billiard Parlor was owned by Woogie Harris.Cutline of related image published in Pittsburgh Courier newspaper, July 28, 1951, page 2, reads: \"Detectives Guard Champ's Haircut - When the new heavyweight champion, Jersey Joe Walcott, stopped off at \"Woogie\" Harris' Crystal Barber Shop on Wylie Avenue last Thursday to get a haircut after his knockout of Ezzard Charles, the previous night, the crowd that wanted to get a look at Walcott were so thick police had to protect him from his admirers. Here Detectives Eugene Parker, James Voyle Parker and John B. Thompson, who acted as bodyguards for Walcott while he was here, wait for the new champ to get his hair clipped by barber \"Speedy\" Williams. - Harris Photo\"",
+    "TitMainTitle": "Boxer \"Jersey\" Joe Walcott with baby on lap getting haircut from barber Clarence \"Speedy\" Williams in Crystal Barber Shop",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Barbers--Pennsylvania--Pittsburgh.Barber shops--Pennsylvania--Pittsburgh.Boxers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Walcott, Jersey Joe, 1914-1994.Williams, Clarence.Crystal Barber Shop (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "035123a2-c8bd-48cb-998a-c59132f04970",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22247,
+    "MulMultiMediaRef_key": 6727,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22247/sizes/13034-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence \" Speedy \" Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Jersey Joe Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "James Voyle Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "John B. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Ezzard Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Speedy \" Williams .",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Parker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbers",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbershops",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Detectives Guard Champ's Haircut - When the new heavyweight champion, Jersey Joe Walcott, stopped off at \"Woogie\" Harris' Crystal Barber Shop on Wylie Avenue last Thursday to get a haircut after his knockout of Ezzard Charles, the previous night, the crowd that wanted to get a look at Walcott were so thick police had to protect him from his admirers. Here Detectives Eugene Parker, James Voyle Parker and John B. Thompson, who acted as bodyguards for Walcott while he was here, wait for the new champ to get his hair clipped by barber \"Speedy\" Williams. - Harris Photo",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "last Thursday",
+        "status": "suggested"
+      },
+      {
+        "data": "Ezzard Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbers",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams, Clarence",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Walcott, Jersey Joe, 1914-1994",
+        "status": "suggested"
+      },
+      {
+        "data": "Jersey Joe Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Haircut - When",
+        "status": "suggested"
+      },
+      {
+        "data": "Woogie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Woogie\" Harris' Crystal Barber Shop",
+        "status": "suggested"
+      },
+      {
+        "data": "Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "The Crystal Barber Shop",
+        "status": "suggested"
+      },
+      {
+        "data": "Crystal Barber Shop",
+        "status": "suggested"
+      },
+      {
+        "data": "July 28, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "Crystal Barber Shop ",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Walcott",
+        "status": "suggested"
+      },
+      {
+        "data": "Detectives Guard Champ's",
+        "status": "suggested"
+      },
+      {
+        "data": "the previous night",
+        "status": "suggested"
+      },
+      {
+        "data": "Boxers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Barber shops",
+        "status": "suggested"
+      },
+      {
+        "data": "John B. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Billiard Parlor",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "father",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      }
+    ]
+  }
 }

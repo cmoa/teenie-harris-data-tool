@@ -1,20 +1,428 @@
 {
-	"irn": "13413",
-	"emuInput": {
-		"ecatalogue_key": "60",
-		"irn": "13413",
-		"TitAccessionNo": "2001.35.6996",
-		"TitMainTitle": "Nat King Cole, Harold Keith, George Pitts, and Gulf Oil executive Roy Kohler, posed in Carlton House for Capitol Records press party",
-		"CreDateCreated": "January - February 1959",
-		"CreEarliestDate": "1959-01-01",
-		"CreLatestDate": "1959-02-07",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 7, 1959, pg. 18, reads: \" Party Crashers - Old charmer Nat King Cole smiles at four youngsters, Howard and George Parker, Steven Trent and James J. Jackson, who \"crashed\" a Capitol Records press party for Cole at Pittsburgh's Carlton House. The kids, hearing about the affair, said they \"just had to see Nat King Cole.\"  In background is deejay Dave Scott. - Harris Photo.\"",
-		"CatSubject_tab": "Cole, Nat King, 1917-1965.\nMen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nCarlton House (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13413",
+  "emuInput": {
+    "ecatalogue_key": 6981,
+    "irn": 13413,
+    "TitAccessionNo": "2001.35.6996",
+    "CreDateCreated": "January - February 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-02-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 7, 1959, pg. 18, reads: \" Party Crashers - Old charmer Nat King Cole smiles at four youngsters, Howard and George Parker, Steven Trent and James J. Jackson, who \"crashed\" a Capitol Records press party for Cole at Pittsburgh's Carlton House. The kids, hearing about the affair, said they \"just had to see Nat King Cole.\"  In background is deejay Dave Scott. - Harris Photo.\"",
+    "TitMainTitle": "Nat King Cole, Harold Keith, George Pitts, and Gulf Oil executive Roy Kohler, posed in Carlton House for Capitol Records press party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cole, Nat King, 1917-1965.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Carlton House (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "94650593-124d-4e0b-9433-a66f3e90c0e9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22575,
+    "MulMultiMediaRef_key": 6989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22575/sizes/13413-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6981,
+    "irn": 13413,
+    "TitAccessionNo": "2001.35.6996",
+    "CreDateCreated": "January - February 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-02-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 7, 1959, pg. 18, reads: \" Party Crashers - Old charmer Nat King Cole smiles at four youngsters, Howard and George Parker, Steven Trent and James J. Jackson, who \"crashed\" a Capitol Records press party for Cole at Pittsburgh's Carlton House. The kids, hearing about the affair, said they \"just had to see Nat King Cole.\"  In background is deejay Dave Scott. - Harris Photo.\"",
+    "TitMainTitle": "Nat King Cole, Harold Keith, George Pitts, and Gulf Oil executive Roy Kohler, posed in Carlton House for Capitol Records press party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cole, Nat King, 1917-1965.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Carlton House (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "94650593-124d-4e0b-9433-a66f3e90c0e9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22575,
+    "MulMultiMediaRef_key": 6989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22575/sizes/13413-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Nat King Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Keith",
+        "status": "suggested"
+      },
+      {
+        "data": "Dave Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "James J. Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "George Pitts",
+        "status": "suggested"
+      },
+      {
+        "data": "Roy Kohler",
+        "status": "suggested"
+      },
+      {
+        "data": "Steven Trent",
+        "status": "suggested"
+      },
+      {
+        "data": "George Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " Party Crashers - Old charmer Nat King Cole smiles at four youngsters, Howard and George Parker, Steven Trent and James J. Jackson, who \"crashed\" a Capitol Records press party for Cole at Pittsburgh's Carlton House. The kids, hearing about the affair, said they \"just had to see Nat King Cole.\"  In background is deejay Dave Scott. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 7, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Gulf Oil",
+        "status": "suggested"
+      },
+      {
+        "data": "Nat King Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Dave Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "James J. Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "February 7, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole, Nat King, 1917-1965",
+        "status": "suggested"
+      },
+      {
+        "data": "Capitol Records",
+        "status": "suggested"
+      },
+      {
+        "data": "George Pitts",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House ",
+        "status": "suggested"
+      },
+      {
+        "data": "Steven Trent",
+        "status": "suggested"
+      },
+      {
+        "data": "George Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Keith",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "socialite",
+        "status": "suggested"
+      }
+    ]
+  }
 }

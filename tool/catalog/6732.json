@@ -1,20 +1,484 @@
 {
-	"irn": "6732",
-	"emuInput": {
-		"ecatalogue_key": "30",
-		"irn": "6732",
-		"TitAccessionNo": "2001.35.4103",
-		"TitMainTitle": "Rev. J. A. Williams touching cornerstone of Baptist Temple Church with group of girls and boys, Frankstown Avenue at Collier Street, Homewood",
-		"CreDateCreated": "July 1946",
-		"CreEarliestDate": "1946-07-01",
-		"CreLatestDate": "1946-07-27",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 2, reads: \"Masons Lay Cornerstone - Pittsburgh Free and Accepted Scottish Rite Masons took part in laying the cornerstone of the newly purchased Baptist Temple Church, corner of Race and Sterrett Streets, here Sunday afternoon.  Rev. James A. Williams, pastor of the church, presided, with the cornerstone dedication sermon, 'The Chief Cornerstone' being preached by Rev. J. W. Barnes of West End.  Atty. Joseph W. Givens, head of local Masons, took charge of the elaborate cornerstone laying ceremony by the Masonic lodge. - Harris photo.\"",
-		"CatSubject_tab": "Baptist Temple Church (Pittsburgh, Pa.)\nChurch buildings--Pennsylvania--Pittsburgh.\nHomewood (Pittsburgh, Pa.)\nWilliams, J. A.\nMen--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nSuits (Clothing)--Pennsylvania--Pittsburgh.\nNeckties--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "6732",
+  "emuInput": {
+    "ecatalogue_key": 4094,
+    "irn": 6732,
+    "TitAccessionNo": "2001.35.4103",
+    "CreDateCreated": "July 1946",
+    "CreEarliestDate": "1946-07-01",
+    "CreLatestDate": "1946-07-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 2, reads: \"Masons Lay Cornerstone - Pittsburgh Free and Accepted Scottish Rite Masons took part in laying the cornerstone of the newly purchased Baptist Temple Church, corner of Race and Sterrett Streets, here Sunday afternoon.  Rev. James A. Williams, pastor of the church, presided, with the cornerstone dedication sermon, 'The Chief Cornerstone' being preached by Rev. J. W. Barnes of West End.  Atty. Joseph W. Givens, head of local Masons, took charge of the elaborate cornerstone laying ceremony by the Masonic lodge. - Harris photo.\"",
+    "TitMainTitle": "Rev. J. A. Williams touching cornerstone of Baptist Temple Church with group of girls and boys, Frankstown Avenue at Collier Street, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Baptist Temple Church (Pittsburgh, Pa.)Church buildings--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Williams, J. A.Men--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57720917-189a-48e8-a2c4-ba82f9915353",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18968,
+    "MulMultiMediaRef_key": 4097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18968/sizes/6732-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4094,
+    "irn": 6732,
+    "TitAccessionNo": "2001.35.4103",
+    "CreDateCreated": "July 1946",
+    "CreEarliestDate": "1946-07-01",
+    "CreLatestDate": "1946-07-27",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 27, 1946, pg. 2, reads: \"Masons Lay Cornerstone - Pittsburgh Free and Accepted Scottish Rite Masons took part in laying the cornerstone of the newly purchased Baptist Temple Church, corner of Race and Sterrett Streets, here Sunday afternoon.  Rev. James A. Williams, pastor of the church, presided, with the cornerstone dedication sermon, 'The Chief Cornerstone' being preached by Rev. J. W. Barnes of West End.  Atty. Joseph W. Givens, head of local Masons, took charge of the elaborate cornerstone laying ceremony by the Masonic lodge. - Harris photo.\"",
+    "TitMainTitle": "Rev. J. A. Williams touching cornerstone of Baptist Temple Church with group of girls and boys, Frankstown Avenue at Collier Street, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Baptist Temple Church (Pittsburgh, Pa.)Church buildings--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Williams, J. A.Men--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57720917-189a-48e8-a2c4-ba82f9915353",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18968,
+    "MulMultiMediaRef_key": 4097,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18968/sizes/6732-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "James A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Masons",
+        "status": "suggested"
+      },
+      {
+        "data": "J. A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph W. Givens",
+        "status": "suggested"
+      },
+      {
+        "data": "J. W. Barnes",
+        "status": "suggested"
+      },
+      {
+        "data": "Rite Masons",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Collier Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Sterrett Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "West End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Collier Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Sterrett Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "West End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Collier Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Sterrett Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "West End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Collier Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Sterrett Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "West End",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Masons Lay Cornerstone - Pittsburgh Free and Accepted Scottish Rite Masons took part in laying the cornerstone of the newly purchased Baptist Temple Church, corner of Race and Sterrett Streets, here Sunday afternoon.  Rev. James A. Williams, pastor of the church, presided, with the cornerstone dedication sermon, 'The Chief Cornerstone' being preached by Rev. J. W. Barnes of West End.  Atty. Joseph W. Givens, head of local Masons, took charge of the elaborate cornerstone laying ceremony by the Masonic lodge. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 27, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Scottish",
+        "status": "suggested"
+      },
+      {
+        "data": "Collier Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Masons",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "J. A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "J. W. Barnes",
+        "status": "suggested"
+      },
+      {
+        "data": "Race",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "James A. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": ")Williams, J",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Rite Masons",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": " A",
+        "status": "suggested"
+      },
+      {
+        "data": "July 27, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood ",
+        "status": "suggested"
+      },
+      {
+        "data": "Baptist Temple Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Sterrett Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Masonic",
+        "status": "suggested"
+      },
+      {
+        "data": "Baptist Temple Church ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      }
+    ]
+  }
 }

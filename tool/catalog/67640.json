@@ -1,20 +1,388 @@
 {
-	"irn": "67640",
-	"emuInput": {
-		"ecatalogue_key": "351",
-		"irn": "67640",
-		"TitAccessionNo": "2001.35.53377",
-		"TitMainTitle": "Eight Alpha Kappa Alpha debutantes, from left: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Jacqueline \"Jackie\" Lewis [Jacqui Thompson], Yvonne Holt, Carolyn Ann Key, and Patty Lou Redwood, standing behind table with light colored lace tablecloth and teacups for social tea, another version",
-		"CreDateCreated": "January - February 1955",
-		"CreEarliestDate": "1955-01-01",
-		"CreLatestDate": "1955-02-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 5, 1955, pg. 11, reads: \"AKA Debutantes - At the initial get-together of the 1955 debs, tea was served by Jacqueline Lewis, last year's debutante queen. Left to right: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Miss Lewis, Yvonne Holt, Carolyn Ann Key and Patty Lou Redwood.  Not pictured are Barbara Mason, Beverly Loftin, Alfreda Turner and Barbara Smith. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.\nTea--Social aspects--Pennsylvania--Pittsburgh.\nCookies--Pennsylvania--Pittsburgh.\nBrick walls--Pennsylvania--Pittsburgh.\nAlpha Kappa Alpha Sorority.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67640",
+  "emuInput": {
+    "ecatalogue_key": 53334,
+    "irn": 67640,
+    "TitAccessionNo": "2001.35.53377",
+    "CreDateCreated": "January - February 1955",
+    "CreEarliestDate": "1955-01-01",
+    "CreLatestDate": "1955-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 5, 1955, pg. 11, reads: \"AKA Debutantes - At the initial get-together of the 1955 debs, tea was served by Jacqueline Lewis, last year's debutante queen. Left to right: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Miss Lewis, Yvonne Holt, Carolyn Ann Key and Patty Lou Redwood.  Not pictured are Barbara Mason, Beverly Loftin, Alfreda Turner and Barbara Smith. - Harris Photo.\"",
+    "TitMainTitle": "Eight Alpha Kappa Alpha debutantes, from left: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Jacqueline \"Jackie\" Lewis [Jacqui Thompson], Yvonne Holt, Carolyn Ann Key, and Patty Lou Redwood, standing behind table with light colored lace tablecloth and teacups for social tea, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Tea--Social aspects--Pennsylvania--Pittsburgh.Cookies--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Alpha Kappa Alpha Sorority.",
+    "AdmGUIDValue_tab": "21652087-f489-4d40-acbc-bc380bf09f93",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77483,
+    "MulMultiMediaRef_key": 53342,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77483/sizes/67640-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53334,
+    "irn": 67640,
+    "TitAccessionNo": "2001.35.53377",
+    "CreDateCreated": "January - February 1955",
+    "CreEarliestDate": "1955-01-01",
+    "CreLatestDate": "1955-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 5, 1955, pg. 11, reads: \"AKA Debutantes - At the initial get-together of the 1955 debs, tea was served by Jacqueline Lewis, last year's debutante queen. Left to right: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Miss Lewis, Yvonne Holt, Carolyn Ann Key and Patty Lou Redwood.  Not pictured are Barbara Mason, Beverly Loftin, Alfreda Turner and Barbara Smith. - Harris Photo.\"",
+    "TitMainTitle": "Eight Alpha Kappa Alpha debutantes, from left: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Jacqueline \"Jackie\" Lewis [Jacqui Thompson], Yvonne Holt, Carolyn Ann Key, and Patty Lou Redwood, standing behind table with light colored lace tablecloth and teacups for social tea, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Tea--Social aspects--Pennsylvania--Pittsburgh.Cookies--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Alpha Kappa Alpha Sorority.",
+    "AdmGUIDValue_tab": "21652087-f489-4d40-acbc-bc380bf09f93",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77483,
+    "MulMultiMediaRef_key": 53342,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77483/sizes/67640-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Barbara Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Beverly Loftin",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline \" Jackie \" Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Alfreda Turner",
+        "status": "suggested"
+      },
+      {
+        "data": "Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Connie L. Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Ann Key",
+        "status": "suggested"
+      },
+      {
+        "data": "Yvonne Holt",
+        "status": "suggested"
+      },
+      {
+        "data": "Janyce Murray",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Adair",
+        "status": "suggested"
+      },
+      {
+        "data": "Sylvia Wofford",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqui Thompson ]",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Smith",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Tea",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Cookies",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "AKA Debutantes - At the initial get-together of the 1955 debs, tea was served by Jacqueline Lewis, last year's debutante queen. Left to right: Connie L. Young, Janyce Murray, Helen Adair, Sylvia Wofford, Miss Lewis, Yvonne Holt, Carolyn Ann Key and Patty Lou Redwood.  Not pictured are Barbara Mason, Beverly Loftin, Alfreda Turner and Barbara Smith. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 5, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline \" Jackie \" Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "AKA Debutantes -",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqui Thompson ]",
+        "status": "suggested"
+      },
+      {
+        "data": "February 5, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Kappa Alpha",
+        "status": "suggested"
+      },
+      {
+        "data": "Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Alpha Kappa Alpha Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Tea",
+        "status": "suggested"
+      },
+      {
+        "data": "Cookies",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Patty Lou Redwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "last year's",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

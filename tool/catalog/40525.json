@@ -1,20 +1,404 @@
 {
-	"irn": "40525",
-	"emuInput": {
-		"ecatalogue_key": "196",
-		"irn": "40525",
-		"TitAccessionNo": "2001.35.27978",
-		"TitMainTitle": "Pomtons Club members, including La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, sponsor Dorothy Reed, Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, and Elizabeth Britton, gathered for party at Butlers' Club, 500 Maryland Avenue, Shadyside",
-		"CreDateCreated": "December 1940 - January 1941",
-		"CreEarliestDate": "1940-12-01",
-		"CreLatestDate": "1941-01-04",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1941, pg. 5, reads: \"The Young, Glamorous Pomptons [Pomtoms] Have Gay Party - The Pomptons [sic], pictured here, gave a gay party at the Butlers' club. La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, Mrs. Dorothy Reed (sponsor), Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, Elizabeth Britton.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nClubs--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "40525",
+  "emuInput": {
+    "ecatalogue_key": 27946,
+    "irn": 40525,
+    "TitAccessionNo": "2001.35.27978",
+    "CreDateCreated": "December 1940 - January 1941",
+    "CreEarliestDate": "1940-12-01",
+    "CreLatestDate": "1941-01-04",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1941, pg. 5, reads: \"The Young, Glamorous Pomptons [Pomtoms] Have Gay Party - The Pomptons [sic], pictured here, gave a gay party at the Butlers' club. La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, Mrs. Dorothy Reed (sponsor), Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, Elizabeth Britton.\"",
+    "TitMainTitle": "Pomtons Club members, including La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, sponsor Dorothy Reed, Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, and Elizabeth Britton, gathered for party at Butlers' Club, 500 Maryland Avenue, Shadyside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "028d3d95-f843-48ec-b019-b6d2c2a2d080",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47368,
+    "MulMultiMediaRef_key": 27954,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47368/sizes/40525-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 27946,
+    "irn": 40525,
+    "TitAccessionNo": "2001.35.27978",
+    "CreDateCreated": "December 1940 - January 1941",
+    "CreEarliestDate": "1940-12-01",
+    "CreLatestDate": "1941-01-04",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 4, 1941, pg. 5, reads: \"The Young, Glamorous Pomptons [Pomtoms] Have Gay Party - The Pomptons [sic], pictured here, gave a gay party at the Butlers' club. La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, Mrs. Dorothy Reed (sponsor), Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, Elizabeth Britton.\"",
+    "TitMainTitle": "Pomtons Club members, including La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, sponsor Dorothy Reed, Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, and Elizabeth Britton, gathered for party at Butlers' Club, 500 Maryland Avenue, Shadyside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "028d3d95-f843-48ec-b019-b6d2c2a2d080",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 47368,
+    "MulMultiMediaRef_key": 27954,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/47368/sizes/40525-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Helen Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Irene Owens",
+        "status": "suggested"
+      },
+      {
+        "data": "Elizabeth Britton",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Canway",
+        "status": "suggested"
+      },
+      {
+        "data": "Lavenia Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Rose Marie Walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha Richardson",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Reed",
+        "status": "suggested"
+      },
+      {
+        "data": "La Vera Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Clark",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Maryland Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Shadyside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Maryland Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Shadyside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Maryland Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Shadyside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Maryland Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Shadyside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "5",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Young, Glamorous Pomptons [Pomtoms] Have Gay Party - The Pomptons [sic], pictured here, gave a gay party at the Butlers' club. La Vera Edwards, Delores Canway, Jean Cage, Mangie Gupton, Mrs. Dorothy Reed (sponsor), Lavenia Jackson, Bertha Richardson, Doris Harper, Dorothy Clark, Irene Owens, Helen Davis, Rose Marie Walls, Elizabeth Britton.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 4, 1941",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "Irene Owens",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Reed",
+        "status": "suggested"
+      },
+      {
+        "data": "The Young, Glamorous Pomptons [Pomtoms",
+        "status": "suggested"
+      },
+      {
+        "data": "Pomptons",
+        "status": "suggested"
+      },
+      {
+        "data": "Elizabeth Britton",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Cage",
+        "status": "suggested"
+      },
+      {
+        "data": "Pomtons Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "January 4, 1941",
+        "status": "suggested"
+      },
+      {
+        "data": "Gay Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Butlers",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "Butlers' Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha Richardson",
+        "status": "suggested"
+      },
+      {
+        "data": "Mangie Gupton",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

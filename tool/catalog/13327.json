@@ -1,20 +1,304 @@
 {
-	"irn": "13327",
-	"emuInput": {
-		"ecatalogue_key": "58",
-		"irn": "13327",
-		"TitAccessionNo": "2001.35.6914",
-		"TitMainTitle": "Centenarian David Wilson walking through curtains of voting booth",
-		"CreDateCreated": "November 1948",
-		"CreEarliestDate": "1948-11-01",
-		"CreLatestDate": "1948-11-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 6, 1948, pg. 2, reads: \"Centenarians Cast Their Votes - Civil War Vet - Right in thick of the voting was Civil War veteran David Wilson of 2426 Centre Avenue, who says he was born in 1848. Shown, with him are Mrs. Nannie G. Moone and John Thompson, city detective. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nVoting-machines--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nElderly people--Pennsylvania--Pittsburgh.\nPolling places--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13327",
+  "emuInput": {
+    "ecatalogue_key": 6899,
+    "irn": 13327,
+    "TitAccessionNo": "2001.35.6914",
+    "CreDateCreated": "November 1948",
+    "CreEarliestDate": "1948-11-01",
+    "CreLatestDate": "1948-11-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 6, 1948, pg. 2, reads: \"Centenarians Cast Their Votes - Civil War Vet - Right in thick of the voting was Civil War veteran David Wilson of 2426 Centre Avenue, who says he was born in 1848. Shown, with him are Mrs. Nannie G. Moone and John Thompson, city detective. - Harris Photo.\"",
+    "TitMainTitle": "Centenarian David Wilson walking through curtains of voting booth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Voting-machines--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Polling places--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27025851-a909-4606-bfe4-de2a3d9d1313",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22345,
+    "MulMultiMediaRef_key": 6907,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22345/sizes/13327-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6899,
+    "irn": 13327,
+    "TitAccessionNo": "2001.35.6914",
+    "CreDateCreated": "November 1948",
+    "CreEarliestDate": "1948-11-01",
+    "CreLatestDate": "1948-11-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 6, 1948, pg. 2, reads: \"Centenarians Cast Their Votes - Civil War Vet - Right in thick of the voting was Civil War veteran David Wilson of 2426 Centre Avenue, who says he was born in 1848. Shown, with him are Mrs. Nannie G. Moone and John Thompson, city detective. - Harris Photo.\"",
+    "TitMainTitle": "Centenarian David Wilson walking through curtains of voting booth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Voting-machines--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Polling places--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27025851-a909-4606-bfe4-de2a3d9d1313",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22345,
+    "MulMultiMediaRef_key": 6907,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22345/sizes/13327-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "David Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Centenarian David Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Nannie G. Moone",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Older people",
+        "status": "suggested"
+      },
+      {
+        "data": "Voting-machines",
+        "status": "suggested"
+      },
+      {
+        "data": "Polling places",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "2426 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "2426 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "2426 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "2426 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Centenarians Cast Their Votes - Civil War Vet - Right in thick of the voting was Civil War veteran David Wilson of 2426 Centre Avenue, who says he was born in 1848. Shown, with him are Mrs. Nannie G. Moone and John Thompson, city detective. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 6, 1948",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Voting-machines",
+        "status": "suggested"
+      },
+      {
+        "data": "Civil War",
+        "status": "suggested"
+      },
+      {
+        "data": "Polling places",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Centenarians Cast Their Votes - Civil War Vet - Right",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Elderly people",
+        "status": "suggested"
+      },
+      {
+        "data": "2426 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "1848",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "David Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "John Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "November 6, 1948",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "light",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      }
+    ]
+  }
 }

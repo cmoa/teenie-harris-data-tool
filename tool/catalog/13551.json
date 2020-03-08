@@ -1,20 +1,332 @@
 {
-	"irn": "13551",
-	"emuInput": {
-		"ecatalogue_key": "63",
-		"irn": "13551",
-		"TitAccessionNo": "2001.35.7107",
-		"TitMainTitle": "Protesters, including man holding sign reading \"This Company is Unfair to the Negro Community, Baptist Ministers Conference,\" woman with sign \"The Company Practices Token Employment, UNPC,\" and Matthew Moore in background, near Horne's and Gimbels department stores, Sixth Avenue, Downtown",
-		"CreDateCreated": "April 1966",
-		"CreEarliestDate": "1966-04-01",
-		"CreLatestDate": "1966-04-16",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 16, 1966, pg. 1A, reads: \"Through Snow and Rain - The pickets stay to wage a selective buying campaign against Horne's and Gimbels department stores in downtown Pittsburgh on behalf of the Negro community. The United Negro Protest Committee engineered the protest and is now aided by the Baptist Ministers' Conference.  The campaign is an attempt to get more Negroes into jobs.  in background at the right is UNPC member Matthew Moore. - Harris Photo.\"",
-		"CatSubject_tab": "Moore, Matthew.\nDowntown (Pittsburgh, Pa.)\nSixth Avenue (Pittsburgh, Pa.)\nWomen--Pennsylvania--Pittsburgh.\nPicketing--Pennsylvania--Pittsburgh.\nRacism--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13551",
+  "emuInput": {
+    "ecatalogue_key": 7091,
+    "irn": 13551,
+    "TitAccessionNo": "2001.35.7107",
+    "CreDateCreated": "April 1966",
+    "CreEarliestDate": "1966-04-01",
+    "CreLatestDate": "1966-04-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 16, 1966, pg. 1A, reads: \"Through Snow and Rain - The pickets stay to wage a selective buying campaign against Horne's and Gimbels department stores in downtown Pittsburgh on behalf of the Negro community. The United Negro Protest Committee engineered the protest and is now aided by the Baptist Ministers' Conference.  The campaign is an attempt to get more Negroes into jobs.  in background at the right is UNPC member Matthew Moore. - Harris Photo.\"",
+    "TitMainTitle": "Protesters, including man holding sign reading \"This Company is Unfair to the Negro Community, Baptist Ministers Conference,\" woman with sign \"The Company Practices Token Employment, UNPC,\" and Matthew Moore in background, near Horne's and Gimbels department stores, Sixth Avenue, Downtown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Moore, Matthew.Downtown (Pittsburgh, Pa.)Sixth Avenue (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Picketing--Pennsylvania--Pittsburgh.Racism--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0248717d-3d69-4829-9c2e-c2abfcb279c8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22647,
+    "MulMultiMediaRef_key": 7099,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22647/sizes/13551-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7091,
+    "irn": 13551,
+    "TitAccessionNo": "2001.35.7107",
+    "CreDateCreated": "April 1966",
+    "CreEarliestDate": "1966-04-01",
+    "CreLatestDate": "1966-04-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 16, 1966, pg. 1A, reads: \"Through Snow and Rain - The pickets stay to wage a selective buying campaign against Horne's and Gimbels department stores in downtown Pittsburgh on behalf of the Negro community. The United Negro Protest Committee engineered the protest and is now aided by the Baptist Ministers' Conference.  The campaign is an attempt to get more Negroes into jobs.  in background at the right is UNPC member Matthew Moore. - Harris Photo.\"",
+    "TitMainTitle": "Protesters, including man holding sign reading \"This Company is Unfair to the Negro Community, Baptist Ministers Conference,\" woman with sign \"The Company Practices Token Employment, UNPC,\" and Matthew Moore in background, near Horne's and Gimbels department stores, Sixth Avenue, Downtown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Moore, Matthew.Downtown (Pittsburgh, Pa.)Sixth Avenue (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Picketing--Pennsylvania--Pittsburgh.Racism--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0248717d-3d69-4829-9c2e-c2abfcb279c8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22647,
+    "MulMultiMediaRef_key": 7099,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22647/sizes/13551-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "Matthew Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Gimbels",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Picketing",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "United Nations Palestine Commission",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Racism",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Sixth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Sixth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Sixth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Sixth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Through Snow and Rain - The pickets stay to wage a selective buying campaign against Horne's and Gimbels department stores in downtown Pittsburgh on behalf of the Negro community. The United Negro Protest Committee engineered the protest and is now aided by the Baptist Ministers' Conference.  The campaign is an attempt to get more Negroes into jobs.  in background at the right is UNPC member Matthew Moore. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 16, 1966",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "the Baptist Ministers' Conference",
+        "status": "suggested"
+      },
+      {
+        "data": "This Company is Unfair to the Negro Community",
+        "status": "suggested"
+      },
+      {
+        "data": "Downtown ",
+        "status": "suggested"
+      },
+      {
+        "data": "Picketing",
+        "status": "suggested"
+      },
+      {
+        "data": "Moore, Matthew",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Negroes",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Through Snow and Rain - The",
+        "status": "suggested"
+      },
+      {
+        "data": "April 16, 1966",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Racism",
+        "status": "suggested"
+      },
+      {
+        "data": ")Sixth Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Baptist",
+        "status": "suggested"
+      },
+      {
+        "data": "UNPC",
+        "status": "suggested"
+      },
+      {
+        "data": "Matthew Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "The Company Practices Token Employment",
+        "status": "suggested"
+      },
+      {
+        "data": "The United Negro Protest Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

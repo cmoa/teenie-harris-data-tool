@@ -1,20 +1,368 @@
 {
-	"irn": "12514",
-	"emuInput": {
-		"ecatalogue_key": "49",
-		"irn": "12514",
-		"TitAccessionNo": "2001.35.6330",
-		"TitMainTitle": "Police officers loading body of murder victim George Howard into ambulance, near his apartment at 708 Junilla Street, Hill District",
-		"CreDateCreated": "November 1951",
-		"CreEarliestDate": "1951-11-01",
-		"CreLatestDate": "1951-11-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 24, 1951, pg. 1, reads: \"Brutal Murder Draws Crowd - A crowd of several hundred persons gathered soon after word of the brutal slaying of 100-year-old George Howard in bed of his basement apartment at 708 Junilla Street, last Wednesday or Thursday, spread through the Hill District. The aged pensioner was bludgeoned to death either by a thief or thieves or someone intent on wreaking vengeance on him, homicide detectives believe.  The victim was found by an ice man when the latter stopped to deliver Howard's regular order of ice around noon Thursday.  The Courier photographer was on the scene to bring Courier readers a short pictorial story of events as they transpired.  Left to right: ...(3) Police, detectives and morgue attendants place the canvas wrapped body of the murdered man in a police ambulance as the human cordon parts ranks and looks on, with a mixture of curiosity, sadness and fright... - Harris Photos.\"",
-		"CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nPolice officers--Pennsylvania--Pittsburgh.\nCrime scenes--Pennsylvania--Pittsburgh.\nAmbulances--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "12514",
+  "emuInput": {
+    "ecatalogue_key": 6319,
+    "irn": 12514,
+    "TitAccessionNo": "2001.35.6330",
+    "CreDateCreated": "November 1951",
+    "CreEarliestDate": "1951-11-01",
+    "CreLatestDate": "1951-11-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 24, 1951, pg. 1, reads: \"Brutal Murder Draws Crowd - A crowd of several hundred persons gathered soon after word of the brutal slaying of 100-year-old George Howard in bed of his basement apartment at 708 Junilla Street, last Wednesday or Thursday, spread through the Hill District. The aged pensioner was bludgeoned to death either by a thief or thieves or someone intent on wreaking vengeance on him, homicide detectives believe.  The victim was found by an ice man when the latter stopped to deliver Howard's regular order of ice around noon Thursday.  The Courier photographer was on the scene to bring Courier readers a short pictorial story of events as they transpired.  Left to right: ...(3) Police, detectives and morgue attendants place the canvas wrapped body of the murdered man in a police ambulance as the human cordon parts ranks and looks on, with a mixture of curiosity, sadness and fright... - Harris Photos.\"",
+    "TitMainTitle": "Police officers loading body of murder victim George Howard into ambulance, near his apartment at 708 Junilla Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Police officers--Pennsylvania--Pittsburgh.Crime scenes--Pennsylvania--Pittsburgh.Ambulances--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06730103-7273-44c4-9743-ae2304ba8050",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22042,
+    "MulMultiMediaRef_key": 6326,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22042/sizes/12514-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6319,
+    "irn": 12514,
+    "TitAccessionNo": "2001.35.6330",
+    "CreDateCreated": "November 1951",
+    "CreEarliestDate": "1951-11-01",
+    "CreLatestDate": "1951-11-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 24, 1951, pg. 1, reads: \"Brutal Murder Draws Crowd - A crowd of several hundred persons gathered soon after word of the brutal slaying of 100-year-old George Howard in bed of his basement apartment at 708 Junilla Street, last Wednesday or Thursday, spread through the Hill District. The aged pensioner was bludgeoned to death either by a thief or thieves or someone intent on wreaking vengeance on him, homicide detectives believe.  The victim was found by an ice man when the latter stopped to deliver Howard's regular order of ice around noon Thursday.  The Courier photographer was on the scene to bring Courier readers a short pictorial story of events as they transpired.  Left to right: ...(3) Police, detectives and morgue attendants place the canvas wrapped body of the murdered man in a police ambulance as the human cordon parts ranks and looks on, with a mixture of curiosity, sadness and fright... - Harris Photos.\"",
+    "TitMainTitle": "Police officers loading body of murder victim George Howard into ambulance, near his apartment at 708 Junilla Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Police officers--Pennsylvania--Pittsburgh.Crime scenes--Pennsylvania--Pittsburgh.Ambulances--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06730103-7273-44c4-9743-ae2304ba8050",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22042,
+    "MulMultiMediaRef_key": 6326,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22042/sizes/12514-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "George Howard",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Ambulances",
+        "status": "suggested"
+      },
+      {
+        "data": "Crime scenes",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Police",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "708 Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "708 Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "708 Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "708 Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Brutal Murder Draws Crowd - A crowd of several hundred persons gathered soon after word of the brutal slaying of 100-year-old George Howard in bed of his basement apartment at 708 Junilla Street, last Wednesday or Thursday, spread through the Hill District. The aged pensioner was bludgeoned to death either by a thief or thieves or someone intent on wreaking vengeance on him, homicide detectives believe.  The victim was found by an ice man when the latter stopped to deliver Howard's regular order of ice around noon Thursday.  The Courier photographer was on the scene to bring Courier readers a short pictorial story of events as they transpired.  Left to right: ...(3) Police, detectives and morgue attendants place the canvas wrapped body of the murdered man in a police ambulance as the human cordon parts ranks and looks on, with a mixture of curiosity, sadness and fright... - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 24, 1951",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Police officers",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard",
+        "status": "suggested"
+      },
+      {
+        "data": "last Wednesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Ambulances",
+        "status": "suggested"
+      },
+      {
+        "data": "Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "noon",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Crime scenes",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "708 Junilla Street",
+        "status": "suggested"
+      },
+      {
+        "data": "George Howard",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "November 24, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "pedestrian",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

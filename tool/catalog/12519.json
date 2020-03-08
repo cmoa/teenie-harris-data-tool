@@ -1,20 +1,400 @@
 {
-	"irn": "12519",
-	"emuInput": {
-		"ecatalogue_key": "50",
-		"irn": "12519",
-		"TitAccessionNo": "2001.35.6333",
-		"TitMainTitle": "Soldiers from 372nd Infantry standing with rifles at their sides, in formation on Kennard Field",
-		"CreDateCreated": "July 1942",
-		"CreEarliestDate": "1942-07-01",
-		"CreLatestDate": "1942-07-11",
-		"PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower center: Another shot of the 372nd during maneuvers [illegible] the Terrace Village encampment... Harris [illegible] photos.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nMilitary uniforms--Pennsylvania--Pittsburgh.\nWeapons--Pennsylvania--Pittsburgh.\nSoldiers--Pennsylvania--Pittsburgh.\nKennard Field (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "12519",
+  "emuInput": {
+    "ecatalogue_key": 6322,
+    "irn": 12519,
+    "TitAccessionNo": "2001.35.6333",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower center: Another shot of the 372nd during maneuvers [illegible] the Terrace Village encampment... Harris [illegible] photos.\"",
+    "TitMainTitle": "Soldiers from 372nd Infantry standing with rifles at their sides, in formation on Kennard Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Weapons--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh.Kennard Field (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "013318f9-80ed-40e0-991c-ff37c4532bda",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22068,
+    "MulMultiMediaRef_key": 6329,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22068/sizes/12519-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6322,
+    "irn": 12519,
+    "TitAccessionNo": "2001.35.6333",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower center: Another shot of the 372nd during maneuvers [illegible] the Terrace Village encampment... Harris [illegible] photos.\"",
+    "TitMainTitle": "Soldiers from 372nd Infantry standing with rifles at their sides, in formation on Kennard Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Weapons--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh.Kennard Field (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "013318f9-80ed-40e0-991c-ff37c4532bda",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22068,
+    "MulMultiMediaRef_key": 6329,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22068/sizes/12519-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Weapons",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace Village",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace Village",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace Village",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace Village",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower center: Another shot of the 372nd during maneuvers [illegible] the Terrace Village encampment... Harris [illegible] photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "National Edition, July 11, 1942",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "soldier",
+        "status": "suggested"
+      },
+      {
+        "data": "military",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Weapons",
+        "status": "suggested"
+      },
+      {
+        "data": "Infantry",
+        "status": "suggested"
+      },
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Ninth Calvary - Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "National Edition",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennard Field ",
+        "status": "suggested"
+      },
+      {
+        "data": "July 11, 1942",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennard Field",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "372nd Infantry",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States Army",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburghers Hail Fighting Men",
+        "status": "suggested"
+      },
+      {
+        "data": "the holidays",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "troop",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "military officer",
+        "status": "suggested"
+      },
+      {
+        "data": "military person",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "army",
+        "status": "suggested"
+      },
+      {
+        "data": "militia",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "infantry",
+        "status": "suggested"
+      },
+      {
+        "data": "military organization",
+        "status": "suggested"
+      }
+    ]
+  }
 }

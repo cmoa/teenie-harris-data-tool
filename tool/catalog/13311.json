@@ -1,20 +1,408 @@
 {
-	"irn": "13311",
-	"emuInput": {
-		"ecatalogue_key": "57",
-		"irn": "13311",
-		"TitAccessionNo": "2001.35.6898",
-		"TitMainTitle": "Winners of high school cake baking contest, from left: Peggy Daniels, Clara Tucciaione, Norma Lee, James Gay, Elaine Butler, and Betty Smith posed in front of Westinghouse home appliance display in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 25-27, 1958",
-		"CreEarliestDate": "1958-03-25",
-		"CreLatestDate": "1958-03-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 3 reads: \"1. High School Home EC Students thrilled at visiting the Home Show, as shown by 1. Winners of the high school cake-baking contest, left to right, Peggy Daniels, Fifth Avenue High School, first prize; Clara Tucciaione, Westinghouse High School, second prize; Norma Lee, Westinghouse High School, fifth prize; James Gay, Peabody High School, third prize, and Elaine Butler and Betty Smith, Herron Hill Junior High School, fourth prize...\"",
-		"CatSubject_tab": "Adolescents--Pennsylvania--Pittsburgh.\nPittsburgh Courier Home Service Fair.\nSigns--Pennsylvania--Pittsburgh.\nAdvertising--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13311",
+  "emuInput": {
+    "ecatalogue_key": 6883,
+    "irn": 13311,
+    "TitAccessionNo": "2001.35.6898",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 3 reads: \"1. High School Home EC Students thrilled at visiting the Home Show, as shown by 1. Winners of the high school cake-baking contest, left to right, Peggy Daniels, Fifth Avenue High School, first prize; Clara Tucciaione, Westinghouse High School, second prize; Norma Lee, Westinghouse High School, fifth prize; James Gay, Peabody High School, third prize, and Elaine Butler and Betty Smith, Herron Hill Junior High School, fourth prize...\"",
+    "TitMainTitle": "Winners of high school cake baking contest, from left: Peggy Daniels, Clara Tucciaione, Norma Lee, James Gay, Elaine Butler, and Betty Smith posed in front of Westinghouse home appliance display in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Adolescents--Pennsylvania--Pittsburgh.Pittsburgh Courier Home Service Fair.Signs--Pennsylvania--Pittsburgh.Advertising--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0079d52a-24fc-4398-91d1-865b5068e7cd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22537,
+    "MulMultiMediaRef_key": 6891,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22537/sizes/13311-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6883,
+    "irn": 13311,
+    "TitAccessionNo": "2001.35.6898",
+    "CreDateCreated": "March 25-27, 1958",
+    "CreEarliestDate": "1958-03-25",
+    "CreLatestDate": "1958-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. 3 reads: \"1. High School Home EC Students thrilled at visiting the Home Show, as shown by 1. Winners of the high school cake-baking contest, left to right, Peggy Daniels, Fifth Avenue High School, first prize; Clara Tucciaione, Westinghouse High School, second prize; Norma Lee, Westinghouse High School, fifth prize; James Gay, Peabody High School, third prize, and Elaine Butler and Betty Smith, Herron Hill Junior High School, fourth prize...\"",
+    "TitMainTitle": "Winners of high school cake baking contest, from left: Peggy Daniels, Clara Tucciaione, Norma Lee, James Gay, Elaine Butler, and Betty Smith posed in front of Westinghouse home appliance display in Syria Mosque for the 1958 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Adolescents--Pennsylvania--Pittsburgh.Pittsburgh Courier Home Service Fair.Signs--Pennsylvania--Pittsburgh.Advertising--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0079d52a-24fc-4398-91d1-865b5068e7cd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22537,
+    "MulMultiMediaRef_key": 6891,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22537/sizes/13311-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Clara Tucciaione",
+        "status": "suggested"
+      },
+      {
+        "data": "Peggy Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Elaine Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "James Gay",
+        "status": "suggested"
+      },
+      {
+        "data": "Norma Lee",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "James, Gay",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "1. High School Home EC Students thrilled at visiting the Home Show, as shown by 1. Winners of the high school cake-baking contest, left to right, Peggy Daniels, Fifth Avenue High School, first prize; Clara Tucciaione, Westinghouse High School, second prize; Norma Lee, Westinghouse High School, fifth prize; James Gay, Peabody High School, third prize, and Elaine Butler and Betty Smith, Herron Hill Junior High School, fourth prize...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Norma Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Peabody High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "the Home Show",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Peggy Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Elaine Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Adolescents",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "James Gay",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

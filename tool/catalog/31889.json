@@ -1,20 +1,338 @@
 {
-	"irn": "31889",
-	"emuInput": {
-		"ecatalogue_key": "154",
-		"irn": "31889",
-		"TitAccessionNo": "2001.35.20060",
-		"TitMainTitle": "Lois Weaver Watson and Threasa Weaver wearing matching dance costumes, with one long sleeved and sash around waist, posing in fourth position, in the Horizon room with leaf patterned carpet and marble baseboard for Junior Mothers' \"Smart Affairs of 1961\"",
-		"CreDateCreated": "August - September 1961",
-		"CreEarliestDate": "1961-08-01",
-		"CreLatestDate": "1961-09-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 9, 1961, page A12 reads: \"Like Young - A pair of sisters teamed up to do a number that had the crowd yelling for more. Dancing to the tune of 'Like Young,' the sisters are Lois Watson and Theresa Weaver. Lois did the choreography for the show.\" Headline reads: \"Over 500 Attend Junior Mothers' 'Smart Affairs of 1961'\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nDance costume--Pennsylvania--Pittsburgh.\nWatson, Lois Weaver.\nWeaver, Theresa",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "31889",
+  "emuInput": {
+    "ecatalogue_key": 20029,
+    "irn": 31889,
+    "TitAccessionNo": "2001.35.20060",
+    "CreDateCreated": "August - September 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-09-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 9, 1961, page A12 reads: \"Like Young - A pair of sisters teamed up to do a number that had the crowd yelling for more. Dancing to the tune of 'Like Young,' the sisters are Lois Watson and Theresa Weaver. Lois did the choreography for the show.\" Headline reads: \"Over 500 Attend Junior Mothers' 'Smart Affairs of 1961'\"",
+    "TitMainTitle": "Lois Weaver Watson and Threasa Weaver wearing matching dance costumes, with one long sleeved and sash around waist, posing in fourth position, in the Horizon room with leaf patterned carpet and marble baseboard for Junior Mothers' \"Smart Affairs of 1961\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Dance costume--Pennsylvania--Pittsburgh.Watson, Lois Weaver.Weaver, Theresa",
+    "AdmGUIDValue_tab": "69637933-8ea7-4a82-8b7c-e89e88cf772d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37951,
+    "MulMultiMediaRef_key": 20037,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37951/sizes/31889-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 20029,
+    "irn": 31889,
+    "TitAccessionNo": "2001.35.20060",
+    "CreDateCreated": "August - September 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-09-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 9, 1961, page A12 reads: \"Like Young - A pair of sisters teamed up to do a number that had the crowd yelling for more. Dancing to the tune of 'Like Young,' the sisters are Lois Watson and Theresa Weaver. Lois did the choreography for the show.\" Headline reads: \"Over 500 Attend Junior Mothers' 'Smart Affairs of 1961'\"",
+    "TitMainTitle": "Lois Weaver Watson and Threasa Weaver wearing matching dance costumes, with one long sleeved and sash around waist, posing in fourth position, in the Horizon room with leaf patterned carpet and marble baseboard for Junior Mothers' \"Smart Affairs of 1961\"",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Dance costume--Pennsylvania--Pittsburgh.Watson, Lois Weaver.Weaver, Theresa",
+    "AdmGUIDValue_tab": "69637933-8ea7-4a82-8b7c-e89e88cf772d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37951,
+    "MulMultiMediaRef_key": 20037,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37951/sizes/31889-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Lois Weaver Watson",
+        "status": "suggested"
+      },
+      {
+        "data": "Theresa Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois Watson",
+        "status": "suggested"
+      },
+      {
+        "data": "Threasa Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Dance costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Horizon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Horizon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Horizon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Horizon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Like Young - A pair of sisters teamed up to do a number that had the crowd yelling for more. Dancing to the tune of 'Like Young,' the sisters are Lois Watson and Theresa Weaver. Lois did the choreography for the show.\" Headline reads: \"Over 500 Attend Junior Mothers' 'Smart Affairs of 1961'",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "model",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "September 9, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Theresa Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Dance costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Like Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois Watson",
+        "status": "suggested"
+      },
+      {
+        "data": "Weaver, Theres",
+        "status": "suggested"
+      },
+      {
+        "data": "Horizon",
+        "status": "suggested"
+      },
+      {
+        "data": "Smart Affairs of 1961\" ...",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois",
+        "status": "suggested"
+      },
+      {
+        "data": "1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Junior Mothers'",
+        "status": "suggested"
+      },
+      {
+        "data": "Watson, Lois Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "leg",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "muscle",
+        "status": "suggested"
+      },
+      {
+        "data": "human body",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "organ",
+        "status": "suggested"
+      },
+      {
+        "data": "arm",
+        "status": "suggested"
+      },
+      {
+        "data": "hand",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "joint",
+        "status": "suggested"
+      }
+    ]
+  }
 }

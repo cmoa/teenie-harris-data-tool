@@ -1,20 +1,367 @@
 {
-	"irn": "57935",
-	"emuInput": {
-		"ecatalogue_key": "265",
-		"irn": "57935",
-		"TitAccessionNo": "2001.35.44255",
-		"TitMainTitle": "Group portrait of unknown man, Marion Bond Jordon, Rev. LeRoy Patrick, and Rev. Charles Foggie at podium, on stage at Soldier's and Sailor's Memorial Hall for NAACP protest rally",
-		"CreDateCreated": "October 1955",
-		"CreEarliestDate": "1955-10-01",
-		"CreLatestDate": "1955-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A8 reads: \"NAACP Protest Rally: 3,000 Hear Emmett Till Case Facts; Give; Urge United States to Act - Announcing Donations - The Rev. Charles H. Foggie, Pittsburgh NAACP president (right), is assisted by NAACP executive secretary Marion B. Jordon and vice president Leroy Patrick in announcing donations.\"",
-		"CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nFoggie, Charles H. (Charles Herbert), 1912-2000.\nMicrophone--Pennsylvania--Pittsburgh.\nClergy--Pennsylvania--Pittsburgh.\nJordon, Marion Bond.\nPatrick, LeRoy.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "57935",
+  "emuInput": {
+    "ecatalogue_key": 44213,
+    "irn": 57935,
+    "TitAccessionNo": "2001.35.44255",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A8 reads: \"NAACP Protest Rally: 3,000 Hear Emmett Till Case Facts; Give; Urge United States to Act - Announcing Donations - The Rev. Charles H. Foggie, Pittsburgh NAACP president (right), is assisted by NAACP executive secretary Marion B. Jordon and vice president Leroy Patrick in announcing donations.\"",
+    "TitMainTitle": "Group portrait of unknown man, Marion Bond Jordon, Rev. LeRoy Patrick, and Rev. Charles Foggie at podium, on stage at Soldier's and Sailor's Memorial Hall for NAACP protest rally",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Foggie, Charles H. (Charles Herbert), 1912-2000.Microphone--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Jordon, Marion Bond.Patrick, LeRoy.",
+    "AdmGUIDValue_tab": "28574420-8f68-4636-85ea-831721de3ad4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66032,
+    "MulMultiMediaRef_key": 44221,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66032/sizes/57935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44213,
+    "irn": 57935,
+    "TitAccessionNo": "2001.35.44255",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 29, 1955, pg. A8 reads: \"NAACP Protest Rally: 3,000 Hear Emmett Till Case Facts; Give; Urge United States to Act - Announcing Donations - The Rev. Charles H. Foggie, Pittsburgh NAACP president (right), is assisted by NAACP executive secretary Marion B. Jordon and vice president Leroy Patrick in announcing donations.\"",
+    "TitMainTitle": "Group portrait of unknown man, Marion Bond Jordon, Rev. LeRoy Patrick, and Rev. Charles Foggie at podium, on stage at Soldier's and Sailor's Memorial Hall for NAACP protest rally",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Foggie, Charles H. (Charles Herbert), 1912-2000.Microphone--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Jordon, Marion Bond.Patrick, LeRoy.",
+    "AdmGUIDValue_tab": "28574420-8f68-4636-85ea-831721de3ad4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66032,
+    "MulMultiMediaRef_key": 44221,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66032/sizes/57935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Unknown",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion Bond Jordon",
+        "status": "suggested"
+      },
+      {
+        "data": "Emmett Till",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion B. Jordon",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldier",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Leroy Patrick",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy, Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Urge United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Sailors Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Urge United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Sailors Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Urge United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Sailors Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Urge United States",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Sailors Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "NAACP Protest Rally: 3,000 Hear Emmett Till Case Facts; Give; Urge United States to Act - Announcing Donations - The Rev. Charles H. Foggie, Pittsburgh NAACP president (right), is assisted by NAACP executive secretary Marion B. Jordon and vice president Leroy Patrick in announcing donations.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 29, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Unknown",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon, Marion Bond",
+        "status": "suggested"
+      },
+      {
+        "data": "Patrick, LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Emmett Till",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldier",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers and Sailors Memorial Hall ",
+        "status": "suggested"
+      },
+      {
+        "data": "NAACP",
+        "status": "suggested"
+      },
+      {
+        "data": "NAACP Protest Rally",
+        "status": "suggested"
+      },
+      {
+        "data": "October 29, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Act - Announcing Donations - The Rev. Charles H. Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Foggie, Charles H",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Leroy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

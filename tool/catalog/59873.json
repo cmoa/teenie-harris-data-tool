@@ -1,20 +1,484 @@
 {
-	"irn": "59873",
-	"emuInput": {
-		"ecatalogue_key": "284",
-		"irn": "59873",
-		"TitAccessionNo": "2001.35.45993",
-		"TitMainTitle": "Doris Griffin holding her newborn twins Doris and Delores, with her other children: John, Mary, Evelyn, Sharon, and Robert Griffin, in their multi-family home on Western Avenue, Northside",
-		"CreDateCreated": "February - March 1957",
-		"CreEarliestDate": "1957-02-01",
-		"CreLatestDate": "1957-03-02",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 2, 1957, pg. 2, reads: \"Where Will They Go? - Where will large families like those of Mrs. Doris Griffin, who now lives with her six children, above, including new-born twins, in one of the two double houses for large families on Western Ave. be re-located? The have received an eviction notice. She lives with her sister, Mrs. Blanche Scott, who has two children, who 'fronted' for her sister when hard-to-get place for large families was rented. Left to right: Mrs. Griffin, the twins, Doris and Delores, John, Mary, Evelyn, Sharon and Robert. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.\nDoorways--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59873",
+  "emuInput": {
+    "ecatalogue_key": 45950,
+    "irn": 59873,
+    "TitAccessionNo": "2001.35.45993",
+    "CreDateCreated": "February - March 1957",
+    "CreEarliestDate": "1957-02-01",
+    "CreLatestDate": "1957-03-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 2, 1957, pg. 2, reads: \"Where Will They Go? - Where will large families like those of Mrs. Doris Griffin, who now lives with her six children, above, including new-born twins, in one of the two double houses for large families on Western Ave. be re-located? The have received an eviction notice. She lives with her sister, Mrs. Blanche Scott, who has two children, who 'fronted' for her sister when hard-to-get place for large families was rented. Left to right: Mrs. Griffin, the twins, Doris and Delores, John, Mary, Evelyn, Sharon and Robert. - Harris Photo.\"",
+    "TitMainTitle": "Doris Griffin holding her newborn twins Doris and Delores, with her other children: John, Mary, Evelyn, Sharon, and Robert Griffin, in their multi-family home on Western Avenue, Northside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Doorways--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27452119-2221-4347-b53e-ed9b3ee40186",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67886,
+    "MulMultiMediaRef_key": 45958,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67886/sizes/59873-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45950,
+    "irn": 59873,
+    "TitAccessionNo": "2001.35.45993",
+    "CreDateCreated": "February - March 1957",
+    "CreEarliestDate": "1957-02-01",
+    "CreLatestDate": "1957-03-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 2, 1957, pg. 2, reads: \"Where Will They Go? - Where will large families like those of Mrs. Doris Griffin, who now lives with her six children, above, including new-born twins, in one of the two double houses for large families on Western Ave. be re-located? The have received an eviction notice. She lives with her sister, Mrs. Blanche Scott, who has two children, who 'fronted' for her sister when hard-to-get place for large families was rented. Left to right: Mrs. Griffin, the twins, Doris and Delores, John, Mary, Evelyn, Sharon and Robert. - Harris Photo.\"",
+    "TitMainTitle": "Doris Griffin holding her newborn twins Doris and Delores, with her other children: John, Mary, Evelyn, Sharon, and Robert Griffin, in their multi-family home on Western Avenue, Northside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Doorways--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27452119-2221-4347-b53e-ed9b3ee40186",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67886,
+    "MulMultiMediaRef_key": 45958,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67886/sizes/59873-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John",
+        "status": "suggested"
+      },
+      {
+        "data": "Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris",
+        "status": "suggested"
+      },
+      {
+        "data": "Blanche Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Sharon",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "John",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Doorways",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Sharon",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Western Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Western Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Western Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Western Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Where Will They Go? - Where will large families like those of Mrs. Doris Griffin, who now lives with her six children, above, including new-born twins, in one of the two double houses for large families on Western Ave. be re-located? The have received an eviction notice. She lives with her sister, Mrs. Blanche Scott, who has two children, who 'fronted' for her sister when hard-to-get place for large families was rented. Left to right: Mrs. Griffin, the twins, Doris and Delores, John, Mary, Evelyn, Sharon and Robert. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 2, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "March 2, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Blanche Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      },
+      {
+        "data": "John",
+        "status": "suggested"
+      },
+      {
+        "data": "Where Will They Go",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Griffin",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Doorways",
+        "status": "suggested"
+      },
+      {
+        "data": "Sharon",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      }
+    ]
+  }
 }

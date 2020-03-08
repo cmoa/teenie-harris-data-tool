@@ -1,20 +1,426 @@
 {
-	"irn": "61071",
-	"emuInput": {
-		"ecatalogue_key": "294",
-		"irn": "61071",
-		"TitAccessionNo": "2001.35.47005",
-		"TitMainTitle": "Group portrait, including members of lota Phi Lambda Sorority, from left: Lois Lee Dorsey, Councilman Paul F. Jones, Marion Jordon, Charles A. Carpenter, Phi Chapter president Jeanne Farrish, and Anne Penn, gathered at Greene Hearth to celebrate National Business Week",
-		"CreDateCreated": "April 1957",
-		"CreEarliestDate": "1957-04-01",
-		"CreLatestDate": "1957-04-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, page A13, reads: \"Iotas' Dinner - Members of Iota Phi Lambda Sorority gave a charming dinner at the Greene Hearthe, celebrating National Business Week of the group, and honoring Marion Jordon. Pictured are Mrs. Lois Lee Dorsey, Councilman Paul F. Jones, Mrs. Jordon, Charles A. Carpenter. the speaker; Phi Chapter president, Jeanne Farrish, and Anne Penn... - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGreene Hearth (Pittsburgh, Pa.)\nGreek letter societies--Pennsylvania--Pittsburgh.\nJordon, Marion Bond.\nDorsey, Lois Lee.\nJones, Paul F.\nCarpenter, Charles A.\nFarrish, Jeanne.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61071",
+  "emuInput": {
+    "ecatalogue_key": 46962,
+    "irn": 61071,
+    "TitAccessionNo": "2001.35.47005",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, page A13, reads: \"Iotas' Dinner - Members of Iota Phi Lambda Sorority gave a charming dinner at the Greene Hearthe, celebrating National Business Week of the group, and honoring Marion Jordon. Pictured are Mrs. Lois Lee Dorsey, Councilman Paul F. Jones, Mrs. Jordon, Charles A. Carpenter. the speaker; Phi Chapter president, Jeanne Farrish, and Anne Penn... - Harris Photo.\"",
+    "TitMainTitle": "Group portrait, including members of lota Phi Lambda Sorority, from left: Lois Lee Dorsey, Councilman Paul F. Jones, Marion Jordon, Charles A. Carpenter, Phi Chapter president Jeanne Farrish, and Anne Penn, gathered at Greene Hearth to celebrate National Business Week",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)Greek letter societies--Pennsylvania--Pittsburgh.Jordon, Marion Bond.Dorsey, Lois Lee.Jones, Paul F.Carpenter, Charles A.Farrish, Jeanne.",
+    "AdmGUIDValue_tab": "66796800-4f9c-492c-b058-45b905dd6a20",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69744,
+    "MulMultiMediaRef_key": 46970,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69744/sizes/61071-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46962,
+    "irn": 61071,
+    "TitAccessionNo": "2001.35.47005",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 27, 1957, page A13, reads: \"Iotas' Dinner - Members of Iota Phi Lambda Sorority gave a charming dinner at the Greene Hearthe, celebrating National Business Week of the group, and honoring Marion Jordon. Pictured are Mrs. Lois Lee Dorsey, Councilman Paul F. Jones, Mrs. Jordon, Charles A. Carpenter. the speaker; Phi Chapter president, Jeanne Farrish, and Anne Penn... - Harris Photo.\"",
+    "TitMainTitle": "Group portrait, including members of lota Phi Lambda Sorority, from left: Lois Lee Dorsey, Councilman Paul F. Jones, Marion Jordon, Charles A. Carpenter, Phi Chapter president Jeanne Farrish, and Anne Penn, gathered at Greene Hearth to celebrate National Business Week",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)Greek letter societies--Pennsylvania--Pittsburgh.Jordon, Marion Bond.Dorsey, Lois Lee.Jones, Paul F.Carpenter, Charles A.Farrish, Jeanne.",
+    "AdmGUIDValue_tab": "66796800-4f9c-492c-b058-45b905dd6a20",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69744,
+    "MulMultiMediaRef_key": 46970,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69744/sizes/61071-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion Jordon",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles A. Carpenter",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois Lee Dorsey",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanne Farrish",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearthe",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne Penn",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul F. Jones",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Iota Phi Lambda Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Area 13--Scienze economiche e statistiche",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Greek letter societies",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Iotas' Dinner - Members of Iota Phi Lambda Sorority gave a charming dinner at the Greene Hearthe, celebrating National Business Week of the group, and honoring Marion Jordon. Pictured are Mrs. Lois Lee Dorsey, Councilman Paul F. Jones, Mrs. Jordon, Charles A. Carpenter. the speaker; Phi Chapter president, Jeanne Farrish, and Anne Penn... - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "Charles A. Carpenter",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Farrish, Jeanne",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearth ",
+        "status": "suggested"
+      },
+      {
+        "data": "Iotas",
+        "status": "suggested"
+      },
+      {
+        "data": "Anne Penn",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon, Marion Bond",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Paul F",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "A13",
+        "status": "suggested"
+      },
+      {
+        "data": ")Greek letter societies",
+        "status": "suggested"
+      },
+      {
+        "data": "Iota Phi Lambda Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "National Business Week",
+        "status": "suggested"
+      },
+      {
+        "data": "... - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Phi Lambda Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Phi Chapter",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorsey, Lois Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul F. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Jordon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Carpenter, Charles A",
+        "status": "suggested"
+      },
+      {
+        "data": "April 27, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "socialite",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      }
+    ]
+  }
 }

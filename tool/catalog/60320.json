@@ -1,20 +1,276 @@
 {
-	"irn": "60320",
-	"emuInput": {
-		"ecatalogue_key": "289",
-		"irn": "60320",
-		"TitAccessionNo": "2001.35.46301",
-		"TitMainTitle": "Carnegie Tech graduates William B. Saunders and Bernice L. Baynes, posed in interior with dark curtains and striped sofa",
-		"CreDateCreated": "June 1957",
-		"CreEarliestDate": "1957-06-01",
-		"CreLatestDate": "1957-06-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 1957, pg. 3 reads: \"William B. Saunders...Tech-Master of Library Science...Bernice L. Baynes Tech-Bachelor of Arts\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGraduates--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60320",
+  "emuInput": {
+    "ecatalogue_key": 46258,
+    "irn": 60320,
+    "TitAccessionNo": "2001.35.46301",
+    "CreDateCreated": "June 1957",
+    "CreEarliestDate": "1957-06-01",
+    "CreLatestDate": "1957-06-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 1957, pg. 3 reads: \"William B. Saunders...Tech-Master of Library Science...Bernice L. Baynes Tech-Bachelor of Arts\"",
+    "TitMainTitle": "Carnegie Tech graduates William B. Saunders and Bernice L. Baynes, posed in interior with dark curtains and striped sofa",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010474c2-0aa5-4fd1-ba94-2810b473143d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68793,
+    "MulMultiMediaRef_key": 46266,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68793/sizes/60320-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46258,
+    "irn": 60320,
+    "TitAccessionNo": "2001.35.46301",
+    "CreDateCreated": "June 1957",
+    "CreEarliestDate": "1957-06-01",
+    "CreLatestDate": "1957-06-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 1957, pg. 3 reads: \"William B. Saunders...Tech-Master of Library Science...Bernice L. Baynes Tech-Bachelor of Arts\"",
+    "TitMainTitle": "Carnegie Tech graduates William B. Saunders and Bernice L. Baynes, posed in interior with dark curtains and striped sofa",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010474c2-0aa5-4fd1-ba94-2810b473143d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68793,
+    "MulMultiMediaRef_key": 46266,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68793/sizes/60320-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bernice L. Baynes",
+        "status": "suggested"
+      },
+      {
+        "data": "William B. Saunders",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "William B. Saunders...Tech-Master of Library Science...Bernice L. Baynes Tech-Bachelor of Arts",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "mortarboard",
+        "status": "suggested"
+      },
+      {
+        "data": "graduation",
+        "status": "suggested"
+      },
+      {
+        "data": "William B. Saunders",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Graduates",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Tech",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "June 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "cap",
+        "status": "suggested"
+      },
+      {
+        "data": "academic dress",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "headdress",
+        "status": "suggested"
+      },
+      {
+        "data": "phd",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "academician",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,240 @@
 {
-	"irn": "73060",
-	"emuInput": {
-		"ecatalogue_key": "398",
-		"irn": "73060",
-		"TitAccessionNo": "2001.35.57544",
-		"TitMainTitle": "Congregation of men, and women, including one standing in aisle, in Calvary Baptist Church for All Nigh Gospel Sing for the Charles \"Buggsy\" Drafts Fund",
-		"CreDateCreated": "August 1962",
-		"CreEarliestDate": "1962-08-01",
-		"CreLatestDate": "1962-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, August 18, 1962, pg. 1 reads: \"All-Night Gospel Sing For Drafts Fund-The Buggsy Drafts fund has passed the $1,000 mark. Credit radio broadcaster Bill Powell and his \"All Night Gospel Singing Program\" with providing the impetus to pass the first crucial milestone in Courier's quest for $5,000.\"",
-		"CatSubject_tab": "Calvary Baptist Church (Pittsburgh, Pa.)\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nCongregations (Religious gatherings)--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "73060",
+  "emuInput": {
+    "ecatalogue_key": 57501,
+    "irn": 73060,
+    "TitAccessionNo": "2001.35.57544",
+    "CreDateCreated": "August 1962",
+    "CreEarliestDate": "1962-08-01",
+    "CreLatestDate": "1962-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, August 18, 1962, pg. 1 reads: \"All-Night Gospel Sing For Drafts Fund-The Buggsy Drafts fund has passed the $1,000 mark. Credit radio broadcaster Bill Powell and his \"All Night Gospel Singing Program\" with providing the impetus to pass the first crucial milestone in Courier's quest for $5,000.\"",
+    "TitMainTitle": "Congregation of men, and women, including one standing in aisle, in Calvary Baptist Church for All Nigh Gospel Sing for the Charles \"Buggsy\" Drafts Fund",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Calvary Baptist Church (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Congregations (Religious gatherings)--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0074d061-7d09-4f5a-a9a8-c6c52657e413",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94263,
+    "MulMultiMediaRef_key": 57510,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94263/sizes/73060-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57501,
+    "irn": 73060,
+    "TitAccessionNo": "2001.35.57544",
+    "CreDateCreated": "August 1962",
+    "CreEarliestDate": "1962-08-01",
+    "CreLatestDate": "1962-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, August 18, 1962, pg. 1 reads: \"All-Night Gospel Sing For Drafts Fund-The Buggsy Drafts fund has passed the $1,000 mark. Credit radio broadcaster Bill Powell and his \"All Night Gospel Singing Program\" with providing the impetus to pass the first crucial milestone in Courier's quest for $5,000.\"",
+    "TitMainTitle": "Congregation of men, and women, including one standing in aisle, in Calvary Baptist Church for All Nigh Gospel Sing for the Charles \"Buggsy\" Drafts Fund",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Calvary Baptist Church (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Congregations (Religious gatherings)--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0074d061-7d09-4f5a-a9a8-c6c52657e413",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94263,
+    "MulMultiMediaRef_key": 57510,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94263/sizes/73060-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bill Powell",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Religious gatherings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "All-Night Gospel Sing For Drafts Fund-The Buggsy Drafts fund has passed the $1,000 mark. Credit radio broadcaster Bill Powell and his \"All Night Gospel Singing Program\" with providing the impetus to pass the first crucial milestone in Courier's quest for $5,000.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 18, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Calvary Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "All-Night Gospel Sing For Drafts Fund-The Buggsy Drafts",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "All Night Gospel Singing Program",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Congregations (Religious gatherings)",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "August 18, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvary Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "milestone",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill Powell",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "classroom",
+        "status": "suggested"
+      }
+    ]
+  }
 }

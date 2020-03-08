@@ -1,20 +1,424 @@
 {
-	"irn": "20441",
-	"emuInput": {
-		"ecatalogue_key": "98",
-		"irn": "20441",
-		"TitAccessionNo": "2001.35.11392",
-		"TitMainTitle": "Lionel Hampton, Marva Louis, and George Brown posed behind microphone in Loendi Club",
-		"CreDateCreated": "June 1945",
-		"CreEarliestDate": "1945-06-01",
-		"CreLatestDate": "1945-06-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 9, 1945, pg. 21, reads: \"Lionel Hampton and Marva Louis Are Acclaimed In Concert At Syria Mosque - The Aftermath - After the stirring swing concert at Syria Mosque Monday night, artists, as well as the audience, made a pilgrimage to the Loendi Club to finish the evening.  Teenie Harris, Courier staff photographer, trailed them and snapped these candid shots showing Marva Louis with admirers and Lionel Hampton surrounded by friends. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nSingers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMusical instruments--Pennsylvania--Pittsburgh.\nHampton, Lionel.\nLoendi Club (Pittsburgh, Pa.).",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20441",
+  "emuInput": {
+    "ecatalogue_key": 11364,
+    "irn": 20441,
+    "TitAccessionNo": "2001.35.11392",
+    "CreDateCreated": "June 1945",
+    "CreEarliestDate": "1945-06-01",
+    "CreLatestDate": "1945-06-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 9, 1945, pg. 21, reads: \"Lionel Hampton and Marva Louis Are Acclaimed In Concert At Syria Mosque - The Aftermath - After the stirring swing concert at Syria Mosque Monday night, artists, as well as the audience, made a pilgrimage to the Loendi Club to finish the evening.  Teenie Harris, Courier staff photographer, trailed them and snapped these candid shots showing Marva Louis with admirers and Lionel Hampton surrounded by friends. - Harris Photo.\"",
+    "TitMainTitle": "Lionel Hampton, Marva Louis, and George Brown posed behind microphone in Loendi Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Musical instruments--Pennsylvania--Pittsburgh.Hampton, Lionel.Loendi Club (Pittsburgh, Pa.).",
+    "AdmGUIDValue_tab": "00ec853d-f220-47e9-9529-137e9357be1b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27256,
+    "MulMultiMediaRef_key": 11372,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27256/sizes/20441-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11364,
+    "irn": 20441,
+    "TitAccessionNo": "2001.35.11392",
+    "CreDateCreated": "June 1945",
+    "CreEarliestDate": "1945-06-01",
+    "CreLatestDate": "1945-06-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 9, 1945, pg. 21, reads: \"Lionel Hampton and Marva Louis Are Acclaimed In Concert At Syria Mosque - The Aftermath - After the stirring swing concert at Syria Mosque Monday night, artists, as well as the audience, made a pilgrimage to the Loendi Club to finish the evening.  Teenie Harris, Courier staff photographer, trailed them and snapped these candid shots showing Marva Louis with admirers and Lionel Hampton surrounded by friends. - Harris Photo.\"",
+    "TitMainTitle": "Lionel Hampton, Marva Louis, and George Brown posed behind microphone in Loendi Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Musical instruments--Pennsylvania--Pittsburgh.Hampton, Lionel.Loendi Club (Pittsburgh, Pa.).",
+    "AdmGUIDValue_tab": "00ec853d-f220-47e9-9529-137e9357be1b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27256,
+    "MulMultiMediaRef_key": 11372,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27256/sizes/20441-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "George Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie Harris",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Musical instruments",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Toy instruments",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Lionel Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis Are Acclaimed In Concert",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Lionel Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis Are Acclaimed In Concert",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Lionel Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis Are Acclaimed In Concert",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Lionel Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Louis Are Acclaimed In Concert",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hampton",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "21",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Lionel Hampton and Marva Louis Are Acclaimed In Concert At Syria Mosque - The Aftermath - After the stirring swing concert at Syria Mosque Monday night, artists, as well as the audience, made a pilgrimage to the Loendi Club to finish the evening.  Teenie Harris, Courier staff photographer, trailed them and snapped these candid shots showing Marva Louis with admirers and Lionel Hampton surrounded by friends. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 9, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Hampton, Lionel",
+        "status": "suggested"
+      },
+      {
+        "data": "June 9, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Musical instruments",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday night",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Musical toy instruments",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "George Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

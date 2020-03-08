@@ -1,20 +1,392 @@
 {
-	"irn": "37476",
-	"emuInput": {
-		"ecatalogue_key": "180",
-		"irn": "37476",
-		"TitAccessionNo": "2001.35.25063",
-		"TitMainTitle": "Iota sorority pledges, seated from left: Geraldyne Johnson, Loretta Johnson, Allean Bridges; second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker, Jo Anne Neal; third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs posed in domestic interior with television and french doors",
-		"CreDateCreated": "February 1952",
-		"CreEarliestDate": "1952-02-01",
-		"CreLatestDate": "1952-02-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 1, 1952, pg. 25, reads: \"Future Iota Girls - This group of Iota pledgees had a very successful affair at Ammon Center recently and will be aides at annual Scholarship Tea at Loendi Sunday. Some of the members participated in the radio play which opened Crime Prevention Week when Hill City sponsored it. Left to right, seated, Geraldyne and Loretta Johnson and Allean Bridges. Second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker and Jo Anne Neal. Third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs. Not in the picture are Wilma Duncan, Effie Brown, Jacquelin Ross, Mary Mason and Gwendolyn Hamilton. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.\nFireplaces--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "37476",
+  "emuInput": {
+    "ecatalogue_key": 25031,
+    "irn": 37476,
+    "TitAccessionNo": "2001.35.25063",
+    "CreDateCreated": "February 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 1, 1952, pg. 25, reads: \"Future Iota Girls - This group of Iota pledgees had a very successful affair at Ammon Center recently and will be aides at annual Scholarship Tea at Loendi Sunday. Some of the members participated in the radio play which opened Crime Prevention Week when Hill City sponsored it. Left to right, seated, Geraldyne and Loretta Johnson and Allean Bridges. Second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker and Jo Anne Neal. Third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs. Not in the picture are Wilma Duncan, Effie Brown, Jacquelin Ross, Mary Mason and Gwendolyn Hamilton. - Harris Photo.\"",
+    "TitMainTitle": "Iota sorority pledges, seated from left: Geraldyne Johnson, Loretta Johnson, Allean Bridges; second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker, Jo Anne Neal; third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs posed in domestic interior with television and french doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02533eba-f4e1-4889-9e5a-6490c0250634",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43635,
+    "MulMultiMediaRef_key": 25039,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43635/sizes/37476-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 25031,
+    "irn": 37476,
+    "TitAccessionNo": "2001.35.25063",
+    "CreDateCreated": "February 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-02-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 1, 1952, pg. 25, reads: \"Future Iota Girls - This group of Iota pledgees had a very successful affair at Ammon Center recently and will be aides at annual Scholarship Tea at Loendi Sunday. Some of the members participated in the radio play which opened Crime Prevention Week when Hill City sponsored it. Left to right, seated, Geraldyne and Loretta Johnson and Allean Bridges. Second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker and Jo Anne Neal. Third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs. Not in the picture are Wilma Duncan, Effie Brown, Jacquelin Ross, Mary Mason and Gwendolyn Hamilton. - Harris Photo.\"",
+    "TitMainTitle": "Iota sorority pledges, seated from left: Geraldyne Johnson, Loretta Johnson, Allean Bridges; second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker, Jo Anne Neal; third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs posed in domestic interior with television and french doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02533eba-f4e1-4889-9e5a-6490c0250634",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43635,
+    "MulMultiMediaRef_key": 25039,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43635/sizes/37476-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Genevieve Finch",
+        "status": "suggested"
+      },
+      {
+        "data": "Allean Bridges",
+        "status": "suggested"
+      },
+      {
+        "data": "Loretta Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilma Duncan",
+        "status": "suggested"
+      },
+      {
+        "data": "Jo Ann Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldyne",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldyne Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Effie Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacquelin Ross",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Calhoun",
+        "status": "suggested"
+      },
+      {
+        "data": "Phyllis Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Briggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Gwendolyn Hamilton",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Lou Brooks",
+        "status": "suggested"
+      },
+      {
+        "data": "Jo Anne Neal",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "25",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Future Iota Girls - This group of Iota pledgees had a very successful affair at Ammon Center recently and will be aides at annual Scholarship Tea at Loendi Sunday. Some of the members participated in the radio play which opened Crime Prevention Week when Hill City sponsored it. Left to right, seated, Geraldyne and Loretta Johnson and Allean Bridges. Second row: Jo Ann Tucker, Delores Jackson, Phyllis Harper, Delores Parker and Jo Anne Neal. Third row: Genevieve Finch, Mary Lou Brooks, Shirley Calhoun and Barbara Briggs. Not in the picture are Wilma Duncan, Effie Brown, Jacquelin Ross, Mary Mason and Gwendolyn Hamilton. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 1, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Loretta Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Crime Prevention Week",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldyne",
+        "status": "suggested"
+      },
+      {
+        "data": "Effie Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Delores Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Phyllis Harper",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Briggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Lou Brooks",
+        "status": "suggested"
+      },
+      {
+        "data": "March 1, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      }
+    ]
+  }
 }

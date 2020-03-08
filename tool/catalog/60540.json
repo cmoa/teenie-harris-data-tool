@@ -1,20 +1,463 @@
 {
-	"irn": "60540",
-	"emuInput": {
-		"ecatalogue_key": "292",
-		"irn": "60540",
-		"TitAccessionNo": "2001.35.46648",
-		"TitMainTitle": "Marshall Neason aiming hose at Carolyn Clark, Donna Clark, and Linda Dianne Neason, while cleaning light colored Mercury car, 2200 block of Bedford Avenue with Macedonia Baptist Church in background, Hill District",
-		"CreDateCreated": "July - August 1957",
-		"CreEarliestDate": "1957-07-01",
-		"CreLatestDate": "1957-08-03",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 3, 1957, pg. A1 reads: \"Cooling Off - During a recent hot day, Courier photographer Charles (Teenie) Harris took a picture of these youngsters cooling off in 2200 block of Bedford Ave. They came out from under the refreshing spray of water only long enough to identify themselves as Carolyn and Donna Clark and Linda, Dianne and Marshall Neason.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBathing suits--Pennsylvania--Pittsburgh.\nSidewalks--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nApartment buildings--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nChurch buildings--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60540",
+  "emuInput": {
+    "ecatalogue_key": 46605,
+    "irn": 60540,
+    "TitAccessionNo": "2001.35.46648",
+    "CreDateCreated": "July - August 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-08-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 3, 1957, pg. A1 reads: \"Cooling Off - During a recent hot day, Courier photographer Charles (Teenie) Harris took a picture of these youngsters cooling off in 2200 block of Bedford Ave. They came out from under the refreshing spray of water only long enough to identify themselves as Carolyn and Donna Clark and Linda, Dianne and Marshall Neason.\"",
+    "TitMainTitle": "Marshall Neason aiming hose at Carolyn Clark, Donna Clark, and Linda Dianne Neason, while cleaning light colored Mercury car, 2200 block of Bedford Avenue with Macedonia Baptist Church in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Apartment buildings--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00e94f9f-cd53-4214-bfde-f2d50b2c4a47",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69065,
+    "MulMultiMediaRef_key": 46613,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69065/sizes/60540-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46605,
+    "irn": 60540,
+    "TitAccessionNo": "2001.35.46648",
+    "CreDateCreated": "July - August 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-08-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 3, 1957, pg. A1 reads: \"Cooling Off - During a recent hot day, Courier photographer Charles (Teenie) Harris took a picture of these youngsters cooling off in 2200 block of Bedford Ave. They came out from under the refreshing spray of water only long enough to identify themselves as Carolyn and Donna Clark and Linda, Dianne and Marshall Neason.\"",
+    "TitMainTitle": "Marshall Neason aiming hose at Carolyn Clark, Donna Clark, and Linda Dianne Neason, while cleaning light colored Mercury car, 2200 block of Bedford Avenue with Macedonia Baptist Church in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Apartment buildings--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Church buildings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00e94f9f-cd53-4214-bfde-f2d50b2c4a47",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69065,
+    "MulMultiMediaRef_key": 46613,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69065/sizes/60540-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda",
+        "status": "suggested"
+      },
+      {
+        "data": "Dianne",
+        "status": "suggested"
+      },
+      {
+        "data": "Donna Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda Dianne Neason",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Marshall Neason",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Apartment houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Cooling Off - During a recent hot day, Courier photographer Charles (Teenie) Harris took a picture of these youngsters cooling off in 2200 block of Bedford Ave. They came out from under the refreshing spray of water only long enough to identify themselves as Carolyn and Donna Clark and Linda, Dianne and Marshall Neason.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 3, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Cooling Off - During",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Mercury",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Dianne",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Donna Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Macedonia Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Church buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "August 3, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Apartment buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "land vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "mode of transport",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "luxury vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "snow",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "family car",
+        "status": "suggested"
+      },
+      {
+        "data": "city car",
+        "status": "suggested"
+      }
+    ]
+  }
 }

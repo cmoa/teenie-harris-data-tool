@@ -1,20 +1,339 @@
 {
-	"irn": "58264",
-	"emuInput": {
-		"ecatalogue_key": "266",
-		"irn": "58264",
-		"TitAccessionNo": "2001.35.44487",
-		"TitMainTitle": "Mrs. Ossie Stevenson standing in her home at 101 East Jefferson Street, Northside",
-		"CreDateCreated": "December 1955",
-		"CreEarliestDate": "1955-12-01",
-		"CreLatestDate": "1955-12-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 24, 1955, pg. A14, reads: \"Car Caroms Off Pole Into Parlor - Sunday Shock - Mrs. Stevenson's peaceful Sunday morning was shattered after she heard a bang and found an automobile lounging in her living room.  She and her son, Samuel Stevenson were both in another room when the unwanted prospect arrived. - Harris Photo.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nWallpaper--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nJewelry--Pennsylvania--Pittsburgh.\nTelephones--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58264",
+  "emuInput": {
+    "ecatalogue_key": 44444,
+    "irn": 58264,
+    "TitAccessionNo": "2001.35.44487",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 24, 1955, pg. A14, reads: \"Car Caroms Off Pole Into Parlor - Sunday Shock - Mrs. Stevenson's peaceful Sunday morning was shattered after she heard a bang and found an automobile lounging in her living room.  She and her son, Samuel Stevenson were both in another room when the unwanted prospect arrived. - Harris Photo.\"",
+    "TitMainTitle": "Mrs. Ossie Stevenson standing in her home at 101 East Jefferson Street, Northside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02c4b1be-dc2f-4026-bb94-6d2bcd670b91",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66346,
+    "MulMultiMediaRef_key": 44452,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66346/sizes/58264-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44444,
+    "irn": 58264,
+    "TitAccessionNo": "2001.35.44487",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 24, 1955, pg. A14, reads: \"Car Caroms Off Pole Into Parlor - Sunday Shock - Mrs. Stevenson's peaceful Sunday morning was shattered after she heard a bang and found an automobile lounging in her living room.  She and her son, Samuel Stevenson were both in another room when the unwanted prospect arrived. - Harris Photo.\"",
+    "TitMainTitle": "Mrs. Ossie Stevenson standing in her home at 101 East Jefferson Street, Northside",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02c4b1be-dc2f-4026-bb94-6d2bcd670b91",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66346,
+    "MulMultiMediaRef_key": 44452,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66346/sizes/58264-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ossie Stevenson",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Stevenson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Telephone",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "East Jefferson Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "East Jefferson Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "East Jefferson Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "East Jefferson Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Northside",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Car Caroms Off Pole Into Parlor - Sunday Shock - Mrs. Stevenson's peaceful Sunday morning was shattered after she heard a bang and found an automobile lounging in her living room.  She and her son, Samuel Stevenson were both in another room when the unwanted prospect arrived. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 24, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "East Jefferson Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "December 24, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Stevenson",
+        "status": "suggested"
+      },
+      {
+        "data": "Car Caroms Off Pole Into Parlor - Sunday Shock - Mrs. Stevenson's",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephones",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

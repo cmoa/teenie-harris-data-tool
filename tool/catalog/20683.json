@@ -1,20 +1,318 @@
 {
-	"irn": "20683",
-	"emuInput": {
-		"ecatalogue_key": "100",
-		"irn": "20683",
-		"TitAccessionNo": "2001.35.11504",
-		"TitMainTitle": "George Auld wearing double breasted pinstriped suit, and Billy Eckstine, standing in Loendi Club, for reception in honor of Lena Horne",
-		"CreDateCreated": "October 1944",
-		"CreEarliestDate": "1944-10-01",
-		"CreLatestDate": "1944-10-31",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1944, p. 13, reads: \"GEORGE AULD, who has supported Lena with his band on several engagements was on hand ... and he and Eckstine compare notes on their rapid rise in music world. - Staff Photos by Harris.\"",
-		"CatSubject_tab": "Eckstine, Billy.\nSingers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nLoendi Club (Pittsburgh, Pa.).\nGroup portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20683",
+  "emuInput": {
+    "ecatalogue_key": 11474,
+    "irn": 20683,
+    "TitAccessionNo": "2001.35.11504",
+    "CreDateCreated": "October 1944",
+    "CreEarliestDate": "1944-10-01",
+    "CreLatestDate": "1944-10-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1944, p. 13, reads: \"GEORGE AULD, who has supported Lena with his band on several engagements was on hand ... and he and Eckstine compare notes on their rapid rise in music world. - Staff Photos by Harris.\"",
+    "TitMainTitle": "George Auld wearing double breasted pinstriped suit, and Billy Eckstine, standing in Loendi Club, for reception in honor of Lena Horne",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Eckstine, Billy.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "91051932-61c5-4a37-8441-6d4b1541222d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27625,
+    "MulMultiMediaRef_key": 11482,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27625/sizes/20683-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11474,
+    "irn": 20683,
+    "TitAccessionNo": "2001.35.11504",
+    "CreDateCreated": "October 1944",
+    "CreEarliestDate": "1944-10-01",
+    "CreLatestDate": "1944-10-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1944, p. 13, reads: \"GEORGE AULD, who has supported Lena with his band on several engagements was on hand ... and he and Eckstine compare notes on their rapid rise in music world. - Staff Photos by Harris.\"",
+    "TitMainTitle": "George Auld wearing double breasted pinstriped suit, and Billy Eckstine, standing in Loendi Club, for reception in honor of Lena Horne",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Eckstine, Billy.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "91051932-61c5-4a37-8441-6d4b1541222d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27625,
+    "MulMultiMediaRef_key": 11482,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27625/sizes/20683-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Billy Eckstine",
+        "status": "suggested"
+      },
+      {
+        "data": "Eckstine",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "George Auld",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "GEORGE AULD, who has supported Lena with his band on several engagements was on hand ... and he and Eckstine compare notes on their rapid rise in music world. - Staff Photos by Harris.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Billy Eckstine",
+        "status": "suggested"
+      },
+      {
+        "data": "Eckstine",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "October 21, 1944",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "George Auld",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Eckstine, Billy",
+        "status": "suggested"
+      },
+      {
+        "data": "Lena",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

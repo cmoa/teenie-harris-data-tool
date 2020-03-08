@@ -1,20 +1,323 @@
 {
-	"irn": "72076",
-	"emuInput": {
-		"ecatalogue_key": "384",
-		"irn": "72076",
-		"TitAccessionNo": "2001.35.56706",
-		"TitMainTitle": "Harry Washington presenting trophy to Byron Peters, with Henry Smith Jr. looking on, posed in interior during FROGS symposium",
-		"CreDateCreated": "July 1960",
-		"CreEarliestDate": "1960-07-01",
-		"CreLatestDate": "1960-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. A2 reads: \"Original Frog - Harry Washington, right, a member of the famous Frogs Club for many years, presents a trophy to Byron Peters, one of the original Frogs, as President Henry Smith Jr. (center) looks on. The presentation was made at teh symposium on Sunday, which began the annual Frog Week celebration of the club's 50th anniversary. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nFROGS Club (Pittsburgh, Pa.)\nTrophies--Pennsylvania--Pittsburgh.\nWashington, Harry.\nPeters, Byron C.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72076",
+  "emuInput": {
+    "ecatalogue_key": 56663,
+    "irn": 72076,
+    "TitAccessionNo": "2001.35.56706",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. A2 reads: \"Original Frog - Harry Washington, right, a member of the famous Frogs Club for many years, presents a trophy to Byron Peters, one of the original Frogs, as President Henry Smith Jr. (center) looks on. The presentation was made at teh symposium on Sunday, which began the annual Frog Week celebration of the club's 50th anniversary. - Harris Photo.\"",
+    "TitMainTitle": "Harry Washington presenting trophy to Byron Peters, with Henry Smith Jr. looking on, posed in interior during FROGS symposium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Trophies--Pennsylvania--Pittsburgh.Washington, Harry.Peters, Byron C.",
+    "AdmGUIDValue_tab": "15015404-d21c-403d-b87d-7f2b0eefcf27",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89753,
+    "MulMultiMediaRef_key": 56672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89753/sizes/72076-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56663,
+    "irn": 72076,
+    "TitAccessionNo": "2001.35.56706",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. A2 reads: \"Original Frog - Harry Washington, right, a member of the famous Frogs Club for many years, presents a trophy to Byron Peters, one of the original Frogs, as President Henry Smith Jr. (center) looks on. The presentation was made at teh symposium on Sunday, which began the annual Frog Week celebration of the club's 50th anniversary. - Harris Photo.\"",
+    "TitMainTitle": "Harry Washington presenting trophy to Byron Peters, with Henry Smith Jr. looking on, posed in interior during FROGS symposium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Trophies--Pennsylvania--Pittsburgh.Washington, Harry.Peters, Byron C.",
+    "AdmGUIDValue_tab": "15015404-d21c-403d-b87d-7f2b0eefcf27",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89753,
+    "MulMultiMediaRef_key": 56672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89753/sizes/72076-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Smith Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Byron Peters",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Frogs Cricket Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Original Frog - Harry Washington, right, a member of the famous Frogs Club for many years, presents a trophy to Byron Peters, one of the original Frogs, as President Henry Smith Jr. (center) looks on. The presentation was made at teh symposium on Sunday, which began the annual Frog Week celebration of the club's 50th anniversary. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 30, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Frogs Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "many years",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Original Frog - Harry Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "FROGS Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Smith Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington, Harry",
+        "status": "suggested"
+      },
+      {
+        "data": "Peters, Byron C",
+        "status": "suggested"
+      },
+      {
+        "data": "July 30, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": ")Trophies",
+        "status": "suggested"
+      },
+      {
+        "data": "Frogs",
+        "status": "suggested"
+      },
+      {
+        "data": "Frog Week",
+        "status": "suggested"
+      },
+      {
+        "data": "Byron Peters",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "business executive",
+        "status": "suggested"
+      },
+      {
+        "data": "official",
+        "status": "suggested"
+      }
+    ]
+  }
 }

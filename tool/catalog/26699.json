@@ -1,20 +1,336 @@
 {
-	"irn": "26699",
-	"emuInput": {
-		"ecatalogue_key": "131",
-		"irn": "26699",
-		"TitAccessionNo": "2001.35.16435",
-		"TitMainTitle": "Portrait of groom Charles A. Mitchell Jr. and bride Maryann Harris Mitchell, standing behind five tiered wedding cake, in interior with dark curtain in background",
-		"CreDateCreated": "March 1961",
-		"CreEarliestDate": "1961-03-01",
-		"CreLatestDate": "1961-03-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Smiling Happily, following their recent wedding, are Mr. and Mrs. Charles A. Mitchell Jr. The couple was married in rectory of Holy Rosary Church.  The bride is the former Maryan Harris, Daughter of Mr. and Mrs. Robert Harris Sr. of Upland St. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nFood--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "26699",
+  "emuInput": {
+    "ecatalogue_key": 16405,
+    "irn": 26699,
+    "TitAccessionNo": "2001.35.16435",
+    "CreDateCreated": "March 1961",
+    "CreEarliestDate": "1961-03-01",
+    "CreLatestDate": "1961-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Smiling Happily, following their recent wedding, are Mr. and Mrs. Charles A. Mitchell Jr. The couple was married in rectory of Holy Rosary Church.  The bride is the former Maryan Harris, Daughter of Mr. and Mrs. Robert Harris Sr. of Upland St. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of groom Charles A. Mitchell Jr. and bride Maryann Harris Mitchell, standing behind five tiered wedding cake, in interior with dark curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64236224-13f0-4a26-9c95-ce5ff25cbfa4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33100,
+    "MulMultiMediaRef_key": 16413,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33100/sizes/26699-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16405,
+    "irn": 26699,
+    "TitAccessionNo": "2001.35.16435",
+    "CreDateCreated": "March 1961",
+    "CreEarliestDate": "1961-03-01",
+    "CreLatestDate": "1961-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Smiling Happily, following their recent wedding, are Mr. and Mrs. Charles A. Mitchell Jr. The couple was married in rectory of Holy Rosary Church.  The bride is the former Maryan Harris, Daughter of Mr. and Mrs. Robert Harris Sr. of Upland St. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of groom Charles A. Mitchell Jr. and bride Maryann Harris Mitchell, standing behind five tiered wedding cake, in interior with dark curtain in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64236224-13f0-4a26-9c95-ce5ff25cbfa4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33100,
+    "MulMultiMediaRef_key": 16413,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33100/sizes/26699-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Maryan Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles A. Mitchell Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Maryann Harris Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Harris Sr .",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Smiling Happily, following their recent wedding, are Mr. and Mrs. Charles A. Mitchell Jr. The couple was married in rectory of Holy Rosary Church.  The bride is the former Maryan Harris, Daughter of Mr. and Mrs. Robert Harris Sr. of Upland St. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 11, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Smiling Happily",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "March 11, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Upland St. - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Holy Rosary Church",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion accessory",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding ceremony supply",
+        "status": "suggested"
+      }
+    ]
+  }
 }

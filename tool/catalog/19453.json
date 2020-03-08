@@ -1,20 +1,264 @@
 {
-	"irn": "19453",
-	"emuInput": {
-		"ecatalogue_key": "88",
-		"irn": "19453",
-		"TitAccessionNo": "2001.35.10202",
-		"TitMainTitle": "Sales representative Robert \"Bob\" P. French Jr., holding bottle of Seagram's Crown Royal, and regional sales manager Frank Cepits, posed with display of Seagram's products in interior with bold block print patterned curtain, another version",
-		"CreDateCreated": "December 1964",
-		"CreEarliestDate": "1964-12-01",
-		"CreLatestDate": "1964-12-19",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 19, 1964, pg. 9 reads: \"Seagram's For Christmas - Frank Cepits, Western Pennsylvania, state manager, and Bob French, sales representative, invite their patrons and friends to think of Seagram's when they think of the coming holidays.  Displayed in the above picture are the following Seagram brands: 7 Crown, the nation's top-selling whiskey; Seagram's V.O. No. 2, Seagram's Dry Gin, exceedingly popular, and the new top-shelf Seagram's Crown Royal.  All of the above Seagram's products are attractively packaged nad available at your state store.  Have a happy holiday nad enjoy Seagram's\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nSeagram Company\nAlcohol--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "19453",
+  "emuInput": {
+    "ecatalogue_key": 10176,
+    "irn": 19453,
+    "TitAccessionNo": "2001.35.10202",
+    "CreDateCreated": "December 1964",
+    "CreEarliestDate": "1964-12-01",
+    "CreLatestDate": "1964-12-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 19, 1964, pg. 9 reads: \"Seagram's For Christmas - Frank Cepits, Western Pennsylvania, state manager, and Bob French, sales representative, invite their patrons and friends to think of Seagram's when they think of the coming holidays.  Displayed in the above picture are the following Seagram brands: 7 Crown, the nation's top-selling whiskey; Seagram's V.O. No. 2, Seagram's Dry Gin, exceedingly popular, and the new top-shelf Seagram's Crown Royal.  All of the above Seagram's products are attractively packaged nad available at your state store.  Have a happy holiday nad enjoy Seagram's\"",
+    "TitMainTitle": "Sales representative Robert \"Bob\" P. French Jr., holding bottle of Seagram's Crown Royal, and regional sales manager Frank Cepits, posed with display of Seagram's products in interior with bold block print patterned curtain, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Seagram CompanyAlcohol--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70235414-c380-4897-b601-7b2c8745d599",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25992,
+    "MulMultiMediaRef_key": 10184,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25992/sizes/19453-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10176,
+    "irn": 19453,
+    "TitAccessionNo": "2001.35.10202",
+    "CreDateCreated": "December 1964",
+    "CreEarliestDate": "1964-12-01",
+    "CreLatestDate": "1964-12-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 19, 1964, pg. 9 reads: \"Seagram's For Christmas - Frank Cepits, Western Pennsylvania, state manager, and Bob French, sales representative, invite their patrons and friends to think of Seagram's when they think of the coming holidays.  Displayed in the above picture are the following Seagram brands: 7 Crown, the nation's top-selling whiskey; Seagram's V.O. No. 2, Seagram's Dry Gin, exceedingly popular, and the new top-shelf Seagram's Crown Royal.  All of the above Seagram's products are attractively packaged nad available at your state store.  Have a happy holiday nad enjoy Seagram's\"",
+    "TitMainTitle": "Sales representative Robert \"Bob\" P. French Jr., holding bottle of Seagram's Crown Royal, and regional sales manager Frank Cepits, posed with display of Seagram's products in interior with bold block print patterned curtain, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Seagram CompanyAlcohol--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70235414-c380-4897-b601-7b2c8745d599",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25992,
+    "MulMultiMediaRef_key": 10184,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25992/sizes/19453-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bob French",
+        "status": "suggested"
+      },
+      {
+        "data": "Frank Cepits",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert \" Bob \" P. French Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Dry Gin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Seagram",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Western Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Western Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Western Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Western Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Seagram's For Christmas - Frank Cepits, Western Pennsylvania, state manager, and Bob French, sales representative, invite their patrons and friends to think of Seagram's when they think of the coming holidays.  Displayed in the above picture are the following Seagram brands: 7 Crown, the nation's top-selling whiskey; Seagram's V.O. No. 2, Seagram's Dry Gin, exceedingly popular, and the new top-shelf Seagram's Crown Royal.  All of the above Seagram's products are attractively packaged nad available at your state store.  Have a happy holiday nad enjoy Seagram's",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 19, 1964",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "December 19, 1964",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Seagram",
+        "status": "suggested"
+      },
+      {
+        "data": "Crown",
+        "status": "suggested"
+      },
+      {
+        "data": "Seagram CompanyAlcohol",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Crown Royal",
+        "status": "suggested"
+      },
+      {
+        "data": "the coming holidays",
+        "status": "suggested"
+      },
+      {
+        "data": "Bob French",
+        "status": "suggested"
+      },
+      {
+        "data": "V.O. No",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,348 @@
 {
-	"irn": "20144",
-	"emuInput": {
-		"ecatalogue_key": "97",
-		"irn": "20144",
-		"TitAccessionNo": "2001.35.11115",
-		"TitMainTitle": "Mrs. Berry wearing large corsage, unknown man, and Edwin C. \"Bill\" Berry seated behind dining table with bread rolls in Centre Avenue YMCA",
-		"CreDateCreated": "April 1945",
-		"CreEarliestDate": "1945-04-01",
-		"CreLatestDate": "1945-04-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper April 21, 1945, pg. 15, reads: \"Farewell to Friends - Mr. and Mrs. Edwin C. (Bill) Berry left the city last week-end for their new home in Portland, Ore. where he has accepted the position of executive secretary of the Urban League. Berry served as community organization secretary of the local Urban League. - Courier Photo by Harris.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20144",
+  "emuInput": {
+    "ecatalogue_key": 11087,
+    "irn": 20144,
+    "TitAccessionNo": "2001.35.11115",
+    "CreDateCreated": "April 1945",
+    "CreEarliestDate": "1945-04-01",
+    "CreLatestDate": "1945-04-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper April 21, 1945, pg. 15, reads: \"Farewell to Friends - Mr. and Mrs. Edwin C. (Bill) Berry left the city last week-end for their new home in Portland, Ore. where he has accepted the position of executive secretary of the Urban League. Berry served as community organization secretary of the local Urban League. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Mrs. Berry wearing large corsage, unknown man, and Edwin C. \"Bill\" Berry seated behind dining table with bread rolls in Centre Avenue YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "014eb134-ff32-435c-a9a5-6827ff3f8256",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26985,
+    "MulMultiMediaRef_key": 11095,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26985/sizes/20144-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11087,
+    "irn": 20144,
+    "TitAccessionNo": "2001.35.11115",
+    "CreDateCreated": "April 1945",
+    "CreEarliestDate": "1945-04-01",
+    "CreLatestDate": "1945-04-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper April 21, 1945, pg. 15, reads: \"Farewell to Friends - Mr. and Mrs. Edwin C. (Bill) Berry left the city last week-end for their new home in Portland, Ore. where he has accepted the position of executive secretary of the Urban League. Berry served as community organization secretary of the local Urban League. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Mrs. Berry wearing large corsage, unknown man, and Edwin C. \"Bill\" Berry seated behind dining table with bread rolls in Centre Avenue YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "014eb134-ff32-435c-a9a5-6827ff3f8256",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26985,
+    "MulMultiMediaRef_key": 11095,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26985/sizes/20144-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Berry",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill \" Berry",
+        "status": "suggested"
+      },
+      {
+        "data": "Edwin C.",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "Unknown",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Portland",
+        "status": "suggested"
+      },
+      {
+        "data": "Ore.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Portland",
+        "status": "suggested"
+      },
+      {
+        "data": "Ore.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Portland",
+        "status": "suggested"
+      },
+      {
+        "data": "Ore.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Portland",
+        "status": "suggested"
+      },
+      {
+        "data": "Ore.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "15",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Farewell to Friends - Mr. and Mrs. Edwin C. (Bill) Berry left the city last week-end for their new home in Portland, Ore. where he has accepted the position of executive secretary of the Urban League. Berry served as community organization secretary of the local Urban League. - Courier Photo by Harris.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 21, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Berry",
+        "status": "suggested"
+      },
+      {
+        "data": "Urban League",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Farewell to Friends - Mr.",
+        "status": "suggested"
+      },
+      {
+        "data": "the Urban League",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill \" Berry",
+        "status": "suggested"
+      },
+      {
+        "data": "last week-end",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "April 21, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Edwin C.",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Unknown",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,460 @@
 {
-	"irn": "67043",
-	"emuInput": {
-		"ecatalogue_key": "347",
-		"irn": "67043",
-		"TitAccessionNo": "2001.35.52877",
-		"TitMainTitle": "Portrait of Geraldine \"Gerri\" Woodruff or Woodridge wearing light colored blouse, light colored scarf at neck, and two brooches, posed in front of light colored background with parted dark curtains, in Harris Studio, another version",
-		"CreDateCreated": "1950",
-		"CreEarliestDate": "1950",
-		"CreLatestDate": "1950",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 4, 1950, pg. 8, reads: \"The Kolesque - This group of lovely young ladies, members of the popular Kolesque Club, surround their calendar for 1950. Top row, left to right: Kathleen Douglass, Denise Thomas, Elinor Bowles, Jean Holland and Audrey Moore.  Second row: Jackie Smith, Beatrice Scott, Joan Ryan and Geraldine Wouldridge.  Third row: Adelaide Biggs and Joan Bruce.  Fourth row: Geraldine Smith, Betty Scott, president; Mrs. Oneil Bolden, sponsor; Rebecca West and Janice Pack.  Kolesque Kalendar for 1950: Feb. - Skate and Dance Party; March - Koronation Ball; May - Balloon Ball; June - Snow Ball (Invitational Formal); August - Kountry Kaboodle; Dec. - A Midnight Masquerade... - Teenie Harris Photo.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nJewelry--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67043",
+  "emuInput": {
+    "ecatalogue_key": 52834,
+    "irn": 67043,
+    "TitAccessionNo": "2001.35.52877",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 4, 1950, pg. 8, reads: \"The Kolesque - This group of lovely young ladies, members of the popular Kolesque Club, surround their calendar for 1950. Top row, left to right: Kathleen Douglass, Denise Thomas, Elinor Bowles, Jean Holland and Audrey Moore.  Second row: Jackie Smith, Beatrice Scott, Joan Ryan and Geraldine Wouldridge.  Third row: Adelaide Biggs and Joan Bruce.  Fourth row: Geraldine Smith, Betty Scott, president; Mrs. Oneil Bolden, sponsor; Rebecca West and Janice Pack.  Kolesque Kalendar for 1950: Feb. - Skate and Dance Party; March - Koronation Ball; May - Balloon Ball; June - Snow Ball (Invitational Formal); August - Kountry Kaboodle; Dec. - A Midnight Masquerade... - Teenie Harris Photo.\"",
+    "TitMainTitle": "Portrait of Geraldine \"Gerri\" Woodruff or Woodridge wearing light colored blouse, light colored scarf at neck, and two brooches, posed in front of light colored background with parted dark curtains, in Harris Studio, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Jewelry--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "10939838-5129-487c-ba25-fd1f36092028",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77059,
+    "MulMultiMediaRef_key": 52842,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77059/sizes/67043-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 52834,
+    "irn": 67043,
+    "TitAccessionNo": "2001.35.52877",
+    "CreDateCreated": "1950",
+    "CreEarliestDate": "1950",
+    "CreLatestDate": "1950",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 4, 1950, pg. 8, reads: \"The Kolesque - This group of lovely young ladies, members of the popular Kolesque Club, surround their calendar for 1950. Top row, left to right: Kathleen Douglass, Denise Thomas, Elinor Bowles, Jean Holland and Audrey Moore.  Second row: Jackie Smith, Beatrice Scott, Joan Ryan and Geraldine Wouldridge.  Third row: Adelaide Biggs and Joan Bruce.  Fourth row: Geraldine Smith, Betty Scott, president; Mrs. Oneil Bolden, sponsor; Rebecca West and Janice Pack.  Kolesque Kalendar for 1950: Feb. - Skate and Dance Party; March - Koronation Ball; May - Balloon Ball; June - Snow Ball (Invitational Formal); August - Kountry Kaboodle; Dec. - A Midnight Masquerade... - Teenie Harris Photo.\"",
+    "TitMainTitle": "Portrait of Geraldine \"Gerri\" Woodruff or Woodridge wearing light colored blouse, light colored scarf at neck, and two brooches, posed in front of light colored background with parted dark curtains, in Harris Studio, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Jewelry--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "10939838-5129-487c-ba25-fd1f36092028",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77059,
+    "MulMultiMediaRef_key": 52842,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77059/sizes/67043-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Beatrice Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Kountry Kaboodle",
+        "status": "suggested"
+      },
+      {
+        "data": "Denise Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Adelaide Biggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Kathleen Douglass",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Holland",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Kolesque",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Rebecca West",
+        "status": "suggested"
+      },
+      {
+        "data": "Kolesque Kalendar",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "Audrey Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Woodridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Janice Pack",
+        "status": "suggested"
+      },
+      {
+        "data": "Oneil Bolden",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Wouldridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Elinor Bowles",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "Masquerade",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Kolesque - This group of lovely young ladies, members of the popular Kolesque Club, surround their calendar for 1950. Top row, left to right: Kathleen Douglass, Denise Thomas, Elinor Bowles, Jean Holland and Audrey Moore.  Second row: Jackie Smith, Beatrice Scott, Joan Ryan and Geraldine Wouldridge.  Third row: Adelaide Biggs and Joan Bruce.  Fourth row: Geraldine Smith, Betty Scott, president; Mrs. Oneil Bolden, sponsor; Rebecca West and Janice Pack.  Kolesque Kalendar for 1950: Feb. - Skate and Dance Party; March - Koronation Ball; May - Balloon Ball; June - Snow Ball (Invitational Formal); August - Kountry Kaboodle; Dec. - A Midnight Masquerade... - Teenie Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 4, 1950",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "face",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Beatrice Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": ")Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "Denise Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "March 4, 1950",
+        "status": "suggested"
+      },
+      {
+        "data": "Kolesque Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Holland",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Rebecca West",
+        "status": "suggested"
+      },
+      {
+        "data": "May - Balloon Ball",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "Audrey Moore",
+        "status": "suggested"
+      },
+      {
+        "data": "Dance Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Woodridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "June - Snow Ball (Invitational Formal",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      },
+      {
+        "data": "1950",
+        "status": "suggested"
+      },
+      {
+        "data": "Elinor Bowles",
+        "status": "suggested"
+      },
+      {
+        "data": "Masquerade",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "March",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "head",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "eye",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "black hair",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "laughter",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

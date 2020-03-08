@@ -1,20 +1,348 @@
 {
-	"irn": "64165",
-	"emuInput": {
-		"ecatalogue_key": "326",
-		"irn": "64165",
-		"TitAccessionNo": "2001.35.50048",
-		"TitMainTitle": "Dorothy Parnell, Joe Watts, and Shirley Oliver wearing Democratic campaign signs and standing in front of car",
-		"CreDateCreated": "November 1959",
-		"CreEarliestDate": "1959-11-01",
-		"CreLatestDate": "1959-11-07",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 7, 1959, pg. 2, reads: \"Paid Own Workers - Joe Watts and two of his four workers, Dorothy Parnell and Shirley Oliver, compare notes during a lull in Tuesday's elections. Watts, duly elected Democratic committeeman in 13th Ward's Sixth District, had to pay his own workers because Ward Chairman Sarah Kirk refused to recognize him as a district official.  Linn Washington and Henry Ryan Helped with the finances.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nPolitical candidates--Pennsylvania--Pittsburgh.\nPolitical campaigns--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nHouses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "64165",
+  "emuInput": {
+    "ecatalogue_key": 50005,
+    "irn": 64165,
+    "TitAccessionNo": "2001.35.50048",
+    "CreDateCreated": "November 1959",
+    "CreEarliestDate": "1959-11-01",
+    "CreLatestDate": "1959-11-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 7, 1959, pg. 2, reads: \"Paid Own Workers - Joe Watts and two of his four workers, Dorothy Parnell and Shirley Oliver, compare notes during a lull in Tuesday's elections. Watts, duly elected Democratic committeeman in 13th Ward's Sixth District, had to pay his own workers because Ward Chairman Sarah Kirk refused to recognize him as a district official.  Linn Washington and Henry Ryan Helped with the finances.\"",
+    "TitMainTitle": "Dorothy Parnell, Joe Watts, and Shirley Oliver wearing Democratic campaign signs and standing in front of car",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Political candidates--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06466621-c163-4429-80df-02e0a0e377e3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 73087,
+    "MulMultiMediaRef_key": 50013,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/73087/sizes/64165-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 50005,
+    "irn": 64165,
+    "TitAccessionNo": "2001.35.50048",
+    "CreDateCreated": "November 1959",
+    "CreEarliestDate": "1959-11-01",
+    "CreLatestDate": "1959-11-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 7, 1959, pg. 2, reads: \"Paid Own Workers - Joe Watts and two of his four workers, Dorothy Parnell and Shirley Oliver, compare notes during a lull in Tuesday's elections. Watts, duly elected Democratic committeeman in 13th Ward's Sixth District, had to pay his own workers because Ward Chairman Sarah Kirk refused to recognize him as a district official.  Linn Washington and Henry Ryan Helped with the finances.\"",
+    "TitMainTitle": "Dorothy Parnell, Joe Watts, and Shirley Oliver wearing Democratic campaign signs and standing in front of car",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Political candidates--Pennsylvania--Pittsburgh.Political campaigns--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Houses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "06466621-c163-4429-80df-02e0a0e377e3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 73087,
+    "MulMultiMediaRef_key": 50013,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/73087/sizes/64165-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Shirley Oliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Kirk",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Parnell",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "Watts",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry, Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Political candidates",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Paid Own Workers - Joe Watts and two of his four workers, Dorothy Parnell and Shirley Oliver, compare notes during a lull in Tuesday's elections. Watts, duly elected Democratic committeeman in 13th Ward's Sixth District, had to pay his own workers because Ward Chairman Sarah Kirk refused to recognize him as a district official.  Linn Washington and Henry Ryan Helped with the finances.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 7, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "Ward",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry Ryan",
+        "status": "suggested"
+      },
+      {
+        "data": "November 7, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Democratic",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Oliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Kirk",
+        "status": "suggested"
+      },
+      {
+        "data": "Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Joe Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Political candidates",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "family car",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "sedan",
+        "status": "suggested"
+      }
+    ]
+  }
 }

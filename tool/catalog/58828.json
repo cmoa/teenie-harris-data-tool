@@ -1,20 +1,492 @@
 {
-	"irn": "58828",
-	"emuInput": {
-		"ecatalogue_key": "272",
-		"irn": "58828",
-		"TitAccessionNo": "2001.35.44966",
-		"TitMainTitle": "Women and men gathered outside of West's Funeral Home, for funeral of William \"Big Brownie\" Brown, with Henry's Cafe next door, 2216 Centre Avenue, Hill District",
-		"CreDateCreated": "March 1956",
-		"CreEarliestDate": "1956-03-01",
-		"CreLatestDate": "1956-03-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 27, reads: \"Final Tribute - Pallbearers of two racial groups are shown lifting remains of the late William (Big Brownie) Brown into funeral car for burial last Saturday. Left to right: Sydney Lewis, Wilbert Darling, Melvin Thomas, Jacob Darling, William (Wuggie) [sic] Harris and Leonard Edelson.  Wilbert Darling and Leonard Edelson are owners of Hill Pharmacy, which was closed three hours on Saturday afternoon out of respect for their departed friend.  Jacob Darling is the father of Wilbert. - Harris Photo.\"",
-		"CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nStore windows--Pennsylvania--Pittsburgh.\nStorefronts--Pennsylvania--Pittsburgh.\nSidewalks--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nWest Funeral Home (Pittsburgh, Pa.)\nHill District (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58828",
+  "emuInput": {
+    "ecatalogue_key": 44923,
+    "irn": 58828,
+    "TitAccessionNo": "2001.35.44966",
+    "CreDateCreated": "March 1956",
+    "CreEarliestDate": "1956-03-01",
+    "CreLatestDate": "1956-03-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 27, reads: \"Final Tribute - Pallbearers of two racial groups are shown lifting remains of the late William (Big Brownie) Brown into funeral car for burial last Saturday. Left to right: Sydney Lewis, Wilbert Darling, Melvin Thomas, Jacob Darling, William (Wuggie) [sic] Harris and Leonard Edelson.  Wilbert Darling and Leonard Edelson are owners of Hill Pharmacy, which was closed three hours on Saturday afternoon out of respect for their departed friend.  Jacob Darling is the father of Wilbert. - Harris Photo.\"",
+    "TitMainTitle": "Women and men gathered outside of West's Funeral Home, for funeral of William \"Big Brownie\" Brown, with Henry's Cafe next door, 2216 Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Store windows--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.West Funeral Home (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "008e5375-dd62-4bd0-a084-c2b9aaf1685d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66750,
+    "MulMultiMediaRef_key": 44931,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66750/sizes/58828-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44923,
+    "irn": 58828,
+    "TitAccessionNo": "2001.35.44966",
+    "CreDateCreated": "March 1956",
+    "CreEarliestDate": "1956-03-01",
+    "CreLatestDate": "1956-03-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 27, reads: \"Final Tribute - Pallbearers of two racial groups are shown lifting remains of the late William (Big Brownie) Brown into funeral car for burial last Saturday. Left to right: Sydney Lewis, Wilbert Darling, Melvin Thomas, Jacob Darling, William (Wuggie) [sic] Harris and Leonard Edelson.  Wilbert Darling and Leonard Edelson are owners of Hill Pharmacy, which was closed three hours on Saturday afternoon out of respect for their departed friend.  Jacob Darling is the father of Wilbert. - Harris Photo.\"",
+    "TitMainTitle": "Women and men gathered outside of West's Funeral Home, for funeral of William \"Big Brownie\" Brown, with Henry's Cafe next door, 2216 Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Funeral homes--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Store windows--Pennsylvania--Pittsburgh.Storefronts--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.West Funeral Home (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "008e5375-dd62-4bd0-a084-c2b9aaf1685d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66750,
+    "MulMultiMediaRef_key": 44931,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66750/sizes/58828-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Leonard Edelson",
+        "status": "suggested"
+      },
+      {
+        "data": "William ( Wuggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Sydney Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilbert Darling",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilbert",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacob Darling",
+        "status": "suggested"
+      },
+      {
+        "data": "William",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry",
+        "status": "suggested"
+      },
+      {
+        "data": "Melvin Thomas",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "William",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Storefronts",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Funeral homes",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "West",
+        "status": "suggested"
+      },
+      {
+        "data": "2216 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "West",
+        "status": "suggested"
+      },
+      {
+        "data": "2216 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "West",
+        "status": "suggested"
+      },
+      {
+        "data": "2216 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "West",
+        "status": "suggested"
+      },
+      {
+        "data": "2216 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "27",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Final Tribute - Pallbearers of two racial groups are shown lifting remains of the late William (Big Brownie) Brown into funeral car for burial last Saturday. Left to right: Sydney Lewis, Wilbert Darling, Melvin Thomas, Jacob Darling, William (Wuggie) [sic] Harris and Leonard Edelson.  Wilbert Darling and Leonard Edelson are owners of Hill Pharmacy, which was closed three hours on Saturday afternoon out of respect for their departed friend.  Jacob Darling is the father of Wilbert. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 31, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Store windows",
+        "status": "suggested"
+      },
+      {
+        "data": "West",
+        "status": "suggested"
+      },
+      {
+        "data": "Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "William",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill Pharmacy",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Final Tribute - Pallbearers",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry",
+        "status": "suggested"
+      },
+      {
+        "data": "Sydney Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "three hours",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilbert",
+        "status": "suggested"
+      },
+      {
+        "data": "2216 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "March 31, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Storefronts",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "West Funeral Home ",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Funeral homes",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Melvin Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

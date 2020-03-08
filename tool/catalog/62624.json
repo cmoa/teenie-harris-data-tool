@@ -1,20 +1,412 @@
 {
-	"irn": "62624",
-	"emuInput": {
-		"ecatalogue_key": "316",
-		"irn": "62624",
-		"TitAccessionNo": "2001.35.48520",
-		"TitMainTitle": "Group gathered around table in Stanley's, including on left: Mal Goode, George Kiseda, Ella Baker, Pittsburgh Pirates baseball player Gene Baker; on right: Chicago Cubs baseball player Ernie Banks, Mrs. Stevens, R. C. Stevens, with Dr. and Mrs. Vaughan and Mr. and Mrs. Wood in background, horizontal format",
-		"CreDateCreated": "September 1958",
-		"CreEarliestDate": "1958-09-01",
-		"CreLatestDate": "1958-09-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 20, 1958, pg. 27, reads: \"Welcome Back - Friends of Pittsburgh Pirates infielder, Gene Baker, were on hand at Stanley's in Homewood last Sunday for a welcome-home dinner.  Among many individuals on hand were, left, Mal Goode, George Kiseda, Sun Telegraph; Mrs. Ella Baker and Gene.  On the other side of the table are Ernie Banks of the Chicago Cubs, Mrs. R. C. Stevens and R. C. himself.  In the background are Dr. and Mrs. Vaughan and Mr. and Mrs. Wood, all of Uniontown. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMirrors--Pennsylvania--Pittsburgh.\nGoode, Mal, 1908-1995.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62624",
+  "emuInput": {
+    "ecatalogue_key": 48477,
+    "irn": 62624,
+    "TitAccessionNo": "2001.35.48520",
+    "CreDateCreated": "September 1958",
+    "CreEarliestDate": "1958-09-01",
+    "CreLatestDate": "1958-09-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 20, 1958, pg. 27, reads: \"Welcome Back - Friends of Pittsburgh Pirates infielder, Gene Baker, were on hand at Stanley's in Homewood last Sunday for a welcome-home dinner.  Among many individuals on hand were, left, Mal Goode, George Kiseda, Sun Telegraph; Mrs. Ella Baker and Gene.  On the other side of the table are Ernie Banks of the Chicago Cubs, Mrs. R. C. Stevens and R. C. himself.  In the background are Dr. and Mrs. Vaughan and Mr. and Mrs. Wood, all of Uniontown. - Harris Photo.\"",
+    "TitMainTitle": "Group gathered around table in Stanley's, including on left: Mal Goode, George Kiseda, Ella Baker, Pittsburgh Pirates baseball player Gene Baker; on right: Chicago Cubs baseball player Ernie Banks, Mrs. Stevens, R. C. Stevens, with Dr. and Mrs. Vaughan and Mr. and Mrs. Wood in background, horizontal format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Goode, Mal, 1908-1995.",
+    "AdmGUIDValue_tab": "80277568-e116-401d-96d3-7fe3f9f22f53",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71024,
+    "MulMultiMediaRef_key": 48485,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71024/sizes/62624-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48477,
+    "irn": 62624,
+    "TitAccessionNo": "2001.35.48520",
+    "CreDateCreated": "September 1958",
+    "CreEarliestDate": "1958-09-01",
+    "CreLatestDate": "1958-09-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper September 20, 1958, pg. 27, reads: \"Welcome Back - Friends of Pittsburgh Pirates infielder, Gene Baker, were on hand at Stanley's in Homewood last Sunday for a welcome-home dinner.  Among many individuals on hand were, left, Mal Goode, George Kiseda, Sun Telegraph; Mrs. Ella Baker and Gene.  On the other side of the table are Ernie Banks of the Chicago Cubs, Mrs. R. C. Stevens and R. C. himself.  In the background are Dr. and Mrs. Vaughan and Mr. and Mrs. Wood, all of Uniontown. - Harris Photo.\"",
+    "TitMainTitle": "Group gathered around table in Stanley's, including on left: Mal Goode, George Kiseda, Ella Baker, Pittsburgh Pirates baseball player Gene Baker; on right: Chicago Cubs baseball player Ernie Banks, Mrs. Stevens, R. C. Stevens, with Dr. and Mrs. Vaughan and Mr. and Mrs. Wood in background, horizontal format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Goode, Mal, 1908-1995.",
+    "AdmGUIDValue_tab": "80277568-e116-401d-96d3-7fe3f9f22f53",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71024,
+    "MulMultiMediaRef_key": 48485,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71024/sizes/62624-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ernie Banks",
+        "status": "suggested"
+      },
+      {
+        "data": "Wood",
+        "status": "suggested"
+      },
+      {
+        "data": "R. C. Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Gene Baker",
+        "status": "suggested"
+      },
+      {
+        "data": "Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "George Kiseda",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie",
+        "status": "suggested"
+      },
+      {
+        "data": "R. C.",
+        "status": "suggested"
+      },
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Gene",
+        "status": "suggested"
+      },
+      {
+        "data": "Vaughan",
+        "status": "suggested"
+      },
+      {
+        "data": "Ella Baker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniontown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniontown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniontown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniontown",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "27",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Welcome Back - Friends of Pittsburgh Pirates infielder, Gene Baker, were on hand at Stanley's in Homewood last Sunday for a welcome-home dinner.  Among many individuals on hand were, left, Mal Goode, George Kiseda, Sun Telegraph; Mrs. Ella Baker and Gene.  On the other side of the table are Ernie Banks of the Chicago Cubs, Mrs. R. C. Stevens and R. C. himself.  In the background are Dr. and Mrs. Vaughan and Mr. and Mrs. Wood, all of Uniontown. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 20, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Sun Telegraph",
+        "status": "suggested"
+      },
+      {
+        "data": "R. C. Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "last Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Pirates",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Chicago Cubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Gene",
+        "status": "suggested"
+      },
+      {
+        "data": "September 20, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie Banks",
+        "status": "suggested"
+      },
+      {
+        "data": "Wood",
+        "status": "suggested"
+      },
+      {
+        "data": "Stanley",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "R. C.",
+        "status": "suggested"
+      },
+      {
+        "data": "the Chicago Cubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Gene Baker",
+        "status": "suggested"
+      },
+      {
+        "data": "Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Goode, Mal, 1908-1995",
+        "status": "suggested"
+      },
+      {
+        "data": "Welcome Back - Friends of Pittsburgh Pirates",
+        "status": "suggested"
+      },
+      {
+        "data": "Vaughan",
+        "status": "suggested"
+      },
+      {
+        "data": "Ella Baker",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

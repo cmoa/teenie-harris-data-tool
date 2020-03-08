@@ -1,20 +1,267 @@
 {
-	"irn": "72154",
-	"emuInput": {
-		"ecatalogue_key": "391",
-		"irn": "72154",
-		"TitAccessionNo": "2001.35.56974",
-		"TitMainTitle": "Group portrait of Principal John Brewer Sr., holding hands of Darline Grimmett and Priscilla Thompson, walking out of Miller Elementary School into snow, another version",
-		"CreDateCreated": "February 1962",
-		"CreEarliestDate": "1962-02-01",
-		"CreLatestDate": "1962-02-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. A1 reads: \"Left to right, Darline Grimmett, John Brewer, principal of Miller Elementary School and Priscilla Thompson.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMiller Elementary School (Pittsburgh, Pa.)\nSnow--Pennsylvania--Pittsburgh.\nBrewer, John.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72154",
+  "emuInput": {
+    "ecatalogue_key": 56931,
+    "irn": 72154,
+    "TitAccessionNo": "2001.35.56974",
+    "CreDateCreated": "February 1962",
+    "CreEarliestDate": "1962-02-01",
+    "CreLatestDate": "1962-02-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. A1 reads: \"Left to right, Darline Grimmett, John Brewer, principal of Miller Elementary School and Priscilla Thompson.\"",
+    "TitMainTitle": "Group portrait of Principal John Brewer Sr., holding hands of Darline Grimmett and Priscilla Thompson, walking out of Miller Elementary School into snow, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Miller Elementary School (Pittsburgh, Pa.)Snow--Pennsylvania--Pittsburgh.Brewer, John.",
+    "AdmGUIDValue_tab": "16962667-8446-4f61-8bd9-b7f1a7ba5214",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90300,
+    "MulMultiMediaRef_key": 56940,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90300/sizes/72154-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56931,
+    "irn": 72154,
+    "TitAccessionNo": "2001.35.56974",
+    "CreDateCreated": "February 1962",
+    "CreEarliestDate": "1962-02-01",
+    "CreLatestDate": "1962-02-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. A1 reads: \"Left to right, Darline Grimmett, John Brewer, principal of Miller Elementary School and Priscilla Thompson.\"",
+    "TitMainTitle": "Group portrait of Principal John Brewer Sr., holding hands of Darline Grimmett and Priscilla Thompson, walking out of Miller Elementary School into snow, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Miller Elementary School (Pittsburgh, Pa.)Snow--Pennsylvania--Pittsburgh.Brewer, John.",
+    "AdmGUIDValue_tab": "16962667-8446-4f61-8bd9-b7f1a7ba5214",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90300,
+    "MulMultiMediaRef_key": 56940,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90300/sizes/72154-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Darline Grimmett",
+        "status": "suggested"
+      },
+      {
+        "data": "John Brewer Sr .",
+        "status": "suggested"
+      },
+      {
+        "data": "John Brewer",
+        "status": "suggested"
+      },
+      {
+        "data": "Priscilla Thompson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Left to right, Darline Grimmett, John Brewer, principal of Miller Elementary School and Priscilla Thompson.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": ")Snow",
+        "status": "suggested"
+      },
+      {
+        "data": "Brewer, John",
+        "status": "suggested"
+      },
+      {
+        "data": "Priscilla Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller Elementary School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller Elementary School",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "John Brewer",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "door",
+        "status": "suggested"
+      }
+    ]
+  }
 }

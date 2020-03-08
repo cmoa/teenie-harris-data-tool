@@ -1,20 +1,420 @@
 {
-	"irn": "32996",
-	"emuInput": {
-		"ecatalogue_key": "165",
-		"irn": "32996",
-		"TitAccessionNo": "2001.35.21089",
-		"TitMainTitle": "Group portrait of Home Makers Guild members, from left, seated: Sarah Morse; front row: Leona Edwards, Ethel Jackson, Florence Burrell, Rev. C. A. Burell, Sadye Wilborn, Edith Johnson, and Edan Jones; rear: Maggie Blackwell, Violet Johnson, Zula Thomas, and Edna Avery, posed in Mt. Ararat Baptist Church, another version",
-		"CreDateCreated": "February 1962",
-		"CreEarliestDate": "1962-02-01",
-		"CreLatestDate": "1962-02-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. 27 reads: \"Home Makers Guild - The Home Makers Guild will present an all-star program at Mt. Ararat Baptist Church, March 2, at 8 P.M. Seated: Mrs. Sarah Morse, president.  Left to right, front row: Mmes. Leona Edwards, Ethel Jackson, Florence Burrell, the Rev. C. A. Burell, Mmes. Sadye Wilborn, Edith Johnson and Edan Jones.  Rear: Mmes. Maggie Blackwell, Violet Johnson, Zula Thomas and Edna Avery. - Harris Photo.\"",
-		"CatSubject_tab": "Mt. Ararat Baptist Church (Pittsburgh, Pa.)\nGroup portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nOrgans---Pennsylvania--Pittsburgh.\nClergy--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "32996",
+  "emuInput": {
+    "ecatalogue_key": 21058,
+    "irn": 32996,
+    "TitAccessionNo": "2001.35.21089",
+    "CreDateCreated": "February 1962",
+    "CreEarliestDate": "1962-02-01",
+    "CreLatestDate": "1962-02-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. 27 reads: \"Home Makers Guild - The Home Makers Guild will present an all-star program at Mt. Ararat Baptist Church, March 2, at 8 P.M. Seated: Mrs. Sarah Morse, president.  Left to right, front row: Mmes. Leona Edwards, Ethel Jackson, Florence Burrell, the Rev. C. A. Burell, Mmes. Sadye Wilborn, Edith Johnson and Edan Jones.  Rear: Mmes. Maggie Blackwell, Violet Johnson, Zula Thomas and Edna Avery. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Home Makers Guild members, from left, seated: Sarah Morse; front row: Leona Edwards, Ethel Jackson, Florence Burrell, Rev. C. A. Burell, Sadye Wilborn, Edith Johnson, and Edan Jones; rear: Maggie Blackwell, Violet Johnson, Zula Thomas, and Edna Avery, posed in Mt. Ararat Baptist Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Mt. Ararat Baptist Church (Pittsburgh, Pa.)Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39182942-bae1-4261-bcaa-62606449e2a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40330,
+    "MulMultiMediaRef_key": 21066,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40330/sizes/32996-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 21058,
+    "irn": 32996,
+    "TitAccessionNo": "2001.35.21089",
+    "CreDateCreated": "February 1962",
+    "CreEarliestDate": "1962-02-01",
+    "CreLatestDate": "1962-02-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 24, 1962, pg. 27 reads: \"Home Makers Guild - The Home Makers Guild will present an all-star program at Mt. Ararat Baptist Church, March 2, at 8 P.M. Seated: Mrs. Sarah Morse, president.  Left to right, front row: Mmes. Leona Edwards, Ethel Jackson, Florence Burrell, the Rev. C. A. Burell, Mmes. Sadye Wilborn, Edith Johnson and Edan Jones.  Rear: Mmes. Maggie Blackwell, Violet Johnson, Zula Thomas and Edna Avery. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Home Makers Guild members, from left, seated: Sarah Morse; front row: Leona Edwards, Ethel Jackson, Florence Burrell, Rev. C. A. Burell, Sadye Wilborn, Edith Johnson, and Edan Jones; rear: Maggie Blackwell, Violet Johnson, Zula Thomas, and Edna Avery, posed in Mt. Ararat Baptist Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Mt. Ararat Baptist Church (Pittsburgh, Pa.)Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "39182942-bae1-4261-bcaa-62606449e2a2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40330,
+    "MulMultiMediaRef_key": 21066,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40330/sizes/32996-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Sarah Morse",
+        "status": "suggested"
+      },
+      {
+        "data": "Violet Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Leona Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Sadye Wilborn",
+        "status": "suggested"
+      },
+      {
+        "data": "Zula Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Edan Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "C. A. Burell",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Burrell",
+        "status": "suggested"
+      },
+      {
+        "data": "Edna Avery",
+        "status": "suggested"
+      },
+      {
+        "data": "Maggie Blackwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Edith Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Jackson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Mt. Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Mt. Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Mt. Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Mt. Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "27",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Home Makers Guild - The Home Makers Guild will present an all-star program at Mt. Ararat Baptist Church, March 2, at 8 P.M. Seated: Mrs. Sarah Morse, president.  Left to right, front row: Mmes. Leona Edwards, Ethel Jackson, Florence Burrell, the Rev. C. A. Burell, Mmes. Sadye Wilborn, Edith Johnson and Edan Jones.  Rear: Mmes. Maggie Blackwell, Violet Johnson, Zula Thomas and Edna Avery. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Home Makers Guild -",
+        "status": "suggested"
+      },
+      {
+        "data": " Ararat Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Ararat Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "March 2",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "The Home Makers Guild",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Morse",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Leona Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "8 P.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "Maggie Blackwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Home Makers Guild",
+        "status": "suggested"
+      },
+      {
+        "data": "Violet Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt",
+        "status": "suggested"
+      },
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Edith Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      }
+    ]
+  }
 }

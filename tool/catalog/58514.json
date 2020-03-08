@@ -1,20 +1,371 @@
 {
-	"irn": "58514",
-	"emuInput": {
-		"ecatalogue_key": "268",
-		"irn": "58514",
-		"TitAccessionNo": "2001.35.44650",
-		"TitMainTitle": "Group portrait of Mr. and Mrs. Walter Wells, posed in their home on Iowa Street for fiftieth wedding anniversary party",
-		"CreDateCreated": "January 1956",
-		"CreEarliestDate": "1956-01-01",
-		"CreLatestDate": "1956-01-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. A14, reads: \"50 Years of Wedded Bliss - Golden Year - Mr. and Mrs. Walter Wells of Iowa Street celebrated their fiftieth wedding anniversary Jan. 15 quietly with their family about them. They have three children, Mrs. Narvella Green, Eugenia and Fred wells, and four grandchildren. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.\nWallpaper--Pennsylvania--Pittsburgh.\nElderly people--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58514",
+  "emuInput": {
+    "ecatalogue_key": 44607,
+    "irn": 58514,
+    "TitAccessionNo": "2001.35.44650",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. A14, reads: \"50 Years of Wedded Bliss - Golden Year - Mr. and Mrs. Walter Wells of Iowa Street celebrated their fiftieth wedding anniversary Jan. 15 quietly with their family about them. They have three children, Mrs. Narvella Green, Eugenia and Fred wells, and four grandchildren. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Mr. and Mrs. Walter Wells, posed in their home on Iowa Street for fiftieth wedding anniversary party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "021f2362-5451-4ab3-abe2-c85352d6c3d5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66259,
+    "MulMultiMediaRef_key": 44615,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66259/sizes/58514-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44607,
+    "irn": 58514,
+    "TitAccessionNo": "2001.35.44650",
+    "CreDateCreated": "January 1956",
+    "CreEarliestDate": "1956-01-01",
+    "CreLatestDate": "1956-01-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 21, 1956, pg. A14, reads: \"50 Years of Wedded Bliss - Golden Year - Mr. and Mrs. Walter Wells of Iowa Street celebrated their fiftieth wedding anniversary Jan. 15 quietly with their family about them. They have three children, Mrs. Narvella Green, Eugenia and Fred wells, and four grandchildren. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Mr. and Mrs. Walter Wells, posed in their home on Iowa Street for fiftieth wedding anniversary party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "021f2362-5451-4ab3-abe2-c85352d6c3d5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66259,
+    "MulMultiMediaRef_key": 44615,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66259/sizes/58514-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fred",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Wells",
+        "status": "suggested"
+      },
+      {
+        "data": "Narvella Green",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Older people",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Iowa",
+        "status": "suggested"
+      },
+      {
+        "data": "Iowa Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugenia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Iowa",
+        "status": "suggested"
+      },
+      {
+        "data": "Iowa Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugenia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Iowa",
+        "status": "suggested"
+      },
+      {
+        "data": "Iowa Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugenia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Iowa",
+        "status": "suggested"
+      },
+      {
+        "data": "Iowa Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugenia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "50 Years of Wedded Bliss - Golden Year - Mr. and Mrs. Walter Wells of Iowa Street celebrated their fiftieth wedding anniversary Jan. 15 quietly with their family about them. They have three children, Mrs. Narvella Green, Eugenia and Fred wells, and four grandchildren. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "January 21, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 15",
+        "status": "suggested"
+      },
+      {
+        "data": "Fred",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Wells",
+        "status": "suggested"
+      },
+      {
+        "data": "Iowa Street",
+        "status": "suggested"
+      },
+      {
+        "data": "50 Years",
+        "status": "suggested"
+      },
+      {
+        "data": "Elderly people",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

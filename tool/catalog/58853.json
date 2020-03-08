@@ -1,20 +1,379 @@
 {
-	"irn": "58853",
-	"emuInput": {
-		"ecatalogue_key": "271",
-		"irn": "58853",
-		"TitAccessionNo": "2001.35.44833",
-		"TitMainTitle": "Group portrait of Sarah McClellan, holding son James Kevin McClellan, seated on bed next to daughter Helen Harding, holding daughter Helena Louise Harding, in domestic interior",
-		"CreDateCreated": "February 1956",
-		"CreEarliestDate": "1956-02-01",
-		"CreLatestDate": "1956-02-25",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1956, pg. 2 reads:\"Two Stork Bundles - Mrs. Sarah McClellan and her daughter, Mrs. Helen Harding, both of 7634 Mulford Street, gave birth to children on Feb. 3 at Belvedere Hospital. Mrs. McClellan is shown holding her son, James Kevin McClellan, while daughter Helen cuddles baby girl Helena Louise Harding. - Harris Photo.\"",
-		"CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBeds--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBedrooms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58853",
+  "emuInput": {
+    "ecatalogue_key": 44790,
+    "irn": 58853,
+    "TitAccessionNo": "2001.35.44833",
+    "CreDateCreated": "February 1956",
+    "CreEarliestDate": "1956-02-01",
+    "CreLatestDate": "1956-02-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1956, pg. 2 reads:\"Two Stork Bundles - Mrs. Sarah McClellan and her daughter, Mrs. Helen Harding, both of 7634 Mulford Street, gave birth to children on Feb. 3 at Belvedere Hospital. Mrs. McClellan is shown holding her son, James Kevin McClellan, while daughter Helen cuddles baby girl Helena Louise Harding. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Sarah McClellan, holding son James Kevin McClellan, seated on bed next to daughter Helen Harding, holding daughter Helena Louise Harding, in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Bedrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0083a674-2504-4004-a59f-fee194c5afca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66672,
+    "MulMultiMediaRef_key": 44798,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66672/sizes/58853-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44790,
+    "irn": 58853,
+    "TitAccessionNo": "2001.35.44833",
+    "CreDateCreated": "February 1956",
+    "CreEarliestDate": "1956-02-01",
+    "CreLatestDate": "1956-02-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 25, 1956, pg. 2 reads:\"Two Stork Bundles - Mrs. Sarah McClellan and her daughter, Mrs. Helen Harding, both of 7634 Mulford Street, gave birth to children on Feb. 3 at Belvedere Hospital. Mrs. McClellan is shown holding her son, James Kevin McClellan, while daughter Helen cuddles baby girl Helena Louise Harding. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Sarah McClellan, holding son James Kevin McClellan, seated on bed next to daughter Helen Harding, holding daughter Helena Louise Harding, in domestic interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Bedrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0083a674-2504-4004-a59f-fee194c5afca",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66672,
+    "MulMultiMediaRef_key": 44798,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66672/sizes/58853-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "McClellan",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah McClellan",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen",
+        "status": "suggested"
+      },
+      {
+        "data": "Helena Louise Harding",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Harding",
+        "status": "suggested"
+      },
+      {
+        "data": "James Kevin McClellan",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "7634 Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Belvedere Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "7634 Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Belvedere Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "7634 Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Belvedere Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "7634 Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Belvedere Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "February 25, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "mother",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "7634 Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Feb. 3",
+        "status": "suggested"
+      },
+      {
+        "data": "McClellan",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Belvedere Hospital",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah McClellan",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "February 25, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Harding",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "infant",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "parent",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

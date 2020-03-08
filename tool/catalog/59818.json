@@ -1,20 +1,327 @@
 {
-	"irn": "59818",
-	"emuInput": {
-		"ecatalogue_key": "281",
-		"irn": "59818",
-		"TitAccessionNo": "2001.35.45892",
-		"TitMainTitle": "Dr. Gaylord P. Harnwell, Dr. Ralph J. Bunche, Dr. Edward H. Litchfield, and Dr. Charles B. Nutting wearing doctoral robes in Carnegie Music Hall, Oakland",
-		"CreDateCreated": "February 1957",
-		"CreEarliestDate": "1957-02-01",
-		"CreLatestDate": "1957-02-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 9, 1957, pg. A2, reads: \"Get Honorary Degrees -  Shown above are outstanding personalities who received honorary degrees from the University of Pittsburgh at commencement exercises last Friday.  Reading from left to right: Dr. Gaylord P. Harnwell, president, University of Pennsylvania, Doctorate of Laws; Dr. Ralph J. Bunche, United Nations Undersecretary, Doctorate of Civil Law; Dr. Edward H. Litchfield, chancellor of Pitt, and Dr. Charles B. Nutting, director of Buhl Foundation, Doctorate of Laws.  Dr. Bunche was the commencement speaker. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nGraduates--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59818",
+  "emuInput": {
+    "ecatalogue_key": 45849,
+    "irn": 59818,
+    "TitAccessionNo": "2001.35.45892",
+    "CreDateCreated": "February 1957",
+    "CreEarliestDate": "1957-02-01",
+    "CreLatestDate": "1957-02-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 9, 1957, pg. A2, reads: \"Get Honorary Degrees -  Shown above are outstanding personalities who received honorary degrees from the University of Pittsburgh at commencement exercises last Friday.  Reading from left to right: Dr. Gaylord P. Harnwell, president, University of Pennsylvania, Doctorate of Laws; Dr. Ralph J. Bunche, United Nations Undersecretary, Doctorate of Civil Law; Dr. Edward H. Litchfield, chancellor of Pitt, and Dr. Charles B. Nutting, director of Buhl Foundation, Doctorate of Laws.  Dr. Bunche was the commencement speaker. - Harris Photo.\"",
+    "TitMainTitle": "Dr. Gaylord P. Harnwell, Dr. Ralph J. Bunche, Dr. Edward H. Litchfield, and Dr. Charles B. Nutting wearing doctoral robes in Carnegie Music Hall, Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "98169257-8b79-4b24-ac6c-5804d48b862b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67989,
+    "MulMultiMediaRef_key": 45857,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67989/sizes/59818-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45849,
+    "irn": 59818,
+    "TitAccessionNo": "2001.35.45892",
+    "CreDateCreated": "February 1957",
+    "CreEarliestDate": "1957-02-01",
+    "CreLatestDate": "1957-02-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 9, 1957, pg. A2, reads: \"Get Honorary Degrees -  Shown above are outstanding personalities who received honorary degrees from the University of Pittsburgh at commencement exercises last Friday.  Reading from left to right: Dr. Gaylord P. Harnwell, president, University of Pennsylvania, Doctorate of Laws; Dr. Ralph J. Bunche, United Nations Undersecretary, Doctorate of Civil Law; Dr. Edward H. Litchfield, chancellor of Pitt, and Dr. Charles B. Nutting, director of Buhl Foundation, Doctorate of Laws.  Dr. Bunche was the commencement speaker. - Harris Photo.\"",
+    "TitMainTitle": "Dr. Gaylord P. Harnwell, Dr. Ralph J. Bunche, Dr. Edward H. Litchfield, and Dr. Charles B. Nutting wearing doctoral robes in Carnegie Music Hall, Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "98169257-8b79-4b24-ac6c-5804d48b862b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67989,
+    "MulMultiMediaRef_key": 45857,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67989/sizes/59818-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gaylord P. Harnwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph J. Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward H. Litchfield",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles B. Nutting",
+        "status": "suggested"
+      },
+      {
+        "data": "Bunche",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Buhl Foundation",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Get Honorary Degrees -  Shown above are outstanding personalities who received honorary degrees from the University of Pittsburgh at commencement exercises last Friday.  Reading from left to right: Dr. Gaylord P. Harnwell, president, University of Pennsylvania, Doctorate of Laws; Dr. Ralph J. Bunche, United Nations Undersecretary, Doctorate of Civil Law; Dr. Edward H. Litchfield, chancellor of Pitt, and Dr. Charles B. Nutting, director of Buhl Foundation, Doctorate of Laws.  Dr. Bunche was the commencement speaker. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 9, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "mortarboard",
+        "status": "suggested"
+      },
+      {
+        "data": "graduation",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "United Nations",
+        "status": "suggested"
+      },
+      {
+        "data": "Gaylord P. Harnwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph J. Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Music Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt",
+        "status": "suggested"
+      },
+      {
+        "data": "Bunche",
+        "status": "suggested"
+      },
+      {
+        "data": "Graduates",
+        "status": "suggested"
+      },
+      {
+        "data": "Buhl Foundation",
+        "status": "suggested"
+      },
+      {
+        "data": "February 9, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "University of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles B. Nutting",
+        "status": "suggested"
+      },
+      {
+        "data": "the University of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward H. Litchfield",
+        "status": "suggested"
+      },
+      {
+        "data": "academic dress",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "cap",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "phd",
+        "status": "suggested"
+      },
+      {
+        "data": "clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "academician",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

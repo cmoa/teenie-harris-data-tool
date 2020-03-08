@@ -1,20 +1,288 @@
 {
-	"irn": "61662",
-	"emuInput": {
-		"ecatalogue_key": "305",
-		"irn": "61662",
-		"TitAccessionNo": "2001.35.47682",
-		"TitMainTitle": "Group of high school students, including in foreground from left: Camillia Kwolek, Annette McCants, and Ross Green, taking test at Carnegie Institute of Technology",
-		"CreDateCreated": "March 1958",
-		"CreEarliestDate": "1958-03-01",
-		"CreLatestDate": "1958-03-29",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 29, 1958, pg. 3 reads: \"Exceptionally Able Seniors - Four hundred and forty-six senior high school students from 46 high schools in Allegheny County took exceptionally able youth tests last Saturday morning at Carnegie Institute of Technology. The able youth tests, initiated in 1916, are sponsored by the Civic Club of Allegheny County.  Shown in the foreground of a crowded classroom are, left to right: Camillia Kwolek, Annette McCants and Ross Green. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nDesks--Pennsylvania--Pittsburgh.\nCarnegie Institute of Technology.\nYoung adults--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61662",
+  "emuInput": {
+    "ecatalogue_key": 47639,
+    "irn": 61662,
+    "TitAccessionNo": "2001.35.47682",
+    "CreDateCreated": "March 1958",
+    "CreEarliestDate": "1958-03-01",
+    "CreLatestDate": "1958-03-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 29, 1958, pg. 3 reads: \"Exceptionally Able Seniors - Four hundred and forty-six senior high school students from 46 high schools in Allegheny County took exceptionally able youth tests last Saturday morning at Carnegie Institute of Technology. The able youth tests, initiated in 1916, are sponsored by the Civic Club of Allegheny County.  Shown in the foreground of a crowded classroom are, left to right: Camillia Kwolek, Annette McCants and Ross Green. - Harris Photo.\"",
+    "TitMainTitle": "Group of high school students, including in foreground from left: Camillia Kwolek, Annette McCants, and Ross Green, taking test at Carnegie Institute of Technology",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Carnegie Institute of Technology.Young adults--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "49761019-ebd2-415f-8751-a38e1fdfc763",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70188,
+    "MulMultiMediaRef_key": 47647,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70188/sizes/61662-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47639,
+    "irn": 61662,
+    "TitAccessionNo": "2001.35.47682",
+    "CreDateCreated": "March 1958",
+    "CreEarliestDate": "1958-03-01",
+    "CreLatestDate": "1958-03-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 29, 1958, pg. 3 reads: \"Exceptionally Able Seniors - Four hundred and forty-six senior high school students from 46 high schools in Allegheny County took exceptionally able youth tests last Saturday morning at Carnegie Institute of Technology. The able youth tests, initiated in 1916, are sponsored by the Civic Club of Allegheny County.  Shown in the foreground of a crowded classroom are, left to right: Camillia Kwolek, Annette McCants and Ross Green. - Harris Photo.\"",
+    "TitMainTitle": "Group of high school students, including in foreground from left: Camillia Kwolek, Annette McCants, and Ross Green, taking test at Carnegie Institute of Technology",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Desks--Pennsylvania--Pittsburgh.Carnegie Institute of Technology.Young adults--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "49761019-ebd2-415f-8751-a38e1fdfc763",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70188,
+    "MulMultiMediaRef_key": 47647,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70188/sizes/61662-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Annette McCants",
+        "status": "suggested"
+      },
+      {
+        "data": "Ross Green",
+        "status": "suggested"
+      },
+      {
+        "data": "Camillia Kwolek",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Desks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Exceptionally Able Seniors - Four hundred and forty-six senior high school students from 46 high schools in Allegheny County took exceptionally able youth tests last Saturday morning at Carnegie Institute of Technology. The able youth tests, initiated in 1916, are sponsored by the Civic Club of Allegheny County.  Shown in the foreground of a crowded classroom are, left to right: Camillia Kwolek, Annette McCants and Ross Green. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 29, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Institute of Technology",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Ross Green",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "March 29, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Desks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the Civic Club of Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "1916",
+        "status": "suggested"
+      },
+      {
+        "data": "Exceptionally Able Seniors - Four hundred and forty-six",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "style",
+        "status": "suggested"
+      }
+    ]
+  }
 }

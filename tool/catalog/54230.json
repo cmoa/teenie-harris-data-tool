@@ -1,20 +1,395 @@
 {
-	"irn": "54230",
-	"emuInput": {
-		"ecatalogue_key": "229",
-		"irn": "54230",
-		"TitAccessionNo": "2001.35.40705",
-		"TitMainTitle": "Three men, including W. Averell Harriman and Richard F. Jones shaking hands, and David J. McDonald seated at banquet table, in interior with microphone and downtown buildings visible through window",
-		"CreDateCreated": "July 1952",
-		"CreEarliestDate": "1952-07-01",
-		"CreLatestDate": "1952-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 26, 1952, page 2, reads: \"Harriman Search for Local Delegates - W. Averell Harriman, Mutual Security Administrator and aspirant for the Democratic nomination for President, lunched with Pittsburgh district labor and political leaders last week just prior to going to the convention where the nomination will be made this week. Shown at the speaker's table, left to right, County Commissioner John J. Kane, Anthony J. Federoff, CIO; Pittsburgh Central Labor Union President John A. Fiegel, Mayor David L. Lawrence, W. Averell Harriman, David J. McDonald, secretary-treasurer of the United Steelworkers; the Rev. Charles Owen Rice, and Atty. Richard F. Jones, president of the local branch of the NAACP. - Harris Photo.\"",
-		"CatSubject_tab": "Banquets--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nHandshaking--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nHarriman, W. Averell (William Averell), 1891-1986.\nMcDonald, David John.\nJones, Richard F.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "54230",
+  "emuInput": {
+    "ecatalogue_key": 40664,
+    "irn": 54230,
+    "TitAccessionNo": "2001.35.40705",
+    "CreDateCreated": "July 1952",
+    "CreEarliestDate": "1952-07-01",
+    "CreLatestDate": "1952-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 26, 1952, page 2, reads: \"Harriman Search for Local Delegates - W. Averell Harriman, Mutual Security Administrator and aspirant for the Democratic nomination for President, lunched with Pittsburgh district labor and political leaders last week just prior to going to the convention where the nomination will be made this week. Shown at the speaker's table, left to right, County Commissioner John J. Kane, Anthony J. Federoff, CIO; Pittsburgh Central Labor Union President John A. Fiegel, Mayor David L. Lawrence, W. Averell Harriman, David J. McDonald, secretary-treasurer of the United Steelworkers; the Rev. Charles Owen Rice, and Atty. Richard F. Jones, president of the local branch of the NAACP. - Harris Photo.\"",
+    "TitMainTitle": "Three men, including W. Averell Harriman and Richard F. Jones shaking hands, and David J. McDonald seated at banquet table, in interior with microphone and downtown buildings visible through window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Banquets--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Harriman, W. Averell (William Averell), 1891-1986.McDonald, David John.Jones, Richard F.",
+    "AdmGUIDValue_tab": "03645227-9cc0-42bc-a5cf-fb9c5be0c376",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61295,
+    "MulMultiMediaRef_key": 40672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61295/sizes/54230-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 40664,
+    "irn": 54230,
+    "TitAccessionNo": "2001.35.40705",
+    "CreDateCreated": "July 1952",
+    "CreEarliestDate": "1952-07-01",
+    "CreLatestDate": "1952-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 26, 1952, page 2, reads: \"Harriman Search for Local Delegates - W. Averell Harriman, Mutual Security Administrator and aspirant for the Democratic nomination for President, lunched with Pittsburgh district labor and political leaders last week just prior to going to the convention where the nomination will be made this week. Shown at the speaker's table, left to right, County Commissioner John J. Kane, Anthony J. Federoff, CIO; Pittsburgh Central Labor Union President John A. Fiegel, Mayor David L. Lawrence, W. Averell Harriman, David J. McDonald, secretary-treasurer of the United Steelworkers; the Rev. Charles Owen Rice, and Atty. Richard F. Jones, president of the local branch of the NAACP. - Harris Photo.\"",
+    "TitMainTitle": "Three men, including W. Averell Harriman and Richard F. Jones shaking hands, and David J. McDonald seated at banquet table, in interior with microphone and downtown buildings visible through window",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Banquets--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Harriman, W. Averell (William Averell), 1891-1986.McDonald, David John.Jones, Richard F.",
+    "AdmGUIDValue_tab": "03645227-9cc0-42bc-a5cf-fb9c5be0c376",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 61295,
+    "MulMultiMediaRef_key": 40672,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/61295/sizes/54230-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John A. Fiegel",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard F. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "David J. McDonald",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Averell",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Owen Rice",
+        "status": "suggested"
+      },
+      {
+        "data": "Anthony J. Federoff",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Averell Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "John J. Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "David L. Lawrence",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Harriman Search for Local Delegates - W. Averell Harriman, Mutual Security Administrator and aspirant for the Democratic nomination for President, lunched with Pittsburgh district labor and political leaders last week just prior to going to the convention where the nomination will be made this week. Shown at the speaker's table, left to right, County Commissioner John J. Kane, Anthony J. Federoff, CIO; Pittsburgh Central Labor Union President John A. Fiegel, Mayor David L. Lawrence, W. Averell Harriman, David J. McDonald, secretary-treasurer of the United Steelworkers; the Rev. Charles Owen Rice, and Atty. Richard F. Jones, president of the local branch of the NAACP. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Central Labor Union",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Owen Rice",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Richard F",
+        "status": "suggested"
+      },
+      {
+        "data": "McDonald, David John",
+        "status": "suggested"
+      },
+      {
+        "data": "David L. Lawrence",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman, W",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard F. Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "the United Steelworkers",
+        "status": "suggested"
+      },
+      {
+        "data": "Democratic",
+        "status": "suggested"
+      },
+      {
+        "data": "David J. McDonald",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Averell",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriman Search for Local Delegates - W. Averell",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Averell Harriman",
+        "status": "suggested"
+      },
+      {
+        "data": "John J. Kane",
+        "status": "suggested"
+      },
+      {
+        "data": "Mutual Security Administrator",
+        "status": "suggested"
+      },
+      {
+        "data": "Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "NAACP",
+        "status": "suggested"
+      },
+      {
+        "data": "July 26, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "CIO",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": " Averell ",
+        "status": "suggested"
+      },
+      {
+        "data": "Atty",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

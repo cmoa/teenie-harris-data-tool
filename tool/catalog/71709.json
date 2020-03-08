@@ -1,20 +1,324 @@
 {
-	"irn": "71709",
-	"emuInput": {
-		"ecatalogue_key": "379",
-		"irn": "71709",
-		"TitAccessionNo": "2001.35.56452",
-		"TitMainTitle": "Group portrait, from left: Rev. Robert Y. Kincheloe, Rev. Robert E. Andreen, Mayor Joseph E. Barr, Rev. LeRoy Patrick, Rev. John K. Bibby, and W. Stuart Forsyth, standing in Bethesda United Presbyterian Church for dedication ceremony",
-		"CreDateCreated": "December 3, 1961",
-		"CreEarliestDate": "1961-12-03",
-		"CreLatestDate": "1961-12-03",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 9, 1961, pg. 15 reads: \"Dedication Ceremony - Top religious and civic leaders who participated in the impressive dedication ceremonies for the newly acquired Bethesda United Presbyterian Church, 7020 Bennett St., last Sunday afternoon, were (left to right): Rev. Robert Y. Kincheloe, executive secretary of the Council of Churches; Rev. Robert E. Andreen, senior vice moderator of the Pittsburgh Presbytery; Mayor Joseph E. Barr, Rev. LeRoy Patrick, host pastor; Rev. John K. Bibby, General Presbyter, and W. Stuart Forsyth, registered architect. Approximately 1,000 members and friends shared in rites and festivities. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nChoirs (Music)--Pennsylvania--Pittsburgh.\nClergy--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nOrgans---Pennsylvania--Pittsburgh.\nBethesda Presbyterian Church (Pittsburgh, Pa.)\nBarr, Joseph M., 19061982.\nPatrick, LeRoy.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "71709",
+  "emuInput": {
+    "ecatalogue_key": 56409,
+    "irn": 71709,
+    "TitAccessionNo": "2001.35.56452",
+    "CreDateCreated": "December 3, 1961",
+    "CreEarliestDate": "1961-12-03",
+    "CreLatestDate": "1961-12-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 9, 1961, pg. 15 reads: \"Dedication Ceremony - Top religious and civic leaders who participated in the impressive dedication ceremonies for the newly acquired Bethesda United Presbyterian Church, 7020 Bennett St., last Sunday afternoon, were (left to right): Rev. Robert Y. Kincheloe, executive secretary of the Council of Churches; Rev. Robert E. Andreen, senior vice moderator of the Pittsburgh Presbytery; Mayor Joseph E. Barr, Rev. LeRoy Patrick, host pastor; Rev. John K. Bibby, General Presbyter, and W. Stuart Forsyth, registered architect. Approximately 1,000 members and friends shared in rites and festivities. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait, from left: Rev. Robert Y. Kincheloe, Rev. Robert E. Andreen, Mayor Joseph E. Barr, Rev. LeRoy Patrick, Rev. John K. Bibby, and W. Stuart Forsyth, standing in Bethesda United Presbyterian Church for dedication ceremony",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Choirs (Music)--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Bethesda Presbyterian Church (Pittsburgh, Pa.)Barr, Joseph M., 1906�1982.Patrick, LeRoy.",
+    "AdmGUIDValue_tab": "77975849-a8e7-47bc-aa2f-7f72b6e59d01",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89407,
+    "MulMultiMediaRef_key": 56418,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89407/sizes/71709-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56409,
+    "irn": 71709,
+    "TitAccessionNo": "2001.35.56452",
+    "CreDateCreated": "December 3, 1961",
+    "CreEarliestDate": "1961-12-03",
+    "CreLatestDate": "1961-12-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 9, 1961, pg. 15 reads: \"Dedication Ceremony - Top religious and civic leaders who participated in the impressive dedication ceremonies for the newly acquired Bethesda United Presbyterian Church, 7020 Bennett St., last Sunday afternoon, were (left to right): Rev. Robert Y. Kincheloe, executive secretary of the Council of Churches; Rev. Robert E. Andreen, senior vice moderator of the Pittsburgh Presbytery; Mayor Joseph E. Barr, Rev. LeRoy Patrick, host pastor; Rev. John K. Bibby, General Presbyter, and W. Stuart Forsyth, registered architect. Approximately 1,000 members and friends shared in rites and festivities. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait, from left: Rev. Robert Y. Kincheloe, Rev. Robert E. Andreen, Mayor Joseph E. Barr, Rev. LeRoy Patrick, Rev. John K. Bibby, and W. Stuart Forsyth, standing in Bethesda United Presbyterian Church for dedication ceremony",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Choirs (Music)--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Bethesda Presbyterian Church (Pittsburgh, Pa.)Barr, Joseph M., 1906�1982.Patrick, LeRoy.",
+    "AdmGUIDValue_tab": "77975849-a8e7-47bc-aa2f-7f72b6e59d01",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89407,
+    "MulMultiMediaRef_key": 56418,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89407/sizes/71709-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John K. Bibby",
+        "status": "suggested"
+      },
+      {
+        "data": "7020 Bennett St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Y. Kincheloe",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph E. Barr",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert E. Andreen",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Presbyter",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "United Presbyterian Church in the U.S.A. Presbytery of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy, Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Choirs (Music)",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "15",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dedication Ceremony - Top religious and civic leaders who participated in the impressive dedication ceremonies for the newly acquired Bethesda United Presbyterian Church, 7020 Bennett St., last Sunday afternoon, were (left to right): Rev. Robert Y. Kincheloe, executive secretary of the Council of Churches; Rev. Robert E. Andreen, senior vice moderator of the Pittsburgh Presbytery; Mayor Joseph E. Barr, Rev. LeRoy Patrick, host pastor; Rev. John K. Bibby, General Presbyter, and W. Stuart Forsyth, registered architect. Approximately 1,000 members and friends shared in rites and festivities. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 9, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dedication Ceremony - Top",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethesda United Presbyterian Church",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Stuart Forsyth",
+        "status": "suggested"
+      },
+      {
+        "data": ")Barr, Joseph M",
+        "status": "suggested"
+      },
+      {
+        "data": "the Pittsburgh Presbytery",
+        "status": "suggested"
+      },
+      {
+        "data": "Patrick, LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Choirs (Music)",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Presbytery",
+        "status": "suggested"
+      },
+      {
+        "data": "December 9, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "last Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethesda Presbyterian Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "the Council of Churches",
+        "status": "suggested"
+      },
+      {
+        "data": ", 1906�1982",
+        "status": "suggested"
+      },
+      {
+        "data": "Presbyter",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "stage",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,371 @@
 {
-	"irn": "20730",
-	"emuInput": {
-		"ecatalogue_key": "101",
-		"irn": "20730",
-		"TitAccessionNo": "2001.35.11528",
-		"TitMainTitle": "Reporters George E. Pitts and Mal Goode speaking with Nat King Cole in restaurant at Carlton House Hotel",
-		"CreDateCreated": "April - May 1956",
-		"CreEarliestDate": "1956-04-01",
-		"CreLatestDate": "1956-05-05",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 5, 1956, pg. A35, reads: \"Nat Cole Talks - Nat (King) Cole tells his side of the Birmingham (Ala.) incident in which he was attacked by hoodlums during a concert. Listening are George E. Pitts, Courier theatrical reporter, left, and Mal Goode, WHOD newscaster, in Carlton House, where the King rested prior to playing two sell-out concerts at Syria Mosque. - Harris Photo.\"",
-		"CatSubject_tab": "Cole, Nat King, 1917-1965.\nPianists--Pennsylvania--Pittsburgh.\nMusicians--Pennsylvania--Pittsburgh.\nSingers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "20730",
+  "emuInput": {
+    "ecatalogue_key": 11498,
+    "irn": 20730,
+    "TitAccessionNo": "2001.35.11528",
+    "CreDateCreated": "April - May 1956",
+    "CreEarliestDate": "1956-04-01",
+    "CreLatestDate": "1956-05-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 5, 1956, pg. A35, reads: \"Nat Cole Talks - Nat (King) Cole tells his side of the Birmingham (Ala.) incident in which he was attacked by hoodlums during a concert. Listening are George E. Pitts, Courier theatrical reporter, left, and Mal Goode, WHOD newscaster, in Carlton House, where the King rested prior to playing two sell-out concerts at Syria Mosque. - Harris Photo.\"",
+    "TitMainTitle": "Reporters George E. Pitts and Mal Goode speaking with Nat King Cole in restaurant at Carlton House Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cole, Nat King, 1917-1965.Pianists--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "10787593-147e-41d4-8188-eef36b5eaae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27439,
+    "MulMultiMediaRef_key": 11506,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27439/sizes/20730-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11498,
+    "irn": 20730,
+    "TitAccessionNo": "2001.35.11528",
+    "CreDateCreated": "April - May 1956",
+    "CreEarliestDate": "1956-04-01",
+    "CreLatestDate": "1956-05-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, May 5, 1956, pg. A35, reads: \"Nat Cole Talks - Nat (King) Cole tells his side of the Birmingham (Ala.) incident in which he was attacked by hoodlums during a concert. Listening are George E. Pitts, Courier theatrical reporter, left, and Mal Goode, WHOD newscaster, in Carlton House, where the King rested prior to playing two sell-out concerts at Syria Mosque. - Harris Photo.\"",
+    "TitMainTitle": "Reporters George E. Pitts and Mal Goode speaking with Nat King Cole in restaurant at Carlton House Hotel",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Cole, Nat King, 1917-1965.Pianists--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Singers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "10787593-147e-41d4-8188-eef36b5eaae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27439,
+    "MulMultiMediaRef_key": 11506,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27439/sizes/20730-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "George E. Pitts",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianists",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Carlton House Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Birmingham",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Carlton House Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Birmingham",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Carlton House Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Birmingham",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Carlton House Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Birmingham",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Nat Cole Talks - Nat (King) Cole tells his side of the Birmingham (Ala.) incident in which he was attacked by hoodlums during a concert. Listening are George E. Pitts, Courier theatrical reporter, left, and Mal Goode, WHOD newscaster, in Carlton House, where the King rested prior to playing two sell-out concerts at Syria Mosque. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 5, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Singers",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "May 5, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Nat Cole Talks - Nat",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole, Nat King, 1917-1965",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "WHOD",
+        "status": "suggested"
+      },
+      {
+        "data": "Carlton House",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianists",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

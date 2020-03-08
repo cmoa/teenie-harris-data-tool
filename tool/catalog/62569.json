@@ -1,20 +1,280 @@
 {
-	"irn": "62569",
-	"emuInput": {
-		"ecatalogue_key": "314",
-		"irn": "62569",
-		"TitAccessionNo": "2001.35.48494",
-		"TitMainTitle": "Portrait of W. Beverly Carter wearing moustache and dark necktie with small design, standing at microphone in Webster Hall for Republican State Committee meeting, another version",
-		"CreDateCreated": "September 6, 1958",
-		"CreEarliestDate": "1958-09-06",
-		"CreLatestDate": "1958-09-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - W. Beverly Carter Jr....reads 4,000-word platform. Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBanners--Pennsylvania--Pittsburgh.\nWebster Hall (Pittsburgh, Pa.)\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62569",
+  "emuInput": {
+    "ecatalogue_key": 48451,
+    "irn": 62569,
+    "TitAccessionNo": "2001.35.48494",
+    "CreDateCreated": "September 6, 1958",
+    "CreEarliestDate": "1958-09-06",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - W. Beverly Carter Jr....reads 4,000-word platform. Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
+    "TitMainTitle": "Portrait of W. Beverly Carter wearing moustache and dark necktie with small design, standing at microphone in Webster Hall for Republican State Committee meeting, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "08357715-cecd-488b-b61e-8c480431c7c2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71004,
+    "MulMultiMediaRef_key": 48459,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71004/sizes/62569-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48451,
+    "irn": 62569,
+    "TitAccessionNo": "2001.35.48494",
+    "CreDateCreated": "September 6, 1958",
+    "CreEarliestDate": "1958-09-06",
+    "CreLatestDate": "1958-09-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 13, 1958, pg. 1 reads: \"Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - W. Beverly Carter Jr....reads 4,000-word platform. Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...\"",
+    "TitMainTitle": "Portrait of W. Beverly Carter wearing moustache and dark necktie with small design, standing at microphone in Webster Hall for Republican State Committee meeting, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "08357715-cecd-488b-b61e-8c480431c7c2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71004,
+    "MulMultiMediaRef_key": 48459,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71004/sizes/62569-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "W. Beverly Carter",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Republicans Urge Equal Rights for All Citizens in Campaign Platform for '58 - W. Beverly Carter Jr....reads 4,000-word platform. Portion of accompanying article reads: \"The Republican State Committee met at Hotel Webster Hall last Saturday morning and adopted a campaign platform pledging equal rights for all Pennsylvania citizens in fields of education, employment, organized labor and housing...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 13, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Hall ",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican State Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "The Republican State Committee",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Beverly Carter",
+        "status": "suggested"
+      },
+      {
+        "data": "September 13, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Hotel Webster Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

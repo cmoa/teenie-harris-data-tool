@@ -1,20 +1,312 @@
 {
-	"irn": "21863",
-	"emuInput": {
-		"ecatalogue_key": "110",
-		"irn": "21863",
-		"TitAccessionNo": "2001.35.12593",
-		"TitMainTitle": "Two women, possibly including singer Catherine Wallace on right, holding cake in interior with two tone walls",
-		"CreDateCreated": "c. 1959",
-		"CreEarliestDate": "1954",
-		"CreLatestDate": "1964",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline for image possibly published in Pittsburgh Courier newspaper October 31, 1959, pg. 1, reads: \"The Winner! - Catherine Wallace of Pittsburgh, who beautiful soprano voice has delighted hundreds in local concerts, won first place in the annual Marian Anderson Auditions last week in Philadelphia. She is a student at the Juilliard School of Music.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21863",
+  "emuInput": {
+    "ecatalogue_key": 12563,
+    "irn": 21863,
+    "TitAccessionNo": "2001.35.12593",
+    "CreDateCreated": "c. 1959",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline for image possibly published in Pittsburgh Courier newspaper October 31, 1959, pg. 1, reads: \"The Winner! - Catherine Wallace of Pittsburgh, who beautiful soprano voice has delighted hundreds in local concerts, won first place in the annual Marian Anderson Auditions last week in Philadelphia. She is a student at the Juilliard School of Music.\"",
+    "TitMainTitle": "Two women, possibly including singer Catherine Wallace on right, holding cake in interior with two tone walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "61347125-2c18-418e-b054-509714476624",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28542,
+    "MulMultiMediaRef_key": 12571,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28542/sizes/21863-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 12563,
+    "irn": 21863,
+    "TitAccessionNo": "2001.35.12593",
+    "CreDateCreated": "c. 1959",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline for image possibly published in Pittsburgh Courier newspaper October 31, 1959, pg. 1, reads: \"The Winner! - Catherine Wallace of Pittsburgh, who beautiful soprano voice has delighted hundreds in local concerts, won first place in the annual Marian Anderson Auditions last week in Philadelphia. She is a student at the Juilliard School of Music.\"",
+    "TitMainTitle": "Two women, possibly including singer Catherine Wallace on right, holding cake in interior with two tone walls",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "61347125-2c18-418e-b054-509714476624",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28542,
+    "MulMultiMediaRef_key": 12571,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28542/sizes/21863-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Catherine Wallace",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Winner! - Catherine Wallace of Pittsburgh, who beautiful soprano voice has delighted hundreds in local concerts, won first place in the annual Marian Anderson Auditions last week in Philadelphia. She is a student at the Juilliard School of Music.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 31, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "the Juilliard School of Music",
+        "status": "suggested"
+      },
+      {
+        "data": "Catherine Wallace",
+        "status": "suggested"
+      },
+      {
+        "data": "The Winner",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Marian Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "October 31, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      }
+    ]
+  }
 }

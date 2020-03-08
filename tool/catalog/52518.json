@@ -1,20 +1,331 @@
 {
-	"irn": "52518",
-	"emuInput": {
-		"ecatalogue_key": "224",
-		"irn": "52518",
-		"TitAccessionNo": "2001.35.39375",
-		"TitMainTitle": "Portrait of Mrs. Black wearing eyeglasses with chain, dark long sleeved dress trimmed with fringe, and diamond shaped brooch, seated in armchair holding open book, in domestic interior with part of another room showing, possibly dining room",
-		"CreDateCreated": "November - December 1946",
-		"CreEarliestDate": "1946-11-01",
-		"CreLatestDate": "1946-12-07",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 7, 1946, page 9, reads: \"In Town - Mrs. Harry Black of Philadelphia spent this week in Pittsburgh visiting her sister-in-law, Mrs. Elestine Mitchell and Mrs. Daisy Lampkin. A member of an old Philadelphia family, Mrs. Black was entertained delightfully during her Smoky City stay. - Harris photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBooks--Pennsylvania--Pittsburgh.\nJewelry--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "52518",
+  "emuInput": {
+    "ecatalogue_key": 39334,
+    "irn": 52518,
+    "TitAccessionNo": "2001.35.39375",
+    "CreDateCreated": "November - December 1946",
+    "CreEarliestDate": "1946-11-01",
+    "CreLatestDate": "1946-12-07",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 7, 1946, page 9, reads: \"In Town - Mrs. Harry Black of Philadelphia spent this week in Pittsburgh visiting her sister-in-law, Mrs. Elestine Mitchell and Mrs. Daisy Lampkin. A member of an old Philadelphia family, Mrs. Black was entertained delightfully during her Smoky City stay. - Harris photo.\"",
+    "TitMainTitle": "Portrait of Mrs. Black wearing eyeglasses with chain, dark long sleeved dress trimmed with fringe, and diamond shaped brooch, seated in armchair holding open book, in domestic interior with part of another room showing, possibly dining room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02722e85-7306-4c28-a01d-58d7b2520b5d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60866,
+    "MulMultiMediaRef_key": 39342,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60866/sizes/52518-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 39334,
+    "irn": 52518,
+    "TitAccessionNo": "2001.35.39375",
+    "CreDateCreated": "November - December 1946",
+    "CreEarliestDate": "1946-11-01",
+    "CreLatestDate": "1946-12-07",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 7, 1946, page 9, reads: \"In Town - Mrs. Harry Black of Philadelphia spent this week in Pittsburgh visiting her sister-in-law, Mrs. Elestine Mitchell and Mrs. Daisy Lampkin. A member of an old Philadelphia family, Mrs. Black was entertained delightfully during her Smoky City stay. - Harris photo.\"",
+    "TitMainTitle": "Portrait of Mrs. Black wearing eyeglasses with chain, dark long sleeved dress trimmed with fringe, and diamond shaped brooch, seated in armchair holding open book, in domestic interior with part of another room showing, possibly dining room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Jewelry--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02722e85-7306-4c28-a01d-58d7b2520b5d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 60866,
+    "MulMultiMediaRef_key": 39342,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/60866/sizes/52518-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Black",
+        "status": "suggested"
+      },
+      {
+        "data": "Elestine Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Black",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Smoky City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Smoky City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Smoky City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Smoky City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "In Town - Mrs. Harry Black of Philadelphia spent this week in Pittsburgh visiting her sister-in-law, Mrs. Elestine Mitchell and Mrs. Daisy Lampkin. A member of an old Philadelphia family, Mrs. Black was entertained delightfully during her Smoky City stay. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "December 7, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Black",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Black",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Jewelry",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,271 @@
 {
-	"irn": "71450",
-	"emuInput": {
-		"ecatalogue_key": "374",
-		"irn": "71450",
-		"TitAccessionNo": "2001.35.56295",
-		"TitMainTitle": "Portrait of Cecile Springer operating equipment in organic chemistry laboratory, at University of Pittsburgh",
-		"CreDateCreated": "November - December 1961",
-		"CreEarliestDate": "1961-11-01",
-		"CreLatestDate": "1961-12-16",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 16, 1961, pg. A11, reads: \"Meet the Springers - On the Job - Cecile Springer appears busy with the test tubes in laboratory of the University of Pittsburgh's Graduate School of Public Health. She is a bio-chemist there. - All Harris Photos.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nLaboratories--Pennsylvania--Pittsburgh.\nMachinery--Pennsylvania--Pittsburgh.\nElectric apparatus and appliances--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "71450",
+  "emuInput": {
+    "ecatalogue_key": 56252,
+    "irn": 71450,
+    "TitAccessionNo": "2001.35.56295",
+    "CreDateCreated": "November - December 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-12-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 16, 1961, pg. A11, reads: \"Meet the Springers - On the Job - Cecile Springer appears busy with the test tubes in laboratory of the University of Pittsburgh's Graduate School of Public Health. She is a bio-chemist there. - All Harris Photos.\"",
+    "TitMainTitle": "Portrait of Cecile Springer operating equipment in organic chemistry laboratory, at University of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Machinery--Pennsylvania--Pittsburgh.Electric apparatus and appliances--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31070099-c262-4f67-b4a9-b55c52e0f78a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90120,
+    "MulMultiMediaRef_key": 56261,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90120/sizes/71450-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56252,
+    "irn": 71450,
+    "TitAccessionNo": "2001.35.56295",
+    "CreDateCreated": "November - December 1961",
+    "CreEarliestDate": "1961-11-01",
+    "CreLatestDate": "1961-12-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 16, 1961, pg. A11, reads: \"Meet the Springers - On the Job - Cecile Springer appears busy with the test tubes in laboratory of the University of Pittsburgh's Graduate School of Public Health. She is a bio-chemist there. - All Harris Photos.\"",
+    "TitMainTitle": "Portrait of Cecile Springer operating equipment in organic chemistry laboratory, at University of Pittsburgh",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Laboratories--Pennsylvania--Pittsburgh.Machinery--Pennsylvania--Pittsburgh.Electric apparatus and appliances--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "31070099-c262-4f67-b4a9-b55c52e0f78a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90120,
+    "MulMultiMediaRef_key": 56261,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90120/sizes/71450-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Cecile Springer",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Electric apparatus and appliances",
+        "status": "suggested"
+      },
+      {
+        "data": "Machinery",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Laboratories",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Meet the Springers - On the Job - Cecile Springer appears busy with the test tubes in laboratory of the University of Pittsburgh's Graduate School of Public Health. She is a bio-chemist there. - All Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 16, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "University of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Meet the Springers - On the Job - Cecile Springer",
+        "status": "suggested"
+      },
+      {
+        "data": "Electric apparatus and appliances",
+        "status": "suggested"
+      },
+      {
+        "data": "the University of Pittsburgh's",
+        "status": "suggested"
+      },
+      {
+        "data": "Machinery",
+        "status": "suggested"
+      },
+      {
+        "data": "December 16, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Graduate School of Public Health",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Laboratories",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,331 @@
 {
-	"irn": "70546",
-	"emuInput": {
-		"ecatalogue_key": "368",
-		"irn": "70546",
-		"TitAccessionNo": "2001.35.55913",
-		"TitMainTitle": "Three men seated on stage for Teamsters rally at Soldiers and Sailors Memorial Hall",
-		"CreDateCreated": "October 1960",
-		"CreEarliestDate": "1960-10-01",
-		"CreLatestDate": "1960-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1960, pg. A2, reads: \"HOFFA GREETED - More than 1,600 teamsters, a portion of the crowd shown above, turned out last Sunday at Soldiers and Sailors Memorial Hall to greet Teamster Union President James F. (Jimmy) Hoffa. Included in crowd were more than 100 members of Local 609, a predominantly Negro group headed by William E. (Bill) Miller. - Harris Photo.\"",
-		"CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)\nClothing and dress--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70546",
+  "emuInput": {
+    "ecatalogue_key": 55870,
+    "irn": 70546,
+    "TitAccessionNo": "2001.35.55913",
+    "CreDateCreated": "October 1960",
+    "CreEarliestDate": "1960-10-01",
+    "CreLatestDate": "1960-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1960, pg. A2, reads: \"HOFFA GREETED - More than 1,600 teamsters, a portion of the crowd shown above, turned out last Sunday at Soldiers and Sailors Memorial Hall to greet Teamster Union President James F. (Jimmy) Hoffa. Included in crowd were more than 100 members of Local 609, a predominantly Negro group headed by William E. (Bill) Miller. - Harris Photo.\"",
+    "TitMainTitle": "Three men seated on stage for Teamsters rally at Soldiers and Sailors Memorial Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "89849272-4a7a-4b0d-856f-38e04a939382",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 85586,
+    "MulMultiMediaRef_key": 55879,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/85586/sizes/70546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55870,
+    "irn": 70546,
+    "TitAccessionNo": "2001.35.55913",
+    "CreDateCreated": "October 1960",
+    "CreEarliestDate": "1960-10-01",
+    "CreLatestDate": "1960-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, October 29, 1960, pg. A2, reads: \"HOFFA GREETED - More than 1,600 teamsters, a portion of the crowd shown above, turned out last Sunday at Soldiers and Sailors Memorial Hall to greet Teamster Union President James F. (Jimmy) Hoffa. Included in crowd were more than 100 members of Local 609, a predominantly Negro group headed by William E. (Bill) Miller. - Harris Photo.\"",
+    "TitMainTitle": "Three men seated on stage for Teamsters rally at Soldiers and Sailors Memorial Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers and Sailors Memorial Hall (Pittsburgh, Pa.)Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "89849272-4a7a-4b0d-856f-38e04a939382",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 85586,
+    "MulMultiMediaRef_key": 55879,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/85586/sizes/70546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "William E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "Hoffa",
+        "status": "suggested"
+      },
+      {
+        "data": "Jimmy",
+        "status": "suggested"
+      },
+      {
+        "data": "James F.",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "International Brotherhood of Teamsters, Chauffeurs, Stablemen, and Helpers of America",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "HOFFA GREETED - More than 1,600 teamsters, a portion of the crowd shown above, turned out last Sunday at Soldiers and Sailors Memorial Hall to greet Teamster Union President James F. (Jimmy) Hoffa. Included in crowd were more than 100 members of Local 609, a predominantly Negro group headed by William E. (Bill) Miller. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 29, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "Negro",
+        "status": "suggested"
+      },
+      {
+        "data": "Teamsters Union",
+        "status": "suggested"
+      },
+      {
+        "data": "Hoffa",
+        "status": "suggested"
+      },
+      {
+        "data": "Jimmy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "last Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Local 609",
+        "status": "suggested"
+      },
+      {
+        "data": "Teamsters",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Teamster Union",
+        "status": "suggested"
+      },
+      {
+        "data": "William E.",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "HOFFA GREETED - More than 1,600",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers and Sailors Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "October 29, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": ")Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers and Sailors Memorial Hall ",
+        "status": "suggested"
+      },
+      {
+        "data": "James F.",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      }
+    ]
+  }
 }

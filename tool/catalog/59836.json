@@ -1,20 +1,296 @@
 {
-	"irn": "59836",
-	"emuInput": {
-		"ecatalogue_key": "282",
-		"irn": "59836",
-		"TitAccessionNo": "2001.35.45905",
-		"TitMainTitle": "Teacher J. T. Strother pointing to painted Pittsburgh scenery made by students, kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden, David Barrett; standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher for graduation in Herron Hill Junior High School",
-		"CreDateCreated": "January - February 1957",
-		"CreEarliestDate": "1957-01-01",
-		"CreLatestDate": "1957-02-02",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 2, 1957, pg. 13, reads: \"'Pittsburgh Renaissance' - This was the theme for the graduation exercises at Herron Hill Junior High School. The boys, who were responsible for making the scenery, under the direction of their teacher, J. T. Strother at the right, are kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden and David Barrett. Standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nStages (Platforms)--Pennsylvania--Pittsburgh.\nTheaters Stage-setting and scenery--Pennsylvania--Pittsburgh.\nPaintings--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59836",
+  "emuInput": {
+    "ecatalogue_key": 45862,
+    "irn": 59836,
+    "TitAccessionNo": "2001.35.45905",
+    "CreDateCreated": "January - February 1957",
+    "CreEarliestDate": "1957-01-01",
+    "CreLatestDate": "1957-02-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 2, 1957, pg. 13, reads: \"'Pittsburgh Renaissance' - This was the theme for the graduation exercises at Herron Hill Junior High School. The boys, who were responsible for making the scenery, under the direction of their teacher, J. T. Strother at the right, are kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden and David Barrett. Standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher. - Harris Photo.\"",
+    "TitMainTitle": "Teacher J. T. Strother pointing to painted Pittsburgh scenery made by students, kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden, David Barrett; standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher for graduation in Herron Hill Junior High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Theaters Stage-setting and scenery--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02f7fc1a-1351-48e8-afe0-dc7c9ad6e934",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68001,
+    "MulMultiMediaRef_key": 45870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68001/sizes/59836-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45862,
+    "irn": 59836,
+    "TitAccessionNo": "2001.35.45905",
+    "CreDateCreated": "January - February 1957",
+    "CreEarliestDate": "1957-01-01",
+    "CreLatestDate": "1957-02-02",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 2, 1957, pg. 13, reads: \"'Pittsburgh Renaissance' - This was the theme for the graduation exercises at Herron Hill Junior High School. The boys, who were responsible for making the scenery, under the direction of their teacher, J. T. Strother at the right, are kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden and David Barrett. Standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher. - Harris Photo.\"",
+    "TitMainTitle": "Teacher J. T. Strother pointing to painted Pittsburgh scenery made by students, kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden, David Barrett; standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher for graduation in Herron Hill Junior High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Theaters Stage-setting and scenery--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02f7fc1a-1351-48e8-afe0-dc7c9ad6e934",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68001,
+    "MulMultiMediaRef_key": 45870,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68001/sizes/59836-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jesse Wilkes",
+        "status": "suggested"
+      },
+      {
+        "data": "Reginald Fincher",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Whitley",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence Garett",
+        "status": "suggested"
+      },
+      {
+        "data": "David Barrett",
+        "status": "suggested"
+      },
+      {
+        "data": "Ernie Boyden",
+        "status": "suggested"
+      },
+      {
+        "data": "J. T. Strother",
+        "status": "suggested"
+      },
+      {
+        "data": "Oliver Rayzer",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Williams",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Theaters--Stage-setting and scenery",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Theaters--Stage setting and scenery",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'Pittsburgh Renaissance' - This was the theme for the graduation exercises at Herron Hill Junior High School. The boys, who were responsible for making the scenery, under the direction of their teacher, J. T. Strother at the right, are kneeling: Jesse Wilkes, Paul Whitley, Ernie Boyden and David Barrett. Standing: Clarence Garett, Oliver Rayzer, Robert Williams and Reginald Fincher. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 2, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Stages (Platforms)",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Whitley",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "David Barrett",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "February 2, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Paintings",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Theaters Stage-setting and scenery",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      }
+    ]
+  }
 }

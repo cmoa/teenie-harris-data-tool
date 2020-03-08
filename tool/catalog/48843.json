@@ -1,20 +1,283 @@
 {
-	"irn": "48843",
-	"emuInput": {
-		"ecatalogue_key": "210",
-		"irn": "48843",
-		"TitAccessionNo": "2001.35.35871",
-		"TitMainTitle": "Man, possibly Congressman Arthur W. Mitchell standing on porch of his estate, Dinwiddie County, Virginia",
-		"CreDateCreated": "1942",
-		"CreEarliestDate": "1942",
-		"CreLatestDate": "1942",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 28, 1942, pg. 8, reads:  \"Mitchell Will Retire to Historic VA. Estate: The Courier Gets Another Exclusive: First Published Photographs of the Virginia Estate of the Mitchells - Pictured above are the first published photographs of the Virginia home of Congressman and Mrs. Arthur W. Mitchell, the estate to which he will retire in January.  The estate comprises 28 acres, with a 14-room colonial mansion, with three baths, and a $7,000 flower garden.  These photos, taken by Courier Staff Photographer Charles Harris, show the Mitchell home in three different shots, with a view of the shrubbery, the walks, and the distinctive architectural design.  The Mitchell gateway, an unusual 'shot' taken from the bedroom of the mansion, and the Congressman (in working clothes) standing in the center of Magnolia Lane are also shown.\"",
-		"CatSubject_tab": "Houses--Virginia.\nArchitecture--Virginia.\nMen--Virginia.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "48843",
+  "emuInput": {
+    "ecatalogue_key": 35832,
+    "irn": 48843,
+    "TitAccessionNo": "2001.35.35871",
+    "CreDateCreated": "1942",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1942",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 28, 1942, pg. 8, reads:  \"Mitchell Will Retire to Historic VA. Estate: The Courier Gets Another Exclusive: First Published Photographs of the Virginia Estate of the Mitchells - Pictured above are the first published photographs of the Virginia home of Congressman and Mrs. Arthur W. Mitchell, the estate to which he will retire in January.  The estate comprises 28 acres, with a 14-room colonial mansion, with three baths, and a $7,000 flower garden.  These photos, taken by Courier Staff Photographer Charles Harris, show the Mitchell home in three different shots, with a view of the shrubbery, the walks, and the distinctive architectural design.  The Mitchell gateway, an unusual 'shot' taken from the bedroom of the mansion, and the Congressman (in working clothes) standing in the center of Magnolia Lane are also shown.\"",
+    "TitMainTitle": "Man, possibly Congressman Arthur W. Mitchell standing on porch of his estate, Dinwiddie County, Virginia",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Virginia.Architecture--Virginia.Men--Virginia.",
+    "AdmGUIDValue_tab": "54565394-2fcb-4e88-b8b5-9f6a5a131ccb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55697,
+    "MulMultiMediaRef_key": 35840,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55697/sizes/48843-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 35832,
+    "irn": 48843,
+    "TitAccessionNo": "2001.35.35871",
+    "CreDateCreated": "1942",
+    "CreEarliestDate": "1942",
+    "CreLatestDate": "1942",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 28, 1942, pg. 8, reads:  \"Mitchell Will Retire to Historic VA. Estate: The Courier Gets Another Exclusive: First Published Photographs of the Virginia Estate of the Mitchells - Pictured above are the first published photographs of the Virginia home of Congressman and Mrs. Arthur W. Mitchell, the estate to which he will retire in January.  The estate comprises 28 acres, with a 14-room colonial mansion, with three baths, and a $7,000 flower garden.  These photos, taken by Courier Staff Photographer Charles Harris, show the Mitchell home in three different shots, with a view of the shrubbery, the walks, and the distinctive architectural design.  The Mitchell gateway, an unusual 'shot' taken from the bedroom of the mansion, and the Congressman (in working clothes) standing in the center of Magnolia Lane are also shown.\"",
+    "TitMainTitle": "Man, possibly Congressman Arthur W. Mitchell standing on porch of his estate, Dinwiddie County, Virginia",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Virginia.Architecture--Virginia.Men--Virginia.",
+    "AdmGUIDValue_tab": "54565394-2fcb-4e88-b8b5-9f6a5a131ccb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55697,
+    "MulMultiMediaRef_key": 35840,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55697/sizes/48843-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Arthur W. Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Mitchell",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Dinwiddie County",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Lane",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Dinwiddie County",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Lane",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Dinwiddie County",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Lane",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Dinwiddie County",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Lane",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "November 28, 1942",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Historic VA",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "November 28, 1942",
+        "status": "suggested"
+      },
+      {
+        "data": "The Courier Gets Another Exclusive:",
+        "status": "suggested"
+      },
+      {
+        "data": "January",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Lane",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      }
+    ]
+  }
 }

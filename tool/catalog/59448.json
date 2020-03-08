@@ -1,20 +1,287 @@
 {
-	"irn": "59448",
-	"emuInput": {
-		"ecatalogue_key": "277",
-		"irn": "59448",
-		"TitAccessionNo": "2001.35.45539",
-		"TitMainTitle": "Leroy Randall Jr., Milton Swan Jr., and LuGene Bray, posed with radio-controlled model airplanes in K. Leroy Irvis' workshop, another version",
-		"CreDateCreated": "November 1956",
-		"CreEarliestDate": "1956-11-01",
-		"CreLatestDate": "1956-11-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1956, pg. B11, reads: \"'Bird Boys' of Pittsburgh getting their planes ready to wheel are, left to right, Jackie Butler, LuGene Bray, Milton Swan Jr., Sam Anderson and Leroy Randall Jr. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBasements--Pennsylvania--Pittsburgh.\nModel airplanes--Pennsylvania--Pittsburgh.\nToys--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59448",
+  "emuInput": {
+    "ecatalogue_key": 45496,
+    "irn": 59448,
+    "TitAccessionNo": "2001.35.45539",
+    "CreDateCreated": "November 1956",
+    "CreEarliestDate": "1956-11-01",
+    "CreLatestDate": "1956-11-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1956, pg. B11, reads: \"'Bird Boys' of Pittsburgh getting their planes ready to wheel are, left to right, Jackie Butler, LuGene Bray, Milton Swan Jr., Sam Anderson and Leroy Randall Jr. - Harris Photo.\"",
+    "TitMainTitle": "Leroy Randall Jr., Milton Swan Jr., and LuGene Bray, posed with radio-controlled model airplanes in K. Leroy Irvis' workshop, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.Model airplanes--Pennsylvania--Pittsburgh.Toys--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "72380294-7128-419d-925a-2ed73f3721a6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67425,
+    "MulMultiMediaRef_key": 45504,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67425/sizes/59448-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 45496,
+    "irn": 59448,
+    "TitAccessionNo": "2001.35.45539",
+    "CreDateCreated": "November 1956",
+    "CreEarliestDate": "1956-11-01",
+    "CreLatestDate": "1956-11-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 17, 1956, pg. B11, reads: \"'Bird Boys' of Pittsburgh getting their planes ready to wheel are, left to right, Jackie Butler, LuGene Bray, Milton Swan Jr., Sam Anderson and Leroy Randall Jr. - Harris Photo.\"",
+    "TitMainTitle": "Leroy Randall Jr., Milton Swan Jr., and LuGene Bray, posed with radio-controlled model airplanes in K. Leroy Irvis' workshop, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.Model airplanes--Pennsylvania--Pittsburgh.Toys--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "72380294-7128-419d-925a-2ed73f3721a6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 67425,
+    "MulMultiMediaRef_key": 45504,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/67425/sizes/59448-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Milton Swan Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Leroy Randall Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Sam Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "LuGene Bray",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Butler",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Basements",
+        "status": "suggested"
+      },
+      {
+        "data": "Airplanes--Models",
+        "status": "suggested"
+      },
+      {
+        "data": "Toys",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "'Bird Boys' of Pittsburgh getting their planes ready to wheel are, left to right, Jackie Butler, LuGene Bray, Milton Swan Jr., Sam Anderson and Leroy Randall Jr. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 17, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "musician",
+        "status": "suggested"
+      },
+      {
+        "data": "music",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "November 17, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "B11",
+        "status": "suggested"
+      },
+      {
+        "data": "Bird Boys'",
+        "status": "suggested"
+      },
+      {
+        "data": "K. Leroy Irvis'",
+        "status": "suggested"
+      },
+      {
+        "data": "Model airplanes",
+        "status": "suggested"
+      },
+      {
+        "data": "Basements",
+        "status": "suggested"
+      },
+      {
+        "data": "Sam Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Toys",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "musical instrument accessory",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "audio",
+        "status": "suggested"
+      },
+      {
+        "data": "musical instrument",
+        "status": "suggested"
+      }
+    ]
+  }
 }

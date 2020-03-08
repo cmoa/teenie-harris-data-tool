@@ -1,20 +1,328 @@
 {
-	"irn": "42416",
-	"emuInput": {
-		"ecatalogue_key": "200",
-		"irn": "42416",
-		"TitAccessionNo": "2001.35.29751",
-		"TitMainTitle": "Group of teenagers, including Robert \"Sonny\" Kilgore seated in center, in home of Charles P. Pernell, Bryn Mawr Road, Upper Hill District",
-		"CreDateCreated": "September 1946",
-		"CreEarliestDate": "1946-09-01",
-		"CreLatestDate": "1946-09-14",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper September 14, 1946, pg. 18, reads: \"Teen-Agers Feted - The home of Mr. and Mrs. Charles P. Pernell of Bryn Mawr Road was the scene of a gay teen-agers party given in honor of the Pernell's nephew, Robert (Sonny) Kilgore (seated, center) last Friday. A student of Benjamin Franklin School in Philadelphia, 'Sonny\" spent his vacation in Pittsburgh. - Harris Photo.\"",
-		"CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "42416",
+  "emuInput": {
+    "ecatalogue_key": 29718,
+    "irn": 42416,
+    "TitAccessionNo": "2001.35.29751",
+    "CreDateCreated": "September 1946",
+    "CreEarliestDate": "1946-09-01",
+    "CreLatestDate": "1946-09-14",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper September 14, 1946, pg. 18, reads: \"Teen-Agers Feted - The home of Mr. and Mrs. Charles P. Pernell of Bryn Mawr Road was the scene of a gay teen-agers party given in honor of the Pernell's nephew, Robert (Sonny) Kilgore (seated, center) last Friday. A student of Benjamin Franklin School in Philadelphia, 'Sonny\" spent his vacation in Pittsburgh. - Harris Photo.\"",
+    "TitMainTitle": "Group of teenagers, including Robert \"Sonny\" Kilgore seated in center, in home of Charles P. Pernell, Bryn Mawr Road, Upper Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "35969169-7e4b-4f62-b62d-d4fc5f5d8417",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48938,
+    "MulMultiMediaRef_key": 29726,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48938/sizes/42416-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 29718,
+    "irn": 42416,
+    "TitAccessionNo": "2001.35.29751",
+    "CreDateCreated": "September 1946",
+    "CreEarliestDate": "1946-09-01",
+    "CreLatestDate": "1946-09-14",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper September 14, 1946, pg. 18, reads: \"Teen-Agers Feted - The home of Mr. and Mrs. Charles P. Pernell of Bryn Mawr Road was the scene of a gay teen-agers party given in honor of the Pernell's nephew, Robert (Sonny) Kilgore (seated, center) last Friday. A student of Benjamin Franklin School in Philadelphia, 'Sonny\" spent his vacation in Pittsburgh. - Harris Photo.\"",
+    "TitMainTitle": "Group of teenagers, including Robert \"Sonny\" Kilgore seated in center, in home of Charles P. Pernell, Bryn Mawr Road, Upper Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "35969169-7e4b-4f62-b62d-d4fc5f5d8417",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 48938,
+    "MulMultiMediaRef_key": 29726,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/48938/sizes/42416-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Kilgore",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles P. Pernell",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      },
+      {
+        "data": "Pernell",
+        "status": "suggested"
+      },
+      {
+        "data": "Sonny",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert \" Sonny \" Kilgore",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Bryn Mawr Road",
+        "status": "suggested"
+      },
+      {
+        "data": "Upper Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Bryn Mawr Road",
+        "status": "suggested"
+      },
+      {
+        "data": "Upper Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Bryn Mawr Road",
+        "status": "suggested"
+      },
+      {
+        "data": "Upper Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Bryn Mawr Road",
+        "status": "suggested"
+      },
+      {
+        "data": "Upper Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Teen-Agers Feted - The home of Mr. and Mrs. Charles P. Pernell of Bryn Mawr Road was the scene of a gay teen-agers party given in honor of the Pernell's nephew, Robert (Sonny) Kilgore (seated, center) last Friday. A student of Benjamin Franklin School in Philadelphia, 'Sonny\" spent his vacation in Pittsburgh. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 14, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Kilgore",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert",
+        "status": "suggested"
+      },
+      {
+        "data": "Teen-Agers Feted",
+        "status": "suggested"
+      },
+      {
+        "data": "Bryn Mawr Road",
+        "status": "suggested"
+      },
+      {
+        "data": "Upper Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "September 14, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Pernell",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Sonny",
+        "status": "suggested"
+      },
+      {
+        "data": "Benjamin Franklin School",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

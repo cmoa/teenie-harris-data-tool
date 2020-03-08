@@ -1,20 +1,336 @@
 {
-	"irn": "4512",
-	"emuInput": {
-		"ecatalogue_key": "17",
-		"irn": "4512",
-		"TitAccessionNo": "2001.35.2606",
-		"TitMainTitle": "Young man standing beside boxer Ezzard Charles, in Uptown Gym",
-		"CreDateCreated": "February 1950",
-		"CreEarliestDate": "1950-02-01",
-		"CreLatestDate": "1950-02-25",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 25, 1950, pg. 22, reads: \"Heavier Ezz Charles Set to Face Beshore in Buffalo - The Champ in Action - The Courier cameraman was on the scene last week in Pittsburgh to catch these action shots of NBA King Ezzard Charles as he went through training chores for his coming fight with Freddie Beshore, in Buffalo, N. Y., Feb. 28. The fight will be Ezzard's third defense of his heavyweight title... - Harris Photos.\"",
-		"CatSubject_tab": "Charles, Ezzard.\nMen--Pennsylvania--Pittsburgh.\nGymnasiums--Pennsylvania--Pittsburgh.\nBoxers--Pennsylvania--Pittsburgh.\nGymnasiums--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "4512",
+  "emuInput": {
+    "ecatalogue_key": 2602,
+    "irn": 4512,
+    "TitAccessionNo": "2001.35.2606",
+    "CreDateCreated": "February 1950",
+    "CreEarliestDate": "1950-02-01",
+    "CreLatestDate": "1950-02-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 25, 1950, pg. 22, reads: \"Heavier Ezz Charles Set to Face Beshore in Buffalo - The Champ in Action - The Courier cameraman was on the scene last week in Pittsburgh to catch these action shots of NBA King Ezzard Charles as he went through training chores for his coming fight with Freddie Beshore, in Buffalo, N. Y., Feb. 28. The fight will be Ezzard's third defense of his heavyweight title... - Harris Photos.\"",
+    "TitMainTitle": "Young man standing beside boxer Ezzard Charles, in Uptown Gym",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Charles, Ezzard.Men--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.Boxers--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70756341-fc86-4213-bcb0-d1ef04233924",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17273,
+    "MulMultiMediaRef_key": 2604,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17273/sizes/4512-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 2602,
+    "irn": 4512,
+    "TitAccessionNo": "2001.35.2606",
+    "CreDateCreated": "February 1950",
+    "CreEarliestDate": "1950-02-01",
+    "CreLatestDate": "1950-02-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 25, 1950, pg. 22, reads: \"Heavier Ezz Charles Set to Face Beshore in Buffalo - The Champ in Action - The Courier cameraman was on the scene last week in Pittsburgh to catch these action shots of NBA King Ezzard Charles as he went through training chores for his coming fight with Freddie Beshore, in Buffalo, N. Y., Feb. 28. The fight will be Ezzard's third defense of his heavyweight title... - Harris Photos.\"",
+    "TitMainTitle": "Young man standing beside boxer Ezzard Charles, in Uptown Gym",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Charles, Ezzard.Men--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.Boxers--Pennsylvania--Pittsburgh.Gymnasiums--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70756341-fc86-4213-bcb0-d1ef04233924",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17273,
+    "MulMultiMediaRef_key": 2604,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17273/sizes/4512-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "N. Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Ezzard Charles",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "National Bank of America (Salina, Kan.)",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Gymnasiums",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Uptown Gym",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Buffalo,",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Uptown Gym",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Buffalo,",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Uptown Gym",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Buffalo,",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Uptown Gym",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Buffalo,",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "22",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Heavier Ezz Charles Set to Face Beshore in Buffalo - The Champ in Action - The Courier cameraman was on the scene last week in Pittsburgh to catch these action shots of NBA King Ezzard Charles as he went through training chores for his coming fight with Freddie Beshore, in Buffalo, N. Y., Feb. 28. The fight will be Ezzard's third defense of his heavyweight title... - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 25, 1950",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "February 25, 1950",
+        "status": "suggested"
+      },
+      {
+        "data": "N. Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "The Champ in Action -",
+        "status": "suggested"
+      },
+      {
+        "data": "Ezzard Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Boxers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Uptown Gym",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles, Ezzard",
+        "status": "suggested"
+      },
+      {
+        "data": "Heavier Ezz Charles Set to Face Beshore",
+        "status": "suggested"
+      },
+      {
+        "data": "NBA",
+        "status": "suggested"
+      },
+      {
+        "data": "Freddie Beshore",
+        "status": "suggested"
+      },
+      {
+        "data": "Ezzard",
+        "status": "suggested"
+      },
+      {
+        "data": "Feb. 28",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Gymnasiums",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,308 @@
 {
-	"irn": "14745",
-	"emuInput": {
-		"ecatalogue_key": "70",
-		"irn": "14745",
-		"TitAccessionNo": "2001.35.7963",
-		"TitMainTitle": "Two women, one seated in armchair, modeling day dresses, hats, and fur stole, on stage with floral curtain and potted hydrangeas, for the Beauty Shop Owners' Fashion Review in Schenley High School",
-		"CreDateCreated": "1945",
-		"CreEarliestDate": "1945",
-		"CreLatestDate": "1945",
-		"PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
-		"CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13 reads: \"Scintillating! - Mrs. Leona Worthington proved Tuesday evening in Beauty Shop Owners' Fashion Review in Schenley High School that she could sparkle with personality, whether in business or evening wear. As the difficult \"Miss Jones\" in the one-act play, she was sensational, and was equally as pleasing, as you can see for yourself (left photo) in evening wear.  Center: Personality plus was exhibited by Sylvia Yvonne Davis Tuesday night as she modeled her smart riding habit with all the poise of an adult.  She was one of the many petite models who appeared in the Beauty Shop Owner's Review.  Right: Mrs. Pocahontas Crews turned on her glamour too, Tuesday night.  Stunning in every scene, she was positively breath-taking in this evening gown, as you can see for yourself.  All in all these girls showed Pittsburgh what the well dressed woman will wear this year. - Harris Photos.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nPlants--Pennsylvania--Pittsburgh.\nFashion models--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "14745",
+  "emuInput": {
+    "ecatalogue_key": 7946,
+    "irn": 14745,
+    "TitAccessionNo": "2001.35.7963",
+    "CreDateCreated": "1945",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13 reads: \"Scintillating! - Mrs. Leona Worthington proved Tuesday evening in Beauty Shop Owners' Fashion Review in Schenley High School that she could sparkle with personality, whether in business or evening wear. As the difficult \"Miss Jones\" in the one-act play, she was sensational, and was equally as pleasing, as you can see for yourself (left photo) in evening wear.  Center: Personality plus was exhibited by Sylvia Yvonne Davis Tuesday night as she modeled her smart riding habit with all the poise of an adult.  She was one of the many petite models who appeared in the Beauty Shop Owner's Review.  Right: Mrs. Pocahontas Crews turned on her glamour too, Tuesday night.  Stunning in every scene, she was positively breath-taking in this evening gown, as you can see for yourself.  All in all these girls showed Pittsburgh what the well dressed woman will wear this year. - Harris Photos.\"",
+    "TitMainTitle": "Two women, one seated in armchair, modeling day dresses, hats, and fur stole, on stage with floral curtain and potted hydrangeas, for the Beauty Shop Owners' Fashion Review in Schenley High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "55887755-82d4-4a7d-b00b-f2e73013069b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23883,
+    "MulMultiMediaRef_key": 7954,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23883/sizes/14745-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7946,
+    "irn": 14745,
+    "TitAccessionNo": "2001.35.7963",
+    "CreDateCreated": "1945",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of related images published in Pittsburgh Courier newspaper, March 24, 1945, pg. 13 reads: \"Scintillating! - Mrs. Leona Worthington proved Tuesday evening in Beauty Shop Owners' Fashion Review in Schenley High School that she could sparkle with personality, whether in business or evening wear. As the difficult \"Miss Jones\" in the one-act play, she was sensational, and was equally as pleasing, as you can see for yourself (left photo) in evening wear.  Center: Personality plus was exhibited by Sylvia Yvonne Davis Tuesday night as she modeled her smart riding habit with all the poise of an adult.  She was one of the many petite models who appeared in the Beauty Shop Owner's Review.  Right: Mrs. Pocahontas Crews turned on her glamour too, Tuesday night.  Stunning in every scene, she was positively breath-taking in this evening gown, as you can see for yourself.  All in all these girls showed Pittsburgh what the well dressed woman will wear this year. - Harris Photos.\"",
+    "TitMainTitle": "Two women, one seated in armchair, modeling day dresses, hats, and fur stole, on stage with floral curtain and potted hydrangeas, for the Beauty Shop Owners' Fashion Review in Schenley High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "55887755-82d4-4a7d-b00b-f2e73013069b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23883,
+    "MulMultiMediaRef_key": 7954,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23883/sizes/14745-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Pocahontas Crews",
+        "status": "suggested"
+      },
+      {
+        "data": "Leona Worthington",
+        "status": "suggested"
+      },
+      {
+        "data": "Sylvia Yvonne Davis",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Models (Persons)",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Scintillating! - Mrs. Leona Worthington proved Tuesday evening in Beauty Shop Owners' Fashion Review in Schenley High School that she could sparkle with personality, whether in business or evening wear. As the difficult \"Miss Jones\" in the one-act play, she was sensational, and was equally as pleasing, as you can see for yourself (left photo) in evening wear.  Center: Personality plus was exhibited by Sylvia Yvonne Davis Tuesday night as she modeled her smart riding habit with all the poise of an adult.  She was one of the many petite models who appeared in the Beauty Shop Owner's Review.  Right: Mrs. Pocahontas Crews turned on her glamour too, Tuesday night.  Stunning in every scene, she was positively breath-taking in this evening gown, as you can see for yourself.  All in all these girls showed Pittsburgh what the well dressed woman will wear this year. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 24, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "this year",
+        "status": "suggested"
+      },
+      {
+        "data": "March 24, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion models",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Beauty Shop Owners' Fashion Review",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "the Beauty Shop Owners' Fashion Review",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Beauty Shop Owner's",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "this evening",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,336 @@
 {
-	"irn": "56095",
-	"emuInput": {
-		"ecatalogue_key": "246",
-		"irn": "56095",
-		"TitAccessionNo": "2001.35.42761",
-		"TitMainTitle": "Dandy Duffers golf club members and guests, including Alma Speed Fox seated second from right; in rear: Betty Tibbs eleventh from left, Irving Johnson sixth from right, and Gerald Fox seventh from right, posed in Joyce Room at Flamingo Club",
-		"CreDateCreated": "March 1954",
-		"CreEarliestDate": "1954-03-01",
-		"CreLatestDate": "1954-03-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline for image published in Pittsburgh Courier newspaper March 27, 1954, pg. 11, reads: \"Dandy Duffers - A portion of the happy throng of Dandy Duffers, their wives or sweethearts and guests is shown reving [sic] it up at the Flamingo's Joyce Room last Sunday evening at the gala cocktail party.  The DDs are golfers who decided to entertain before the season really gets under way. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nDoors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56095",
+  "emuInput": {
+    "ecatalogue_key": 42719,
+    "irn": 56095,
+    "TitAccessionNo": "2001.35.42761",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline for image published in Pittsburgh Courier newspaper March 27, 1954, pg. 11, reads: \"Dandy Duffers - A portion of the happy throng of Dandy Duffers, their wives or sweethearts and guests is shown reving [sic] it up at the Flamingo's Joyce Room last Sunday evening at the gala cocktail party.  The DDs are golfers who decided to entertain before the season really gets under way. - Harris Photo.\"",
+    "TitMainTitle": "Dandy Duffers golf club members and guests, including Alma Speed Fox seated second from right; in rear: Betty Tibbs eleventh from left, Irving Johnson sixth from right, and Gerald Fox seventh from right, posed in Joyce Room at Flamingo Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0345e786-46a8-4ab0-9ffc-ce27c6fd4e41",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64069,
+    "MulMultiMediaRef_key": 42727,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64069/sizes/56095-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42719,
+    "irn": 56095,
+    "TitAccessionNo": "2001.35.42761",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline for image published in Pittsburgh Courier newspaper March 27, 1954, pg. 11, reads: \"Dandy Duffers - A portion of the happy throng of Dandy Duffers, their wives or sweethearts and guests is shown reving [sic] it up at the Flamingo's Joyce Room last Sunday evening at the gala cocktail party.  The DDs are golfers who decided to entertain before the season really gets under way. - Harris Photo.\"",
+    "TitMainTitle": "Dandy Duffers golf club members and guests, including Alma Speed Fox seated second from right; in rear: Betty Tibbs eleventh from left, Irving Johnson sixth from right, and Gerald Fox seventh from right, posed in Joyce Room at Flamingo Club",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Doors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0345e786-46a8-4ab0-9ffc-ce27c6fd4e41",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64069,
+    "MulMultiMediaRef_key": 42727,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64069/sizes/56095-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Irving Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Dandy Duffers",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Tibbs",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerald Fox",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Joyce Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Joyce Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Joyce Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Joyce Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dandy Duffers - A portion of the happy throng of Dandy Duffers, their wives or sweethearts and guests is shown reving [sic] it up at the Flamingo's Joyce Room last Sunday evening at the gala cocktail party.  The DDs are golfers who decided to entertain before the season really gets under way. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 27, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "March 27, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerald Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Alma Speed Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Irving Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "eleventh",
+        "status": "suggested"
+      },
+      {
+        "data": "Dandy Duffers",
+        "status": "suggested"
+      },
+      {
+        "data": "Flamingo",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Flamingo Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Joyce Room",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

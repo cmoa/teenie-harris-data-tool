@@ -1,20 +1,376 @@
 {
-	"irn": "72431",
-	"emuInput": {
-		"ecatalogue_key": "390",
-		"irn": "72431",
-		"TitAccessionNo": "2001.35.56941",
-		"TitMainTitle": "Daisy Lampkin standing with Alice Weston in Channel 11 studio for taping of \"Luncheon at the Ones\" program",
-		"CreDateCreated": "January 22, 1962",
-		"CreEarliestDate": "1962-01-22",
-		"CreLatestDate": "1962-01-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, pg. 2, reads: \"Guest At Luncheon At Ones - Mrs. Daisy E. Lampkin, vice president of The Pittsburgh Courier, and four members of The Pittsburgh Courier staff were guests of 'Luncheon at the Ones,' Channel 11, on Jan. 22. Mrs. Lampkin is shown here with hostess Alice Weston, preceding the popular program which attracts thousands of viewers each day.  Mrs. Lampkin publicized the Courier Appreciation Rally which will take place at Soldiers and sailors Memorial Hall on Sunday, Feb. 25, at 3 P.M. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nLampkin, Daisy E. (Daisy Elizabeth), 1882-1965.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72431",
+  "emuInput": {
+    "ecatalogue_key": 56898,
+    "irn": 72431,
+    "TitAccessionNo": "2001.35.56941",
+    "CreDateCreated": "January 22, 1962",
+    "CreEarliestDate": "1962-01-22",
+    "CreLatestDate": "1962-01-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, pg. 2, reads: \"Guest At Luncheon At Ones - Mrs. Daisy E. Lampkin, vice president of The Pittsburgh Courier, and four members of The Pittsburgh Courier staff were guests of 'Luncheon at the Ones,' Channel 11, on Jan. 22. Mrs. Lampkin is shown here with hostess Alice Weston, preceding the popular program which attracts thousands of viewers each day.  Mrs. Lampkin publicized the Courier Appreciation Rally which will take place at Soldiers and sailors Memorial Hall on Sunday, Feb. 25, at 3 P.M. - Harris Photo.\"",
+    "TitMainTitle": "Daisy Lampkin standing with Alice Weston in Channel 11 studio for taping of \"Luncheon at the Ones\" program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Lampkin, Daisy E. (Daisy Elizabeth), 1882-1965.",
+    "AdmGUIDValue_tab": "10167101-1d0e-4c9d-ac17-c435d432d8f3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94406,
+    "MulMultiMediaRef_key": 56907,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94406/sizes/72431-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56898,
+    "irn": 72431,
+    "TitAccessionNo": "2001.35.56941",
+    "CreDateCreated": "January 22, 1962",
+    "CreEarliestDate": "1962-01-22",
+    "CreLatestDate": "1962-01-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, pg. 2, reads: \"Guest At Luncheon At Ones - Mrs. Daisy E. Lampkin, vice president of The Pittsburgh Courier, and four members of The Pittsburgh Courier staff were guests of 'Luncheon at the Ones,' Channel 11, on Jan. 22. Mrs. Lampkin is shown here with hostess Alice Weston, preceding the popular program which attracts thousands of viewers each day.  Mrs. Lampkin publicized the Courier Appreciation Rally which will take place at Soldiers and sailors Memorial Hall on Sunday, Feb. 25, at 3 P.M. - Harris Photo.\"",
+    "TitMainTitle": "Daisy Lampkin standing with Alice Weston in Channel 11 studio for taping of \"Luncheon at the Ones\" program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Lampkin, Daisy E. (Daisy Elizabeth), 1882-1965.",
+    "AdmGUIDValue_tab": "10167101-1d0e-4c9d-ac17-c435d432d8f3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94406,
+    "MulMultiMediaRef_key": 56907,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94406/sizes/72431-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Daisy E. Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Alice Weston",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Lampkin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Guest At Luncheon At Ones - Mrs. Daisy E. Lampkin, vice president of The Pittsburgh Courier, and four members of The Pittsburgh Courier staff were guests of 'Luncheon at the Ones,' Channel 11, on Jan. 22. Mrs. Lampkin is shown here with hostess Alice Weston, preceding the popular program which attracts thousands of viewers each day.  Mrs. Lampkin publicized the Courier Appreciation Rally which will take place at Soldiers and sailors Memorial Hall on Sunday, Feb. 25, at 3 P.M. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 27, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy E. Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 22",
+        "status": "suggested"
+      },
+      {
+        "data": "January 27, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "The Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Lampkin, Daisy E",
+        "status": "suggested"
+      },
+      {
+        "data": "Guest At Luncheon",
+        "status": "suggested"
+      },
+      {
+        "data": "each day",
+        "status": "suggested"
+      },
+      {
+        "data": "P.M. - Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday, Feb. 25",
+        "status": "suggested"
+      },
+      {
+        "data": "\"Luncheon at the Ones",
+        "status": "suggested"
+      },
+      {
+        "data": "Channel 11",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Luncheon at the Ones",
+        "status": "suggested"
+      },
+      {
+        "data": "Alice Weston",
+        "status": "suggested"
+      },
+      {
+        "data": "Memorial Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "socialite",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      }
+    ]
+  }
 }

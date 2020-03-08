@@ -1,20 +1,327 @@
 {
-	"irn": "56110",
-	"emuInput": {
-		"ecatalogue_key": "247",
-		"irn": "56110",
-		"TitAccessionNo": "2001.35.42772",
-		"TitMainTitle": "Group of young men and young women, including three young women wearing plaid skirts, dancing in Herron Hill Junior High School",
-		"CreDateCreated": "March 1954",
-		"CreEarliestDate": "1954-03-01",
-		"CreLatestDate": "1954-03-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 27, 1954, pg. 21 reads: \"Herron Hill P-TA Rallies to Keep Teen Canteen - Dancing - Most popular spot in building is the cafeteria which is converted to a dance pavilion. Plenty of lights and supervision, but the youngsters enjoy it.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nDancing--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBrick walls--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nHerron Hill Junior High School (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56110",
+  "emuInput": {
+    "ecatalogue_key": 42730,
+    "irn": 56110,
+    "TitAccessionNo": "2001.35.42772",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 27, 1954, pg. 21 reads: \"Herron Hill P-TA Rallies to Keep Teen Canteen - Dancing - Most popular spot in building is the cafeteria which is converted to a dance pavilion. Plenty of lights and supervision, but the youngsters enjoy it.\"",
+    "TitMainTitle": "Group of young men and young women, including three young women wearing plaid skirts, dancing in Herron Hill Junior High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Dancing--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "80788803-bb69-4c87-9dcf-83c31aa68987",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64077,
+    "MulMultiMediaRef_key": 42738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64077/sizes/56110-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42730,
+    "irn": 56110,
+    "TitAccessionNo": "2001.35.42772",
+    "CreDateCreated": "March 1954",
+    "CreEarliestDate": "1954-03-01",
+    "CreLatestDate": "1954-03-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 27, 1954, pg. 21 reads: \"Herron Hill P-TA Rallies to Keep Teen Canteen - Dancing - Most popular spot in building is the cafeteria which is converted to a dance pavilion. Plenty of lights and supervision, but the youngsters enjoy it.\"",
+    "TitMainTitle": "Group of young men and young women, including three young women wearing plaid skirts, dancing in Herron Hill Junior High School",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Dancing--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "80788803-bb69-4c87-9dcf-83c31aa68987",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64077,
+    "MulMultiMediaRef_key": 42738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64077/sizes/56110-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "21",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Herron Hill P-TA Rallies to Keep Teen Canteen - Dancing - Most popular spot in building is the cafeteria which is converted to a dance pavilion. Plenty of lights and supervision, but the youngsters enjoy it.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 27, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "March 27, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill P-TA Rallies",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dancing",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "dance",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

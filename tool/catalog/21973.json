@@ -1,20 +1,408 @@
 {
-	"irn": "21973",
-	"emuInput": {
-		"ecatalogue_key": "111",
-		"irn": "21973",
-		"TitAccessionNo": "2001.35.12659",
-		"TitMainTitle": "Men and women seated at three banquet tables in the Greene Hearth for John Wood retirement party",
-		"CreDateCreated": "January 1959",
-		"CreEarliestDate": "1959-01-01",
-		"CreLatestDate": "1959-01-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. 8 reads: \"Rteires [sic] After 39 Years - School officials, co-workers and friends gathered around the banquet table at Greene Hearthe last Saturday to honor John Wood, custodian at Leo Weil School for 39 years, and who is retiring on Jan. 31.  Shown in above picture, from left to right, are Charles R. Freeble, principal of A. Leo Weil School; Mrs. John Wood, John Wood, honored guest; Dr. Leslie Watters, the Rev. Ramsey Bridges, William Roman, David B. Roberts, Russell Robinson, Mrs. Helen Robinson, MRs. Marian Harris, and chairman, Mrs. Katherine Williams. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGreene Hearth (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21973",
+  "emuInput": {
+    "ecatalogue_key": 12629,
+    "irn": 21973,
+    "TitAccessionNo": "2001.35.12659",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. 8 reads: \"Rteires [sic] After 39 Years - School officials, co-workers and friends gathered around the banquet table at Greene Hearthe last Saturday to honor John Wood, custodian at Leo Weil School for 39 years, and who is retiring on Jan. 31.  Shown in above picture, from left to right, are Charles R. Freeble, principal of A. Leo Weil School; Mrs. John Wood, John Wood, honored guest; Dr. Leslie Watters, the Rev. Ramsey Bridges, William Roman, David B. Roberts, Russell Robinson, Mrs. Helen Robinson, MRs. Marian Harris, and chairman, Mrs. Katherine Williams. - Harris Photo.\"",
+    "TitMainTitle": "Men and women seated at three banquet tables in the Greene Hearth for John Wood retirement party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "52149885-5139-4dcc-a1fd-9bffb1aeb8cb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28592,
+    "MulMultiMediaRef_key": 12637,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28592/sizes/21973-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 12629,
+    "irn": 21973,
+    "TitAccessionNo": "2001.35.12659",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 24, 1959, pg. 8 reads: \"Rteires [sic] After 39 Years - School officials, co-workers and friends gathered around the banquet table at Greene Hearthe last Saturday to honor John Wood, custodian at Leo Weil School for 39 years, and who is retiring on Jan. 31.  Shown in above picture, from left to right, are Charles R. Freeble, principal of A. Leo Weil School; Mrs. John Wood, John Wood, honored guest; Dr. Leslie Watters, the Rev. Ramsey Bridges, William Roman, David B. Roberts, Russell Robinson, Mrs. Helen Robinson, MRs. Marian Harris, and chairman, Mrs. Katherine Williams. - Harris Photo.\"",
+    "TitMainTitle": "Men and women seated at three banquet tables in the Greene Hearth for John Wood retirement party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "52149885-5139-4dcc-a1fd-9bffb1aeb8cb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28592,
+    "MulMultiMediaRef_key": 12637,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28592/sizes/21973-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "David B. Roberts",
+        "status": "suggested"
+      },
+      {
+        "data": "Marian Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "William Roman",
+        "status": "suggested"
+      },
+      {
+        "data": "Ramsey Bridges",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles R. Freeble",
+        "status": "suggested"
+      },
+      {
+        "data": "John Wood",
+        "status": "suggested"
+      },
+      {
+        "data": "Katherine Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearthe",
+        "status": "suggested"
+      },
+      {
+        "data": "Leslie Watters",
+        "status": "suggested"
+      },
+      {
+        "data": "Russell Robinson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams, Roman",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Rteires [sic] After 39 Years - School officials, co-workers and friends gathered around the banquet table at Greene Hearthe last Saturday to honor John Wood, custodian at Leo Weil School for 39 years, and who is retiring on Jan. 31.  Shown in above picture, from left to right, are Charles R. Freeble, principal of A. Leo Weil School; Mrs. John Wood, John Wood, honored guest; Dr. Leslie Watters, the Rev. Ramsey Bridges, William Roman, David B. Roberts, Russell Robinson, Mrs. Helen Robinson, MRs. Marian Harris, and chairman, Mrs. Katherine Williams. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 24, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Greene Hearth ",
+        "status": "suggested"
+      },
+      {
+        "data": "39 years",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 31",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Leo Weil School",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles R. Freeble",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Leo Weil School",
+        "status": "suggested"
+      },
+      {
+        "data": "Marian Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Katherine Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "William Roman",
+        "status": "suggested"
+      },
+      {
+        "data": "John Wood",
+        "status": "suggested"
+      },
+      {
+        "data": "39 Years - School",
+        "status": "suggested"
+      },
+      {
+        "data": "David B. Roberts",
+        "status": "suggested"
+      },
+      {
+        "data": "January 24, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Russell Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "banquet",
+        "status": "suggested"
+      },
+      {
+        "data": "party",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,359 @@
 {
-	"irn": "24260",
-	"emuInput": {
-		"ecatalogue_key": "114",
-		"irn": "24260",
-		"TitAccessionNo": "2001.35.14396",
-		"TitMainTitle": "Groom Royal Finch Jr., and bride Frances Mosby Finch posed arm in arm, in front of altar in St. Richards Church",
-		"CreDateCreated": "July 19, 1958",
-		"CreEarliestDate": "1958-07-19",
-		"CreLatestDate": "1958-07-19",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 26, 1958, pg. A11, reads: \"District Couples Married - Wedding bells rang for the above district couples last Saturday... The second picture shows A2/c Royal Finch Jr. and his bride, the former Frances Mosby.  They were united at St. Richards Church, Pittsburgh.  The new Mrs. Richards is the daughter of Chief Warrant Officer Kenny Mosby and Mrs. Jean Mosby Slater.  The groom is stationed at an Air Force base in South Carolina.\"",
-		"CatSubject_tab": "Bridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "24260",
+  "emuInput": {
+    "ecatalogue_key": 14366,
+    "irn": 24260,
+    "TitAccessionNo": "2001.35.14396",
+    "CreDateCreated": "July 19, 1958",
+    "CreEarliestDate": "1958-07-19",
+    "CreLatestDate": "1958-07-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 26, 1958, pg. A11, reads: \"District Couples Married - Wedding bells rang for the above district couples last Saturday... The second picture shows A2/c Royal Finch Jr. and his bride, the former Frances Mosby.  They were united at St. Richards Church, Pittsburgh.  The new Mrs. Richards is the daughter of Chief Warrant Officer Kenny Mosby and Mrs. Jean Mosby Slater.  The groom is stationed at an Air Force base in South Carolina.\"",
+    "TitMainTitle": "Groom Royal Finch Jr., and bride Frances Mosby Finch posed arm in arm, in front of altar in St. Richards Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0117ac85-d631-4008-a71f-04edb2556bfa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30660,
+    "MulMultiMediaRef_key": 14374,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30660/sizes/24260-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 14366,
+    "irn": 24260,
+    "TitAccessionNo": "2001.35.14396",
+    "CreDateCreated": "July 19, 1958",
+    "CreEarliestDate": "1958-07-19",
+    "CreLatestDate": "1958-07-19",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 26, 1958, pg. A11, reads: \"District Couples Married - Wedding bells rang for the above district couples last Saturday... The second picture shows A2/c Royal Finch Jr. and his bride, the former Frances Mosby.  They were united at St. Richards Church, Pittsburgh.  The new Mrs. Richards is the daughter of Chief Warrant Officer Kenny Mosby and Mrs. Jean Mosby Slater.  The groom is stationed at an Air Force base in South Carolina.\"",
+    "TitMainTitle": "Groom Royal Finch Jr., and bride Frances Mosby Finch posed arm in arm, in front of altar in St. Richards Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0117ac85-d631-4008-a71f-04edb2556bfa",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30660,
+    "MulMultiMediaRef_key": 14374,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30660/sizes/24260-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Kenny Mosby",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Mosby Slater",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Mosby Finch",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Mosby",
+        "status": "suggested"
+      },
+      {
+        "data": "Richards",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "St. Richards Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "South Carolina.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "St. Richards Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "South Carolina.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "St. Richards Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "South Carolina.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "St. Richards Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "South Carolina.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "District Couples Married - Wedding bells rang for the above district couples last Saturday... The second picture shows A2/c Royal Finch Jr. and his bride, the former Frances Mosby.  They were united at St. Richards Church, Pittsburgh.  The new Mrs. Richards is the daughter of Chief Warrant Officer Kenny Mosby and Mrs. Jean Mosby Slater.  The groom is stationed at an Air Force base in South Carolina.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 26, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "July 26, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "St. Richards Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Richards",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Air Force",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

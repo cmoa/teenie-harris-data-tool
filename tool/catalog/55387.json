@@ -1,20 +1,312 @@
 {
-	"irn": "55387",
-	"emuInput": {
-		"ecatalogue_key": "240",
-		"irn": "55387",
-		"TitAccessionNo": "2001.35.42172",
-		"TitMainTitle": "Barbara Jefferson, Joyce Johnson, and Pearl Johnson Mitchell seated in wooded chairs at coroner's inquest about the murder of Julia Mae Johnson Mitchell",
-		"CreDateCreated": "August 1953",
-		"CreEarliestDate": "1953-08-01",
-		"CreLatestDate": "1953-08-29",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 29, 1953, pg. 3, reads: \"Their Tragedy, A Challenge - Pictured at a coroner's inquest, held last Thursday, into the rape - strangulation of 10-year-old Julia Mae Johnson of 3 Sachem Way on July 10, were, left to right: Barbara Jefferson, who was perhaps the last person to see the 10-year-old girl alive, and Joyce, 15-year-old sister, and her mother, Mrs. Pearl Johnson Mitchell. The tragedy was termed 'unfortunate' by Coroner William D. McClelland, who emphasized that police 'expend every effort to apprehend the fiend.'\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55387",
+  "emuInput": {
+    "ecatalogue_key": 42130,
+    "irn": 55387,
+    "TitAccessionNo": "2001.35.42172",
+    "CreDateCreated": "August 1953",
+    "CreEarliestDate": "1953-08-01",
+    "CreLatestDate": "1953-08-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 29, 1953, pg. 3, reads: \"Their Tragedy, A Challenge - Pictured at a coroner's inquest, held last Thursday, into the rape - strangulation of 10-year-old Julia Mae Johnson of 3 Sachem Way on July 10, were, left to right: Barbara Jefferson, who was perhaps the last person to see the 10-year-old girl alive, and Joyce, 15-year-old sister, and her mother, Mrs. Pearl Johnson Mitchell. The tragedy was termed 'unfortunate' by Coroner William D. McClelland, who emphasized that police 'expend every effort to apprehend the fiend.'\"",
+    "TitMainTitle": "Barbara Jefferson, Joyce Johnson, and Pearl Johnson Mitchell seated in wooded chairs at coroner's inquest about the murder of Julia Mae Johnson Mitchell",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40592292-1f97-42aa-ad30-6644e9eee98a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63430,
+    "MulMultiMediaRef_key": 42138,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63430/sizes/55387-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 42130,
+    "irn": 55387,
+    "TitAccessionNo": "2001.35.42172",
+    "CreDateCreated": "August 1953",
+    "CreEarliestDate": "1953-08-01",
+    "CreLatestDate": "1953-08-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 29, 1953, pg. 3, reads: \"Their Tragedy, A Challenge - Pictured at a coroner's inquest, held last Thursday, into the rape - strangulation of 10-year-old Julia Mae Johnson of 3 Sachem Way on July 10, were, left to right: Barbara Jefferson, who was perhaps the last person to see the 10-year-old girl alive, and Joyce, 15-year-old sister, and her mother, Mrs. Pearl Johnson Mitchell. The tragedy was termed 'unfortunate' by Coroner William D. McClelland, who emphasized that police 'expend every effort to apprehend the fiend.'\"",
+    "TitMainTitle": "Barbara Jefferson, Joyce Johnson, and Pearl Johnson Mitchell seated in wooded chairs at coroner's inquest about the murder of Julia Mae Johnson Mitchell",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "40592292-1f97-42aa-ad30-6644e9eee98a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 63430,
+    "MulMultiMediaRef_key": 42138,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/63430/sizes/55387-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Joyce Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia Mae Johnson Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Joyce",
+        "status": "suggested"
+      },
+      {
+        "data": "William D. McClelland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pearl Johnson Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia Mae Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jefferson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Their Tragedy, A Challenge - Pictured at a coroner's inquest, held last Thursday, into the rape - strangulation of 10-year-old Julia Mae Johnson of 3 Sachem Way on July 10, were, left to right: Barbara Jefferson, who was perhaps the last person to see the 10-year-old girl alive, and Joyce, 15-year-old sister, and her mother, Mrs. Pearl Johnson Mitchell. The tragedy was termed 'unfortunate' by Coroner William D. McClelland, who emphasized that police 'expend every effort to apprehend the fiend.'",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 29, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Joyce Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jefferson",
+        "status": "suggested"
+      },
+      {
+        "data": "last Thursday",
+        "status": "suggested"
+      },
+      {
+        "data": "Their Tragedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Coroner",
+        "status": "suggested"
+      },
+      {
+        "data": "August 29, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Joyce",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "July 10",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

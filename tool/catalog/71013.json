@@ -1,20 +1,432 @@
 {
-	"irn": "71013",
-	"emuInput": {
-		"ecatalogue_key": "373",
-		"irn": "71013",
-		"TitAccessionNo": "2001.35.56125",
-		"TitMainTitle": "Lot with Dumpster, debris, and garbage, at intersection of Crawford, Pride, Reed, and Colwell streets, with Civic Arena construction in background, Hill District",
-		"CreDateCreated": "May 1960",
-		"CreEarliestDate": "1960-05-01",
-		"CreLatestDate": "1960-05-14",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 14, 1960, pg. 2 reads: \" 'Rubbish Island' - This \"Rubbish Island\" at the Crawford, Pride, Reed and Colwell intersection has been growing for quite some time without being disturbed by the city clean-up squads.\"",
-		"CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.\nTelephone poles--Pennsylvania--Pittsburgh.\nRefuse and refuse disposal--Pennsylvania--Pittsburgh.\nRubble--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nCivic Arena (Pittsburgh, Pa.)\nHill District (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "71013",
+  "emuInput": {
+    "ecatalogue_key": 56082,
+    "irn": 71013,
+    "TitAccessionNo": "2001.35.56125",
+    "CreDateCreated": "May 1960",
+    "CreEarliestDate": "1960-05-01",
+    "CreLatestDate": "1960-05-14",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 14, 1960, pg. 2 reads: \" 'Rubbish Island' - This \"Rubbish Island\" at the Crawford, Pride, Reed and Colwell intersection has been growing for quite some time without being disturbed by the city clean-up squads.\"",
+    "TitMainTitle": "Lot with Dumpster, debris, and garbage, at intersection of Crawford, Pride, Reed, and Colwell streets, with Civic Arena construction in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Telephone poles--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.Rubble--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Civic Arena (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "57500273-cf96-403b-93d4-9ad08a5c788c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87069,
+    "MulMultiMediaRef_key": 56091,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87069/sizes/71013-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56082,
+    "irn": 71013,
+    "TitAccessionNo": "2001.35.56125",
+    "CreDateCreated": "May 1960",
+    "CreEarliestDate": "1960-05-01",
+    "CreLatestDate": "1960-05-14",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 14, 1960, pg. 2 reads: \" 'Rubbish Island' - This \"Rubbish Island\" at the Crawford, Pride, Reed and Colwell intersection has been growing for quite some time without being disturbed by the city clean-up squads.\"",
+    "TitMainTitle": "Lot with Dumpster, debris, and garbage, at intersection of Crawford, Pride, Reed, and Colwell streets, with Civic Arena construction in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Telephone poles--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.Rubble--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Civic Arena (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "57500273-cf96-403b-93d4-9ad08a5c788c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87069,
+    "MulMultiMediaRef_key": 56091,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87069/sizes/71013-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Dumpster",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Rubble",
+        "status": "suggested"
+      },
+      {
+        "data": "Refuse and refuse disposal",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubbish Island'",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Hill District (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubbish Island'",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Hill District (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubbish Island'",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Hill District (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubbish Island'",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Hill District (Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " 'Rubbish Island' - This \"Rubbish Island\" at the Crawford, Pride, Reed and Colwell intersection has been growing for quite some time without being disturbed by the city clean-up squads.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 14, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubble",
+        "status": "suggested"
+      },
+      {
+        "data": "Refuse and refuse disposal",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Colwell",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Pride",
+        "status": "suggested"
+      },
+      {
+        "data": "Reed",
+        "status": "suggested"
+      },
+      {
+        "data": "Civic Arena",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Rubbish Island",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephone poles",
+        "status": "suggested"
+      },
+      {
+        "data": "Dumpster",
+        "status": "suggested"
+      },
+      {
+        "data": "Civic Arena ",
+        "status": "suggested"
+      },
+      {
+        "data": "May 14, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "snow",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "landscape",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "transport",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "water",
+        "status": "suggested"
+      },
+      {
+        "data": "track",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "atmosphere",
+        "status": "suggested"
+      },
+      {
+        "data": "weather",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      }
+    ]
+  }
 }

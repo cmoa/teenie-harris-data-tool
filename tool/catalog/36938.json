@@ -1,20 +1,356 @@
 {
-	"irn": "36938",
-	"emuInput": {
-		"ecatalogue_key": "174",
-		"irn": "36938",
-		"TitAccessionNo": "2001.35.24561",
-		"TitMainTitle": "Crystal Harris wearing plaid jumper with light colored short sleeved blouse, posed behind table with paper and pencil, in Harris home, 7604 Mulford Street",
-		"CreDateCreated": "December 1956",
-		"CreEarliestDate": "1956-12-01",
-		"CreLatestDate": "1956-12-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 22, 1956, pg. 3, reads: \"Dear Santa - Bright-eyed and pensive Crystal Harris, 6, of 7604 Mulford St., is taxing her wit and her penmanship as she finishes her letter to Santa Claus at the North Pole. She is determined her stocking will be filled on Christmas morning.  Crystal is the daughter of Mr. and Mrs. Charles (Teenie) Harris.  Remember when you when through this? - Harris Photo.\"",
-		"CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nHarris, Crystal E.\nInteriors--Pennsylvania--Pittsburgh.\nGirls--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "36938",
+  "emuInput": {
+    "ecatalogue_key": 24529,
+    "irn": 36938,
+    "TitAccessionNo": "2001.35.24561",
+    "CreDateCreated": "December 1956",
+    "CreEarliestDate": "1956-12-01",
+    "CreLatestDate": "1956-12-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 22, 1956, pg. 3, reads: \"Dear Santa - Bright-eyed and pensive Crystal Harris, 6, of 7604 Mulford St., is taxing her wit and her penmanship as she finishes her letter to Santa Claus at the North Pole. She is determined her stocking will be filled on Christmas morning.  Crystal is the daughter of Mr. and Mrs. Charles (Teenie) Harris.  Remember when you when through this? - Harris Photo.\"",
+    "TitMainTitle": "Crystal Harris wearing plaid jumper with light colored short sleeved blouse, posed behind table with paper and pencil, in Harris home, 7604 Mulford Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Harris, Crystal E.Interiors--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "17532958-ae4c-4d29-97ba-9873eb6c66bb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43117,
+    "MulMultiMediaRef_key": 24537,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43117/sizes/36938-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 24529,
+    "irn": 36938,
+    "TitAccessionNo": "2001.35.24561",
+    "CreDateCreated": "December 1956",
+    "CreEarliestDate": "1956-12-01",
+    "CreLatestDate": "1956-12-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 22, 1956, pg. 3, reads: \"Dear Santa - Bright-eyed and pensive Crystal Harris, 6, of 7604 Mulford St., is taxing her wit and her penmanship as she finishes her letter to Santa Claus at the North Pole. She is determined her stocking will be filled on Christmas morning.  Crystal is the daughter of Mr. and Mrs. Charles (Teenie) Harris.  Remember when you when through this? - Harris Photo.\"",
+    "TitMainTitle": "Crystal Harris wearing plaid jumper with light colored short sleeved blouse, posed behind table with paper and pencil, in Harris home, 7604 Mulford Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Harris, Crystal E.Interiors--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "17532958-ae4c-4d29-97ba-9873eb6c66bb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43117,
+    "MulMultiMediaRef_key": 24537,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43117/sizes/36938-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "Crystal Harris",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Santa Claus",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Pole",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Pole",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Pole",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Pole",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dear Santa - Bright-eyed and pensive Crystal Harris, 6, of 7604 Mulford St., is taxing her wit and her penmanship as she finishes her letter to Santa Claus at the North Pole. She is determined her stocking will be filled on Christmas morning.  Crystal is the daughter of Mr. and Mrs. Charles (Teenie) Harris.  Remember when you when through this? - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 22, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "boy",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "Santa Claus",
+        "status": "suggested"
+      },
+      {
+        "data": "December 22, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "6",
+        "status": "suggested"
+      },
+      {
+        "data": "Christmas morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris, Crystal E",
+        "status": "suggested"
+      },
+      {
+        "data": "7604 Mulford St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Crystal Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Pole",
+        "status": "suggested"
+      },
+      {
+        "data": "Mulford Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "eye",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "toddler",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,260 @@
 {
-	"irn": "13170",
-	"emuInput": {
-		"ecatalogue_key": "55",
-		"irn": "13170",
-		"TitAccessionNo": "2001.35.6808",
-		"TitMainTitle": "Stokely Carmichael (Kwame Ture) speaking in Ebenezer Baptist Church",
-		"CreDateCreated": "March 1967",
-		"CreEarliestDate": "1967-03-01",
-		"CreLatestDate": "1967-03-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, March 11, 1967, pg. 1 & 3, reads: \"...Negroes of leadership status and plain citizens jammed Ebenezer Church to hear the controversial Stokely Carmichael, director of SNCC, speak... - Harris Photos\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nPublic speaking--Pennsylvania--Pittsburgh.\nCarmichael, Stokely.\nInteriors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13170",
+  "emuInput": {
+    "ecatalogue_key": 6793,
+    "irn": 13170,
+    "TitAccessionNo": "2001.35.6808",
+    "CreDateCreated": "March 1967",
+    "CreEarliestDate": "1967-03-01",
+    "CreLatestDate": "1967-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, March 11, 1967, pg. 1 & 3, reads: \"...Negroes of leadership status and plain citizens jammed Ebenezer Church to hear the controversial Stokely Carmichael, director of SNCC, speak... - Harris Photos\"",
+    "TitMainTitle": "Stokely Carmichael (Kwame Ture) speaking in Ebenezer Baptist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Public speaking--Pennsylvania--Pittsburgh.Carmichael, Stokely.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45021619-2ffb-4746-bce0-6e3f80a7686c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22293,
+    "MulMultiMediaRef_key": 6801,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22293/sizes/13170-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6793,
+    "irn": 13170,
+    "TitAccessionNo": "2001.35.6808",
+    "CreDateCreated": "March 1967",
+    "CreEarliestDate": "1967-03-01",
+    "CreLatestDate": "1967-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, March 11, 1967, pg. 1 & 3, reads: \"...Negroes of leadership status and plain citizens jammed Ebenezer Church to hear the controversial Stokely Carmichael, director of SNCC, speak... - Harris Photos\"",
+    "TitMainTitle": "Stokely Carmichael (Kwame Ture) speaking in Ebenezer Baptist Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Public speaking--Pennsylvania--Pittsburgh.Carmichael, Stokely.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "45021619-2ffb-4746-bce0-6e3f80a7686c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22293,
+    "MulMultiMediaRef_key": 6801,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22293/sizes/13170-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Kwame Ture",
+        "status": "suggested"
+      },
+      {
+        "data": "Stokely Carmichael",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Oratory",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Public speaking",
+        "status": "suggested"
+      },
+      {
+        "data": "Sistema Nacional de Consumos Culturales (Argentina)",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Société nationale des chemins de fer congolais",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "...Negroes of leadership status and plain citizens jammed Ebenezer Church to hear the controversial Stokely Carmichael, director of SNCC, speak... - Harris Photos",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 11, 1967",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Carmichael, Stokely",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Ebenezer Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Public speaking",
+        "status": "suggested"
+      },
+      {
+        "data": "Ebenezer Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Stokely Carmichael",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Kwame Ture",
+        "status": "suggested"
+      },
+      {
+        "data": "SNCC",
+        "status": "suggested"
+      },
+      {
+        "data": "March 11, 1967",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "music",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

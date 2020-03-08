@@ -1,20 +1,320 @@
 {
-	"irn": "56762",
-	"emuInput": {
-		"ecatalogue_key": "252",
-		"irn": "56762",
-		"TitAccessionNo": "2001.35.43292",
-		"TitMainTitle": "Newly constructed brick ranch house with two picture windows, single attached garage, and screen door with filigree decoration, Aleppo Township",
-		"CreDateCreated": "January 1955",
-		"CreEarliestDate": "1955-01-01",
-		"CreLatestDate": "1955-01-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 15, 1955, pg. 19 reads: \"Suburban Ranch Home - In suburban Aleppo Township, about two miles off the Ohio River Boulevard near Dixmont, Jim Adams has started a development of spacious ranch houses. Here is an example of the homes which are available just ten miles from the center of downtown. - Harris Photos.\"",
-		"CatSubject_tab": "Houses--Pennsylvania--Aleppo Twp.\nArchitecture--Pennsylvania--Aleppo Twp.\nBuildings--Pennsylvania--Aleppo Twp.\nYards--Pennsylvania--Aleppo Twp.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56762",
+  "emuInput": {
+    "ecatalogue_key": 43250,
+    "irn": 56762,
+    "TitAccessionNo": "2001.35.43292",
+    "CreDateCreated": "January 1955",
+    "CreEarliestDate": "1955-01-01",
+    "CreLatestDate": "1955-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 15, 1955, pg. 19 reads: \"Suburban Ranch Home - In suburban Aleppo Township, about two miles off the Ohio River Boulevard near Dixmont, Jim Adams has started a development of spacious ranch houses. Here is an example of the homes which are available just ten miles from the center of downtown. - Harris Photos.\"",
+    "TitMainTitle": "Newly constructed brick ranch house with two picture windows, single attached garage, and screen door with filigree decoration, Aleppo Township",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Aleppo Twp.Architecture--Pennsylvania--Aleppo Twp.Buildings--Pennsylvania--Aleppo Twp.Yards--Pennsylvania--Aleppo Twp.",
+    "AdmGUIDValue_tab": "02326c41-72a1-4a43-ad39-3da0d9a24ff9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64694,
+    "MulMultiMediaRef_key": 43258,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64694/sizes/56762-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43250,
+    "irn": 56762,
+    "TitAccessionNo": "2001.35.43292",
+    "CreDateCreated": "January 1955",
+    "CreEarliestDate": "1955-01-01",
+    "CreLatestDate": "1955-01-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 15, 1955, pg. 19 reads: \"Suburban Ranch Home - In suburban Aleppo Township, about two miles off the Ohio River Boulevard near Dixmont, Jim Adams has started a development of spacious ranch houses. Here is an example of the homes which are available just ten miles from the center of downtown. - Harris Photos.\"",
+    "TitMainTitle": "Newly constructed brick ranch house with two picture windows, single attached garage, and screen door with filigree decoration, Aleppo Township",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Aleppo Twp.Architecture--Pennsylvania--Aleppo Twp.Buildings--Pennsylvania--Aleppo Twp.Yards--Pennsylvania--Aleppo Twp.",
+    "AdmGUIDValue_tab": "02326c41-72a1-4a43-ad39-3da0d9a24ff9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64694,
+    "MulMultiMediaRef_key": 43258,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64694/sizes/56762-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jim Adams",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Aleppo Township",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ohio River Boulevard",
+        "status": "suggested"
+      },
+      {
+        "data": "Dixmont",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Aleppo Twp",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Aleppo Township",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ohio River Boulevard",
+        "status": "suggested"
+      },
+      {
+        "data": "Dixmont",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Aleppo Twp",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Aleppo Township",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ohio River Boulevard",
+        "status": "suggested"
+      },
+      {
+        "data": "Dixmont",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Aleppo Twp",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Aleppo Township",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ohio River Boulevard",
+        "status": "suggested"
+      },
+      {
+        "data": "Dixmont",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Aleppo Twp",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "19",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Suburban Ranch Home - In suburban Aleppo Township, about two miles off the Ohio River Boulevard near Dixmont, Jim Adams has started a development of spacious ranch houses. Here is an example of the homes which are available just ten miles from the center of downtown. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 15, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "Yards",
+        "status": "suggested"
+      },
+      {
+        "data": "Architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "January 15, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Suburban Ranch",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Ohio River Boulevard",
+        "status": "suggested"
+      },
+      {
+        "data": "Jim Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "cloud",
+        "status": "suggested"
+      },
+      {
+        "data": "shack",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "landscape",
+        "status": "suggested"
+      },
+      {
+        "data": "cottage",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      },
+      {
+        "data": "garage",
+        "status": "suggested"
+      }
+    ]
+  }
 }

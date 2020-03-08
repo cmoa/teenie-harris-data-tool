@@ -1,20 +1,360 @@
 {
-	"irn": "67555",
-	"emuInput": {
-		"ecatalogue_key": "353",
-		"irn": "67555",
-		"TitAccessionNo": "2001.35.53445",
-		"TitMainTitle": "Group portrait of nine Delta Sigma Theta sorority members, from left, front row: Barbara Goggins, Lois Swope, and Jeanette Terry; back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis, and Mary Louise Brooke, gathered in interior in front of fireplace with mirror and pendant ceiling fixture, another version",
-		"CreDateCreated": "May 1952",
-		"CreEarliestDate": "1952-05-01",
-		"CreLatestDate": "1952-05-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 17, 1952, pg. 11 reads: \"Who WIll Be \"Miss Jabberwock?\" - One of these charming young misses will be crowned \"Miss Jabberwock of 1952\" during the annual Jabberwock presented by Delta Sigma Theta Sorority at A. Leo Weil School May 16 at 8 o'clock. Front row: Barbara Goggins, Lois Swope and Jeanette Terry.  Back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis and Mary Louise Brooke. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nLamps--Pennsylvania--Pittsburgh.\nFireplaces--Pennsylvania--Pittsburgh.\nMirrors--Pennsylvania--Pittsburgh.\nDelta Sigma Theta.\nGoggins, Barbara Jean.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67555",
+  "emuInput": {
+    "ecatalogue_key": 53402,
+    "irn": 67555,
+    "TitAccessionNo": "2001.35.53445",
+    "CreDateCreated": "May 1952",
+    "CreEarliestDate": "1952-05-01",
+    "CreLatestDate": "1952-05-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 17, 1952, pg. 11 reads: \"Who WIll Be \"Miss Jabberwock?\" - One of these charming young misses will be crowned \"Miss Jabberwock of 1952\" during the annual Jabberwock presented by Delta Sigma Theta Sorority at A. Leo Weil School May 16 at 8 o'clock. Front row: Barbara Goggins, Lois Swope and Jeanette Terry.  Back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis and Mary Louise Brooke. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of nine Delta Sigma Theta sorority members, from left, front row: Barbara Goggins, Lois Swope, and Jeanette Terry; back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis, and Mary Louise Brooke, gathered in interior in front of fireplace with mirror and pendant ceiling fixture, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Lamps--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Delta Sigma Theta.Goggins, Barbara Jean.",
+    "AdmGUIDValue_tab": "85166108-c2d6-4806-a1fc-a239e1eee92d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94098,
+    "MulMultiMediaRef_key": 53410,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94098/sizes/67555-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53402,
+    "irn": 67555,
+    "TitAccessionNo": "2001.35.53445",
+    "CreDateCreated": "May 1952",
+    "CreEarliestDate": "1952-05-01",
+    "CreLatestDate": "1952-05-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 17, 1952, pg. 11 reads: \"Who WIll Be \"Miss Jabberwock?\" - One of these charming young misses will be crowned \"Miss Jabberwock of 1952\" during the annual Jabberwock presented by Delta Sigma Theta Sorority at A. Leo Weil School May 16 at 8 o'clock. Front row: Barbara Goggins, Lois Swope and Jeanette Terry.  Back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis and Mary Louise Brooke. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of nine Delta Sigma Theta sorority members, from left, front row: Barbara Goggins, Lois Swope, and Jeanette Terry; back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis, and Mary Louise Brooke, gathered in interior in front of fireplace with mirror and pendant ceiling fixture, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Lamps--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Delta Sigma Theta.Goggins, Barbara Jean.",
+    "AdmGUIDValue_tab": "85166108-c2d6-4806-a1fc-a239e1eee92d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94098,
+    "MulMultiMediaRef_key": 53410,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94098/sizes/67555-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Barbara Boswell",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois Swope",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Goggins",
+        "status": "suggested"
+      },
+      {
+        "data": "Jabberwock",
+        "status": "suggested"
+      },
+      {
+        "data": "Judith DeHonnery",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Louise Brooke",
+        "status": "suggested"
+      },
+      {
+        "data": "Charmaine Jeffries",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanette Terry",
+        "status": "suggested"
+      },
+      {
+        "data": "Eleanor Morrison",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Lamps",
+        "status": "suggested"
+      },
+      {
+        "data": "Delta Sigma Theta Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Who WIll Be \"Miss Jabberwock?\" - One of these charming young misses will be crowned \"Miss Jabberwock of 1952\" during the annual Jabberwock presented by Delta Sigma Theta Sorority at A. Leo Weil School May 16 at 8 o'clock. Front row: Barbara Goggins, Lois Swope and Jeanette Terry.  Back row: Barbara Boswell, Charmaine Jeffries, Eleanor Morrison, Judith DeHonnery, Jacqueline Lewis and Mary Louise Brooke. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 17, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Lamps",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Boswell",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Leo Weil School",
+        "status": "suggested"
+      },
+      {
+        "data": "Delta Sigma Theta",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "1952",
+        "status": "suggested"
+      },
+      {
+        "data": ". -",
+        "status": "suggested"
+      },
+      {
+        "data": "Goggins, Barbara Jean",
+        "status": "suggested"
+      },
+      {
+        "data": "Delta Sigma Theta Sorority",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "May 17, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "May 16",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Eleanor Morrison",
+        "status": "suggested"
+      },
+      {
+        "data": "8 o'clock",
+        "status": "suggested"
+      },
+      {
+        "data": "Jabberwock",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "dance",
+        "status": "suggested"
+      }
+    ]
+  }
 }

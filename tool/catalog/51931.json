@@ -1,20 +1,248 @@
 {
-	"irn": "51931",
-	"emuInput": {
-		"ecatalogue_key": "217",
-		"irn": "51931",
-		"TitAccessionNo": "2001.35.38708",
-		"TitMainTitle": "Dr. E. A. Selby wearing dark suit and ribbon on lapel, standing at microphone in Ebenezer AME Church for AME General Conference, Detroit",
-		"CreDateCreated": "May 1940",
-		"CreEarliestDate": "1940-05-01",
-		"CreLatestDate": "1940-05-11",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 15 reads: \" A.M.E.'s Open General Conference In Detroit...No.10 - The report of the Sunday School union was read by its secretary-treasurer, Dr. E.A. Selby.\"",
-		"CatSubject_tab": "Men--Michigan--Detroit.\nChurches--Michigan--Detroit.\nMicrophone--Michigan--Detroit.\nStained glass--Michigan--Detroit.\nBanners--Michigan--Detroit.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Michigan",
-		"CreDistrict_tab": "Wayne county",
-		"CreCity_tab": "Detroit",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "51931",
+  "emuInput": {
+    "ecatalogue_key": 38667,
+    "irn": 51931,
+    "TitAccessionNo": "2001.35.38708",
+    "CreDateCreated": "May 1940",
+    "CreEarliestDate": "1940-05-01",
+    "CreLatestDate": "1940-05-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 15 reads: \" A.M.E.'s Open General Conference In Detroit...No.10 - The report of the Sunday School union was read by its secretary-treasurer, Dr. E.A. Selby.\"",
+    "TitMainTitle": "Dr. E. A. Selby wearing dark suit and ribbon on lapel, standing at microphone in Ebenezer AME Church for AME General Conference, Detroit",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Michigan",
+    "CreDistrict_tab": "Wayne county",
+    "CreCity_tab": "Detroit",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Michigan--Detroit.Churches--Michigan--Detroit.Microphone--Michigan--Detroit.Stained glass--Michigan--Detroit.Banners--Michigan--Detroit.",
+    "AdmGUIDValue_tab": "64263718-f879-4d19-ba9b-5409e541cb64",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59304,
+    "MulMultiMediaRef_key": 38675,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59304/sizes/51931-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38667,
+    "irn": 51931,
+    "TitAccessionNo": "2001.35.38708",
+    "CreDateCreated": "May 1940",
+    "CreEarliestDate": "1940-05-01",
+    "CreLatestDate": "1940-05-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, Philadelphia edition, May 11, 1940, pg. 15 reads: \" A.M.E.'s Open General Conference In Detroit...No.10 - The report of the Sunday School union was read by its secretary-treasurer, Dr. E.A. Selby.\"",
+    "TitMainTitle": "Dr. E. A. Selby wearing dark suit and ribbon on lapel, standing at microphone in Ebenezer AME Church for AME General Conference, Detroit",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Michigan",
+    "CreDistrict_tab": "Wayne county",
+    "CreCity_tab": "Detroit",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Michigan--Detroit.Churches--Michigan--Detroit.Microphone--Michigan--Detroit.Stained glass--Michigan--Detroit.Banners--Michigan--Detroit.",
+    "AdmGUIDValue_tab": "64263718-f879-4d19-ba9b-5409e541cb64",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59304,
+    "MulMultiMediaRef_key": 38675,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59304/sizes/51931-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "E. A. Selby",
+        "status": "suggested"
+      },
+      {
+        "data": "E.A. Selby",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Glass painting and staining",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "Michigan",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "15",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " A.M.E.'s Open General Conference In Detroit...No.10 - The report of the Sunday School union was read by its secretary-treasurer, Dr. E.A. Selby.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "Philadelphia edition, May 11, 1940",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday School",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "May 11, 1940",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Ebenezer AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Stained glass",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

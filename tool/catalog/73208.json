@@ -1,20 +1,279 @@
 {
-	"irn": "73208",
-	"emuInput": {
-		"ecatalogue_key": "399",
-		"irn": "73208",
-		"TitAccessionNo": "2001.35.57654",
-		"TitMainTitle": "Wrecked Chevy station wagon bent in half, parked in lot with other automobiles and fence, brick buildings with windows in background",
-		"CreDateCreated": "September 1963",
-		"CreEarliestDate": "1963-09-01",
-		"CreLatestDate": "1963-09-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 3 reads: \"Death Car - Three men died in above station wagon after the driver, resenting racial slurs by a white motorist, took off in pursuit across the 31st Street Bridge, smashed head-on into a car coming in the opposite direction and then smashed into a curb, police said. The vehicle immediately burst into flame. - Harris Photo.\"",
-		"CatSubject_tab": "Automobile wrecking and used parts industry--Pennsylvania--Pittsburgh.\nWreckers (vehicles)--Pennsylvania--Pittsburgh.\nFences--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "73208",
+  "emuInput": {
+    "ecatalogue_key": 57611,
+    "irn": 73208,
+    "TitAccessionNo": "2001.35.57654",
+    "CreDateCreated": "September 1963",
+    "CreEarliestDate": "1963-09-01",
+    "CreLatestDate": "1963-09-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 3 reads: \"Death Car - Three men died in above station wagon after the driver, resenting racial slurs by a white motorist, took off in pursuit across the 31st Street Bridge, smashed head-on into a car coming in the opposite direction and then smashed into a curb, police said. The vehicle immediately burst into flame. - Harris Photo.\"",
+    "TitMainTitle": "Wrecked Chevy station wagon bent in half, parked in lot with other automobiles and fence, brick buildings with windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobile wrecking and used parts industry--Pennsylvania--Pittsburgh.Wreckers (vehicles)--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "07652811-64ee-4a97-adb0-b04d00d492e2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93701,
+    "MulMultiMediaRef_key": 57620,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93701/sizes/73208-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57611,
+    "irn": 73208,
+    "TitAccessionNo": "2001.35.57654",
+    "CreDateCreated": "September 1963",
+    "CreEarliestDate": "1963-09-01",
+    "CreLatestDate": "1963-09-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 21, 1963, pg. 3 reads: \"Death Car - Three men died in above station wagon after the driver, resenting racial slurs by a white motorist, took off in pursuit across the 31st Street Bridge, smashed head-on into a car coming in the opposite direction and then smashed into a curb, police said. The vehicle immediately burst into flame. - Harris Photo.\"",
+    "TitMainTitle": "Wrecked Chevy station wagon bent in half, parked in lot with other automobiles and fence, brick buildings with windows in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobile wrecking and used parts industry--Pennsylvania--Pittsburgh.Wreckers (vehicles)--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "07652811-64ee-4a97-adb0-b04d00d492e2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 93701,
+    "MulMultiMediaRef_key": 57620,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/93701/sizes/73208-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile wrecking and used parts industry",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wreckers (Vehicles)",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "31st Street Bridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "31st Street Bridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "31st Street Bridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "31st Street Bridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Death Car - Three men died in above station wagon after the driver, resenting racial slurs by a white motorist, took off in pursuit across the 31st Street Bridge, smashed head-on into a car coming in the opposite direction and then smashed into a curb, police said. The vehicle immediately burst into flame. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 21, 1963",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "Wreckers (vehicles)",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile wrecking and used parts industry",
+        "status": "suggested"
+      },
+      {
+        "data": "Death Car - Three",
+        "status": "suggested"
+      },
+      {
+        "data": "Wrecked Chevy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "September 21, 1963,",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "31st Street Bridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "land vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "mode of transport",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wheel",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive exterior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

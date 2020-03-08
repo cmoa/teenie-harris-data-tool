@@ -1,20 +1,396 @@
 {
-	"irn": "32542",
-	"emuInput": {
-		"ecatalogue_key": "158",
-		"irn": "32542",
-		"TitAccessionNo": "2001.35.20648",
-		"TitMainTitle": "Groom Marion White and bride Magnolia Smith White, posed in home of bride, 611 Larimer Avenue",
-		"CreDateCreated": "June 30, 1962",
-		"CreEarliestDate": "1962-06-30",
-		"CreLatestDate": "1962-06-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 14, 1962, pg. 10, reads: \"White - Smith Rites - Miss Magnolia Smith of 611 Larimer Ave. became the bride of Marion White of 7925 Susquehanna St., in a wedding ceremony performed at the bride's home by the Rev. William J. Harvey III. Attendants were Edward Hill, Miss Lavern [Lauren] Carver, little Mary Wilson and Master Robbie Stevens. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "32542",
+  "emuInput": {
+    "ecatalogue_key": 20617,
+    "irn": 32542,
+    "TitAccessionNo": "2001.35.20648",
+    "CreDateCreated": "June 30, 1962",
+    "CreEarliestDate": "1962-06-30",
+    "CreLatestDate": "1962-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 14, 1962, pg. 10, reads: \"White - Smith Rites - Miss Magnolia Smith of 611 Larimer Ave. became the bride of Marion White of 7925 Susquehanna St., in a wedding ceremony performed at the bride's home by the Rev. William J. Harvey III. Attendants were Edward Hill, Miss Lavern [Lauren] Carver, little Mary Wilson and Master Robbie Stevens. - Harris Photo.\"",
+    "TitMainTitle": "Groom Marion White and bride Magnolia Smith White, posed in home of bride, 611 Larimer Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57907518-6f76-4c71-a53c-e8baf1bb8e2d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38909,
+    "MulMultiMediaRef_key": 20625,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38909/sizes/32542-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 20617,
+    "irn": 32542,
+    "TitAccessionNo": "2001.35.20648",
+    "CreDateCreated": "June 30, 1962",
+    "CreEarliestDate": "1962-06-30",
+    "CreLatestDate": "1962-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 14, 1962, pg. 10, reads: \"White - Smith Rites - Miss Magnolia Smith of 611 Larimer Ave. became the bride of Marion White of 7925 Susquehanna St., in a wedding ceremony performed at the bride's home by the Rev. William J. Harvey III. Attendants were Edward Hill, Miss Lavern [Lauren] Carver, little Mary Wilson and Master Robbie Stevens. - Harris Photo.\"",
+    "TitMainTitle": "Groom Marion White and bride Magnolia Smith White, posed in home of bride, 611 Larimer Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57907518-6f76-4c71-a53c-e8baf1bb8e2d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 38909,
+    "MulMultiMediaRef_key": 20625,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/38909/sizes/32542-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "William J. Harvey III",
+        "status": "suggested"
+      },
+      {
+        "data": "Robbie Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion White",
+        "status": "suggested"
+      },
+      {
+        "data": "little Mary Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lavern",
+        "status": "suggested"
+      },
+      {
+        "data": "Magnolia Smith",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Little, Mary Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Larimer Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Larimer Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Larimer Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Larimer Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "White - Smith Rites - Miss Magnolia Smith of 611 Larimer Ave. became the bride of Marion White of 7925 Susquehanna St., in a wedding ceremony performed at the bride's home by the Rev. William J. Harvey III. Attendants were Edward Hill, Miss Lavern [Lauren] Carver, little Mary Wilson and Master Robbie Stevens. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 14, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Lauren] Carver",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Groom Marion White",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Larimer Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "July 14, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion White",
+        "status": "suggested"
+      },
+      {
+        "data": "little Mary Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lavern",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "textile",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal accessory",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "winter",
+        "status": "suggested"
+      }
+    ]
+  }
 }

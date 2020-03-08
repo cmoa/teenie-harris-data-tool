@@ -1,20 +1,359 @@
 {
-	"irn": "62892",
-	"emuInput": {
-		"ecatalogue_key": "317",
-		"irn": "62892",
-		"TitAccessionNo": "2001.35.48887",
-		"TitMainTitle": "\"Miss Emanon\" 1959 contestants, seated: Beatrice Thomas; standing: Gerry Shackleford, Carole VeLar, Barbara Alston (Clark), Linda Jackson, Darlene Daniels, Shirley Hill, and Jean Wilds, in interior with checkerboard linoleum floor and doorway with decorative cornice and trim, another version",
-		"CreDateCreated": "November 1958",
-		"CreEarliestDate": "1958-11-01",
-		"CreLatestDate": "1958-11-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 8, 1958, pg. A14 reads: \"Who Will Reign? - This question might be uppermost in minds of these young ladies who are competing for the title of \"Miss Emanon\" of 1959. Seated in the center is Beatrice Thomas.  The others are, left to right: Gerry Shackleford, Carole VeLar, Barbara Alston, Linda Jackson, Darlene Daniels, Shirley Hill and Jean Wilds.  The queen and the two runners-up will be announced at the Emanons' ball, Nov. 27. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62892",
+  "emuInput": {
+    "ecatalogue_key": 48844,
+    "irn": 62892,
+    "TitAccessionNo": "2001.35.48887",
+    "CreDateCreated": "November 1958",
+    "CreEarliestDate": "1958-11-01",
+    "CreLatestDate": "1958-11-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 8, 1958, pg. A14 reads: \"Who Will Reign? - This question might be uppermost in minds of these young ladies who are competing for the title of \"Miss Emanon\" of 1959. Seated in the center is Beatrice Thomas.  The others are, left to right: Gerry Shackleford, Carole VeLar, Barbara Alston, Linda Jackson, Darlene Daniels, Shirley Hill and Jean Wilds.  The queen and the two runners-up will be announced at the Emanons' ball, Nov. 27. - Harris Photo.\"",
+    "TitMainTitle": "\"Miss Emanon\" 1959 contestants, seated: Beatrice Thomas; standing: Gerry Shackleford, Carole VeLar, Barbara Alston (Clark), Linda Jackson, Darlene Daniels, Shirley Hill, and Jean Wilds, in interior with checkerboard linoleum floor and doorway with decorative cornice and trim, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64452418-b162-41f6-a0b8-6e32a6cea34c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71563,
+    "MulMultiMediaRef_key": 48852,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71563/sizes/62892-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48844,
+    "irn": 62892,
+    "TitAccessionNo": "2001.35.48887",
+    "CreDateCreated": "November 1958",
+    "CreEarliestDate": "1958-11-01",
+    "CreLatestDate": "1958-11-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 8, 1958, pg. A14 reads: \"Who Will Reign? - This question might be uppermost in minds of these young ladies who are competing for the title of \"Miss Emanon\" of 1959. Seated in the center is Beatrice Thomas.  The others are, left to right: Gerry Shackleford, Carole VeLar, Barbara Alston, Linda Jackson, Darlene Daniels, Shirley Hill and Jean Wilds.  The queen and the two runners-up will be announced at the Emanons' ball, Nov. 27. - Harris Photo.\"",
+    "TitMainTitle": "\"Miss Emanon\" 1959 contestants, seated: Beatrice Thomas; standing: Gerry Shackleford, Carole VeLar, Barbara Alston (Clark), Linda Jackson, Darlene Daniels, Shirley Hill, and Jean Wilds, in interior with checkerboard linoleum floor and doorway with decorative cornice and trim, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64452418-b162-41f6-a0b8-6e32a6cea34c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 71563,
+    "MulMultiMediaRef_key": 48852,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/71563/sizes/62892-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Wilds",
+        "status": "suggested"
+      },
+      {
+        "data": "Beatrice Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Emanons",
+        "status": "suggested"
+      },
+      {
+        "data": "Emanon",
+        "status": "suggested"
+      },
+      {
+        "data": "Carole VeLar",
+        "status": "suggested"
+      },
+      {
+        "data": "Darlene Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerry Shackleford",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Alston",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Emanon",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Who Will Reign? - This question might be uppermost in minds of these young ladies who are competing for the title of \"Miss Emanon\" of 1959. Seated in the center is Beatrice Thomas.  The others are, left to right: Gerry Shackleford, Carole VeLar, Barbara Alston, Linda Jackson, Darlene Daniels, Shirley Hill and Jean Wilds.  The queen and the two runners-up will be announced at the Emanons' ball, Nov. 27. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 8, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Clark",
+        "status": "suggested"
+      },
+      {
+        "data": "Nov. 27",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "November 8, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Wilds",
+        "status": "suggested"
+      },
+      {
+        "data": "Beatrice Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Emanons",
+        "status": "suggested"
+      },
+      {
+        "data": "Emanon",
+        "status": "suggested"
+      },
+      {
+        "data": "Darlene Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Linda Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Alston",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

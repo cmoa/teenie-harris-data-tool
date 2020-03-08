@@ -1,20 +1,432 @@
 {
-	"irn": "21015",
-	"emuInput": {
-		"ecatalogue_key": "104",
-		"irn": "21015",
-		"TitAccessionNo": "2001.35.11761",
-		"TitMainTitle": "Group portrait, clockwise: Mr. and Mrs. Luvernis Lee, Lucille Stewart, Mrs. Harry G. Washington, Mrs. Linn Washington at banquet table, with Miriam Sharpe Fountain seated, and Wendell Freeland standing in background, in Villa Monaco during FROGS week cocktail party",
-		"CreDateCreated": "July-August 1957",
-		"CreEarliestDate": "1957-07-01",
-		"CreLatestDate": "1957-08-03",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 3, 1957, pg. 12 reads: \"The Frogs Entertain - The above pictures were taken at the Frogs' first affair during the club's 47th annual celebration of Frogs Week. Held Sunday at the Villa Monaco, members of the club entertained their wives and their out-of-town guests at a swank cocktail party and buffet supper...Lower photo, clock-wise: Luvernis Lee, Mrs. Lee, Miss Lucille Stewart of New York, house guest of Mrs. Linn Washington (far right), and Mrs. Harry G. Washington. - Harris Photos.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nFood--Pennsylvania--Pittsburgh.\nFROGS Club (Pittsburgh, Pa.)\nGateway Plaza (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21015",
+  "emuInput": {
+    "ecatalogue_key": 11731,
+    "irn": 21015,
+    "TitAccessionNo": "2001.35.11761",
+    "CreDateCreated": "July-August 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-08-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 3, 1957, pg. 12 reads: \"The Frogs Entertain - The above pictures were taken at the Frogs' first affair during the club's 47th annual celebration of Frogs Week. Held Sunday at the Villa Monaco, members of the club entertained their wives and their out-of-town guests at a swank cocktail party and buffet supper...Lower photo, clock-wise: Luvernis Lee, Mrs. Lee, Miss Lucille Stewart of New York, house guest of Mrs. Linn Washington (far right), and Mrs. Harry G. Washington. - Harris Photos.\"",
+    "TitMainTitle": "Group portrait, clockwise: Mr. and Mrs. Luvernis Lee, Lucille Stewart, Mrs. Harry G. Washington, Mrs. Linn Washington at banquet table, with Miriam Sharpe Fountain seated, and Wendell Freeland standing in background, in Villa Monaco during FROGS week cocktail party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Gateway Plaza (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "012a82e0-8e9d-4445-a4b6-3b7dfcc414fb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15040,
+    "MulMultiMediaRef_key": 11739,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15040/sizes/21015-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 11731,
+    "irn": 21015,
+    "TitAccessionNo": "2001.35.11761",
+    "CreDateCreated": "July-August 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-08-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 3, 1957, pg. 12 reads: \"The Frogs Entertain - The above pictures were taken at the Frogs' first affair during the club's 47th annual celebration of Frogs Week. Held Sunday at the Villa Monaco, members of the club entertained their wives and their out-of-town guests at a swank cocktail party and buffet supper...Lower photo, clock-wise: Luvernis Lee, Mrs. Lee, Miss Lucille Stewart of New York, house guest of Mrs. Linn Washington (far right), and Mrs. Harry G. Washington. - Harris Photos.\"",
+    "TitMainTitle": "Group portrait, clockwise: Mr. and Mrs. Luvernis Lee, Lucille Stewart, Mrs. Harry G. Washington, Mrs. Linn Washington at banquet table, with Miriam Sharpe Fountain seated, and Wendell Freeland standing in background, in Villa Monaco during FROGS week cocktail party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Food--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Gateway Plaza (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "012a82e0-8e9d-4445-a4b6-3b7dfcc414fb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 15040,
+    "MulMultiMediaRef_key": 11739,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/15040/sizes/21015-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Miriam Sharpe Fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry G. Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Wendell Freeland",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucille Stewart",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "the Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "the Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "the Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "the Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Gateway Plaza",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Frogs Entertain - The above pictures were taken at the Frogs' first affair during the club's 47th annual celebration of Frogs Week. Held Sunday at the Villa Monaco, members of the club entertained their wives and their out-of-town guests at a swank cocktail party and buffet supper...Lower photo, clock-wise: Luvernis Lee, Mrs. Lee, Miss Lucille Stewart of New York, house guest of Mrs. Linn Washington (far right), and Mrs. Harry G. Washington. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 3, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Frogs Week",
+        "status": "suggested"
+      },
+      {
+        "data": "the Villa Monaco",
+        "status": "suggested"
+      },
+      {
+        "data": "August 3, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "FROGS Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Food",
+        "status": "suggested"
+      },
+      {
+        "data": "Linn",
+        "status": "suggested"
+      },
+      {
+        "data": ")Gateway Plaza ",
+        "status": "suggested"
+      },
+      {
+        "data": "The Frogs Entertain -",
+        "status": "suggested"
+      },
+      {
+        "data": "Frogs",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucille Stewart",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      }
+    ]
+  }
 }

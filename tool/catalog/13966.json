@@ -1,20 +1,404 @@
 {
-	"irn": "13966",
-	"emuInput": {
-		"ecatalogue_key": "65",
-		"irn": "13966",
-		"TitAccessionNo": "2001.35.7481",
-		"TitMainTitle": "Mal Goode, and woman posing beside Dodge car, at 1959 Pittsburgh Courier Home Service Fair, Syria Mosque",
-		"CreDateCreated": "May 26 - 28,1969",
-		"CreEarliestDate": "1969-05-26",
-		"CreLatestDate": "1969-05-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related images published in New Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences... - Harris Photos.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nGoode, Mal, 1908-1995.\nPittsburgh Courier Home Service Fair.\nSyria Mosque (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13966",
+  "emuInput": {
+    "ecatalogue_key": 7464,
+    "irn": 13966,
+    "TitAccessionNo": "2001.35.7481",
+    "CreDateCreated": "May 26 - 28,1969",
+    "CreEarliestDate": "1969-05-26",
+    "CreLatestDate": "1969-05-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related images published in New Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences... - Harris Photos.\"",
+    "TitMainTitle": "Mal Goode, and woman posing beside Dodge car, at 1959 Pittsburgh Courier Home Service Fair, Syria Mosque",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Goode, Mal, 1908-1995.Pittsburgh Courier Home Service Fair.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02dd6cec-bd80-445d-8db5-aecd713943fd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23034,
+    "MulMultiMediaRef_key": 7472,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23034/sizes/13966-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7464,
+    "irn": 13966,
+    "TitAccessionNo": "2001.35.7481",
+    "CreDateCreated": "May 26 - 28,1969",
+    "CreEarliestDate": "1969-05-26",
+    "CreLatestDate": "1969-05-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related images published in New Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences... - Harris Photos.\"",
+    "TitMainTitle": "Mal Goode, and woman posing beside Dodge car, at 1959 Pittsburgh Courier Home Service Fair, Syria Mosque",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Goode, Mal, 1908-1995.Pittsburgh Courier Home Service Fair.Syria Mosque (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02dd6cec-bd80-445d-8db5-aecd713943fd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23034,
+    "MulMultiMediaRef_key": 7472,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23034/sizes/13966-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Sarah McLawler 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "6",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences... - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 6, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "7",
+        "status": "suggested"
+      },
+      {
+        "data": "the opening night",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "nights",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Wednesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "June 6, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday",
+        "status": "suggested"
+      },
+      {
+        "data": "Mal Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Dodge",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "'A Home Show Named Success'",
+        "status": "suggested"
+      },
+      {
+        "data": "Goode, Mal, 1908-1995",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "last Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "convertible",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "automobile",
+        "status": "suggested"
+      },
+      {
+        "data": "auto",
+        "status": "suggested"
+      },
+      {
+        "data": "classic car",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive exterior",
+        "status": "suggested"
+      }
+    ]
+  }
 }

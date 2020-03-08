@@ -1,20 +1,328 @@
 {
-	"irn": "2019",
-	"emuInput": {
-		"ecatalogue_key": "8",
-		"irn": "2019",
-		"TitAccessionNo": "2001.35.653",
-		"TitMainTitle": "Group portrait of Westinghouse High School basketball team members, front row from left: Pat Wade, coach Williard Fisher, and captain Billy Peatross; back row: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson, and Jim Vita",
-		"CreDateCreated": "February - March 1952",
-		"CreEarliestDate": "1952-02-01",
-		"CreLatestDate": "1952-03-08",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 8, 1952, pg. 25 reads: \"City League Champs - Westinghouse High School's crack basketball team which seems to be gaining a monopoly on the city basketball title won the diadem last week at Pitt Stadium for the third consecutive time. Members of the team which lost just one test against Pittsburgh high schools, are, left to right: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson and Coach Willard Fisher.  Bottom row are Pat Wade, Billy Peatross, captain, and Jim Vita. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nBasketball players--Pennsylvania--Pittsburgh.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nWestinghouse High School (Pittsburgh, Pa.)\nMiller, John.\nWade, Pat.\nPeatross, Bill.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "2019",
+  "emuInput": {
+    "ecatalogue_key": 651,
+    "irn": 2019,
+    "TitAccessionNo": "2001.35.653",
+    "CreDateCreated": "February - March 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-03-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 8, 1952, pg. 25 reads: \"City League Champs - Westinghouse High School's crack basketball team which seems to be gaining a monopoly on the city basketball title won the diadem last week at Pitt Stadium for the third consecutive time. Members of the team which lost just one test against Pittsburgh high schools, are, left to right: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson and Coach Willard Fisher.  Bottom row are Pat Wade, Billy Peatross, captain, and Jim Vita. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Westinghouse High School basketball team members, front row from left: Pat Wade, coach Williard Fisher, and captain Billy Peatross; back row: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson, and Jim Vita",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Basketball players--Pennsylvania--Pittsburgh.Coaches (Athletics)--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)Miller, John.Wade, Pat.Peatross, Bill.",
+    "AdmGUIDValue_tab": "78840572-dde7-4c69-8764-30e65465c17f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18164,
+    "MulMultiMediaRef_key": 653,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18164/sizes/2019-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 651,
+    "irn": 2019,
+    "TitAccessionNo": "2001.35.653",
+    "CreDateCreated": "February - March 1952",
+    "CreEarliestDate": "1952-02-01",
+    "CreLatestDate": "1952-03-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 8, 1952, pg. 25 reads: \"City League Champs - Westinghouse High School's crack basketball team which seems to be gaining a monopoly on the city basketball title won the diadem last week at Pitt Stadium for the third consecutive time. Members of the team which lost just one test against Pittsburgh high schools, are, left to right: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson and Coach Willard Fisher.  Bottom row are Pat Wade, Billy Peatross, captain, and Jim Vita. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Westinghouse High School basketball team members, front row from left: Pat Wade, coach Williard Fisher, and captain Billy Peatross; back row: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson, and Jim Vita",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Basketball players--Pennsylvania--Pittsburgh.Coaches (Athletics)--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)Miller, John.Wade, Pat.Peatross, Bill.",
+    "AdmGUIDValue_tab": "78840572-dde7-4c69-8764-30e65465c17f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18164,
+    "MulMultiMediaRef_key": 653,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18164/sizes/2019-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bill Wilkenson",
+        "status": "suggested"
+      },
+      {
+        "data": "Rip Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Jim Vita",
+        "status": "suggested"
+      },
+      {
+        "data": "Billy Peatross",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Hefflin",
+        "status": "suggested"
+      },
+      {
+        "data": "Willard Fisher",
+        "status": "suggested"
+      },
+      {
+        "data": "Williard Fisher",
+        "status": "suggested"
+      },
+      {
+        "data": "Pat Wade",
+        "status": "suggested"
+      },
+      {
+        "data": "John Miller",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball players",
+        "status": "suggested"
+      },
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "25",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "City League Champs - Westinghouse High School's crack basketball team which seems to be gaining a monopoly on the city basketball title won the diadem last week at Pitt Stadium for the third consecutive time. Members of the team which lost just one test against Pittsburgh high schools, are, left to right: John Miller, Charles Hefflin, Rip Nixon, Bill Wilkenson and Coach Willard Fisher.  Bottom row are Pat Wade, Billy Peatross, captain, and Jim Vita. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 8, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Wade, Pat",
+        "status": "suggested"
+      },
+      {
+        "data": "Peatross, Bill",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "March 8, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "last week",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "John Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "Willard Fisher",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball players",
+        "status": "suggested"
+      },
+      {
+        "data": ")Miller, John",
+        "status": "suggested"
+      },
+      {
+        "data": "City League Champs - Westinghouse High School's",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "muscle",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

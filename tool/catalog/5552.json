@@ -1,20 +1,315 @@
 {
-	"irn": "5552",
-	"emuInput": {
-		"ecatalogue_key": "23",
-		"irn": "5552",
-		"TitAccessionNo": "2001.35.3453",
-		"TitMainTitle": "Group portrait of the Lady Evelyn Childress Organ Trio, including Clarence Oden on saxophone, Fred Pryor on drums, and Evelyn Childress on organ, posed in club with mirror in background",
-		"CreDateCreated": "c. 1961",
-		"CreEarliestDate": "1958",
-		"CreLatestDate": "1964",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 17, 1962, pg. A19, reads: \"The New Savoy Room is still holding the Swingingest Organ Trio in area. Standing Room crowds have been the results in the last two weeks.  The Lady Evelyn Childress Organ Trio, with Lady Evelyn on Organ; Fred Pryor, drums, and Clarence Oden on Sax, makes for some real Full-Sounds.  The New Savoy Room, at 5810 Kirkwood St., East Liberty.  Steaks, Chops and other choice foods can be enjoyed at the New Savoy Room.\"",
-		"CatSubject_tab": "Pianists--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nPianos--Pennsylvania--Pittsburgh.\nSaxophones--Pennsylvania--Pittsburgh.\nDrums--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nSuits (Clothing)--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nMusicians--Pennsylvania--Pittsburgh.\nPerformers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "5552",
+  "emuInput": {
+    "ecatalogue_key": 3446,
+    "irn": 5552,
+    "TitAccessionNo": "2001.35.3453",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 17, 1962, pg. A19, reads: \"The New Savoy Room is still holding the Swingingest Organ Trio in area. Standing Room crowds have been the results in the last two weeks.  The Lady Evelyn Childress Organ Trio, with Lady Evelyn on Organ; Fred Pryor, drums, and Clarence Oden on Sax, makes for some real Full-Sounds.  The New Savoy Room, at 5810 Kirkwood St., East Liberty.  Steaks, Chops and other choice foods can be enjoyed at the New Savoy Room.\"",
+    "TitMainTitle": "Group portrait of the Lady Evelyn Childress Organ Trio, including Clarence Oden on saxophone, Fred Pryor on drums, and Evelyn Childress on organ, posed in club with mirror in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pianists--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Saxophones--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Performers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01d0ce32-dffd-4f4e-9329-155c98fbe491",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18055,
+    "MulMultiMediaRef_key": 3448,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18055/sizes/5552-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 3446,
+    "irn": 5552,
+    "TitAccessionNo": "2001.35.3453",
+    "CreDateCreated": "c. 1961",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1964",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 17, 1962, pg. A19, reads: \"The New Savoy Room is still holding the Swingingest Organ Trio in area. Standing Room crowds have been the results in the last two weeks.  The Lady Evelyn Childress Organ Trio, with Lady Evelyn on Organ; Fred Pryor, drums, and Clarence Oden on Sax, makes for some real Full-Sounds.  The New Savoy Room, at 5810 Kirkwood St., East Liberty.  Steaks, Chops and other choice foods can be enjoyed at the New Savoy Room.\"",
+    "TitMainTitle": "Group portrait of the Lady Evelyn Childress Organ Trio, including Clarence Oden on saxophone, Fred Pryor on drums, and Evelyn Childress on organ, posed in club with mirror in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pianists--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Saxophones--Pennsylvania--Pittsburgh.Drums--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Performers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01d0ce32-dffd-4f4e-9329-155c98fbe491",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18055,
+    "MulMultiMediaRef_key": 3448,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18055/sizes/5552-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fred Pryor",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence Oden",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn Childress",
+        "status": "suggested"
+      },
+      {
+        "data": "Lady Evelyn",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pianists",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Entertainers",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "The New Savoy Room is still holding the Swingingest Organ Trio in area. Standing Room crowds have been the results in the last two weeks.  The Lady Evelyn Childress Organ Trio, with Lady Evelyn on Organ; Fred Pryor, drums, and Clarence Oden on Sax, makes for some real Full-Sounds.  The New Savoy Room, at 5810 Kirkwood St., East Liberty.  Steaks, Chops and other choice foods can be enjoyed at the New Savoy Room.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 17, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "the New Savoy Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Lady Evelyn Childress Organ Trio",
+        "status": "suggested"
+      },
+      {
+        "data": "A19",
+        "status": "suggested"
+      },
+      {
+        "data": "February 17, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Lady Evelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianists",
+        "status": "suggested"
+      },
+      {
+        "data": "Saxophones",
+        "status": "suggested"
+      },
+      {
+        "data": "The New Savoy Room",
+        "status": "suggested"
+      },
+      {
+        "data": "Performers",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "5810",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Kirkwood St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Drums",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence Oden",
+        "status": "suggested"
+      },
+      {
+        "data": "the Swingingest Organ Trio",
+        "status": "suggested"
+      },
+      {
+        "data": "the last two weeks",
+        "status": "suggested"
+      },
+      {
+        "data": "Fred Pryor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianos",
+        "status": "suggested"
+      },
+      {
+        "data": "Organ",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      }
+    ]
+  }
 }

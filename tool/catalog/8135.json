@@ -1,20 +1,344 @@
 {
-	"irn": "8135",
-	"emuInput": {
-		"ecatalogue_key": "38",
-		"irn": "8135",
-		"TitAccessionNo": "2001.35.5006",
-		"TitMainTitle": "Fire fighters from Wilkins Township No.3, Dravosburg, and Forest Hills departments, help to fight house fire on Second St., Rankin",
-		"CreDateCreated": "December 1957",
-		"CreEarliestDate": "1957-12-01",
-		"CreLatestDate": "1957-12-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 28, 1957, pg. 1 reads: \"Million-Dollar Fire - Rankin police keep order as firemen direct water on a blazing house which had been occupied by the Anderson Harries, John Hackley, Mr. and Mrs. Albert Finney and another family, on Second St., Rankin, area of the most extensive damage. The flames, extinguished after seven hours, followed a keyhole pattern of firing Rankin's slum area which is scheduled for redevelopment.  The fire began from matches in the hands of three boys playing in an abandoned house. - Harris Photo.\"",
-		"CatSubject_tab": "Fires--Pennsylvania--Rankin.\nFire fighters--Pennsylvania--Rankin.\nStreets--Pennsylvania--Rankin.\nHousing--Pennsylvania--Rankin.\nMen--Pennsylvania--Rankin.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "8135",
+  "emuInput": {
+    "ecatalogue_key": 4997,
+    "irn": 8135,
+    "TitAccessionNo": "2001.35.5006",
+    "CreDateCreated": "December 1957",
+    "CreEarliestDate": "1957-12-01",
+    "CreLatestDate": "1957-12-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 28, 1957, pg. 1 reads: \"Million-Dollar Fire - Rankin police keep order as firemen direct water on a blazing house which had been occupied by the Anderson Harries, John Hackley, Mr. and Mrs. Albert Finney and another family, on Second St., Rankin, area of the most extensive damage. The flames, extinguished after seven hours, followed a keyhole pattern of firing Rankin's slum area which is scheduled for redevelopment.  The fire began from matches in the hands of three boys playing in an abandoned house. - Harris Photo.\"",
+    "TitMainTitle": "Fire fighters from Wilkins Township No.3, Dravosburg, and Forest Hills departments, help to fight house fire on Second St., Rankin",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fires--Pennsylvania--Rankin.Fire fighters--Pennsylvania--Rankin.Streets--Pennsylvania--Rankin.Housing--Pennsylvania--Rankin.Men--Pennsylvania--Rankin.",
+    "AdmGUIDValue_tab": "60988724-6e27-43ca-acd0-8d01b2ffc9fd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20246,
+    "MulMultiMediaRef_key": 5003,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20246/sizes/8135-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4997,
+    "irn": 8135,
+    "TitAccessionNo": "2001.35.5006",
+    "CreDateCreated": "December 1957",
+    "CreEarliestDate": "1957-12-01",
+    "CreLatestDate": "1957-12-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 28, 1957, pg. 1 reads: \"Million-Dollar Fire - Rankin police keep order as firemen direct water on a blazing house which had been occupied by the Anderson Harries, John Hackley, Mr. and Mrs. Albert Finney and another family, on Second St., Rankin, area of the most extensive damage. The flames, extinguished after seven hours, followed a keyhole pattern of firing Rankin's slum area which is scheduled for redevelopment.  The fire began from matches in the hands of three boys playing in an abandoned house. - Harris Photo.\"",
+    "TitMainTitle": "Fire fighters from Wilkins Township No.3, Dravosburg, and Forest Hills departments, help to fight house fire on Second St., Rankin",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fires--Pennsylvania--Rankin.Fire fighters--Pennsylvania--Rankin.Streets--Pennsylvania--Rankin.Housing--Pennsylvania--Rankin.Men--Pennsylvania--Rankin.",
+    "AdmGUIDValue_tab": "60988724-6e27-43ca-acd0-8d01b2ffc9fd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20246,
+    "MulMultiMediaRef_key": 5003,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20246/sizes/8135-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John Hackley",
+        "status": "suggested"
+      },
+      {
+        "data": "Albert Finney",
+        "status": "suggested"
+      },
+      {
+        "data": "Dravosburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Housing",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fires",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire fighters",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Wilkins Township No.3",
+        "status": "suggested"
+      },
+      {
+        "data": "Forest Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Second St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Wilkins Township No.3",
+        "status": "suggested"
+      },
+      {
+        "data": "Forest Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Second St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Wilkins Township No.3",
+        "status": "suggested"
+      },
+      {
+        "data": "Forest Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Second St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Wilkins Township No.3",
+        "status": "suggested"
+      },
+      {
+        "data": "Forest Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Second St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Million-Dollar Fire - Rankin police keep order as firemen direct water on a blazing house which had been occupied by the Anderson Harries, John Hackley, Mr. and Mrs. Albert Finney and another family, on Second St., Rankin, area of the most extensive damage. The flames, extinguished after seven hours, followed a keyhole pattern of firing Rankin's slum area which is scheduled for redevelopment.  The fire began from matches in the hands of three boys playing in an abandoned house. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 28, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "Housing",
+        "status": "suggested"
+      },
+      {
+        "data": "Second St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "December 28, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Fires",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire fighters",
+        "status": "suggested"
+      },
+      {
+        "data": "Albert Finney",
+        "status": "suggested"
+      },
+      {
+        "data": "Rankin",
+        "status": "suggested"
+      },
+      {
+        "data": "the Anderson Harries",
+        "status": "suggested"
+      },
+      {
+        "data": "seven hours",
+        "status": "suggested"
+      },
+      {
+        "data": "Dravosburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "metropolis",
+        "status": "suggested"
+      }
+    ]
+  }
 }

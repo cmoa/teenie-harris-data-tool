@@ -1,20 +1,388 @@
 {
-	"irn": "56847",
-	"emuInput": {
-		"ecatalogue_key": "255",
-		"irn": "56847",
-		"TitAccessionNo": "2001.35.43490",
-		"TitMainTitle": "P. L. Prattis wearing Arabian clothing after tour of Middle East, standing in domestic interior with concave mirror and floral curtains",
-		"CreDateCreated": "December 1954",
-		"CreEarliestDate": "1954-12-01",
-		"CreLatestDate": "1954-12-25",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper December 25, 1954, pg. 8, reads: \"Where Jesus Walked - Percival L. Prattis, Courier executive editor, addressed the Wesley Center morning congregation Sunday, Dec. 19, with a message bearing the impact of his recent study tour of the Holy Lands. The speaker was one of a group of editors and writers who toured Middle Eastern Countries during the month of November through the courtesy of the American Christian Palestine Committee. In colorful native Arabian attire, he impressed fellow church members with a vivid and enlightening account of conditions in the Arab states.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nMirrors--Pennsylvania--Pittsburgh.\nTelephones--Pennsylvania--Pittsburgh.\nCostumes--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.\nBooks--Pennsylvania--Pittsburgh.\nClocks and watches--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56847",
+  "emuInput": {
+    "ecatalogue_key": 43448,
+    "irn": 56847,
+    "TitAccessionNo": "2001.35.43490",
+    "CreDateCreated": "December 1954",
+    "CreEarliestDate": "1954-12-01",
+    "CreLatestDate": "1954-12-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper December 25, 1954, pg. 8, reads: \"Where Jesus Walked - Percival L. Prattis, Courier executive editor, addressed the Wesley Center morning congregation Sunday, Dec. 19, with a message bearing the impact of his recent study tour of the Holy Lands. The speaker was one of a group of editors and writers who toured Middle Eastern Countries during the month of November through the courtesy of the American Christian Palestine Committee. In colorful native Arabian attire, he impressed fellow church members with a vivid and enlightening account of conditions in the Arab states.\"",
+    "TitMainTitle": "P. L. Prattis wearing Arabian clothing after tour of Middle East, standing in domestic interior with concave mirror and floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010e6b50-51ba-4311-bf14-f139ee190bcf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64930,
+    "MulMultiMediaRef_key": 43456,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64930/sizes/56847-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43448,
+    "irn": 56847,
+    "TitAccessionNo": "2001.35.43490",
+    "CreDateCreated": "December 1954",
+    "CreEarliestDate": "1954-12-01",
+    "CreLatestDate": "1954-12-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper December 25, 1954, pg. 8, reads: \"Where Jesus Walked - Percival L. Prattis, Courier executive editor, addressed the Wesley Center morning congregation Sunday, Dec. 19, with a message bearing the impact of his recent study tour of the Holy Lands. The speaker was one of a group of editors and writers who toured Middle Eastern Countries during the month of November through the courtesy of the American Christian Palestine Committee. In colorful native Arabian attire, he impressed fellow church members with a vivid and enlightening account of conditions in the Arab states.\"",
+    "TitMainTitle": "P. L. Prattis wearing Arabian clothing after tour of Middle East, standing in domestic interior with concave mirror and floral curtains",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Mirrors--Pennsylvania--Pittsburgh.Telephones--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.Books--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010e6b50-51ba-4311-bf14-f139ee190bcf",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64930,
+    "MulMultiMediaRef_key": 43456,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64930/sizes/56847-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "P. L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Jesus Walked - Percival L. Prattis",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Arab",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephone",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Middle East",
+        "status": "suggested"
+      },
+      {
+        "data": "the Holy Lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle Eastern Countries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Middle East",
+        "status": "suggested"
+      },
+      {
+        "data": "the Holy Lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle Eastern Countries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Middle East",
+        "status": "suggested"
+      },
+      {
+        "data": "the Holy Lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle Eastern Countries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Middle East",
+        "status": "suggested"
+      },
+      {
+        "data": "the Holy Lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle Eastern Countries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Where Jesus Walked - Percival L. Prattis, Courier executive editor, addressed the Wesley Center morning congregation Sunday, Dec. 19, with a message bearing the impact of his recent study tour of the Holy Lands. The speaker was one of a group of editors and writers who toured Middle Eastern Countries during the month of November through the courtesy of the American Christian Palestine Committee. In colorful native Arabian attire, he impressed fellow church members with a vivid and enlightening account of conditions in the Arab states.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 25, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "the Wesley Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Arab",
+        "status": "suggested"
+      },
+      {
+        "data": "Mirrors",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the American Christian Palestine Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle East",
+        "status": "suggested"
+      },
+      {
+        "data": "Arabian",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephones",
+        "status": "suggested"
+      },
+      {
+        "data": "the month of November",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Books",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday, Dec. 19",
+        "status": "suggested"
+      },
+      {
+        "data": "Costumes",
+        "status": "suggested"
+      },
+      {
+        "data": "December 25, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "P. L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Middle Eastern Countries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      }
+    ]
+  }
 }

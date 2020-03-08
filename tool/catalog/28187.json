@@ -1,20 +1,368 @@
 {
-	"irn": "28187",
-	"emuInput": {
-		"ecatalogue_key": "136",
-		"irn": "28187",
-		"TitAccessionNo": "2001.35.17045",
-		"TitMainTitle": "Men and women, including Prince \"Big Blue\" Bruce and Mrs. Bruce gathered around their son, John N. Bruce in U. S. Army uniform and holding little boy, in Bruce home, Rose Street",
-		"CreDateCreated": "February 1946",
-		"CreEarliestDate": "1946-02-01",
-		"CreLatestDate": "1946-02-23",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 23, 1946, pg. 17, reads: \"Feted on Furlough - Mr. and Mrs. Prince Bruce of Rose Street, gave a party for their son, Pfc. John N. Bruce, who is home on furlough.  He is stationed at Fresno, Calif. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "28187",
+  "emuInput": {
+    "ecatalogue_key": 17015,
+    "irn": 28187,
+    "TitAccessionNo": "2001.35.17045",
+    "CreDateCreated": "February 1946",
+    "CreEarliestDate": "1946-02-01",
+    "CreLatestDate": "1946-02-23",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 23, 1946, pg. 17, reads: \"Feted on Furlough - Mr. and Mrs. Prince Bruce of Rose Street, gave a party for their son, Pfc. John N. Bruce, who is home on furlough.  He is stationed at Fresno, Calif. - Harris Photo.\"",
+    "TitMainTitle": "Men and women, including Prince \"Big Blue\" Bruce and Mrs. Bruce gathered around their son, John N. Bruce in U. S. Army uniform and holding little boy, in Bruce home, Rose Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "68216776-8f5b-41db-b9b0-a40e55a1adec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33750,
+    "MulMultiMediaRef_key": 17023,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33750/sizes/28187-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 17015,
+    "irn": 28187,
+    "TitAccessionNo": "2001.35.17045",
+    "CreDateCreated": "February 1946",
+    "CreEarliestDate": "1946-02-01",
+    "CreLatestDate": "1946-02-23",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 23, 1946, pg. 17, reads: \"Feted on Furlough - Mr. and Mrs. Prince Bruce of Rose Street, gave a party for their son, Pfc. John N. Bruce, who is home on furlough.  He is stationed at Fresno, Calif. - Harris Photo.\"",
+    "TitMainTitle": "Men and women, including Prince \"Big Blue\" Bruce and Mrs. Bruce gathered around their son, John N. Bruce in U. S. Army uniform and holding little boy, in Bruce home, Rose Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "68216776-8f5b-41db-b9b0-a40e55a1adec",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33750,
+    "MulMultiMediaRef_key": 17023,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33750/sizes/28187-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "John N. Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "Prince Bruce",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Rose Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pfc",
+        "status": "suggested"
+      },
+      {
+        "data": "Fresno",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Rose Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pfc",
+        "status": "suggested"
+      },
+      {
+        "data": "Fresno",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Rose Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pfc",
+        "status": "suggested"
+      },
+      {
+        "data": "Fresno",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Rose Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pfc",
+        "status": "suggested"
+      },
+      {
+        "data": "Fresno",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Feted on Furlough - Mr. and Mrs. Prince Bruce of Rose Street, gave a party for their son, Pfc. John N. Bruce, who is home on furlough.  He is stationed at Fresno, Calif. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 23, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "John N. Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "February 23, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "U. S. Army",
+        "status": "suggested"
+      },
+      {
+        "data": "Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "Rose Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Prince Bruce",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      }
+    ]
+  }
 }

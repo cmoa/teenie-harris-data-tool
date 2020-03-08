@@ -1,20 +1,295 @@
 {
-	"irn": "58437",
-	"emuInput": {
-		"ecatalogue_key": "267",
-		"irn": "58437",
-		"TitAccessionNo": "2001.35.44636",
-		"TitMainTitle": "Two frames: Portrait of Shelia Christian wearing a light colored beaded cardigan, posed for Hill City Teen Queen contest; Portrait of Barbara Winters wearing a light colored sheer blouse with lace and ruffle trim, posed for Hill City Teen Queen contest",
-		"CreDateCreated": "March 1956",
-		"CreEarliestDate": "1956-03-01",
-		"CreLatestDate": "1956-03-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of images published in the Pittsburgh Courier newspaper, March 24, 1956, pg. A26 reads: \"Teen Queen Contest Going Great - With the 1956 Hill Top Teen Queen contest getting into its stride...\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58437",
+  "emuInput": {
+    "ecatalogue_key": 44593,
+    "irn": 58437,
+    "TitAccessionNo": "2001.35.44636",
+    "CreDateCreated": "March 1956",
+    "CreEarliestDate": "1956-03-01",
+    "CreLatestDate": "1956-03-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of images published in the Pittsburgh Courier newspaper, March 24, 1956, pg. A26 reads: \"Teen Queen Contest Going Great - With the 1956 Hill Top Teen Queen contest getting into its stride...\"",
+    "TitMainTitle": "Two frames: Portrait of Shelia Christian wearing a light colored beaded cardigan, posed for Hill City Teen Queen contest; Portrait of Barbara Winters wearing a light colored sheer blouse with lace and ruffle trim, posed for Hill City Teen Queen contest",
+    "CreCountry_tab": "",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "71113119-b54c-496d-a804-29096823be0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66481,
+    "MulMultiMediaRef_key": 44601,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66481/sizes/58437-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44593,
+    "irn": 58437,
+    "TitAccessionNo": "2001.35.44636",
+    "CreDateCreated": "March 1956",
+    "CreEarliestDate": "1956-03-01",
+    "CreLatestDate": "1956-03-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of images published in the Pittsburgh Courier newspaper, March 24, 1956, pg. A26 reads: \"Teen Queen Contest Going Great - With the 1956 Hill Top Teen Queen contest getting into its stride...\"",
+    "TitMainTitle": "Two frames: Portrait of Shelia Christian wearing a light colored beaded cardigan, posed for Hill City Teen Queen contest; Portrait of Barbara Winters wearing a light colored sheer blouse with lace and ruffle trim, posed for Hill City Teen Queen contest",
+    "CreCountry_tab": "",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "71113119-b54c-496d-a804-29096823be0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66481,
+    "MulMultiMediaRef_key": 44601,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66481/sizes/58437-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Hill Top",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "the Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Teen Queen Contest Going Great - With the 1956 Hill Top Teen Queen contest getting into its stride...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 24, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "Teen Queen Contest Going Great -",
+        "status": "suggested"
+      },
+      {
+        "data": "1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill Top",
+        "status": "suggested"
+      },
+      {
+        "data": "Christian",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Teen Queen",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portrait of Barbara Winters",
+        "status": "suggested"
+      },
+      {
+        "data": "March 24, 1956,",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "skin",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "head",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "hairstyle",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "laughter",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

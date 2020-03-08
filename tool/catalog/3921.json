@@ -1,20 +1,414 @@
 {
-	"irn": "3921",
-	"emuInput": {
-		"ecatalogue_key": "31",
-		"irn": "3921",
-		"TitAccessionNo": "2001.35.4224",
-		"TitMainTitle": "Bishop Robert B. Appleyard, Rev. Henry B. William, and Bishop William S. Thomas, posed on altar in Trinity Episcopal Cathedral",
-		"CreDateCreated": "July 1970",
-		"CreEarliestDate": "1970-07-01",
-		"CreLatestDate": "1970-07-18",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, July 18, 1970, reads: \"Ordained To Priesthood - The Rev. Henry B. Williams, center, was ordained to the sacred order of the Priesthood in Episcopal Church recently, during rites held at Trinity Cathedral. High churchmen who participated in the ceremony, pictured left to right are: Canon Junius F. Carter, rector of the Church of the Holy Cross, the candidate's parish; Rev. Charles P. Martin, rector of All Saints Church, Bishop Robert B. Appleyard, presiding prelate of the Pittsburgh Diocese; Rev. Williams, Bishop Wm. S. Thomas, Suffragan Bishop, Pittsburgh Diocese; Rev. Canon Olive R. Floyd, Church of the Advent, Brookline and Fr. W.P.H. Parker, formerly of Pittsburgh, now rector of St. Phillips Episcopal Church in Brooklyn, guest preacher for the occasion.\"",
-		"CatSubject_tab": "Priests--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nClergy--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nOrgans---Pennsylvania--Pittsburgh.\nTrinity Episcopal Cathedral (Pittsburgh, Pa.)\nHats--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "3921",
+  "emuInput": {
+    "ecatalogue_key": 4215,
+    "irn": 3921,
+    "TitAccessionNo": "2001.35.4224",
+    "CreDateCreated": "July 1970",
+    "CreEarliestDate": "1970-07-01",
+    "CreLatestDate": "1970-07-18",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, July 18, 1970, reads: \"Ordained To Priesthood - The Rev. Henry B. Williams, center, was ordained to the sacred order of the Priesthood in Episcopal Church recently, during rites held at Trinity Cathedral. High churchmen who participated in the ceremony, pictured left to right are: Canon Junius F. Carter, rector of the Church of the Holy Cross, the candidate's parish; Rev. Charles P. Martin, rector of All Saints Church, Bishop Robert B. Appleyard, presiding prelate of the Pittsburgh Diocese; Rev. Williams, Bishop Wm. S. Thomas, Suffragan Bishop, Pittsburgh Diocese; Rev. Canon Olive R. Floyd, Church of the Advent, Brookline and Fr. W.P.H. Parker, formerly of Pittsburgh, now rector of St. Phillips Episcopal Church in Brooklyn, guest preacher for the occasion.\"",
+    "TitMainTitle": "Bishop Robert B. Appleyard, Rev. Henry B. William, and Bishop William S. Thomas, posed on altar in Trinity Episcopal Cathedral",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Priests--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Trinity Episcopal Cathedral (Pittsburgh, Pa.)Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "74078179-b01d-4d7e-ac2f-561e2a16b3f7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18769,
+    "MulMultiMediaRef_key": 4218,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18769/sizes/3921-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4215,
+    "irn": 3921,
+    "TitAccessionNo": "2001.35.4224",
+    "CreDateCreated": "July 1970",
+    "CreEarliestDate": "1970-07-01",
+    "CreLatestDate": "1970-07-18",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in New Pittsburgh Courier newspaper, July 18, 1970, reads: \"Ordained To Priesthood - The Rev. Henry B. Williams, center, was ordained to the sacred order of the Priesthood in Episcopal Church recently, during rites held at Trinity Cathedral. High churchmen who participated in the ceremony, pictured left to right are: Canon Junius F. Carter, rector of the Church of the Holy Cross, the candidate's parish; Rev. Charles P. Martin, rector of All Saints Church, Bishop Robert B. Appleyard, presiding prelate of the Pittsburgh Diocese; Rev. Williams, Bishop Wm. S. Thomas, Suffragan Bishop, Pittsburgh Diocese; Rev. Canon Olive R. Floyd, Church of the Advent, Brookline and Fr. W.P.H. Parker, formerly of Pittsburgh, now rector of St. Phillips Episcopal Church in Brooklyn, guest preacher for the occasion.\"",
+    "TitMainTitle": "Bishop Robert B. Appleyard, Rev. Henry B. William, and Bishop William S. Thomas, posed on altar in Trinity Episcopal Cathedral",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Priests--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Clergy--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Organs---Pennsylvania--Pittsburgh.Trinity Episcopal Cathedral (Pittsburgh, Pa.)Hats--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "74078179-b01d-4d7e-ac2f-561e2a16b3f7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18769,
+    "MulMultiMediaRef_key": 4218,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18769/sizes/3921-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Bishop William S. Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert B. Appleyard",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry B. William",
+        "status": "suggested"
+      },
+      {
+        "data": "S. Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles P. Martin",
+        "status": "suggested"
+      },
+      {
+        "data": "Junius F. Carter",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Priests",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Trinity Episcopal Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Brookline",
+        "status": "suggested"
+      },
+      {
+        "data": "Fr",
+        "status": "suggested"
+      },
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Trinity Episcopal Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Brookline",
+        "status": "suggested"
+      },
+      {
+        "data": "Fr",
+        "status": "suggested"
+      },
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Trinity Episcopal Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Brookline",
+        "status": "suggested"
+      },
+      {
+        "data": "Fr",
+        "status": "suggested"
+      },
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Trinity Episcopal Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Brookline",
+        "status": "suggested"
+      },
+      {
+        "data": "Fr",
+        "status": "suggested"
+      },
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Ordained To Priesthood - The Rev. Henry B. Williams, center, was ordained to the sacred order of the Priesthood in Episcopal Church recently, during rites held at Trinity Cathedral. High churchmen who participated in the ceremony, pictured left to right are: Canon Junius F. Carter, rector of the Church of the Holy Cross, the candidate's parish; Rev. Charles P. Martin, rector of All Saints Church, Bishop Robert B. Appleyard, presiding prelate of the Pittsburgh Diocese; Rev. Williams, Bishop Wm. S. Thomas, Suffragan Bishop, Pittsburgh Diocese; Rev. Canon Olive R. Floyd, Church of the Advent, Brookline and Fr. W.P.H. Parker, formerly of Pittsburgh, now rector of St. Phillips Episcopal Church in Brooklyn, guest preacher for the occasion.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "outerwear",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "religion",
+        "status": "suggested"
+      },
+      {
+        "data": "Organs",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "St. Phillips Episcopal Church",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "All Saints Church",
+        "status": "suggested"
+      },
+      {
+        "data": "the Priesthood in Episcopal Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "July 18, 1970",
+        "status": "suggested"
+      },
+      {
+        "data": "S. Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "W.P.H. Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "the Church of the Holy Cross",
+        "status": "suggested"
+      },
+      {
+        "data": "Priests",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Diocese",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles P. Martin",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity Episcopal Cathedral",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity Episcopal Cathedral ",
+        "status": "suggested"
+      },
+      {
+        "data": "Bishop William S. Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Canon Olive R. Floyd",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry B. William",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Ordained To Priesthood - The Rev. Henry B. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Church of the Advent",
+        "status": "suggested"
+      },
+      {
+        "data": "vestment",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

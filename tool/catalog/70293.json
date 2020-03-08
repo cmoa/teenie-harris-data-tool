@@ -1,20 +1,352 @@
 {
-	"irn": "70293",
-	"emuInput": {
-		"ecatalogue_key": "366",
-		"irn": "70293",
-		"TitAccessionNo": "2001.35.55616",
-		"TitMainTitle": "Glass door for the Department of Parks and Recreation - Robert J. Templeton Director Bureau of Recreational Activities - Allen E. Risedorph Superintendent, City County Building, another version",
-		"CreDateCreated": "January 1961",
-		"CreEarliestDate": "1961-01-01",
-		"CreLatestDate": "1961-01-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \" Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"\nCutline of article published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \"Branch Rickey Will Direct Job Probe - The Commission on Human Relations, this week, accepted the request of Mayor Joseph M. Barr and agreed to make a study of the city government's employment and promotion procedures and practices.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nCity-County Building (Pittsburgh, Pa.)\nDoors--Pennsylvania--Pittsburgh.\nDowntown (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70293",
+  "emuInput": {
+    "ecatalogue_key": 55573,
+    "irn": 70293,
+    "TitAccessionNo": "2001.35.55616",
+    "CreDateCreated": "January 1961",
+    "CreEarliestDate": "1961-01-01",
+    "CreLatestDate": "1961-01-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \" Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"Cutline of article published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \"Branch Rickey Will Direct Job Probe - The Commission on Human Relations, this week, accepted the request of Mayor Joseph M. Barr and agreed to make a study of the city government's employment and promotion procedures and practices.\"",
+    "TitMainTitle": "Glass door for the Department of Parks and Recreation - Robert J. Templeton Director Bureau of Recreational Activities - Allen E. Risedorph Superintendent, City County Building, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.City-County Building (Pittsburgh, Pa.)Doors--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "48296239-5a18-466e-90d9-4a452109d972",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 84588,
+    "MulMultiMediaRef_key": 55582,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/84588/sizes/70293-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55573,
+    "irn": 70293,
+    "TitAccessionNo": "2001.35.55616",
+    "CreDateCreated": "January 1961",
+    "CreEarliestDate": "1961-01-01",
+    "CreLatestDate": "1961-01-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \" Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"Cutline of article published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \"Branch Rickey Will Direct Job Probe - The Commission on Human Relations, this week, accepted the request of Mayor Joseph M. Barr and agreed to make a study of the city government's employment and promotion procedures and practices.\"",
+    "TitMainTitle": "Glass door for the Department of Parks and Recreation - Robert J. Templeton Director Bureau of Recreational Activities - Allen E. Risedorph Superintendent, City County Building, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.City-County Building (Pittsburgh, Pa.)Doors--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "48296239-5a18-466e-90d9-4a452109d972",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 84588,
+    "MulMultiMediaRef_key": 55582,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/84588/sizes/70293-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Joseph M. Barr",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \" Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"Cutline of article published in Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      },
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"Cutline of article published in Pittsburgh Courier newspaper, January 28, 1961, pg. 3 reads: \"Branch Rickey Will Direct Job Probe - The Commission on Human Relations, this week, accepted the request of Mayor Joseph M. Barr and agreed to make a study of the city government's employment and promotion procedures and practices.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 28, 1961, pg. 3 reads: \" Some Cracked by Negro Job-seekers...Others Closed...8 full-time Negro workers out of over 200 political appointees. \"Cutline of article published in Pittsburgh Courier newspaper, January 28, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "wall",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "the Department of Parks and Recreation - Robert J. Templeton Director Bureau of Recreational Activities - Allen E. Risedorph Superintendent",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "Downtown ",
+        "status": "suggested"
+      },
+      {
+        "data": "City County Building",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph M. Barr",
+        "status": "suggested"
+      },
+      {
+        "data": "January 28, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Some Cracked by Negro Job",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": ")Doors",
+        "status": "suggested"
+      },
+      {
+        "data": "City-County Building ",
+        "status": "suggested"
+      },
+      {
+        "data": "texture",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "light",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "door",
+        "status": "suggested"
+      },
+      {
+        "data": "wood",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "atmosphere",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      }
+    ]
+  }
 }

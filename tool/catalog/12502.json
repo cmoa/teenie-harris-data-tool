@@ -1,20 +1,324 @@
 {
-	"irn": "12502",
-	"emuInput": {
-		"ecatalogue_key": "47",
-		"irn": "12502",
-		"TitAccessionNo": "2001.35.6318",
-		"TitMainTitle": "Large crowd of men and women seated on folding chairs in Syria Mosque for the 1959 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "May 26-28,1959",
-		"CreEarliestDate": "1959-05-26",
-		"CreLatestDate": "1959-05-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences...\"",
-		"CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "12502",
+  "emuInput": {
+    "ecatalogue_key": 6307,
+    "irn": 12502,
+    "TitAccessionNo": "2001.35.6318",
+    "CreDateCreated": "May 26-28,1959",
+    "CreEarliestDate": "1959-05-26",
+    "CreLatestDate": "1959-05-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences...\"",
+    "TitMainTitle": "Large crowd of men and women seated on folding chairs in Syria Mosque for the 1959 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16606786-b9cd-454c-80f0-077227e1e942",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22031,
+    "MulMultiMediaRef_key": 6314,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22031/sizes/12502-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6307,
+    "irn": 12502,
+    "TitAccessionNo": "2001.35.6318",
+    "CreDateCreated": "May 26-28,1959",
+    "CreEarliestDate": "1959-05-26",
+    "CreLatestDate": "1959-05-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of article published in Pittsburgh Courier newspaper, June 6, 1959, pg. 6, 7, reads: \"'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences...\"",
+    "TitMainTitle": "Large crowd of men and women seated on folding chairs in Syria Mosque for the 1959 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Crowds--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16606786-b9cd-454c-80f0-077227e1e942",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22031,
+    "MulMultiMediaRef_key": 6314,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22031/sizes/12502-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Sarah McLawler 's",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "6",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "'A Home Show Named Success' must be the appropriate label tagged to the ninth annual Courier Home Service Fair, held at the massive Syria Mosque, last Tuesday, Wednesday and Thursday nights. This will be the most talked about 'Fair' ever.  From the opening night when thousands began to gather at the doors, to the final session, when the laughter of prize winners waved emotionally with the disappointed non-winners, the exhibitors and participants worked enthusiastically from their national and local booths to accommodate the happy homemakers.  Beautifully decorated booths, sweet organ music augmented by the 'rock 'em, sock 'em' jazz of Sarah McLawler's combo, set the mood for the huge audiences...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 6, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "1959",
+        "status": "suggested"
+      },
+      {
+        "data": "7",
+        "status": "suggested"
+      },
+      {
+        "data": "Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday",
+        "status": "suggested"
+      },
+      {
+        "data": "the opening night",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "June 6, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "nights",
+        "status": "suggested"
+      },
+      {
+        "data": "Wednesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "last Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowds",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "'A Home Show Named Success'",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "banjo",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      }
+    ]
+  }
 }

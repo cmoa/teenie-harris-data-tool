@@ -1,20 +1,455 @@
 {
-	"irn": "61699",
-	"emuInput": {
-		"ecatalogue_key": "306",
-		"irn": "61699",
-		"TitAccessionNo": "2001.35.47702",
-		"TitMainTitle": "Group portrait of women and men standing in grocery store, from left: Harry Seitz, Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, Mildred Jeffreys, Arlene Gilmore, and Gentle Horne, posed in Thorofare Market, Centre Avenue",
-		"CreDateCreated": "February - April 1958",
-		"CreEarliestDate": "1958-02-01",
-		"CreLatestDate": "1958-04-05",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. A4, reads: \"The Thorofare Staff - Harry Seitz, manager of the Centre Avenue Thorofare Market, poses with six of his cashier-checkers who were candidates in recent contest to determine the best cashier-checker of the year. From the left of Mr. Seitz are Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, assistant manager; Mildred Jeffreys, Arlene Gilmore and Gentle Horne, stockman, also a cashier-checker.  Mrs. Lawson is the only woman assistant manager in the Thorofare chain, which operated in Pennsylvinia [sic], West Virginia and parts of Ohio. - Harris Photo.\"",
-		"CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nGrocery stores--Pennsylvania--Pittsburgh.\nSigns--Pennsylvania--Pittsburgh.\nAdvertising--Pennsylvania--Pittsburgh.\nThorofare Super Market (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61699",
+  "emuInput": {
+    "ecatalogue_key": 47659,
+    "irn": 61699,
+    "TitAccessionNo": "2001.35.47702",
+    "CreDateCreated": "February - April 1958",
+    "CreEarliestDate": "1958-02-01",
+    "CreLatestDate": "1958-04-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. A4, reads: \"The Thorofare Staff - Harry Seitz, manager of the Centre Avenue Thorofare Market, poses with six of his cashier-checkers who were candidates in recent contest to determine the best cashier-checker of the year. From the left of Mr. Seitz are Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, assistant manager; Mildred Jeffreys, Arlene Gilmore and Gentle Horne, stockman, also a cashier-checker.  Mrs. Lawson is the only woman assistant manager in the Thorofare chain, which operated in Pennsylvinia [sic], West Virginia and parts of Ohio. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of women and men standing in grocery store, from left: Harry Seitz, Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, Mildred Jeffreys, Arlene Gilmore, and Gentle Horne, posed in Thorofare Market, Centre Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Grocery stores--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Advertising--Pennsylvania--Pittsburgh.Thorofare Super Market (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00840bfa-592b-455c-aa43-f11fea6cdae8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70161,
+    "MulMultiMediaRef_key": 47667,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70161/sizes/61699-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47659,
+    "irn": 61699,
+    "TitAccessionNo": "2001.35.47702",
+    "CreDateCreated": "February - April 1958",
+    "CreEarliestDate": "1958-02-01",
+    "CreLatestDate": "1958-04-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 5, 1958, pg. A4, reads: \"The Thorofare Staff - Harry Seitz, manager of the Centre Avenue Thorofare Market, poses with six of his cashier-checkers who were candidates in recent contest to determine the best cashier-checker of the year. From the left of Mr. Seitz are Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, assistant manager; Mildred Jeffreys, Arlene Gilmore and Gentle Horne, stockman, also a cashier-checker.  Mrs. Lawson is the only woman assistant manager in the Thorofare chain, which operated in Pennsylvinia [sic], West Virginia and parts of Ohio. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of women and men standing in grocery store, from left: Harry Seitz, Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, Mildred Jeffreys, Arlene Gilmore, and Gentle Horne, posed in Thorofare Market, Centre Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Grocery stores--Pennsylvania--Pittsburgh.Signs--Pennsylvania--Pittsburgh.Advertising--Pennsylvania--Pittsburgh.Thorofare Super Market (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00840bfa-592b-455c-aa43-f11fea6cdae8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70161,
+    "MulMultiMediaRef_key": 47667,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70161/sizes/61699-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Seitz",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacqueline Pettigrew",
+        "status": "suggested"
+      },
+      {
+        "data": "Virgie Saunders",
+        "status": "suggested"
+      },
+      {
+        "data": "Corelia Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Mildred Jeffreys",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Seitz",
+        "status": "suggested"
+      },
+      {
+        "data": "Gentle Horne",
+        "status": "suggested"
+      },
+      {
+        "data": "Arlene Gilmore",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Grocery trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvinia",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvinia",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvinia",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvinia",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia",
+        "status": "suggested"
+      },
+      {
+        "data": "Ohio",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "The Thorofare Staff - Harry Seitz, manager of the Centre Avenue Thorofare Market, poses with six of his cashier-checkers who were candidates in recent contest to determine the best cashier-checker of the year. From the left of Mr. Seitz are Jacqueline Pettigrew, Virgie Saunders, Corelia Lawson, assistant manager; Mildred Jeffreys, Arlene Gilmore and Gentle Horne, stockman, also a cashier-checker.  Mrs. Lawson is the only woman assistant manager in the Thorofare chain, which operated in Pennsylvinia [sic], West Virginia and parts of Ohio. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Seitz",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawson",
+        "status": "suggested"
+      },
+      {
+        "data": "Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue Thorofare Market",
+        "status": "suggested"
+      },
+      {
+        "data": "A4",
+        "status": "suggested"
+      },
+      {
+        "data": "the year",
+        "status": "suggested"
+      },
+      {
+        "data": "Thorofare Super Market ",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Grocery stores",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "April 5, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Thorofare",
+        "status": "suggested"
+      },
+      {
+        "data": "Advertising",
+        "status": "suggested"
+      },
+      {
+        "data": "Mildred Jeffreys",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

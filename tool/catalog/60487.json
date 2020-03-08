@@ -1,20 +1,347 @@
 {
-	"irn": "60487",
-	"emuInput": {
-		"ecatalogue_key": "290",
-		"irn": "60487",
-		"TitAccessionNo": "2001.35.46458",
-		"TitMainTitle": "Harry Stokes, Kay Stokes, Thomas Moses, Vickie Anderson and Lafayette Brown gathered around Marcia Hill with record player during her 18th birthday \"Bermuda shorts\" party, 3352 McNeil Place, Hill District",
-		"CreDateCreated": "July 1957",
-		"CreEarliestDate": "1957-07-01",
-		"CreLatestDate": "1957-07-06",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper July 6, 1957, pg. A7, reads: \"Birthday Celebration - Marcia Hill of 3352 McNeil Pl., celebrated her 18th birthday with a gala Bermuda shorts party. The guests were served refreshments and danced to the latest records. Some of the guests present were Harry Stokes, Miss Hill, Kay Stokes, Thomas Moses, Vickie Anderson and Fafayette [Lafayette] Brown. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nRecord players--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBasements--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60487",
+  "emuInput": {
+    "ecatalogue_key": 46415,
+    "irn": 60487,
+    "TitAccessionNo": "2001.35.46458",
+    "CreDateCreated": "July 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-07-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper July 6, 1957, pg. A7, reads: \"Birthday Celebration - Marcia Hill of 3352 McNeil Pl., celebrated her 18th birthday with a gala Bermuda shorts party. The guests were served refreshments and danced to the latest records. Some of the guests present were Harry Stokes, Miss Hill, Kay Stokes, Thomas Moses, Vickie Anderson and Fafayette [Lafayette] Brown. - Harris Photo.\"",
+    "TitMainTitle": "Harry Stokes, Kay Stokes, Thomas Moses, Vickie Anderson and Lafayette Brown gathered around Marcia Hill with record player during her 18th birthday \"Bermuda shorts\" party, 3352 McNeil Place, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Record players--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "87280970-74ec-44d3-bfc8-af2e1447f09e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69180,
+    "MulMultiMediaRef_key": 46423,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69180/sizes/60487-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46415,
+    "irn": 60487,
+    "TitAccessionNo": "2001.35.46458",
+    "CreDateCreated": "July 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-07-06",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper July 6, 1957, pg. A7, reads: \"Birthday Celebration - Marcia Hill of 3352 McNeil Pl., celebrated her 18th birthday with a gala Bermuda shorts party. The guests were served refreshments and danced to the latest records. Some of the guests present were Harry Stokes, Miss Hill, Kay Stokes, Thomas Moses, Vickie Anderson and Fafayette [Lafayette] Brown. - Harris Photo.\"",
+    "TitMainTitle": "Harry Stokes, Kay Stokes, Thomas Moses, Vickie Anderson and Lafayette Brown gathered around Marcia Hill with record player during her 18th birthday \"Bermuda shorts\" party, 3352 McNeil Place, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Record players--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Basements--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "87280970-74ec-44d3-bfc8-af2e1447f09e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69180,
+    "MulMultiMediaRef_key": 46423,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69180/sizes/60487-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Vickie Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Fafayette",
+        "status": "suggested"
+      },
+      {
+        "data": "Kay Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Marcia Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Lafayette Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas Moses",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Basements",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda Islands",
+        "status": "suggested"
+      },
+      {
+        "data": "Phonograph",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Birthday Celebration - Marcia Hill of 3352 McNeil Pl., celebrated her 18th birthday with a gala Bermuda shorts party. The guests were served refreshments and danced to the latest records. Some of the guests present were Harry Stokes, Miss Hill, Kay Stokes, Thomas Moses, Vickie Anderson and Fafayette [Lafayette] Brown. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 6, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Vickie Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Basements",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "McNeil Place",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Marcia Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Bermuda",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas Moses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "July 6, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Record players",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

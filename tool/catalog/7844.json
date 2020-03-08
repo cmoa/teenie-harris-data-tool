@@ -1,20 +1,426 @@
 {
-	"irn": "7844",
-	"emuInput": {
-		"ecatalogue_key": "35",
-		"irn": "7844",
-		"TitAccessionNo": "2001.35.4856",
-		"TitMainTitle": "Group portrait of Senator John F. Kennedy, Jackie Kennedy with closed eyes, congressman Thomas E. Morgan, and District Attorney Michael A. Hanna, in interior",
-		"CreDateCreated": "October 1959",
-		"CreEarliestDate": "1959-10-01",
-		"CreLatestDate": "1959-10-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 17, 1959, page A2, reads: \"U.S. Senator Visits - U.S. Senator John F. Kennedy, Democrat, Massachusetts, who is considered by many to be a front runner for the Presidential nomination in 1960, was the principal speaker at a banquet and rally sponsored by the Washington County Democrats at the Twin Coaches in Belle Vernon last Friday night. Senator Kennedy rapped President Eisenhower for his action in the steel strike. The Senator is seated with on the left with his beautiful and charming wife. Standing, left to right: Congressman Thomas E. Morgan, who introduced the speaker, and Michael A. Hanna, District Attorney, who is seeking re-election. - Harris Photo.\"",
-		"CatSubject_tab": "Kennedy, Jacqueline Bouvier, 1929-1994.\nKennedy, John F. (John Fitzgerald), 1917-1963.\nMorgan, Thomas E.\nHanna, Michael A.\nGroup portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nCurtains--Pennsylvania--Pittsburgh.\nSuits (Clothing)--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "7844",
+  "emuInput": {
+    "ecatalogue_key": 4847,
+    "irn": 7844,
+    "TitAccessionNo": "2001.35.4856",
+    "CreDateCreated": "October 1959",
+    "CreEarliestDate": "1959-10-01",
+    "CreLatestDate": "1959-10-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 17, 1959, page A2, reads: \"U.S. Senator Visits - U.S. Senator John F. Kennedy, Democrat, Massachusetts, who is considered by many to be a front runner for the Presidential nomination in 1960, was the principal speaker at a banquet and rally sponsored by the Washington County Democrats at the Twin Coaches in Belle Vernon last Friday night. Senator Kennedy rapped President Eisenhower for his action in the steel strike. The Senator is seated with on the left with his beautiful and charming wife. Standing, left to right: Congressman Thomas E. Morgan, who introduced the speaker, and Michael A. Hanna, District Attorney, who is seeking re-election. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Senator John F. Kennedy, Jackie Kennedy with closed eyes, congressman Thomas E. Morgan, and District Attorney Michael A. Hanna, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Kennedy, Jacqueline Bouvier, 1929-1994.Kennedy, John F. (John Fitzgerald), 1917-1963.Morgan, Thomas E.Hanna, Michael A.Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "69404678-1099-42bd-a503-359466d2e5c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 12906,
+    "MulMultiMediaRef_key": 4853,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/12906/sizes/7844-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4847,
+    "irn": 7844,
+    "TitAccessionNo": "2001.35.4856",
+    "CreDateCreated": "October 1959",
+    "CreEarliestDate": "1959-10-01",
+    "CreLatestDate": "1959-10-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 17, 1959, page A2, reads: \"U.S. Senator Visits - U.S. Senator John F. Kennedy, Democrat, Massachusetts, who is considered by many to be a front runner for the Presidential nomination in 1960, was the principal speaker at a banquet and rally sponsored by the Washington County Democrats at the Twin Coaches in Belle Vernon last Friday night. Senator Kennedy rapped President Eisenhower for his action in the steel strike. The Senator is seated with on the left with his beautiful and charming wife. Standing, left to right: Congressman Thomas E. Morgan, who introduced the speaker, and Michael A. Hanna, District Attorney, who is seeking re-election. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Senator John F. Kennedy, Jackie Kennedy with closed eyes, congressman Thomas E. Morgan, and District Attorney Michael A. Hanna, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Kennedy, Jacqueline Bouvier, 1929-1994.Kennedy, John F. (John Fitzgerald), 1917-1963.Morgan, Thomas E.Hanna, Michael A.Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Curtains--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "69404678-1099-42bd-a503-359466d2e5c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 12906,
+    "MulMultiMediaRef_key": 4853,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/12906/sizes/7844-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Eisenhower",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas E. Morgan",
+        "status": "suggested"
+      },
+      {
+        "data": "Michael A. Hanna",
+        "status": "suggested"
+      },
+      {
+        "data": "John F. Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "U.S.",
+        "status": "suggested"
+      },
+      {
+        "data": "Massachusetts",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "U.S.",
+        "status": "suggested"
+      },
+      {
+        "data": "Massachusetts",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "U.S.",
+        "status": "suggested"
+      },
+      {
+        "data": "Massachusetts",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "U.S.",
+        "status": "suggested"
+      },
+      {
+        "data": "Massachusetts",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "U.S. Senator Visits - U.S. Senator John F. Kennedy, Democrat, Massachusetts, who is considered by many to be a front runner for the Presidential nomination in 1960, was the principal speaker at a banquet and rally sponsored by the Washington County Democrats at the Twin Coaches in Belle Vernon last Friday night. Senator Kennedy rapped President Eisenhower for his action in the steel strike. The Senator is seated with on the left with his beautiful and charming wife. Standing, left to right: Congressman Thomas E. Morgan, who introduced the speaker, and Michael A. Hanna, District Attorney, who is seeking re-election. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "the Twin Coaches",
+        "status": "suggested"
+      },
+      {
+        "data": "Eisenhower",
+        "status": "suggested"
+      },
+      {
+        "data": "October 17, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Hanna, Michael A",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy, Jacqueline Bouvier, 1929-1994",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas E. Morgan",
+        "status": "suggested"
+      },
+      {
+        "data": "1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Belle Vernon",
+        "status": "suggested"
+      },
+      {
+        "data": "Morgan, Thomas E",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrats",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackie Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy, John F",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "John F. Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "tuxedo",
+        "status": "suggested"
+      }
+    ]
+  }
 }

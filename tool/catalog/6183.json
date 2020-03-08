@@ -1,20 +1,344 @@
 {
-	"irn": "6183",
-	"emuInput": {
-		"ecatalogue_key": "25",
-		"irn": "6183",
-		"TitAccessionNo": "2001.35.3634",
-		"TitMainTitle": "Duquesne University baseball team player no. 36 Dick Ricketts, in base running pose on field",
-		"CreDateCreated": "April 1955",
-		"CreEarliestDate": "1955-04-01",
-		"CreLatestDate": "1955-04-16",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 16, 1955, pg. 23, reads: \"Back Again - As if Dave and Dick Ricketts were not enough troubled to opponents of Duquesne University during the basketball season, the talented brother act is back to worry foes of the Dukes in baseball.  Dick, an All American in basketball, is good enough on the diamond that most of the teams in the major leagues have an eye on him.  He pitches and plays first base.  Brother Dave is a talented catcher. - Harris Photo.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.\nBaseball caps--Pennsylvania--Pittsburgh.\nBaseball Equipment and supplies--Pennsylvania--Pittsburgh.\nBaseball--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "6183",
+  "emuInput": {
+    "ecatalogue_key": 3626,
+    "irn": 6183,
+    "TitAccessionNo": "2001.35.3634",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 16, 1955, pg. 23, reads: \"Back Again - As if Dave and Dick Ricketts were not enough troubled to opponents of Duquesne University during the basketball season, the talented brother act is back to worry foes of the Dukes in baseball.  Dick, an All American in basketball, is good enough on the diamond that most of the teams in the major leagues have an eye on him.  He pitches and plays first base.  Brother Dave is a talented catcher. - Harris Photo.\"",
+    "TitMainTitle": "Duquesne University baseball team player no. 36 Dick Ricketts, in base running pose on field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Baseball caps--Pennsylvania--Pittsburgh.Baseball Equipment and supplies--Pennsylvania--Pittsburgh.Baseball--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "12110432-f833-4619-ae54-cec688d78ae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18084,
+    "MulMultiMediaRef_key": 3629,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18084/sizes/6183-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 3626,
+    "irn": 6183,
+    "TitAccessionNo": "2001.35.3634",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-16",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 16, 1955, pg. 23, reads: \"Back Again - As if Dave and Dick Ricketts were not enough troubled to opponents of Duquesne University during the basketball season, the talented brother act is back to worry foes of the Dukes in baseball.  Dick, an All American in basketball, is good enough on the diamond that most of the teams in the major leagues have an eye on him.  He pitches and plays first base.  Brother Dave is a talented catcher. - Harris Photo.\"",
+    "TitMainTitle": "Duquesne University baseball team player no. 36 Dick Ricketts, in base running pose on field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Baseball caps--Pennsylvania--Pittsburgh.Baseball Equipment and supplies--Pennsylvania--Pittsburgh.Baseball--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "12110432-f833-4619-ae54-cec688d78ae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18084,
+    "MulMultiMediaRef_key": 3629,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18084/sizes/6183-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Dick",
+        "status": "suggested"
+      },
+      {
+        "data": "Dick Ricketts",
+        "status": "suggested"
+      },
+      {
+        "data": "Dukes",
+        "status": "suggested"
+      },
+      {
+        "data": "Dave",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball caps",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball--Equipment and supplies",
+        "status": "suggested"
+      },
+      {
+        "data": "Dave",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "23",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Back Again - As if Dave and Dick Ricketts were not enough troubled to opponents of Duquesne University during the basketball season, the talented brother act is back to worry foes of the Dukes in baseball.  Dick, an All American in basketball, is good enough on the diamond that most of the teams in the major leagues have an eye on him.  He pitches and plays first base.  Brother Dave is a talented catcher. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 16, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Duquesne University",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Dick Ricketts",
+        "status": "suggested"
+      },
+      {
+        "data": "Back Again - As",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball",
+        "status": "suggested"
+      },
+      {
+        "data": "April 16, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball caps",
+        "status": "suggested"
+      },
+      {
+        "data": "American",
+        "status": "suggested"
+      },
+      {
+        "data": "Dick",
+        "status": "suggested"
+      },
+      {
+        "data": "Dukes",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball Equipment and supplies",
+        "status": "suggested"
+      },
+      {
+        "data": "the basketball season",
+        "status": "suggested"
+      },
+      {
+        "data": "Dave",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "atmosphere",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "atmosphere of earth",
+        "status": "suggested"
+      },
+      {
+        "data": "cloud",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "grass",
+        "status": "suggested"
+      },
+      {
+        "data": "player",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "sunlight",
+        "status": "suggested"
+      }
+    ]
+  }
 }

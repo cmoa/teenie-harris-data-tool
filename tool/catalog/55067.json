@@ -1,20 +1,292 @@
 {
-	"irn": "55067",
-	"emuInput": {
-		"ecatalogue_key": "237",
-		"irn": "55067",
-		"TitAccessionNo": "2001.35.41777",
-		"TitMainTitle": "Bernice Utterback, Mrs. Arthur Nikolas, and Helen M. Brennan, standing at table with light colored tablecloth, in William Penn Hotel for PTA Conference",
-		"CreDateCreated": "April 1953",
-		"CreEarliestDate": "1953-04-01",
-		"CreLatestDate": "1953-04-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 2, reads: \"At Southwest PTA Conference - The Southwestern Pennsylvania Conference of Parent Teacher Association was held at the William Penn Hotel last Saturday. Shown during the sessions are, right photo: Mrs. Everett Utterback, Mrs. Arthur Nikolas, and Miss Helen M. Brennan, information aides.-Harris Photos.\"",
-		"CatSubject_tab": "Hats--Pennsylvania--Pittsburgh.\nWilliam Penn Hotel (Pittsburgh, Pa.)\nWomen--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nElevators--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "55067",
+  "emuInput": {
+    "ecatalogue_key": 41735,
+    "irn": 55067,
+    "TitAccessionNo": "2001.35.41777",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 2, reads: \"At Southwest PTA Conference - The Southwestern Pennsylvania Conference of Parent Teacher Association was held at the William Penn Hotel last Saturday. Shown during the sessions are, right photo: Mrs. Everett Utterback, Mrs. Arthur Nikolas, and Miss Helen M. Brennan, information aides.-Harris Photos.\"",
+    "TitMainTitle": "Bernice Utterback, Mrs. Arthur Nikolas, and Helen M. Brennan, standing at table with light colored tablecloth, in William Penn Hotel for PTA Conference",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Hats--Pennsylvania--Pittsburgh.William Penn Hotel (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Elevators--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70666787-1618-42c5-ab10-a4167a88693f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62571,
+    "MulMultiMediaRef_key": 41743,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62571/sizes/55067-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41735,
+    "irn": 55067,
+    "TitAccessionNo": "2001.35.41777",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1953, pg. 2, reads: \"At Southwest PTA Conference - The Southwestern Pennsylvania Conference of Parent Teacher Association was held at the William Penn Hotel last Saturday. Shown during the sessions are, right photo: Mrs. Everett Utterback, Mrs. Arthur Nikolas, and Miss Helen M. Brennan, information aides.-Harris Photos.\"",
+    "TitMainTitle": "Bernice Utterback, Mrs. Arthur Nikolas, and Helen M. Brennan, standing at table with light colored tablecloth, in William Penn Hotel for PTA Conference",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Hats--Pennsylvania--Pittsburgh.William Penn Hotel (Pittsburgh, Pa.)Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Elevators--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "70666787-1618-42c5-ab10-a4167a88693f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62571,
+    "MulMultiMediaRef_key": 41743,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62571/sizes/55067-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Arthur Nikolas",
+        "status": "suggested"
+      },
+      {
+        "data": "Everett Utterback",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Bernice Utterback",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen M. Brennan",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Elevators",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Women",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "At Southwest PTA Conference - The Southwestern Pennsylvania Conference of Parent Teacher Association was held at the William Penn Hotel last Saturday. Shown during the sessions are, right photo: Mrs. Everett Utterback, Mrs. Arthur Nikolas, and Miss Helen M. Brennan, information aides.-Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 25, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "the William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "April 25, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "William Penn Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Elevators",
+        "status": "suggested"
+      },
+      {
+        "data": "William Penn Hotel ",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      }
+    ]
+  }
 }

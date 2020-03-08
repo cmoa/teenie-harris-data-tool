@@ -1,20 +1,508 @@
 {
-	"irn": "62390",
-	"emuInput": {
-		"ecatalogue_key": "313",
-		"irn": "62390",
-		"TitAccessionNo": "2001.35.48302",
-		"TitMainTitle": "Wooden staircase entrance to Juicy Plum Club speakeasy behind 1719 Centre Avenue on Roberts Street, Hill District",
-		"CreDateCreated": "August 1958",
-		"CreEarliestDate": "1958-08-01",
-		"CreLatestDate": "1958-08-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 30, 1958, pg. 4, reads: \"Sin Den Murder Site - During a dispute over the purchase of a drink for a woman, 29-year-old Jonathan Cobbs of 701 Chauncey St., was killed by a stab wound in the chest from a knife in the hands of Raymond Bryant, 30, of Arthur St., early Sunday morning on the porch of the Juicy Plum Club (left photo), a speakeasy, located on the second floor of this building at 1719 Centre Ave. and Roberts St., according to police. Entrance to the steps leading into the club is gained through a doorway in an eight-foot high wooden fence on the Roberts St. side of the building. The right photo shows the Roberts St. side back entrance to the after-hours sin den, with arrow pointing to door and peephole. - Harris Photo.\"",
-		"CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.\nStairs--Pennsylvania--Pittsburgh.\nHill District  (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "62390",
+  "emuInput": {
+    "ecatalogue_key": 48259,
+    "irn": 62390,
+    "TitAccessionNo": "2001.35.48302",
+    "CreDateCreated": "August 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-08-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 30, 1958, pg. 4, reads: \"Sin Den Murder Site - During a dispute over the purchase of a drink for a woman, 29-year-old Jonathan Cobbs of 701 Chauncey St., was killed by a stab wound in the chest from a knife in the hands of Raymond Bryant, 30, of Arthur St., early Sunday morning on the porch of the Juicy Plum Club (left photo), a speakeasy, located on the second floor of this building at 1719 Centre Ave. and Roberts St., according to police. Entrance to the steps leading into the club is gained through a doorway in an eight-foot high wooden fence on the Roberts St. side of the building. The right photo shows the Roberts St. side back entrance to the after-hours sin den, with arrow pointing to door and peephole. - Harris Photo.\"",
+    "TitMainTitle": "Wooden staircase entrance to Juicy Plum Club speakeasy behind 1719 Centre Avenue on Roberts Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Hill District  (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "81503242-25f7-47c7-b238-c26880625a34",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70799,
+    "MulMultiMediaRef_key": 48267,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70799/sizes/62390-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 48259,
+    "irn": 62390,
+    "TitAccessionNo": "2001.35.48302",
+    "CreDateCreated": "August 1958",
+    "CreEarliestDate": "1958-08-01",
+    "CreLatestDate": "1958-08-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper August 30, 1958, pg. 4, reads: \"Sin Den Murder Site - During a dispute over the purchase of a drink for a woman, 29-year-old Jonathan Cobbs of 701 Chauncey St., was killed by a stab wound in the chest from a knife in the hands of Raymond Bryant, 30, of Arthur St., early Sunday morning on the porch of the Juicy Plum Club (left photo), a speakeasy, located on the second floor of this building at 1719 Centre Ave. and Roberts St., according to police. Entrance to the steps leading into the club is gained through a doorway in an eight-foot high wooden fence on the Roberts St. side of the building. The right photo shows the Roberts St. side back entrance to the after-hours sin den, with arrow pointing to door and peephole. - Harris Photo.\"",
+    "TitMainTitle": "Wooden staircase entrance to Juicy Plum Club speakeasy behind 1719 Centre Avenue on Roberts Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Buildings--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Hill District  (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "81503242-25f7-47c7-b238-c26880625a34",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 70799,
+    "MulMultiMediaRef_key": 48267,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/70799/sizes/62390-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jonathan Cobbs",
+        "status": "suggested"
+      },
+      {
+        "data": "Raymond Bryant",
+        "status": "suggested"
+      },
+      {
+        "data": "Chauncey St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "1719 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "1719 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "1719 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "1719 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "4",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Sin Den Murder Site - During a dispute over the purchase of a drink for a woman, 29-year-old Jonathan Cobbs of 701 Chauncey St., was killed by a stab wound in the chest from a knife in the hands of Raymond Bryant, 30, of Arthur St., early Sunday morning on the porch of the Juicy Plum Club (left photo), a speakeasy, located on the second floor of this building at 1719 Centre Ave. and Roberts St., according to police. Entrance to the steps leading into the club is gained through a doorway in an eight-foot high wooden fence on the Roberts St. side of the building. The right photo shows the Roberts St. side back entrance to the after-hours sin den, with arrow pointing to door and peephole. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 30, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "structure",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District  ",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Juicy Plum Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Roberts St.",
+        "status": "suggested"
+      },
+      {
+        "data": "the after-hours",
+        "status": "suggested"
+      },
+      {
+        "data": "Arthur St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Chauncey St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "30",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "early Sunday morning",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Juicy Plum Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Raymond Bryant",
+        "status": "suggested"
+      },
+      {
+        "data": "Jonathan Cobbs",
+        "status": "suggested"
+      },
+      {
+        "data": "1719 Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "August 30, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "fence",
+        "status": "suggested"
+      },
+      {
+        "data": "wall",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "barrier",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "alley",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      },
+      {
+        "data": "brick",
+        "status": "suggested"
+      },
+      {
+        "data": "obstruction",
+        "status": "suggested"
+      }
+    ]
+  }
 }

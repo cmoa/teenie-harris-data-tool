@@ -1,20 +1,271 @@
 {
-	"irn": "32976",
-	"emuInput": {
-		"ecatalogue_key": "164",
-		"irn": "32976",
-		"TitAccessionNo": "2001.35.21069",
-		"TitMainTitle": "Group portrait of Western Pennsylvania Research and Historical Society committee, from left, seated: Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden, and Mrs. John W. Wilson; standing: John W. Wilson and Walter Worthington, gathered around table with documents, in church, with image of The Last Supper on wall in background",
-		"CreDateCreated": "January 1962",
-		"CreEarliestDate": "1962-01-01",
-		"CreLatestDate": "1962-01-27",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, page 3, reads: \"Aim...\"The Pittsburgh Story\" - The special committee of the Western Pennsylvania Research and Historical Society, which is engaged in assisting in the writing of \"The Pittsburgh Story,\" slated to appear in the Feb. 24 Courier, are (left to right, seated) Mrs. Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden (president), Mrs. John W. Wilson and (standing) John W. Wilson and Walter Worthington. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMeetings--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "32976",
+  "emuInput": {
+    "ecatalogue_key": 21038,
+    "irn": 32976,
+    "TitAccessionNo": "2001.35.21069",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, page 3, reads: \"Aim...\"The Pittsburgh Story\" - The special committee of the Western Pennsylvania Research and Historical Society, which is engaged in assisting in the writing of \"The Pittsburgh Story,\" slated to appear in the Feb. 24 Courier, are (left to right, seated) Mrs. Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden (president), Mrs. John W. Wilson and (standing) John W. Wilson and Walter Worthington. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Western Pennsylvania Research and Historical Society committee, from left, seated: Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden, and Mrs. John W. Wilson; standing: John W. Wilson and Walter Worthington, gathered around table with documents, in church, with image of The Last Supper on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "03041059-8189-405e-a9b0-517153af0c73",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39357,
+    "MulMultiMediaRef_key": 21046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39357/sizes/32976-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 21038,
+    "irn": 32976,
+    "TitAccessionNo": "2001.35.21069",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-27",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 27, 1962, page 3, reads: \"Aim...\"The Pittsburgh Story\" - The special committee of the Western Pennsylvania Research and Historical Society, which is engaged in assisting in the writing of \"The Pittsburgh Story,\" slated to appear in the Feb. 24 Courier, are (left to right, seated) Mrs. Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden (president), Mrs. John W. Wilson and (standing) John W. Wilson and Walter Worthington. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Western Pennsylvania Research and Historical Society committee, from left, seated: Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden, and Mrs. John W. Wilson; standing: John W. Wilson and Walter Worthington, gathered around table with documents, in church, with image of The Last Supper on wall in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Meetings--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "03041059-8189-405e-a9b0-517153af0c73",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39357,
+    "MulMultiMediaRef_key": 21046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39357/sizes/32976-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Walter Worthington",
+        "status": "suggested"
+      },
+      {
+        "data": "John W. Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Roderick Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Eloise Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Golden",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Congresses",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Aim...\"The Pittsburgh Story\" - The special committee of the Western Pennsylvania Research and Historical Society, which is engaged in assisting in the writing of \"The Pittsburgh Story,\" slated to appear in the Feb. 24 Courier, are (left to right, seated) Mrs. Eloise Thompson, Mrs. W. Roderick Brown, Samuel Golden (president), Mrs. John W. Wilson and (standing) John W. Wilson and Walter Worthington. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Worthington",
+        "status": "suggested"
+      },
+      {
+        "data": "John W. Wilson",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "The Last Supper",
+        "status": "suggested"
+      },
+      {
+        "data": "January 27, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Meetings",
+        "status": "suggested"
+      },
+      {
+        "data": "the Western Pennsylvania Research and Historical Society",
+        "status": "suggested"
+      },
+      {
+        "data": "Western Pennsylvania Research and Historical Society",
+        "status": "suggested"
+      },
+      {
+        "data": "Eloise Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "\"The Pittsburgh Story",
+        "status": "suggested"
+      },
+      {
+        "data": "Feb. 24",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Samuel Golden",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

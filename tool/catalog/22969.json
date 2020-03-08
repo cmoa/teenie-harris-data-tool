@@ -1,20 +1,344 @@
 {
-	"irn": "22969",
-	"emuInput": {
-		"ecatalogue_key": "112",
-		"irn": "22969",
-		"TitAccessionNo": "2001.35.13385",
-		"TitMainTitle": "Group portrait of wedding party including groom James Norman Schofield and bride Mary Boyce Hutson, standing behind two tiered wedding cake, in home on Magee Street with bold print wallpaper of ivy frames and polka dots, another version",
-		"CreDateCreated": "1959",
-		"CreEarliestDate": "1959",
-		"CreLatestDate": "1959",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 10, 1959, pg. 13 reads: \"Mr. And Mrs. James Norman Schofield - Mary Boyce Hutson became the bride of James Norman Schofield in pretty rites performed Dec. 20 in family home on Magee St. The pre-holiday ritual was attended by family and close friends. - Harris Photo.\"",
-		"CatSubject_tab": "Wedding costume--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "22969",
+  "emuInput": {
+    "ecatalogue_key": 13355,
+    "irn": 22969,
+    "TitAccessionNo": "2001.35.13385",
+    "CreDateCreated": "1959",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 10, 1959, pg. 13 reads: \"Mr. And Mrs. James Norman Schofield - Mary Boyce Hutson became the bride of James Norman Schofield in pretty rites performed Dec. 20 in family home on Magee St. The pre-holiday ritual was attended by family and close friends. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of wedding party including groom James Norman Schofield and bride Mary Boyce Hutson, standing behind two tiered wedding cake, in home on Magee Street with bold print wallpaper of ivy frames and polka dots, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Wedding costume--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00618be9-674f-4b32-8d4a-5df2def6fcb0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29311,
+    "MulMultiMediaRef_key": 13363,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29311/sizes/22969-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 13355,
+    "irn": 22969,
+    "TitAccessionNo": "2001.35.13385",
+    "CreDateCreated": "1959",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 10, 1959, pg. 13 reads: \"Mr. And Mrs. James Norman Schofield - Mary Boyce Hutson became the bride of James Norman Schofield in pretty rites performed Dec. 20 in family home on Magee St. The pre-holiday ritual was attended by family and close friends. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of wedding party including groom James Norman Schofield and bride Mary Boyce Hutson, standing behind two tiered wedding cake, in home on Magee Street with bold print wallpaper of ivy frames and polka dots, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Wedding costume--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00618be9-674f-4b32-8d4a-5df2def6fcb0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 29311,
+    "MulMultiMediaRef_key": 13363,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/29311/sizes/22969-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Mary Boyce Hutson",
+        "status": "suggested"
+      },
+      {
+        "data": "Magee St.",
+        "status": "suggested"
+      },
+      {
+        "data": "James Norman",
+        "status": "suggested"
+      },
+      {
+        "data": "James Norman Schofield",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Magee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Magee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Magee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Magee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Mr. And Mrs. James Norman Schofield - Mary Boyce Hutson became the bride of James Norman Schofield in pretty rites performed Dec. 20 in family home on Magee St. The pre-holiday ritual was attended by family and close friends. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 10, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "James Norman",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Magee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Dec. 20",
+        "status": "suggested"
+      },
+      {
+        "data": "James Norman Schofield",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "January 10, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      }
+    ]
+  }
 }

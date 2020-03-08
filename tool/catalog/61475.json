@@ -1,20 +1,351 @@
 {
-	"irn": "61475",
-	"emuInput": {
-		"ecatalogue_key": "300",
-		"irn": "61475",
-		"TitAccessionNo": "2001.35.47394",
-		"TitMainTitle": "Alfred Diggs wearing dark pinstriped suit, and Barbara Payne wearing sleeveless dress with diamond patterned crinoline skirt and dark pleated bodice with buttons at waist, after being chosen \"Most Outstanding Boy and Girl\", at Herron Hill Junior High School graduation prom",
-		"CreDateCreated": "January - February 1958",
-		"CreEarliestDate": "1958-01-15",
-		"CreLatestDate": "1958-02-08",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A18, reads: \"MOST OUTSTANDING - Alfred Diggs and Barbara Payne were chosen the \"Most Outstanding Boy and Girl\" at Herron Hill Junior High School graduation. They also received Frontiers' Club awards, given by the club's secretary, the Rev. B. M. Hargrove. - Harris Photo.\"",
-		"CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nSuits (Clothing)--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nNeckties--Pennsylvania--Pittsburgh.\nNecklaces--Pennsylvania--Pittsburgh.\nHerron Hill Junior High School (Pittsburgh, Pa.)\nWomen--Portraits--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61475",
+  "emuInput": {
+    "ecatalogue_key": 47351,
+    "irn": 61475,
+    "TitAccessionNo": "2001.35.47394",
+    "CreDateCreated": "January - February 1958",
+    "CreEarliestDate": "1958-01-15",
+    "CreLatestDate": "1958-02-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A18, reads: \"MOST OUTSTANDING - Alfred Diggs and Barbara Payne were chosen the \"Most Outstanding Boy and Girl\" at Herron Hill Junior High School graduation. They also received Frontiers' Club awards, given by the club's secretary, the Rev. B. M. Hargrove. - Harris Photo.\"",
+    "TitMainTitle": "Alfred Diggs wearing dark pinstriped suit, and Barbara Payne wearing sleeveless dress with diamond patterned crinoline skirt and dark pleated bodice with buttons at waist, after being chosen \"Most Outstanding Boy and Girl\", at Herron Hill Junior High School graduation prom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Necklaces--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "14727635-ca08-439b-b2cb-62b5de3ac00f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69827,
+    "MulMultiMediaRef_key": 47359,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69827/sizes/61475-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47351,
+    "irn": 61475,
+    "TitAccessionNo": "2001.35.47394",
+    "CreDateCreated": "January - February 1958",
+    "CreEarliestDate": "1958-01-15",
+    "CreLatestDate": "1958-02-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A18, reads: \"MOST OUTSTANDING - Alfred Diggs and Barbara Payne were chosen the \"Most Outstanding Boy and Girl\" at Herron Hill Junior High School graduation. They also received Frontiers' Club awards, given by the club's secretary, the Rev. B. M. Hargrove. - Harris Photo.\"",
+    "TitMainTitle": "Alfred Diggs wearing dark pinstriped suit, and Barbara Payne wearing sleeveless dress with diamond patterned crinoline skirt and dark pleated bodice with buttons at waist, after being chosen \"Most Outstanding Boy and Girl\", at Herron Hill Junior High School graduation prom",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Suits (Clothing)--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Neckties--Pennsylvania--Pittsburgh.Necklaces--Pennsylvania--Pittsburgh.Herron Hill Junior High School (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "14727635-ca08-439b-b2cb-62b5de3ac00f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69827,
+    "MulMultiMediaRef_key": 47359,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69827/sizes/61475-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "B. M. Hargrove",
+        "status": "suggested"
+      },
+      {
+        "data": "Alfred Diggs",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Payne",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Necklaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Frontier Athletic Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "MOST OUTSTANDING - Alfred Diggs and Barbara Payne were chosen the \"Most Outstanding Boy and Girl\" at Herron Hill Junior High School graduation. They also received Frontiers' Club awards, given by the club's secretary, the Rev. B. M. Hargrove. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 1, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "Most Outstanding Boy and Girl\"",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Necklaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Junior High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Frontier Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Frontiers' Club",
+        "status": "suggested"
+      },
+      {
+        "data": "B. M. Hargrove",
+        "status": "suggested"
+      },
+      {
+        "data": "Neckties",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "February 1, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Payne",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Suits (Clothing)",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

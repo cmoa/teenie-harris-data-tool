@@ -1,20 +1,246 @@
 {
-	"irn": "21642",
-	"emuInput": {
-		"ecatalogue_key": "109",
-		"irn": "21642",
-		"TitAccessionNo": "2001.35.12373",
-		"TitMainTitle": "Men and women wearing NAACP Pennsylvania State Conference tags seated at banquet tables in downtown YWCA for youth council luncheon meeting",
-		"CreDateCreated": "October 1959",
-		"CreEarliestDate": "1959-10-01",
-		"CreLatestDate": "1959-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1959, pg. B2 reads: \"Youth Council Delegates - Smiling faces shown above are those of representatives of 16 Youth Councils and college chapters of the State Conference at their luncheon meetings in the downtown YWCA.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nNational Association for the Advancement of Colored People.\nPianos--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21642",
+  "emuInput": {
+    "ecatalogue_key": 12343,
+    "irn": 21642,
+    "TitAccessionNo": "2001.35.12373",
+    "CreDateCreated": "October 1959",
+    "CreEarliestDate": "1959-10-01",
+    "CreLatestDate": "1959-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1959, pg. B2 reads: \"Youth Council Delegates - Smiling faces shown above are those of representatives of 16 Youth Councils and college chapters of the State Conference at their luncheon meetings in the downtown YWCA.\"",
+    "TitMainTitle": "Men and women wearing NAACP Pennsylvania State Conference tags seated at banquet tables in downtown YWCA for youth council luncheon meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "19463554-d71b-4e9a-947d-9a920174e5d7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28148,
+    "MulMultiMediaRef_key": 12351,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28148/sizes/21642-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 12343,
+    "irn": 21642,
+    "TitAccessionNo": "2001.35.12373",
+    "CreDateCreated": "October 1959",
+    "CreEarliestDate": "1959-10-01",
+    "CreLatestDate": "1959-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 31, 1959, pg. B2 reads: \"Youth Council Delegates - Smiling faces shown above are those of representatives of 16 Youth Councils and college chapters of the State Conference at their luncheon meetings in the downtown YWCA.\"",
+    "TitMainTitle": "Men and women wearing NAACP Pennsylvania State Conference tags seated at banquet tables in downtown YWCA for youth council luncheon meeting",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "19463554-d71b-4e9a-947d-9a920174e5d7",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 28148,
+    "MulMultiMediaRef_key": 12351,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/28148/sizes/21642-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "YWCA.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "YWCA.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "YWCA.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "YWCA.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Youth Council Delegates - Smiling faces shown above are those of representatives of 16 Youth Councils and college chapters of the State Conference at their luncheon meetings in the downtown YWCA.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 31, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "YWCA",
+        "status": "suggested"
+      },
+      {
+        "data": "the State Conference",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "October 31, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "National Association for the Advancement of Colored People",
+        "status": "suggested"
+      },
+      {
+        "data": "Youth Council Delegates - Smiling",
+        "status": "suggested"
+      },
+      {
+        "data": "Youth Councils",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianos",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      }
+    ]
+  }
 }

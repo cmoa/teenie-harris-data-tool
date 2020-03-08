@@ -1,20 +1,352 @@
 {
-	"irn": "16948",
-	"emuInput": {
-		"ecatalogue_key": "74",
-		"irn": "16948",
-		"TitAccessionNo": "2001.35.8841",
-		"TitMainTitle": "Nancy Lee wearing glasses on left, with Shirley Chisholm wearing floral dress and holding bouquet, standing with three women and minister, possibly in Loendi Club, for presidential campaign rally",
-		"CreDateCreated": "March 5, 1972",
-		"CreEarliestDate": "1972-03-05",
-		"CreLatestDate": "1972-03-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related article published in New Pittsburgh Courier newspaper, March 11, 1972, pg. 1 reads: \"The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"\nDisplay ad published in New Pittsburgh Courier newspaper, March 4, 1972, pg. 1 reads: \"The public is invited to the rally and reception Sunday, March 5, 1972 - Rally at the Carnegie Music Hall 5p.m. - Reception at the Loendi Club 841 Ledlie Street 8 p.m.\"",
-		"CatSubject_tab": "Chisholm, Shirley, 1924-2005\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "16948",
+  "emuInput": {
+    "ecatalogue_key": 8819,
+    "irn": 16948,
+    "TitAccessionNo": "2001.35.8841",
+    "CreDateCreated": "March 5, 1972",
+    "CreEarliestDate": "1972-03-05",
+    "CreLatestDate": "1972-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related article published in New Pittsburgh Courier newspaper, March 11, 1972, pg. 1 reads: \"The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"Display ad published in New Pittsburgh Courier newspaper, March 4, 1972, pg. 1 reads: \"The public is invited to the rally and reception Sunday, March 5, 1972 - Rally at the Carnegie Music Hall 5p.m. - Reception at the Loendi Club 841 Ledlie Street 8 p.m.\"",
+    "TitMainTitle": "Nancy Lee wearing glasses on left, with Shirley Chisholm wearing floral dress and holding bouquet, standing with three women and minister, possibly in Loendi Club, for presidential campaign rally",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Chisholm, Shirley, 1924-2005Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "29390885-be2a-4555-9908-5a0a1ac15ae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25055,
+    "MulMultiMediaRef_key": 8827,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25055/sizes/16948-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 8819,
+    "irn": 16948,
+    "TitAccessionNo": "2001.35.8841",
+    "CreDateCreated": "March 5, 1972",
+    "CreEarliestDate": "1972-03-05",
+    "CreLatestDate": "1972-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related article published in New Pittsburgh Courier newspaper, March 11, 1972, pg. 1 reads: \"The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"Display ad published in New Pittsburgh Courier newspaper, March 4, 1972, pg. 1 reads: \"The public is invited to the rally and reception Sunday, March 5, 1972 - Rally at the Carnegie Music Hall 5p.m. - Reception at the Loendi Club 841 Ledlie Street 8 p.m.\"",
+    "TitMainTitle": "Nancy Lee wearing glasses on left, with Shirley Chisholm wearing floral dress and holding bouquet, standing with three women and minister, possibly in Loendi Club, for presidential campaign rally",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Chisholm, Shirley, 1924-2005Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "29390885-be2a-4555-9908-5a0a1ac15ae6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25055,
+    "MulMultiMediaRef_key": 8827,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25055/sizes/16948-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Shirley Chisholm",
+        "status": "suggested"
+      },
+      {
+        "data": "Nancy Lee",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "N.Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Ledlie Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "N.Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Ledlie Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "N.Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Ledlie Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Brooklyn",
+        "status": "suggested"
+      },
+      {
+        "data": "N.Y.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Ledlie Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier newspaper, March 11, 1972, pg. 1 reads: \"The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"Display ad published in New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      },
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"Display ad published in New Pittsburgh Courier newspaper, March 4, 1972, pg. 1 reads: \"The public is invited to the rally and reception Sunday, March 5, 1972 - Rally at the Carnegie Music Hall 5p.m. - Reception at the Loendi Club 841 Ledlie Street 8 p.m.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 11, 1972, pg. 1 reads: \"The Honorable Shirley Chisholm, candidate for the office of President, member of the Congressional Black Caucus and congresswoman form Brooklyn, N.Y., addressed a rally of Pittsburgh voters at Carnegie Music Hall, Sunday evening.\"Display ad published in New Pittsburgh Courier newspaper, March 4, 1972",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Nancy Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Congressional Black Caucus",
+        "status": "suggested"
+      },
+      {
+        "data": "The Honorable Shirley Chisholm",
+        "status": "suggested"
+      },
+      {
+        "data": "March 11, 1972",
+        "status": "suggested"
+      },
+      {
+        "data": "the Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Carnegie Music Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Chisholm, Shirley, 1924-2005Women",
+        "status": "suggested"
+      },
+      {
+        "data": "March 4, 1972",
+        "status": "suggested"
+      },
+      {
+        "data": "8 p.m.",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Chisholm",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday, March 5, 1972 - Rally",
+        "status": "suggested"
+      },
+      {
+        "data": "Ledlie Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

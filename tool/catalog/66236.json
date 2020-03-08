@@ -1,20 +1,432 @@
 {
-	"irn": "66236",
-	"emuInput": {
-		"ecatalogue_key": "341",
-		"irn": "66236",
-		"TitAccessionNo": "2001.35.51985",
-		"TitMainTitle": "Group portrait of two men, including groom Howard Hairston, and two women, including bride Madelyn Moorer Cole Hairston wearing corsage on shoulder and fingerless gloves, posed in St. James AME Church, another version",
-		"CreDateCreated": "July 1956",
-		"CreEarliestDate": "1956-07-01",
-		"CreLatestDate": "1956-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 28, 1956, pg. 16, reads: \"Bachelor Takes Wife - Howard Hairston and his bride, the former Madelyn Moorer Cole, are the picture of happiness as they pose for the photographer following their wedding at St. James AME Church. - Teenie Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nHairston, Madelyn.\nHairston, Howard.\nSaint James African Methodist Episcopal Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "66236",
+  "emuInput": {
+    "ecatalogue_key": 51942,
+    "irn": 66236,
+    "TitAccessionNo": "2001.35.51985",
+    "CreDateCreated": "July 1956",
+    "CreEarliestDate": "1956-07-01",
+    "CreLatestDate": "1956-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 28, 1956, pg. 16, reads: \"Bachelor Takes Wife - Howard Hairston and his bride, the former Madelyn Moorer Cole, are the picture of happiness as they pose for the photographer following their wedding at St. James AME Church. - Teenie Harris Photo.\"",
+    "TitMainTitle": "Group portrait of two men, including groom Howard Hairston, and two women, including bride Madelyn Moorer Cole Hairston wearing corsage on shoulder and fingerless gloves, posed in St. James AME Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Hairston, Madelyn.Hairston, Howard.Saint James African Methodist Episcopal Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "46632796-7ae6-4baa-af39-55aa54badbb0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 88645,
+    "MulMultiMediaRef_key": 51950,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/88645/sizes/66236-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 51942,
+    "irn": 66236,
+    "TitAccessionNo": "2001.35.51985",
+    "CreDateCreated": "July 1956",
+    "CreEarliestDate": "1956-07-01",
+    "CreLatestDate": "1956-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 28, 1956, pg. 16, reads: \"Bachelor Takes Wife - Howard Hairston and his bride, the former Madelyn Moorer Cole, are the picture of happiness as they pose for the photographer following their wedding at St. James AME Church. - Teenie Harris Photo.\"",
+    "TitMainTitle": "Group portrait of two men, including groom Howard Hairston, and two women, including bride Madelyn Moorer Cole Hairston wearing corsage on shoulder and fingerless gloves, posed in St. James AME Church, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Hairston, Madelyn.Hairston, Howard.Saint James African Methodist Episcopal Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "46632796-7ae6-4baa-af39-55aa54badbb0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 88645,
+    "MulMultiMediaRef_key": 51950,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/88645/sizes/66236-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Madelyn Moorer Cole",
+        "status": "suggested"
+      },
+      {
+        "data": "Hairston",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard Hairston",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Madelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Madelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Madelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Madelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Bachelor Takes Wife - Howard Hairston and his bride, the former Madelyn Moorer Cole, are the picture of happiness as they pose for the photographer following their wedding at St. James AME Church. - Teenie Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 28, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Hairston, Howard",
+        "status": "suggested"
+      },
+      {
+        "data": "Saint James African Methodist Episcopal Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "July 28, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenie Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hairston, Madelyn",
+        "status": "suggested"
+      },
+      {
+        "data": "St. James AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Hairston",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      }
+    ]
+  }
 }

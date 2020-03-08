@@ -1,20 +1,396 @@
 {
-	"irn": "72058",
-	"emuInput": {
-		"ecatalogue_key": "383",
-		"irn": "72058",
-		"TitAccessionNo": "2001.35.56693",
-		"TitMainTitle": "Carolyn Waters, Billy House, Ruth Ann Wheeler, Grant Farmer, Suzanne Jones, Gene Daryle Hill, Bonnie Waters, and Marva Acie seated at round table, with Morris Fountain Sr. standing on right in back, in Loendi Club for FROGS Teenage Dance Party",
-		"CreDateCreated": "July 1960",
-		"CreEarliestDate": "1960-07-01",
-		"CreLatestDate": "1960-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. 20 reads: \"Sitting One Out-Enjoying a breather between dances at the Frogs' teen-age party was the above group. Seated, clockwise, are Carolyn Waters, McKeesport; Billy House (face hidden behind Carolyn) of Elizabeth; Ruth Ann Wheeler, Monessen; Grant Farmer, Rochester; Suzanne Jones, McKeesport; Gene Daryle Hill, Monessen; Bonnie Waters and Marva Acie, both of McKeesport.-Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nLoendi Club (Pittsburgh, Pa.).",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72058",
+  "emuInput": {
+    "ecatalogue_key": 56650,
+    "irn": 72058,
+    "TitAccessionNo": "2001.35.56693",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. 20 reads: \"Sitting One Out-Enjoying a breather between dances at the Frogs' teen-age party was the above group. Seated, clockwise, are Carolyn Waters, McKeesport; Billy House (face hidden behind Carolyn) of Elizabeth; Ruth Ann Wheeler, Monessen; Grant Farmer, Rochester; Suzanne Jones, McKeesport; Gene Daryle Hill, Monessen; Bonnie Waters and Marva Acie, both of McKeesport.-Harris Photo.\"",
+    "TitMainTitle": "Carolyn Waters, Billy House, Ruth Ann Wheeler, Grant Farmer, Suzanne Jones, Gene Daryle Hill, Bonnie Waters, and Marva Acie seated at round table, with Morris Fountain Sr. standing on right in back, in Loendi Club for FROGS Teenage Dance Party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).",
+    "AdmGUIDValue_tab": "29626016-7393-484c-9d4d-71af718c8141",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89761,
+    "MulMultiMediaRef_key": 56659,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89761/sizes/72058-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56650,
+    "irn": 72058,
+    "TitAccessionNo": "2001.35.56693",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 30, 1960, pg. 20 reads: \"Sitting One Out-Enjoying a breather between dances at the Frogs' teen-age party was the above group. Seated, clockwise, are Carolyn Waters, McKeesport; Billy House (face hidden behind Carolyn) of Elizabeth; Ruth Ann Wheeler, Monessen; Grant Farmer, Rochester; Suzanne Jones, McKeesport; Gene Daryle Hill, Monessen; Bonnie Waters and Marva Acie, both of McKeesport.-Harris Photo.\"",
+    "TitMainTitle": "Carolyn Waters, Billy House, Ruth Ann Wheeler, Grant Farmer, Suzanne Jones, Gene Daryle Hill, Bonnie Waters, and Marva Acie seated at round table, with Morris Fountain Sr. standing on right in back, in Loendi Club for FROGS Teenage Dance Party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Loendi Club (Pittsburgh, Pa.).",
+    "AdmGUIDValue_tab": "29626016-7393-484c-9d4d-71af718c8141",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89761,
+    "MulMultiMediaRef_key": 56659,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89761/sizes/72058-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Billy House",
+        "status": "suggested"
+      },
+      {
+        "data": "Marva Acie",
+        "status": "suggested"
+      },
+      {
+        "data": "Grant Farmer",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Ann Wheeler",
+        "status": "suggested"
+      },
+      {
+        "data": "Gene Daryle Hill",
+        "status": "suggested"
+      },
+      {
+        "data": "Suzanne Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Elizabeth",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "Bonnie Waters",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Elizabeth",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Monessen",
+        "status": "suggested"
+      },
+      {
+        "data": "Rochester",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Monessen",
+        "status": "suggested"
+      },
+      {
+        "data": "Rochester",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Monessen",
+        "status": "suggested"
+      },
+      {
+        "data": "Rochester",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Monessen",
+        "status": "suggested"
+      },
+      {
+        "data": "Rochester",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Sitting One Out-Enjoying a breather between dances at the Frogs' teen-age party was the above group. Seated, clockwise, are Carolyn Waters, McKeesport; Billy House (face hidden behind Carolyn) of Elizabeth; Ruth Ann Wheeler, Monessen; Grant Farmer, Rochester; Suzanne Jones, McKeesport; Gene Daryle Hill, Monessen; Bonnie Waters and Marva Acie, both of McKeesport.-Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 30, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Loendi Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Morris Fountain Sr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Suzanne Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Frogs",
+        "status": "suggested"
+      },
+      {
+        "data": "Billy House",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport.-Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "Bonnie Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenage Dance Party",
+        "status": "suggested"
+      },
+      {
+        "data": "Grant Farmer",
+        "status": "suggested"
+      },
+      {
+        "data": "Loendi Club",
+        "status": "suggested"
+      },
+      {
+        "data": "July 30, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Elizabeth",
+        "status": "suggested"
+      },
+      {
+        "data": "Carolyn Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

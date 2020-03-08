@@ -1,20 +1,440 @@
 {
-	"irn": "7094",
-	"emuInput": {
-		"ecatalogue_key": "33",
-		"irn": "7094",
-		"TitAccessionNo": "2001.35.4398",
-		"TitMainTitle": "Nedra Miller posing with her painting of John F. Kennedy with ribbon for second prize at 30th Allegheny County Fair, in her Beechview home with sunburst clock",
-		"CreDateCreated": "October 1967",
-		"CreEarliestDate": "1967-10-01",
-		"CreLatestDate": "1967-10-07",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper October 7, 1967, pg. 13, reads: \"Winner - Mrs. Nedra Mill of Beachview [Beechview], holds the painting of the late President Kennedy which won second prize for her at the recent County Fair.  A popular vote brought her to victory.  A young Beachview [sic] matron won second prize at the recent Allegheny County Fair with her painting of the late President John F. Kennedy.  Attractive Mrs. Nedra Miller of 1554 Napoleon Ave., has only been painting since 1964.  Always attracted to the arts, Mrs. Miller ventured first to the Arts and Crafts Center on Fifth Avenue, and was fortunate enough to study under Mary Shaw Marhonic.  Later, she learned the fine art of copying pictures as portraits on velvet, and worked at this for a time in conjunction with a studio.  Mrs. Miller's portrait of Kennedy won second prize by popular vote at the Fair.  Some day, she says, she will return to Arts and Crafts Center for further study. Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPaintings--Pennsylvania--Pittsburgh.\nClocks and watches--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nRibbons--Pennsylvania--Pittsburgh.\nVases--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "7094",
+  "emuInput": {
+    "ecatalogue_key": 4389,
+    "irn": 7094,
+    "TitAccessionNo": "2001.35.4398",
+    "CreDateCreated": "October 1967",
+    "CreEarliestDate": "1967-10-01",
+    "CreLatestDate": "1967-10-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper October 7, 1967, pg. 13, reads: \"Winner - Mrs. Nedra Mill of Beachview [Beechview], holds the painting of the late President Kennedy which won second prize for her at the recent County Fair.  A popular vote brought her to victory.  A young Beachview [sic] matron won second prize at the recent Allegheny County Fair with her painting of the late President John F. Kennedy.  Attractive Mrs. Nedra Miller of 1554 Napoleon Ave., has only been painting since 1964.  Always attracted to the arts, Mrs. Miller ventured first to the Arts and Crafts Center on Fifth Avenue, and was fortunate enough to study under Mary Shaw Marhonic.  Later, she learned the fine art of copying pictures as portraits on velvet, and worked at this for a time in conjunction with a studio.  Mrs. Miller's portrait of Kennedy won second prize by popular vote at the Fair.  Some day, she says, she will return to Arts and Crafts Center for further study. Harris Photo.\"",
+    "TitMainTitle": "Nedra Miller posing with her painting of John F. Kennedy with ribbon for second prize at 30th Allegheny County Fair, in her Beechview home with sunburst clock",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Ribbons--Pennsylvania--Pittsburgh.Vases--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "59509727-1130-4424-90b1-863d97ca1226",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19052,
+    "MulMultiMediaRef_key": 4392,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19052/sizes/7094-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4389,
+    "irn": 7094,
+    "TitAccessionNo": "2001.35.4398",
+    "CreDateCreated": "October 1967",
+    "CreEarliestDate": "1967-10-01",
+    "CreLatestDate": "1967-10-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper October 7, 1967, pg. 13, reads: \"Winner - Mrs. Nedra Mill of Beachview [Beechview], holds the painting of the late President Kennedy which won second prize for her at the recent County Fair.  A popular vote brought her to victory.  A young Beachview [sic] matron won second prize at the recent Allegheny County Fair with her painting of the late President John F. Kennedy.  Attractive Mrs. Nedra Miller of 1554 Napoleon Ave., has only been painting since 1964.  Always attracted to the arts, Mrs. Miller ventured first to the Arts and Crafts Center on Fifth Avenue, and was fortunate enough to study under Mary Shaw Marhonic.  Later, she learned the fine art of copying pictures as portraits on velvet, and worked at this for a time in conjunction with a studio.  Mrs. Miller's portrait of Kennedy won second prize by popular vote at the Fair.  Some day, she says, she will return to Arts and Crafts Center for further study. Harris Photo.\"",
+    "TitMainTitle": "Nedra Miller posing with her painting of John F. Kennedy with ribbon for second prize at 30th Allegheny County Fair, in her Beechview home with sunburst clock",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Paintings--Pennsylvania--Pittsburgh.Clocks and watches--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Ribbons--Pennsylvania--Pittsburgh.Vases--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "59509727-1130-4424-90b1-863d97ca1226",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 19052,
+    "MulMultiMediaRef_key": 4392,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/19052/sizes/7094-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Nedra Mill",
+        "status": "suggested"
+      },
+      {
+        "data": "Nedra Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "John F. Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Shaw Marhonic",
+        "status": "suggested"
+      },
+      {
+        "data": "Beachview",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Ribbons",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "Vases",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Beachview",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Napoleon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Beachview",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Napoleon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Beachview",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Napoleon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Beachview",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Napoleon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Winner - Mrs. Nedra Mill of Beachview [Beechview], holds the painting of the late President Kennedy which won second prize for her at the recent County Fair.  A popular vote brought her to victory.  A young Beachview [sic] matron won second prize at the recent Allegheny County Fair with her painting of the late President John F. Kennedy.  Attractive Mrs. Nedra Miller of 1554 Napoleon Ave., has only been painting since 1964.  Always attracted to the arts, Mrs. Miller ventured first to the Arts and Crafts Center on Fifth Avenue, and was fortunate enough to study under Mary Shaw Marhonic.  Later, she learned the fine art of copying pictures as portraits on velvet, and worked at this for a time in conjunction with a studio.  Mrs. Miller's portrait of Kennedy won second prize by popular vote at the Fair.  Some day, she says, she will return to Arts and Crafts Center for further study. Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 7, 1967",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Clocks and watches",
+        "status": "suggested"
+      },
+      {
+        "data": "1964",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Napoleon Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Beechview",
+        "status": "suggested"
+      },
+      {
+        "data": "the Arts and Crafts Center",
+        "status": "suggested"
+      },
+      {
+        "data": "1554",
+        "status": "suggested"
+      },
+      {
+        "data": "Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "October 7, 1967",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Arts and Crafts Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Ribbons",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Paintings",
+        "status": "suggested"
+      },
+      {
+        "data": "Some day",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Vases",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "John F. Kennedy",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "clock",
+        "status": "suggested"
+      },
+      {
+        "data": "mirror",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      }
+    ]
+  }
 }

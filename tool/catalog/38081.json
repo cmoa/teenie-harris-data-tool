@@ -1,20 +1,372 @@
 {
-	"irn": "38081",
-	"emuInput": {
-		"ecatalogue_key": "185",
-		"irn": "38081",
-		"TitAccessionNo": "2001.35.25605",
-		"TitMainTitle": "Group portrait of Edwards - Robinson wedding party, from left: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, groom Charles Henry Robinson, wife Dorothy Swann Edwards Robinson, maid of honor Jean Swann, R.R. Swann, and Frances Swann, posed in domestic interior with landscape vignette wallpaper, another version",
-		"CreDateCreated": "December 1946",
-		"CreEarliestDate": "1946-12-01",
-		"CreLatestDate": "1946-12-21",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 21, 1946, pg. 8 reads: \"Pretty Wedding Party - Pictured following their recent marriage are the newlyweds, Mr. and Mrs. Charles Henry Robinson, surrounded by their wedding party. Left to right: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, the newlyweds, maid of honor Jean Swann, R.R. Swann and Frances Swann.  The bride is the former Dorothy Swann Edwards, daughter of Mrs. Veryle Swann Edwards. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "38081",
+  "emuInput": {
+    "ecatalogue_key": 25573,
+    "irn": 38081,
+    "TitAccessionNo": "2001.35.25605",
+    "CreDateCreated": "December 1946",
+    "CreEarliestDate": "1946-12-01",
+    "CreLatestDate": "1946-12-21",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 21, 1946, pg. 8 reads: \"Pretty Wedding Party - Pictured following their recent marriage are the newlyweds, Mr. and Mrs. Charles Henry Robinson, surrounded by their wedding party. Left to right: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, the newlyweds, maid of honor Jean Swann, R.R. Swann and Frances Swann.  The bride is the former Dorothy Swann Edwards, daughter of Mrs. Veryle Swann Edwards. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Edwards - Robinson wedding party, from left: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, groom Charles Henry Robinson, wife Dorothy Swann Edwards Robinson, maid of honor Jean Swann, R.R. Swann, and Frances Swann, posed in domestic interior with landscape vignette wallpaper, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64835632-e143-4b20-9429-1ccaa5da895b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44839,
+    "MulMultiMediaRef_key": 25581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44839/sizes/38081-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 25573,
+    "irn": 38081,
+    "TitAccessionNo": "2001.35.25605",
+    "CreDateCreated": "December 1946",
+    "CreEarliestDate": "1946-12-01",
+    "CreLatestDate": "1946-12-21",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, December 21, 1946, pg. 8 reads: \"Pretty Wedding Party - Pictured following their recent marriage are the newlyweds, Mr. and Mrs. Charles Henry Robinson, surrounded by their wedding party. Left to right: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, the newlyweds, maid of honor Jean Swann, R.R. Swann and Frances Swann.  The bride is the former Dorothy Swann Edwards, daughter of Mrs. Veryle Swann Edwards. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Edwards - Robinson wedding party, from left: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, groom Charles Henry Robinson, wife Dorothy Swann Edwards Robinson, maid of honor Jean Swann, R.R. Swann, and Frances Swann, posed in domestic interior with landscape vignette wallpaper, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "64835632-e143-4b20-9429-1ccaa5da895b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44839,
+    "MulMultiMediaRef_key": 25581,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44839/sizes/38081-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Bernice Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Swann Edwards Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Earl Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "John Owens",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Ardeth Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Henry Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Swann Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Veryle Swann Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Swann",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pretty Wedding Party - Pictured following their recent marriage are the newlyweds, Mr. and Mrs. Charles Henry Robinson, surrounded by their wedding party. Left to right: Bernice Swann, Earl Johnson, Ardeth Swann, best man John Owens, the newlyweds, maid of honor Jean Swann, R.R. Swann and Frances Swann.  The bride is the former Dorothy Swann Edwards, daughter of Mrs. Veryle Swann Edwards. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 21, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "Jean Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Bernice Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Earl Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "John Owens",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Henry Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "December 21, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "R.R. Swann",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      }
+    ]
+  }
 }

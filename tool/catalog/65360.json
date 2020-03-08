@@ -1,20 +1,372 @@
 {
-	"irn": "65360",
-	"emuInput": {
-		"ecatalogue_key": "329",
-		"irn": "65360",
-		"TitAccessionNo": "2001.35.51081",
-		"TitMainTitle": "Portrait of Mrs. Arthur Coles wearing sheer mid length veil with floral edge and long sleeved wedding gown with floral lace overlay, holding large bouquet of roses, standing in interior with building patterned curtains, possibly at 335 Brushton Avenue, Homewood",
-		"CreDateCreated": "July 1951",
-		"CreEarliestDate": "1951-07-01",
-		"CreLatestDate": "1951-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 21, 1951, pg. 8 reads: \"In The Bridal March - Radiant smiles are registered on the faces of theses lovely ladies who are summer brides...Mrs. Arthur Coles...Mrs. Coles' picture is a Harris photo.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "65360",
+  "emuInput": {
+    "ecatalogue_key": 51038,
+    "irn": 65360,
+    "TitAccessionNo": "2001.35.51081",
+    "CreDateCreated": "July 1951",
+    "CreEarliestDate": "1951-07-01",
+    "CreLatestDate": "1951-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 21, 1951, pg. 8 reads: \"In The Bridal March - Radiant smiles are registered on the faces of theses lovely ladies who are summer brides...Mrs. Arthur Coles...Mrs. Coles' picture is a Harris photo.\"",
+    "TitMainTitle": "Portrait of Mrs. Arthur Coles wearing sheer mid length veil with floral edge and long sleeved wedding gown with floral lace overlay, holding large bouquet of roses, standing in interior with building patterned curtains, possibly at 335 Brushton Avenue, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "015bf955-4ec0-41d8-bdfd-c3b7940a7630",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74763,
+    "MulMultiMediaRef_key": 51046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74763/sizes/65360-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 51038,
+    "irn": 65360,
+    "TitAccessionNo": "2001.35.51081",
+    "CreDateCreated": "July 1951",
+    "CreEarliestDate": "1951-07-01",
+    "CreLatestDate": "1951-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 21, 1951, pg. 8 reads: \"In The Bridal March - Radiant smiles are registered on the faces of theses lovely ladies who are summer brides...Mrs. Arthur Coles...Mrs. Coles' picture is a Harris photo.\"",
+    "TitMainTitle": "Portrait of Mrs. Arthur Coles wearing sheer mid length veil with floral edge and long sleeved wedding gown with floral lace overlay, holding large bouquet of roses, standing in interior with building patterned curtains, possibly at 335 Brushton Avenue, Homewood",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "015bf955-4ec0-41d8-bdfd-c3b7940a7630",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 74763,
+    "MulMultiMediaRef_key": 51046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/74763/sizes/65360-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Arthur Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Coles",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Brushton Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Brushton Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Brushton Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Brushton Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "In The Bridal March - Radiant smiles are registered on the faces of theses lovely ladies who are summer brides...Mrs. Arthur Coles...Mrs. Coles' picture is a Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 21, 1951",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "summer",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Arthur Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "July 21, 1951",
+        "status": "suggested"
+      },
+      {
+        "data": "Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Brushton Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "flower",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

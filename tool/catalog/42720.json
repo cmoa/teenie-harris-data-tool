@@ -1,20 +1,352 @@
 {
-	"irn": "42720",
-	"emuInput": {
-		"ecatalogue_key": "203",
-		"irn": "42720",
-		"TitAccessionNo": "2001.35.30071",
-		"TitMainTitle": "Dianne Dixon, Maxine Smith, Melvin Dixon, Rufus Cromartie Jr., Joanne Smith, and Elmer Jessup Jr. surrounding Bernadette Cromartie behind birthday cake with two candles, for her second birthday party, in home of Eula Jessup",
-		"CreDateCreated": "February 1947",
-		"CreEarliestDate": "1947-02-01",
-		"CreLatestDate": "1947-02-28",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper March 1, 1947, pg. 17, reads: \"What Fun for Kids! - There's nothing like a birthday party for a delightful afternoon for kids, and these youngsters are certainly having a ball by the expressions of their faces. Left to right are: Dianne Dixon, Maxine Smith, Melvin Dixon, Bernadette Cromartie, who is celebrating her second birthday; Rufus Cromartie Jr., Joanne Smith and Elmer Jessup Jr. The party was held at the home of the honoree's aunt, Mrs. Eula Jessup of Wylie Avenue. - Harris Photo.\"",
-		"CatSubject_tab": "Children--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nBirthday parties--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "42720",
+  "emuInput": {
+    "ecatalogue_key": 30038,
+    "irn": 42720,
+    "TitAccessionNo": "2001.35.30071",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-28",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper March 1, 1947, pg. 17, reads: \"What Fun for Kids! - There's nothing like a birthday party for a delightful afternoon for kids, and these youngsters are certainly having a ball by the expressions of their faces. Left to right are: Dianne Dixon, Maxine Smith, Melvin Dixon, Bernadette Cromartie, who is celebrating her second birthday; Rufus Cromartie Jr., Joanne Smith and Elmer Jessup Jr. The party was held at the home of the honoree's aunt, Mrs. Eula Jessup of Wylie Avenue. - Harris Photo.\"",
+    "TitMainTitle": "Dianne Dixon, Maxine Smith, Melvin Dixon, Rufus Cromartie Jr., Joanne Smith, and Elmer Jessup Jr. surrounding Bernadette Cromartie behind birthday cake with two candles, for her second birthday party, in home of Eula Jessup",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Birthday parties--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "97360675-f4ff-4a3d-97e7-bed94c621e00",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49133,
+    "MulMultiMediaRef_key": 30046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49133/sizes/42720-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 30038,
+    "irn": 42720,
+    "TitAccessionNo": "2001.35.30071",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-28",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper March 1, 1947, pg. 17, reads: \"What Fun for Kids! - There's nothing like a birthday party for a delightful afternoon for kids, and these youngsters are certainly having a ball by the expressions of their faces. Left to right are: Dianne Dixon, Maxine Smith, Melvin Dixon, Bernadette Cromartie, who is celebrating her second birthday; Rufus Cromartie Jr., Joanne Smith and Elmer Jessup Jr. The party was held at the home of the honoree's aunt, Mrs. Eula Jessup of Wylie Avenue. - Harris Photo.\"",
+    "TitMainTitle": "Dianne Dixon, Maxine Smith, Melvin Dixon, Rufus Cromartie Jr., Joanne Smith, and Elmer Jessup Jr. surrounding Bernadette Cromartie behind birthday cake with two candles, for her second birthday party, in home of Eula Jessup",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Children--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Birthday parties--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "97360675-f4ff-4a3d-97e7-bed94c621e00",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 49133,
+    "MulMultiMediaRef_key": 30046,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/49133/sizes/42720-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Eula Jessup",
+        "status": "suggested"
+      },
+      {
+        "data": "Maxine Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Bernadette Cromartie",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmer Jessup Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Joanne Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Melvin Dixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Rufus Cromartie Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Dianne Dixon",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Birthday parties",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "What Fun for Kids! - There's nothing like a birthday party for a delightful afternoon for kids, and these youngsters are certainly having a ball by the expressions of their faces. Left to right are: Dianne Dixon, Maxine Smith, Melvin Dixon, Bernadette Cromartie, who is celebrating her second birthday; Rufus Cromartie Jr., Joanne Smith and Elmer Jessup Jr. The party was held at the home of the honoree's aunt, Mrs. Eula Jessup of Wylie Avenue. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 1, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "March 1, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "Maxine Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Birthday parties",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Joanne Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Melvin Dixon",
+        "status": "suggested"
+      },
+      {
+        "data": "What Fun for Kids",
+        "status": "suggested"
+      },
+      {
+        "data": "Dianne Dixon",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "classroom",
+        "status": "suggested"
+      }
+    ]
+  }
 }

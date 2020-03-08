@@ -1,20 +1,360 @@
 {
-	"irn": "48602",
-	"emuInput": {
-		"ecatalogue_key": "209",
-		"irn": "48602",
-		"TitAccessionNo": "2001.35.35667",
-		"TitMainTitle": "Portrait of baby Cheryl Banks wearing calico dress and seated on ottoman, in Banks home, 1838 Centre Avenue, Hill District",
-		"CreDateCreated": "December 1945 - January 1946",
-		"CreEarliestDate": "1945-12-01",
-		"CreLatestDate": "1946-01-05",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 5, 1946, pg. 13, reads: \"Sitting Pretty! A cute little lady...Cheryl Banks, daughter of Mr. and Mrs. Nathaniel Banks Jr., who live at 1838 Centre Avenue.  She is the granddaughter of Mrs. Inez Jackson of the same address. - Courier Photo by Harris.\"",
-		"CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nBabies--Pennsylvania--Pittsburgh.\nLiving rooms--Pennsylvania--Pittsburgh.\nGirls--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "48602",
+  "emuInput": {
+    "ecatalogue_key": 35628,
+    "irn": 48602,
+    "TitAccessionNo": "2001.35.35667",
+    "CreDateCreated": "December 1945 - January 1946",
+    "CreEarliestDate": "1945-12-01",
+    "CreLatestDate": "1946-01-05",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 5, 1946, pg. 13, reads: \"Sitting Pretty! A cute little lady...Cheryl Banks, daughter of Mr. and Mrs. Nathaniel Banks Jr., who live at 1838 Centre Avenue.  She is the granddaughter of Mrs. Inez Jackson of the same address. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Portrait of baby Cheryl Banks wearing calico dress and seated on ottoman, in Banks home, 1838 Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "011d4183-40bd-4218-92d3-61415208fbfe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55427,
+    "MulMultiMediaRef_key": 35636,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55427/sizes/48602-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 35628,
+    "irn": 48602,
+    "TitAccessionNo": "2001.35.35667",
+    "CreDateCreated": "December 1945 - January 1946",
+    "CreEarliestDate": "1945-12-01",
+    "CreLatestDate": "1946-01-05",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 5, 1946, pg. 13, reads: \"Sitting Pretty! A cute little lady...Cheryl Banks, daughter of Mr. and Mrs. Nathaniel Banks Jr., who live at 1838 Centre Avenue.  She is the granddaughter of Mrs. Inez Jackson of the same address. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Portrait of baby Cheryl Banks wearing calico dress and seated on ottoman, in Banks home, 1838 Centre Avenue, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Girls--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Babies--Pennsylvania--Pittsburgh.Living rooms--Pennsylvania--Pittsburgh.Girls--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "011d4183-40bd-4218-92d3-61415208fbfe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55427,
+    "MulMultiMediaRef_key": 35636,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55427/sizes/48602-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Nathaniel Banks Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Inez Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Cheryl Banks",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1838 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1838 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1838 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "1838 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Sitting Pretty! A cute little lady...Cheryl Banks, daughter of Mr. and Mrs. Nathaniel Banks Jr., who live at 1838 Centre Avenue.  She is the granddaughter of Mrs. Inez Jackson of the same address. - Courier Photo by Harris.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 5, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "1838 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Cheryl Banks",
+        "status": "suggested"
+      },
+      {
+        "data": "Living rooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "January 5, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "1838",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "swing",
+        "status": "suggested"
+      },
+      {
+        "data": "plaything",
+        "status": "suggested"
+      },
+      {
+        "data": "mechanism",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "toddler",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

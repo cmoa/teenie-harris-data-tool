@@ -1,20 +1,331 @@
 {
-	"irn": "67487",
-	"emuInput": {
-		"ecatalogue_key": "350",
-		"irn": "67487",
-		"TitAccessionNo": "2001.35.53305",
-		"TitMainTitle": "Thelma Jefferies and Jessie Vann shaking hands, standing on stage in front of open refrigerator, in Ammon Center for the 1953 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "June 9-11, 1953",
-		"CreEarliestDate": "1953-06-09",
-		"CreLatestDate": "1953-06-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 20, 1953, page 23, reads: \"Grand Prize - Mrs. Robert L. Vann, president and publisher of the Courier, heartily congratulates Mrs. Thelma Jefferies, 633 Ossipee Street, grand-prize winner of a special Crosley Shelvador Refrigerator.\"",
-		"CatSubject_tab": "Pittsburgh Courier Home Service Fair.\nAmmon Center (Pittsburgh, Pa.)\nTrade shows--Pennsylvania--Pittsburgh.\nKitchen appliances--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nStages (Platforms)--Pennsylvania--Pittsburgh.\nHandshaking--Pennsylvania--Pittsburgh.\nVann, Jessie, 1889-1967.\nJefferies, Thelma.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67487",
+  "emuInput": {
+    "ecatalogue_key": 53262,
+    "irn": 67487,
+    "TitAccessionNo": "2001.35.53305",
+    "CreDateCreated": "June 9-11, 1953",
+    "CreEarliestDate": "1953-06-09",
+    "CreLatestDate": "1953-06-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 20, 1953, page 23, reads: \"Grand Prize - Mrs. Robert L. Vann, president and publisher of the Courier, heartily congratulates Mrs. Thelma Jefferies, 633 Ossipee Street, grand-prize winner of a special Crosley Shelvador Refrigerator.\"",
+    "TitMainTitle": "Thelma Jefferies and Jessie Vann shaking hands, standing on stage in front of open refrigerator, in Ammon Center for the 1953 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pittsburgh Courier Home Service Fair.Ammon Center (Pittsburgh, Pa.)Trade shows--Pennsylvania--Pittsburgh.Kitchen appliances--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Jefferies, Thelma.",
+    "AdmGUIDValue_tab": "35585527-6c6e-4022-982d-5f7f335b29fe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77607,
+    "MulMultiMediaRef_key": 53270,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77607/sizes/67487-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53262,
+    "irn": 67487,
+    "TitAccessionNo": "2001.35.53305",
+    "CreDateCreated": "June 9-11, 1953",
+    "CreEarliestDate": "1953-06-09",
+    "CreLatestDate": "1953-06-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 20, 1953, page 23, reads: \"Grand Prize - Mrs. Robert L. Vann, president and publisher of the Courier, heartily congratulates Mrs. Thelma Jefferies, 633 Ossipee Street, grand-prize winner of a special Crosley Shelvador Refrigerator.\"",
+    "TitMainTitle": "Thelma Jefferies and Jessie Vann shaking hands, standing on stage in front of open refrigerator, in Ammon Center for the 1953 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pittsburgh Courier Home Service Fair.Ammon Center (Pittsburgh, Pa.)Trade shows--Pennsylvania--Pittsburgh.Kitchen appliances--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Jefferies, Thelma.",
+    "AdmGUIDValue_tab": "35585527-6c6e-4022-982d-5f7f335b29fe",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 77607,
+    "MulMultiMediaRef_key": 53270,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/77607/sizes/67487-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Thelma Jefferies",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchen appliances",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann (Liberty ship)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Ossipee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Ossipee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Ossipee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Ossipee Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Trade",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "23",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Grand Prize - Mrs. Robert L. Vann, president and publisher of the Courier, heartily congratulates Mrs. Thelma Jefferies, 633 Ossipee Street, grand-prize winner of a special Crosley Shelvador Refrigerator.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "SS Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Grand Prize",
+        "status": "suggested"
+      },
+      {
+        "data": "Jefferies, Thelma",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchen appliances",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center ",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Stages (Platforms)",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Ossipee Street",
+        "status": "suggested"
+      },
+      {
+        "data": ")Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "June 20, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Crosley Shelvador Refrigerator",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

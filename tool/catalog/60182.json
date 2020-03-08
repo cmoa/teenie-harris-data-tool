@@ -1,20 +1,367 @@
 {
-	"irn": "60182",
-	"emuInput": {
-		"ecatalogue_key": "287",
-		"irn": "60182",
-		"TitAccessionNo": "2001.35.46231",
-		"TitMainTitle": "\"Ideal Mother for 1957\" Irene Lee surrounded by eight of her thirteen children and others in her home at 2514 Elba Street, Hill District",
-		"CreDateCreated": "May 1957",
-		"CreEarliestDate": "1957-05-01",
-		"CreLatestDate": "1957-05-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper May 11, 1957, pg. A1, reads: \"Ideal Mother - Mrs. Irene Lee, who typically represents the 'Ideal Mother for 1957,' is shown with eight of her 13 children and two grandchildren. Mrs. Lee is the proud mother of eight boys and five girls. The oldest will be 28, in August, and the youngest is 6. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "60182",
+  "emuInput": {
+    "ecatalogue_key": 46188,
+    "irn": 60182,
+    "TitAccessionNo": "2001.35.46231",
+    "CreDateCreated": "May 1957",
+    "CreEarliestDate": "1957-05-01",
+    "CreLatestDate": "1957-05-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper May 11, 1957, pg. A1, reads: \"Ideal Mother - Mrs. Irene Lee, who typically represents the 'Ideal Mother for 1957,' is shown with eight of her 13 children and two grandchildren. Mrs. Lee is the proud mother of eight boys and five girls. The oldest will be 28, in August, and the youngest is 6. - Harris Photo.\"",
+    "TitMainTitle": "\"Ideal Mother for 1957\" Irene Lee surrounded by eight of her thirteen children and others in her home at 2514 Elba Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54041538-7ced-4e7c-bdac-9bb63d29fe5b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68327,
+    "MulMultiMediaRef_key": 46196,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68327/sizes/60182-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46188,
+    "irn": 60182,
+    "TitAccessionNo": "2001.35.46231",
+    "CreDateCreated": "May 1957",
+    "CreEarliestDate": "1957-05-01",
+    "CreLatestDate": "1957-05-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper May 11, 1957, pg. A1, reads: \"Ideal Mother - Mrs. Irene Lee, who typically represents the 'Ideal Mother for 1957,' is shown with eight of her 13 children and two grandchildren. Mrs. Lee is the proud mother of eight boys and five girls. The oldest will be 28, in August, and the youngest is 6. - Harris Photo.\"",
+    "TitMainTitle": "\"Ideal Mother for 1957\" Irene Lee surrounded by eight of her thirteen children and others in her home at 2514 Elba Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "54041538-7ced-4e7c-bdac-9bb63d29fe5b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68327,
+    "MulMultiMediaRef_key": 46196,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68327/sizes/60182-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Irene Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "2514 Elba Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "2514 Elba Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "2514 Elba Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "2514 Elba Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Ideal Mother - Mrs. Irene Lee, who typically represents the 'Ideal Mother for 1957,' is shown with eight of her 13 children and two grandchildren. Mrs. Lee is the proud mother of eight boys and five girls. The oldest will be 28, in August, and the youngest is 6. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 11, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "the 'Ideal Mother",
+        "status": "suggested"
+      },
+      {
+        "data": "August",
+        "status": "suggested"
+      },
+      {
+        "data": "2514 Elba Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Ideal Mother - Mrs.",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Ideal Mother",
+        "status": "suggested"
+      },
+      {
+        "data": "Irene Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "May 11, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

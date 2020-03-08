@@ -1,20 +1,403 @@
 {
-	"irn": "72316",
-	"emuInput": {
-		"ecatalogue_key": "389",
-		"irn": "72316",
-		"TitAccessionNo": "2001.35.56911",
-		"TitMainTitle": "Group of men at table, including Francis Holahan, George Davis, and William S. Howell, facing audience during Homewood-Brushton Citizens Renewal Council meeting, in Homewood-Brushton YMCA",
-		"CreDateCreated": "January 1962",
-		"CreEarliestDate": "1962-01-01",
-		"CreLatestDate": "1962-01-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 20, 1962, pg. 1 reads:\"Discussing Homewood-Brushton Renewal Plans - Key figures in plans to rejuvenate the Homewood-Brushton area through a proposed urban renewal project addressed a large, enthusiastic crowd attending an open meeting of the Homewood-Brushton Citizens Renewal Council. Seated before the group at a table in background are: Francis Holahan, chairman of the by-laws committee; George Davis, acting as president of the body, and William S. Howell, secretary and president of the cooperating Homewood Community Improvement Association. A small portion of the crowd can be seen in the foreground. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nAudiences--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nYoung Men's Christian Association (Pittsburgh, Pa.)\nInteriors--Pennsylvania--Pittsburgh.\nCharts--Pennsylvania--Pittsburgh.\nHomewood (Pittsburgh, Pa.)\nHowell, William.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72316",
+  "emuInput": {
+    "ecatalogue_key": 56868,
+    "irn": 72316,
+    "TitAccessionNo": "2001.35.56911",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 20, 1962, pg. 1 reads:\"Discussing Homewood-Brushton Renewal Plans - Key figures in plans to rejuvenate the Homewood-Brushton area through a proposed urban renewal project addressed a large, enthusiastic crowd attending an open meeting of the Homewood-Brushton Citizens Renewal Council. Seated before the group at a table in background are: Francis Holahan, chairman of the by-laws committee; George Davis, acting as president of the body, and William S. Howell, secretary and president of the cooperating Homewood Community Improvement Association. A small portion of the crowd can be seen in the foreground. - Harris Photo.\"",
+    "TitMainTitle": "Group of men at table, including Francis Holahan, George Davis, and William S. Howell, facing audience during Homewood-Brushton Citizens Renewal Council meeting, in Homewood-Brushton YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Interiors--Pennsylvania--Pittsburgh.Charts--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Howell, William.",
+    "AdmGUIDValue_tab": "93710911-b85c-4b2d-9b3a-e734d4dce105",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90426,
+    "MulMultiMediaRef_key": 56877,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90426/sizes/72316-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56868,
+    "irn": 72316,
+    "TitAccessionNo": "2001.35.56911",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 20, 1962, pg. 1 reads:\"Discussing Homewood-Brushton Renewal Plans - Key figures in plans to rejuvenate the Homewood-Brushton area through a proposed urban renewal project addressed a large, enthusiastic crowd attending an open meeting of the Homewood-Brushton Citizens Renewal Council. Seated before the group at a table in background are: Francis Holahan, chairman of the by-laws committee; George Davis, acting as president of the body, and William S. Howell, secretary and president of the cooperating Homewood Community Improvement Association. A small portion of the crowd can be seen in the foreground. - Harris Photo.\"",
+    "TitMainTitle": "Group of men at table, including Francis Holahan, George Davis, and William S. Howell, facing audience during Homewood-Brushton Citizens Renewal Council meeting, in Homewood-Brushton YMCA",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Audiences--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Interiors--Pennsylvania--Pittsburgh.Charts--Pennsylvania--Pittsburgh.Homewood (Pittsburgh, Pa.)Howell, William.",
+    "AdmGUIDValue_tab": "93710911-b85c-4b2d-9b3a-e734d4dce105",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 90426,
+    "MulMultiMediaRef_key": 56877,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/90426/sizes/72316-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "George Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Francis Holahan",
+        "status": "suggested"
+      },
+      {
+        "data": "William S. Howell",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Audiences",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Renewal",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Howell",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Renewal",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Howell",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Renewal",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Howell",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Renewal",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Howell",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "January 20, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Renewal",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "William S. Howell",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Men's Christian Association ",
+        "status": "suggested"
+      },
+      {
+        "data": "Audiences",
+        "status": "suggested"
+      },
+      {
+        "data": "George Davis",
+        "status": "suggested"
+      },
+      {
+        "data": "Charts",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood Community Improvement Association",
+        "status": "suggested"
+      },
+      {
+        "data": ")Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Howell, William",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood-Brushton Citizens Renewal Council",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "January 20, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "audience",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      }
+    ]
+  }
 }

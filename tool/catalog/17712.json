@@ -1,20 +1,332 @@
 {
-	"irn": "17712",
-	"emuInput": {
-		"ecatalogue_key": "78",
-		"irn": "17712",
-		"TitAccessionNo": "2001.35.9361",
-		"TitMainTitle": "Vice President Richard Milhous Nixon waving to crowd, with Hugh Scott standing on right, on stage in Syria Mosque for 1958 Republican campaign",
-		"CreDateCreated": "October 1958",
-		"CreEarliestDate": "1958-10-01",
-		"CreLatestDate": "1958-10-18",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 18, 1958, pg. 1 reads: \" 'Veep' Responds - Vice President Richard M. Nixon responds to a thunderous ovation as he reached the speaker's platform at Syria Mosque last Friday afternoon. The crowd heard Mr. Nixon inform local Republican leaders that the average worker earns more per week and year under the Eisenhower Administration, than even under Franklin D. Roosevelt or Harry S. Truman. - Harris Photo.\"",
-		"CatSubject_tab": "Nixon, Richard M. (Richard Milhous) 1913-.\nPolitical campaigns--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nAdvertising, Political--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "17712",
+  "emuInput": {
+    "ecatalogue_key": 9335,
+    "irn": 17712,
+    "TitAccessionNo": "2001.35.9361",
+    "CreDateCreated": "October 1958",
+    "CreEarliestDate": "1958-10-01",
+    "CreLatestDate": "1958-10-18",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 18, 1958, pg. 1 reads: \" 'Veep' Responds - Vice President Richard M. Nixon responds to a thunderous ovation as he reached the speaker's platform at Syria Mosque last Friday afternoon. The crowd heard Mr. Nixon inform local Republican leaders that the average worker earns more per week and year under the Eisenhower Administration, than even under Franklin D. Roosevelt or Harry S. Truman. - Harris Photo.\"",
+    "TitMainTitle": "Vice President Richard Milhous Nixon waving to crowd, with Hugh Scott standing on right, on stage in Syria Mosque for 1958 Republican campaign",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Nixon, Richard M. (Richard Milhous) 1913-.Political campaigns--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Advertising, Political--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "60138141-90d9-45fd-979a-bf23f61b2ef6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26355,
+    "MulMultiMediaRef_key": 9343,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26355/sizes/17712-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 9335,
+    "irn": 17712,
+    "TitAccessionNo": "2001.35.9361",
+    "CreDateCreated": "October 1958",
+    "CreEarliestDate": "1958-10-01",
+    "CreLatestDate": "1958-10-18",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 18, 1958, pg. 1 reads: \" 'Veep' Responds - Vice President Richard M. Nixon responds to a thunderous ovation as he reached the speaker's platform at Syria Mosque last Friday afternoon. The crowd heard Mr. Nixon inform local Republican leaders that the average worker earns more per week and year under the Eisenhower Administration, than even under Franklin D. Roosevelt or Harry S. Truman. - Harris Photo.\"",
+    "TitMainTitle": "Vice President Richard Milhous Nixon waving to crowd, with Hugh Scott standing on right, on stage in Syria Mosque for 1958 Republican campaign",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Nixon, Richard M. (Richard Milhous) 1913-.Political campaigns--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Advertising, Political--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "60138141-90d9-45fd-979a-bf23f61b2ef6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26355,
+    "MulMultiMediaRef_key": 9343,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26355/sizes/17712-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Hugh Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Milhous Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard M. Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Franklin D. Roosevelt",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry S. Truman",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Advertising, Political",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " 'Veep' Responds - Vice President Richard M. Nixon responds to a thunderous ovation as he reached the speaker's platform at Syria Mosque last Friday afternoon. The crowd heard Mr. Nixon inform local Republican leaders that the average worker earns more per week and year under the Eisenhower Administration, than even under Franklin D. Roosevelt or Harry S. Truman. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 18, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Richard Milhous Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard M. Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Veep",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Nixon, Richard M",
+        "status": "suggested"
+      },
+      {
+        "data": ")Advertising, Political",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Republican",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Political campaigns",
+        "status": "suggested"
+      },
+      {
+        "data": "the Eisenhower Administration",
+        "status": "suggested"
+      },
+      {
+        "data": "October 18, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Hugh Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Franklin D. Roosevelt",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry S. Truman",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      },
+      {
+        "data": "1958",
+        "status": "suggested"
+      },
+      {
+        "data": "year",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

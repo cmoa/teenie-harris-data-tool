@@ -1,20 +1,404 @@
 {
-	"irn": "31546",
-	"emuInput": {
-		"ecatalogue_key": "153",
-		"irn": "31546",
-		"TitAccessionNo": "2001.35.19761",
-		"TitMainTitle": "Group portrait, seated, from left: Alice Adams, Ida Mae Jackson, Louis Adams, Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, guests of honor; Helen Ballou, Jeanne Daniels, Margaret Adams, and Geneva Adams; standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Mabel Adams, Joseph Daniels, Alderman John H. Adams, and Thomas E. Adams, gathered at banquet table for 50th wedding anniversary in Christian Tabernacle Church",
-		"CreDateCreated": "March 13, 1965",
-		"CreEarliestDate": "1965-03-13",
-		"CreLatestDate": "1965-03-13",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 20, 1965, pg. 7 reads: \"Celebrate Anniversary - Relatives and friends who helped Mr. and Mrs. Lorenzo Adams celebrate their 50th wedding anniversary. The affair was held at the Christian Tabernacle, on Saturday, March 13.  Left to right, seated: Mrs. Alice Adams, Mrs. Ida Mae Jackson, Mrs. Louis Adams, Mrs. Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, Mrs. Helen Ballou, Mrs. Jeanne Daniels, Mrs. Margaret Adams and Mrs. Geneva Adams.  Standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Miss Mabel Adams, Joseph Daniels, Alderman John H. Adams and Thomas E. Adams. - Harris Photo\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nMilitary uniforms--Pennsylvania--Pittsburgh.\nAnniversary celebrations--Pennsylvania--Pittsburgh.\nChristian Tabernacle Church (Pittsburgh, Pa.)\nAdams, John H.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "31546",
+  "emuInput": {
+    "ecatalogue_key": 19730,
+    "irn": 31546,
+    "TitAccessionNo": "2001.35.19761",
+    "CreDateCreated": "March 13, 1965",
+    "CreEarliestDate": "1965-03-13",
+    "CreLatestDate": "1965-03-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 20, 1965, pg. 7 reads: \"Celebrate Anniversary - Relatives and friends who helped Mr. and Mrs. Lorenzo Adams celebrate their 50th wedding anniversary. The affair was held at the Christian Tabernacle, on Saturday, March 13.  Left to right, seated: Mrs. Alice Adams, Mrs. Ida Mae Jackson, Mrs. Louis Adams, Mrs. Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, Mrs. Helen Ballou, Mrs. Jeanne Daniels, Mrs. Margaret Adams and Mrs. Geneva Adams.  Standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Miss Mabel Adams, Joseph Daniels, Alderman John H. Adams and Thomas E. Adams. - Harris Photo\"",
+    "TitMainTitle": "Group portrait, seated, from left: Alice Adams, Ida Mae Jackson, Louis Adams, Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, guests of honor; Helen Ballou, Jeanne Daniels, Margaret Adams, and Geneva Adams; standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Mabel Adams, Joseph Daniels, Alderman John H. Adams, and Thomas E. Adams, gathered at banquet table for 50th wedding anniversary in Christian Tabernacle Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Anniversary celebrations--Pennsylvania--Pittsburgh.Christian Tabernacle Church (Pittsburgh, Pa.)Adams, John H.",
+    "AdmGUIDValue_tab": "034ef07c-0a46-43b6-9c74-4c90173d5cba",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37730,
+    "MulMultiMediaRef_key": 19738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37730/sizes/31546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 19730,
+    "irn": 31546,
+    "TitAccessionNo": "2001.35.19761",
+    "CreDateCreated": "March 13, 1965",
+    "CreEarliestDate": "1965-03-13",
+    "CreLatestDate": "1965-03-13",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 20, 1965, pg. 7 reads: \"Celebrate Anniversary - Relatives and friends who helped Mr. and Mrs. Lorenzo Adams celebrate their 50th wedding anniversary. The affair was held at the Christian Tabernacle, on Saturday, March 13.  Left to right, seated: Mrs. Alice Adams, Mrs. Ida Mae Jackson, Mrs. Louis Adams, Mrs. Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, Mrs. Helen Ballou, Mrs. Jeanne Daniels, Mrs. Margaret Adams and Mrs. Geneva Adams.  Standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Miss Mabel Adams, Joseph Daniels, Alderman John H. Adams and Thomas E. Adams. - Harris Photo\"",
+    "TitMainTitle": "Group portrait, seated, from left: Alice Adams, Ida Mae Jackson, Louis Adams, Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, guests of honor; Helen Ballou, Jeanne Daniels, Margaret Adams, and Geneva Adams; standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Mabel Adams, Joseph Daniels, Alderman John H. Adams, and Thomas E. Adams, gathered at banquet table for 50th wedding anniversary in Christian Tabernacle Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Anniversary celebrations--Pennsylvania--Pittsburgh.Christian Tabernacle Church (Pittsburgh, Pa.)Adams, John H.",
+    "AdmGUIDValue_tab": "034ef07c-0a46-43b6-9c74-4c90173d5cba",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 37730,
+    "MulMultiMediaRef_key": 19738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/37730/sizes/31546-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Cornelius C. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Ballou",
+        "status": "suggested"
+      },
+      {
+        "data": "Ida Mae Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph J. Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanne Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph B. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "John H. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "William L. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorenzo Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorenzo R. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Geneva Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Alice Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry W. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Mabel Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Sadie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas E. Adams",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Anniversaries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Anniversaries, etc",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "7",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Celebrate Anniversary - Relatives and friends who helped Mr. and Mrs. Lorenzo Adams celebrate their 50th wedding anniversary. The affair was held at the Christian Tabernacle, on Saturday, March 13.  Left to right, seated: Mrs. Alice Adams, Mrs. Ida Mae Jackson, Mrs. Louis Adams, Mrs. Sadie Harris, Mr. and Mrs. Lorenzo R. Adams, Mrs. Helen Ballou, Mrs. Jeanne Daniels, Mrs. Margaret Adams and Mrs. Geneva Adams.  Standing: Ralph B. Adams, Joseph J. Jackson, First Sgt. William L. Adams, Cornelius C. Harris, Henry W. Adams, Miss Mabel Adams, Joseph Daniels, Alderman John H. Adams and Thomas E. Adams. - Harris Photo",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 20, 1965",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Ballou",
+        "status": "suggested"
+      },
+      {
+        "data": "Ida Mae Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph J. Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "March 20, 1965",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanne Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday, March 13",
+        "status": "suggested"
+      },
+      {
+        "data": "Christian Tabernacle Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Ralph B. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": ")Adams, John H",
+        "status": "suggested"
+      },
+      {
+        "data": "John H. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Christian",
+        "status": "suggested"
+      },
+      {
+        "data": "William L. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorenzo Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Geneva Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Alice Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Anniversary celebrations",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Henry W. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Mabel Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Sadie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas E. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

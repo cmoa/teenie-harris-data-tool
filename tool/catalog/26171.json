@@ -1,20 +1,444 @@
 {
-	"irn": "26171",
-	"emuInput": {
-		"ecatalogue_key": "127",
-		"irn": "26171",
-		"TitAccessionNo": "2001.35.16104",
-		"TitMainTitle": "Groom Wayne Leonard Carroll and bride Rose Ann Simpkins Carroll wearing gown with lace sleeves, posed behind three tiered cake in Greene Hearth",
-		"CreDateCreated": "October 1965",
-		"CreEarliestDate": "1965-10-01",
-		"CreLatestDate": "1965-10-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 23, 1965, pg. 6 reads: \"Newlyweds - Mr. and Mrs. Wayne Leonard Carroll were recently married in Sixth Mt. Zion Baptist Church. The bride is the former Rose Ann Simpkins, daughter of Mr. and Mrs. Ellis J. Simpkins of Penn Hills -Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nGreene Hearth (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "26171",
+  "emuInput": {
+    "ecatalogue_key": 16074,
+    "irn": 26171,
+    "TitAccessionNo": "2001.35.16104",
+    "CreDateCreated": "October 1965",
+    "CreEarliestDate": "1965-10-01",
+    "CreLatestDate": "1965-10-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 23, 1965, pg. 6 reads: \"Newlyweds - Mr. and Mrs. Wayne Leonard Carroll were recently married in Sixth Mt. Zion Baptist Church. The bride is the former Rose Ann Simpkins, daughter of Mr. and Mrs. Ellis J. Simpkins of Penn Hills -Harris Photo.\"",
+    "TitMainTitle": "Groom Wayne Leonard Carroll and bride Rose Ann Simpkins Carroll wearing gown with lace sleeves, posed behind three tiered cake in Greene Hearth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "69316063-36b8-444c-88c3-11e50be26c19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32475,
+    "MulMultiMediaRef_key": 16082,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32475/sizes/26171-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16074,
+    "irn": 26171,
+    "TitAccessionNo": "2001.35.16104",
+    "CreDateCreated": "October 1965",
+    "CreEarliestDate": "1965-10-01",
+    "CreLatestDate": "1965-10-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 23, 1965, pg. 6 reads: \"Newlyweds - Mr. and Mrs. Wayne Leonard Carroll were recently married in Sixth Mt. Zion Baptist Church. The bride is the former Rose Ann Simpkins, daughter of Mr. and Mrs. Ellis J. Simpkins of Penn Hills -Harris Photo.\"",
+    "TitMainTitle": "Groom Wayne Leonard Carroll and bride Rose Ann Simpkins Carroll wearing gown with lace sleeves, posed behind three tiered cake in Greene Hearth",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Greene Hearth (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "69316063-36b8-444c-88c3-11e50be26c19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32475,
+    "MulMultiMediaRef_key": 16082,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32475/sizes/26171-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ellis J. Simpkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Groom Wayne Leonard Carroll",
+        "status": "suggested"
+      },
+      {
+        "data": "Rose Ann Simpkins Carroll",
+        "status": "suggested"
+      },
+      {
+        "data": "Wayne Leonard Carroll",
+        "status": "suggested"
+      },
+      {
+        "data": "Rose Ann Simpkins",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "6",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Newlyweds - Mr. and Mrs. Wayne Leonard Carroll were recently married in Sixth Mt. Zion Baptist Church. The bride is the former Rose Ann Simpkins, daughter of Mr. and Mrs. Ellis J. Simpkins of Penn Hills -Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 23, 1965",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearth",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Hills",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Greene Hearth ",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "October 23, 1965",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      }
+    ]
+  }
 }

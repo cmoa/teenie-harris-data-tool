@@ -1,20 +1,380 @@
 {
-	"irn": "26643",
-	"emuInput": {
-		"ecatalogue_key": "130",
-		"irn": "26643",
-		"TitAccessionNo": "2001.35.16389",
-		"TitMainTitle": "Groom Detroit Prince and bride Jessie Jackson Prince, standing behind table with three tiered wedding cake, in Jackson home on Gerritt Street",
-		"CreDateCreated": "March 1961",
-		"CreEarliestDate": "1961-03-01",
-		"CreLatestDate": "1961-03-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Cutting Cake - Miss Jessie Jackson of Pittsburgh was united in marriage to Detroit Prince of Florida, recently. The Rev. J.C. Hairston performed the ceremony in bride's home on Gerritt St.  The newlyweds are shown cutting their wedding cake at the reception that followed the rites. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "26643",
+  "emuInput": {
+    "ecatalogue_key": 16359,
+    "irn": 26643,
+    "TitAccessionNo": "2001.35.16389",
+    "CreDateCreated": "March 1961",
+    "CreEarliestDate": "1961-03-01",
+    "CreLatestDate": "1961-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Cutting Cake - Miss Jessie Jackson of Pittsburgh was united in marriage to Detroit Prince of Florida, recently. The Rev. J.C. Hairston performed the ceremony in bride's home on Gerritt St.  The newlyweds are shown cutting their wedding cake at the reception that followed the rites. - Harris Photo.\"",
+    "TitMainTitle": "Groom Detroit Prince and bride Jessie Jackson Prince, standing behind table with three tiered wedding cake, in Jackson home on Gerritt Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22733991-f6f5-4c3f-9e80-3ec4bf98e7ae",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33069,
+    "MulMultiMediaRef_key": 16367,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33069/sizes/26643-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16359,
+    "irn": 26643,
+    "TitAccessionNo": "2001.35.16389",
+    "CreDateCreated": "March 1961",
+    "CreEarliestDate": "1961-03-01",
+    "CreLatestDate": "1961-03-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 11, 1961, pg. 16 reads: \"Cutting Cake - Miss Jessie Jackson of Pittsburgh was united in marriage to Detroit Prince of Florida, recently. The Rev. J.C. Hairston performed the ceremony in bride's home on Gerritt St.  The newlyweds are shown cutting their wedding cake at the reception that followed the rites. - Harris Photo.\"",
+    "TitMainTitle": "Groom Detroit Prince and bride Jessie Jackson Prince, standing behind table with three tiered wedding cake, in Jackson home on Gerritt Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "22733991-f6f5-4c3f-9e80-3ec4bf98e7ae",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33069,
+    "MulMultiMediaRef_key": 16367,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33069/sizes/26643-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "J.C. Hairston",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Prince",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Jackson Prince",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Prince",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Florida",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Florida",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Florida",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Florida",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "16",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Cutting Cake - Miss Jessie Jackson of Pittsburgh was united in marriage to Detroit Prince of Florida, recently. The Rev. J.C. Hairston performed the ceremony in bride's home on Gerritt St.  The newlyweds are shown cutting their wedding cake at the reception that followed the rites. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 11, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "March 11, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Prince",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding ceremony supply",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "romance",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding cake",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

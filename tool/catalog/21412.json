@@ -1,20 +1,332 @@
 {
-	"irn": "21412",
-	"emuInput": {
-		"ecatalogue_key": "107",
-		"irn": "21412",
-		"TitAccessionNo": "2001.35.12085",
-		"TitMainTitle": "Group portrait of FROGS wives, including Ann Barnett, Miriam Sharp Fountain, Ms. Washington, Louise Ford, Helen Shield, and Marilyn Fountain, with Morris Fountain [blurred] near front, posed in Redwood Motor Hotel for FROGS Dinner - Dance party",
-		"CreDateCreated": "December 1969",
-		"CreEarliestDate": "1969-12-01",
-		"CreLatestDate": "1969-12-25",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, January 10, 1970, pg. 15, reads: \"Frogs Dinner - Dancing Party Sparks Holiday Season - The FROGS Played host to one of that smartest and gayest parties of the holiday at the Redwood Motor Hotel. The affair was in honor of their wives, some of whom are pictured here. All Courier Photos by 'Teenie' Harris.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nFROGS Club (Pittsburgh, Pa.)\nBanquets--Pennsylvania--Pittsburgh.\nHotels--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "21412",
+  "emuInput": {
+    "ecatalogue_key": 12055,
+    "irn": 21412,
+    "TitAccessionNo": "2001.35.12085",
+    "CreDateCreated": "December 1969",
+    "CreEarliestDate": "1969-12-01",
+    "CreLatestDate": "1969-12-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, January 10, 1970, pg. 15, reads: \"Frogs Dinner - Dancing Party Sparks Holiday Season - The FROGS Played host to one of that smartest and gayest parties of the holiday at the Redwood Motor Hotel. The affair was in honor of their wives, some of whom are pictured here. All Courier Photos by 'Teenie' Harris.\"",
+    "TitMainTitle": "Group portrait of FROGS wives, including Ann Barnett, Miriam Sharp Fountain, Ms. Washington, Louise Ford, Helen Shield, and Marilyn Fountain, with Morris Fountain [blurred] near front, posed in Redwood Motor Hotel for FROGS Dinner - Dance party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Banquets--Pennsylvania--Pittsburgh.Hotels--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "65472320-a011-43fc-8f18-a9c49a933dd9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27763,
+    "MulMultiMediaRef_key": 12063,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27763/sizes/21412-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 12055,
+    "irn": 21412,
+    "TitAccessionNo": "2001.35.12085",
+    "CreDateCreated": "December 1969",
+    "CreEarliestDate": "1969-12-01",
+    "CreLatestDate": "1969-12-25",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, January 10, 1970, pg. 15, reads: \"Frogs Dinner - Dancing Party Sparks Holiday Season - The FROGS Played host to one of that smartest and gayest parties of the holiday at the Redwood Motor Hotel. The affair was in honor of their wives, some of whom are pictured here. All Courier Photos by 'Teenie' Harris.\"",
+    "TitMainTitle": "Group portrait of FROGS wives, including Ann Barnett, Miriam Sharp Fountain, Ms. Washington, Louise Ford, Helen Shield, and Marilyn Fountain, with Morris Fountain [blurred] near front, posed in Redwood Motor Hotel for FROGS Dinner - Dance party",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.FROGS Club (Pittsburgh, Pa.)Banquets--Pennsylvania--Pittsburgh.Hotels--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "65472320-a011-43fc-8f18-a9c49a933dd9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 27763,
+    "MulMultiMediaRef_key": 12063,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/27763/sizes/21412-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Marilyn Fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Ann Barnett",
+        "status": "suggested"
+      },
+      {
+        "data": "Miriam Sharp Fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Shield",
+        "status": "suggested"
+      },
+      {
+        "data": "Louise Ford",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hotels",
+        "status": "suggested"
+      },
+      {
+        "data": "Dinners and dining",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Hotels, motels, etc",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "15",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Frogs Dinner - Dancing Party Sparks Holiday Season - The FROGS Played host to one of that smartest and gayest parties of the holiday at the Redwood Motor Hotel. The affair was in honor of their wives, some of whom are pictured here. All Courier Photos by 'Teenie' Harris.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 10, 1970",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Hotels",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Ann Barnett",
+        "status": "suggested"
+      },
+      {
+        "data": "Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": ")Banquets",
+        "status": "suggested"
+      },
+      {
+        "data": "the Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "FROGS Club ",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Redwood Motor Hotel",
+        "status": "suggested"
+      },
+      {
+        "data": "Louise Ford",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Morris Fountain",
+        "status": "suggested"
+      },
+      {
+        "data": "Helen Shield",
+        "status": "suggested"
+      },
+      {
+        "data": "January 10, 1970",
+        "status": "suggested"
+      },
+      {
+        "data": "All Courier Photos by 'Teenie' Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "classroom",
+        "status": "suggested"
+      },
+      {
+        "data": "room",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "restaurant",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "banquet",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,308 @@
 {
-	"irn": "57390",
-	"emuInput": {
-		"ecatalogue_key": "258",
-		"irn": "57390",
-		"TitAccessionNo": "2001.35.43922",
-		"TitMainTitle": "Street corner with three or four story apartment building in housing project, and boy on tricycle, McKees Rocks, another version",
-		"CreDateCreated": "April 1955",
-		"CreEarliestDate": "1955-04-01",
-		"CreLatestDate": "1955-04-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 5, reads: \"Another Hershman Battle - Another battle with McKees Rocks Burgess David Hershman, the so-called 'boss,' centers on his redevelopment plans which will wipe out three churches, and the Trinity AME Zion's lot, above picture, which is oblique to the Housing Project (lower picture) which the church says contains many of its members and makes the lot a logical spot for a new church. - Harris Photo.\"",
-		"CatSubject_tab": "Apartment buildings--Pennsylvania--McKees Rocks.\nStreets--Pennsylvania--McKees Rocks.\nSigns--Pennsylvania--McKees Rocks.\nBuildings--Pennsylvania--McKees Rocks.\nMcKees Rocks (Pa.)\nHousing--Pennsylvania--McKees Rocks.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "57390",
+  "emuInput": {
+    "ecatalogue_key": 43880,
+    "irn": 57390,
+    "TitAccessionNo": "2001.35.43922",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 5, reads: \"Another Hershman Battle - Another battle with McKees Rocks Burgess David Hershman, the so-called 'boss,' centers on his redevelopment plans which will wipe out three churches, and the Trinity AME Zion's lot, above picture, which is oblique to the Housing Project (lower picture) which the church says contains many of its members and makes the lot a logical spot for a new church. - Harris Photo.\"",
+    "TitMainTitle": "Street corner with three or four story apartment building in housing project, and boy on tricycle, McKees Rocks, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Apartment buildings--Pennsylvania--McKees Rocks.Streets--Pennsylvania--McKees Rocks.Signs--Pennsylvania--McKees Rocks.Buildings--Pennsylvania--McKees Rocks.McKees Rocks (Pa.)Housing--Pennsylvania--McKees Rocks.",
+    "AdmGUIDValue_tab": "38896826-d70d-4529-ad22-361b4d65d8c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65610,
+    "MulMultiMediaRef_key": 43888,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65610/sizes/57390-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43880,
+    "irn": 57390,
+    "TitAccessionNo": "2001.35.43922",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 5, reads: \"Another Hershman Battle - Another battle with McKees Rocks Burgess David Hershman, the so-called 'boss,' centers on his redevelopment plans which will wipe out three churches, and the Trinity AME Zion's lot, above picture, which is oblique to the Housing Project (lower picture) which the church says contains many of its members and makes the lot a logical spot for a new church. - Harris Photo.\"",
+    "TitMainTitle": "Street corner with three or four story apartment building in housing project, and boy on tricycle, McKees Rocks, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Apartment buildings--Pennsylvania--McKees Rocks.Streets--Pennsylvania--McKees Rocks.Signs--Pennsylvania--McKees Rocks.Buildings--Pennsylvania--McKees Rocks.McKees Rocks (Pa.)Housing--Pennsylvania--McKees Rocks.",
+    "AdmGUIDValue_tab": "38896826-d70d-4529-ad22-361b4d65d8c4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65610,
+    "MulMultiMediaRef_key": 43888,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65610/sizes/57390-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "David Hershman",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and signboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Housing",
+        "status": "suggested"
+      },
+      {
+        "data": "Apartment houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs and symbols",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "5",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Another Hershman Battle - Another battle with McKees Rocks Burgess David Hershman, the so-called 'boss,' centers on his redevelopment plans which will wipe out three churches, and the Trinity AME Zion's lot, above picture, which is oblique to the Housing Project (lower picture) which the church says contains many of its members and makes the lot a logical spot for a new church. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 23, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "wall",
+        "status": "suggested"
+      },
+      {
+        "data": "the Housing Project",
+        "status": "suggested"
+      },
+      {
+        "data": "April 23, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "David Hershman",
+        "status": "suggested"
+      },
+      {
+        "data": "Signs",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "McKees Rocks ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "McKees Rocks",
+        "status": "suggested"
+      },
+      {
+        "data": ")Housing",
+        "status": "suggested"
+      },
+      {
+        "data": "the Trinity AME Zion's",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Apartment buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "neighbourhood",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "metropolitan area",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "lane",
+        "status": "suggested"
+      },
+      {
+        "data": "line",
+        "status": "suggested"
+      },
+      {
+        "data": "downtown",
+        "status": "suggested"
+      },
+      {
+        "data": "metropolis",
+        "status": "suggested"
+      }
+    ]
+  }
 }

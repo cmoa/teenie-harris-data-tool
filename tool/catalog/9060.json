@@ -1,20 +1,368 @@
 {
-	"irn": "9060",
-	"emuInput": {
-		"ecatalogue_key": "41",
-		"irn": "9060",
-		"TitAccessionNo": "2001.35.5560",
-		"TitMainTitle": "Marilyn Ware Parker modeling two piece satin bathing suit, reclining on chaise lounge in furniture department, for benefit fashion show in May - Stern furniture store",
-		"CreDateCreated": "1945",
-		"CreEarliestDate": "1945",
-		"CreLatestDate": "1945",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 14, 1945, pg. 13, reads: \"Aquamaid! - Shapely Miss Marilyn Ware shows what the well-dressed lass will wear on the beach. She was one of the models in fashion revue at May-Stern auditorium, Monday evening.  This show was sponsored for the benefit of a scholarship fund which as been established by the Toujours Fideles Club to aid some worthy youth seeking a college education.  A large crowd packed both the auditorium and the lobby to see the glamorous models on parade.  This show will become an annual event. - Courier Photo by Harris.\"",
-		"CatSubject_tab": "Ware, Marilyn.\nBathing suits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nFashion models--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nFurniture--Pennsylvania--Pittsburgh.\nMay, Stern and Company.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "9060",
+  "emuInput": {
+    "ecatalogue_key": 5551,
+    "irn": 9060,
+    "TitAccessionNo": "2001.35.5560",
+    "CreDateCreated": "1945",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 14, 1945, pg. 13, reads: \"Aquamaid! - Shapely Miss Marilyn Ware shows what the well-dressed lass will wear on the beach. She was one of the models in fashion revue at May-Stern auditorium, Monday evening.  This show was sponsored for the benefit of a scholarship fund which as been established by the Toujours Fideles Club to aid some worthy youth seeking a college education.  A large crowd packed both the auditorium and the lobby to see the glamorous models on parade.  This show will become an annual event. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Marilyn Ware Parker modeling two piece satin bathing suit, reclining on chaise lounge in furniture department, for benefit fashion show in May - Stern furniture store",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Ware, Marilyn.Bathing suits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.May, Stern and Company.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57467613-63a6-4e7f-b481-f5fcc07b7d34",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20705,
+    "MulMultiMediaRef_key": 5558,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20705/sizes/9060-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 5551,
+    "irn": 9060,
+    "TitAccessionNo": "2001.35.5560",
+    "CreDateCreated": "1945",
+    "CreEarliestDate": "1945",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, April 14, 1945, pg. 13, reads: \"Aquamaid! - Shapely Miss Marilyn Ware shows what the well-dressed lass will wear on the beach. She was one of the models in fashion revue at May-Stern auditorium, Monday evening.  This show was sponsored for the benefit of a scholarship fund which as been established by the Toujours Fideles Club to aid some worthy youth seeking a college education.  A large crowd packed both the auditorium and the lobby to see the glamorous models on parade.  This show will become an annual event. - Courier Photo by Harris.\"",
+    "TitMainTitle": "Marilyn Ware Parker modeling two piece satin bathing suit, reclining on chaise lounge in furniture department, for benefit fashion show in May - Stern furniture store",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Ware, Marilyn.Bathing suits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Fashion models--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Furniture--Pennsylvania--Pittsburgh.May, Stern and Company.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "57467613-63a6-4e7f-b481-f5fcc07b7d34",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20705,
+    "MulMultiMediaRef_key": 5558,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20705/sizes/9060-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Marilyn Ware",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn Ware Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Models (Persons)",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Aquamaid",
+        "status": "suggested"
+      },
+      {
+        "data": "Ware",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Aquamaid",
+        "status": "suggested"
+      },
+      {
+        "data": "Ware",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Aquamaid",
+        "status": "suggested"
+      },
+      {
+        "data": "Ware",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Aquamaid",
+        "status": "suggested"
+      },
+      {
+        "data": "Ware",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Aquamaid! - Shapely Miss Marilyn Ware shows what the well-dressed lass will wear on the beach. She was one of the models in fashion revue at May-Stern auditorium, Monday evening.  This show was sponsored for the benefit of a scholarship fund which as been established by the Toujours Fideles Club to aid some worthy youth seeking a college education.  A large crowd packed both the auditorium and the lobby to see the glamorous models on parade.  This show will become an annual event. - Courier Photo by Harris.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 14, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "chair",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "May",
+        "status": "suggested"
+      },
+      {
+        "data": "May, Stern and Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "-",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Ware, Marilyn",
+        "status": "suggested"
+      },
+      {
+        "data": "April 14, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion models",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      },
+      {
+        "data": "the Toujours Fideles Club",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "couch",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "leg",
+        "status": "suggested"
+      },
+      {
+        "data": "structure",
+        "status": "suggested"
+      },
+      {
+        "data": "human body",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "muscle",
+        "status": "suggested"
+      },
+      {
+        "data": "arm",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,284 @@
 {
-	"irn": "4343",
-	"emuInput": {
-		"ecatalogue_key": "16",
-		"irn": "4343",
-		"TitAccessionNo": "2001.35.2522",
-		"TitMainTitle": "Centenarian Lucy Slater grinding coffee in her kitchen, Ben Avon",
-		"CreDateCreated": "April 1953",
-		"CreEarliestDate": "1953-04-01",
-		"CreLatestDate": "1953-04-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 18, 1953, pg. 2, reads: \"Has seen 100 years - Mrs. Lucy Slater of Ben Avon still used the coffee grinder she has had for more than seventy-five years. She prepared her own meals and is really independent.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nKitchens--Pennsylvania--Pittsburgh.\nSlater, Lucy.\nDomestic life--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nStoves--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Ben Avon",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "4343",
+  "emuInput": {
+    "ecatalogue_key": 2518,
+    "irn": 4343,
+    "TitAccessionNo": "2001.35.2522",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 18, 1953, pg. 2, reads: \"Has seen 100 years - Mrs. Lucy Slater of Ben Avon still used the coffee grinder she has had for more than seventy-five years. She prepared her own meals and is really independent.\"",
+    "TitMainTitle": "Centenarian Lucy Slater grinding coffee in her kitchen, Ben Avon",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Ben Avon",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Slater, Lucy.Domestic life--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stoves--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "17453062-a64f-45e5-947a-8cb67d21f140",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16905,
+    "MulMultiMediaRef_key": 2520,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16905/sizes/4343-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 2518,
+    "irn": 4343,
+    "TitAccessionNo": "2001.35.2522",
+    "CreDateCreated": "April 1953",
+    "CreEarliestDate": "1953-04-01",
+    "CreLatestDate": "1953-04-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 18, 1953, pg. 2, reads: \"Has seen 100 years - Mrs. Lucy Slater of Ben Avon still used the coffee grinder she has had for more than seventy-five years. She prepared her own meals and is really independent.\"",
+    "TitMainTitle": "Centenarian Lucy Slater grinding coffee in her kitchen, Ben Avon",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Ben Avon",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Kitchens--Pennsylvania--Pittsburgh.Slater, Lucy.Domestic life--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stoves--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "17453062-a64f-45e5-947a-8cb67d21f140",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16905,
+    "MulMultiMediaRef_key": 2520,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16905/sizes/4343-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucy Slater",
+        "status": "suggested"
+      },
+      {
+        "data": "Centenarian Lucy Slater",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Stoves",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchens",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Has seen 100 years - Mrs. Lucy Slater of Ben Avon still used the coffee grinder she has had for more than seventy-five years. She prepared her own meals and is really independent.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 18, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "100 years - Mrs.",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Stoves",
+        "status": "suggested"
+      },
+      {
+        "data": "April 18, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucy Slater",
+        "status": "suggested"
+      },
+      {
+        "data": "Domestic life",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Ben Avon",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Slater, Lucy",
+        "status": "suggested"
+      },
+      {
+        "data": "Kitchens",
+        "status": "suggested"
+      },
+      {
+        "data": "room",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      }
+    ]
+  }
 }

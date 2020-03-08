@@ -1,20 +1,416 @@
 {
-	"irn": "13068",
-	"emuInput": {
-		"ecatalogue_key": "54",
-		"irn": "13068",
-		"TitAccessionNo": "2001.35.6766",
-		"TitMainTitle": "Soldiers from 372nd Infantry marching in parade, Fifth Avenue, Downtown",
-		"CreDateCreated": "July 1942",
-		"CreEarliestDate": "1942-07-01",
-		"CreLatestDate": "1942-07-11",
-		"PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower right: M. Loften and his officer aids [illegible] at the head of the [ill.] of the troops at another point in parade. Harris [illegible] photos.\"",
-		"CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.\nDowntown (Pittsburgh, Pa.)\nMilitary uniforms--Pennsylvania--Pittsburgh.\nParades--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nFifth Avenue (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "13068",
+  "emuInput": {
+    "ecatalogue_key": 6751,
+    "irn": 13068,
+    "TitAccessionNo": "2001.35.6766",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower right: M. Loften and his officer aids [illegible] at the head of the [ill.] of the troops at another point in parade. Harris [illegible] photos.\"",
+    "TitMainTitle": "Soldiers from 372nd Infantry marching in parade, Fifth Avenue, Downtown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)Military uniforms--Pennsylvania--Pittsburgh.Parades--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Fifth Avenue (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01821b5c-becc-4c14-918b-12def2cec72e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22272,
+    "MulMultiMediaRef_key": 6759,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22272/sizes/13068-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 6751,
+    "irn": 13068,
+    "TitAccessionNo": "2001.35.6766",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa Superpan Supreme safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower right: M. Loften and his officer aids [illegible] at the head of the [ill.] of the troops at another point in parade. Harris [illegible] photos.\"",
+    "TitMainTitle": "Soldiers from 372nd Infantry marching in parade, Fifth Avenue, Downtown",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Soldiers--Pennsylvania--Pittsburgh.Downtown (Pittsburgh, Pa.)Military uniforms--Pennsylvania--Pittsburgh.Parades--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Fifth Avenue (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01821b5c-becc-4c14-918b-12def2cec72e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 22272,
+    "MulMultiMediaRef_key": 6759,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/22272/sizes/13068-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "M. Loften",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Lower right: M. Loften and his officer aids [illegible] at the head of the [ill.] of the troops at another point in parade. Harris [illegible] photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "National Edition, July 11, 1942",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "military",
+        "status": "suggested"
+      },
+      {
+        "data": "372nd Infantry",
+        "status": "suggested"
+      },
+      {
+        "data": "July 11, 1942",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "National Edition",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburghers Hail Fighting Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Parades",
+        "status": "suggested"
+      },
+      {
+        "data": "372nd Infantry marching",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Ninth Calvary - Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Downtown ",
+        "status": "suggested"
+      },
+      {
+        "data": "the holidays",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States Army",
+        "status": "suggested"
+      },
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      },
+      {
+        "data": ")Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "private",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "pedestrian",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "troop",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "marching",
+        "status": "suggested"
+      },
+      {
+        "data": "army",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      }
+    ]
+  }
 }

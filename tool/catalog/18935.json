@@ -1,20 +1,264 @@
 {
-	"irn": "18935",
-	"emuInput": {
-		"ecatalogue_key": "87",
-		"irn": "18935",
-		"TitAccessionNo": "2001.35.10176",
-		"TitMainTitle": "William Porter standing in Budweiser Beer booth, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 19-21, 1957",
-		"CreEarliestDate": "1957-03-19",
-		"CreLatestDate": "1957-03-21",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 19 reads: \"5. William Porter, national representative for the Anhauser-Busch, Inc. awaits crowds in Budweiser Beer booth.\"",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "18935",
+  "emuInput": {
+    "ecatalogue_key": 10150,
+    "irn": 18935,
+    "TitAccessionNo": "2001.35.10176",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 19 reads: \"5. William Porter, national representative for the Anhauser-Busch, Inc. awaits crowds in Budweiser Beer booth.\"",
+    "TitMainTitle": "William Porter standing in Budweiser Beer booth, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "55289890-a9b2-495f-ba0f-ee52c5abcffc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26079,
+    "MulMultiMediaRef_key": 10158,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26079/sizes/18935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10150,
+    "irn": 18935,
+    "TitAccessionNo": "2001.35.10176",
+    "CreDateCreated": "March 19-21, 1957",
+    "CreEarliestDate": "1957-03-19",
+    "CreLatestDate": "1957-03-21",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 6, 1957, pg. 19 reads: \"5. William Porter, national representative for the Anhauser-Busch, Inc. awaits crowds in Budweiser Beer booth.\"",
+    "TitMainTitle": "William Porter standing in Budweiser Beer booth, in Syria Mosque for the 1957 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.",
+    "AdmGUIDValue_tab": "55289890-a9b2-495f-ba0f-ee52c5abcffc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26079,
+    "MulMultiMediaRef_key": 10158,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26079/sizes/18935-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "William Porter",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "19",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "5. William Porter, national representative for the Anhauser-Busch, Inc. awaits crowds in Budweiser Beer booth.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 6, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "William Porter",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "April 6, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "the Anhauser-Busch, Inc.",
+        "status": "suggested"
+      },
+      {
+        "data": "Budweiser Beer",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

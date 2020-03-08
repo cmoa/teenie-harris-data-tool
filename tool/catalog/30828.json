@@ -1,20 +1,226 @@
 {
-	"irn": "30828",
-	"emuInput": {
-		"ecatalogue_key": "150",
-		"irn": "30828",
-		"TitAccessionNo": "2001.35.19013",
-		"TitMainTitle": "Tim Stevens posing on chair beside sign inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery,\" in NAACP office",
-		"CreDateCreated": "1973",
-		"CreEarliestDate": "1973",
-		"CreLatestDate": "1973",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, February 3, 1973, p. 1, reads: \"Tim Stevens, executive director of the Pittsburgh Branch NAACP, walked out of Union Bank negotiations.  Wanted bank president present.\"\n\nSign on wall inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery (Iron City Beer-Mustang) 1. Out of a total of 670 Emplyees [Employees], 26 are BLACK.  2. NO BLACK truck drivers or helpers.  3. Out of a total of 57 salesmen only 1 is BLACK.  Call 471-1024.  Supported by National United Licence Beverage Assn.  Don't Buy - Don't Drink\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nNational Association for the Advancement of Colored People.\nMen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "30828",
+  "emuInput": {
+    "ecatalogue_key": 18983,
+    "irn": 30828,
+    "TitAccessionNo": "2001.35.19013",
+    "CreDateCreated": "1973",
+    "CreEarliestDate": "1973",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, February 3, 1973, p. 1, reads: \"Tim Stevens, executive director of the Pittsburgh Branch NAACP, walked out of Union Bank negotiations.  Wanted bank president present.\"Sign on wall inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery (Iron City Beer-Mustang) 1. Out of a total of 670 Emplyees [Employees], 26 are BLACK.  2. NO BLACK truck drivers or helpers.  3. Out of a total of 57 salesmen only 1 is BLACK.  Call 471-1024.  Supported by National United Licence Beverage Assn.  Don't Buy - Don't Drink\"",
+    "TitMainTitle": "Tim Stevens posing on chair beside sign inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery,\" in NAACP office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "79417498-6810-4d3e-a076-90d18e260179",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36712,
+    "MulMultiMediaRef_key": 18991,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36712/sizes/30828-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 18983,
+    "irn": 30828,
+    "TitAccessionNo": "2001.35.19013",
+    "CreDateCreated": "1973",
+    "CreEarliestDate": "1973",
+    "CreLatestDate": "1973",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, February 3, 1973, p. 1, reads: \"Tim Stevens, executive director of the Pittsburgh Branch NAACP, walked out of Union Bank negotiations.  Wanted bank president present.\"Sign on wall inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery (Iron City Beer-Mustang) 1. Out of a total of 670 Emplyees [Employees], 26 are BLACK.  2. NO BLACK truck drivers or helpers.  3. Out of a total of 57 salesmen only 1 is BLACK.  Call 471-1024.  Supported by National United Licence Beverage Assn.  Don't Buy - Don't Drink\"",
+    "TitMainTitle": "Tim Stevens posing on chair beside sign inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery,\" in NAACP office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.National Association for the Advancement of Colored People.Men--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "79417498-6810-4d3e-a076-90d18e260179",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36712,
+    "MulMultiMediaRef_key": 18991,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36712/sizes/30828-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Tim Stevens",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Tim Stevens, executive director of the Pittsburgh Branch NAACP, walked out of Union Bank negotiations.  Wanted bank president present.\"Sign on wall inscribed \"N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery (Iron City Beer-Mustang) 1. Out of a total of 670 Emplyees [Employees], 26 are BLACK.  2. NO BLACK truck drivers or helpers.  3. Out of a total of 57 salesmen only 1 is BLACK.  Call 471-1024.  Supported by National United Licence Beverage Assn.  Don't Buy - Don't Drink",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "February 3, 1973",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Union Bank",
+        "status": "suggested"
+      },
+      {
+        "data": "NAACP",
+        "status": "suggested"
+      },
+      {
+        "data": "National United Licence Beverage Assn",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Tim Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Campaign Against Pittsburgh Brewery (",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "National Association for the Advancement of Colored People",
+        "status": "suggested"
+      },
+      {
+        "data": "N.A.A.C.P. Selected Buying Campaign Against Pittsburgh Brewery",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

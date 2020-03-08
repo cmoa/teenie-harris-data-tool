@@ -1,20 +1,572 @@
 {
-	"irn": "14482",
-	"emuInput": {
-		"ecatalogue_key": "67",
-		"irn": "14482",
-		"TitAccessionNo": "2001.35.7798",
-		"TitMainTitle": "Centre Avenue with Wash-A-Teria, and Chas. W. Lutz Choice Meats at 2145 Centre Avenue, at intersection of Elmore Street, with Crawford Grill no. 2 on Wylie Avenue, in background, Hill District",
-		"CreDateCreated": "July 1957",
-		"CreEarliestDate": "1957-07-01",
-		"CreLatestDate": "1957-07-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 20, 1957, pg. 28 reads: \"Tight Squeeze - With motorists parking on both sides of this narrow cow path, which bears the name of Elmore St., off Centre Ave., towards Wylie Ave., drivers of autos and trucks really need 20-20 vision and the latest bomb sight maneuver between the parked vehicles. One extra coat of paint o n the moving car or truck and sideswiping is guaranteed.  At night it's an obstacle course of which the Army would be proud.-Harris Photos.\"  Lutz' Meat Market was started by Charles Lutz, taken over by his son, Carl Lutz, then purchased by Calvin Cunningham.",
-		"CatSubject_tab": "Centre Avenue (Pittsburgh, Pa.)\nLaundries--Pennsylvania--Pittsburgh.\nWylie Avenue (Pittsburgh, Pa.)\nStorefronts--Pennsylvania--Pittsburgh.\nCrawford Grill No. 2 (Pittsburgh, Pa.)\nLutz Meat Market (Pittsburgh, Pa.)\nElmore Street (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "14482",
+  "emuInput": {
+    "ecatalogue_key": 7781,
+    "irn": 14482,
+    "TitAccessionNo": "2001.35.7798",
+    "CreDateCreated": "July 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 20, 1957, pg. 28 reads: \"Tight Squeeze - With motorists parking on both sides of this narrow cow path, which bears the name of Elmore St., off Centre Ave., towards Wylie Ave., drivers of autos and trucks really need 20-20 vision and the latest bomb sight maneuver between the parked vehicles. One extra coat of paint o n the moving car or truck and sideswiping is guaranteed.  At night it's an obstacle course of which the Army would be proud.-Harris Photos.\"  Lutz' Meat Market was started by Charles Lutz, taken over by his son, Carl Lutz, then purchased by Calvin Cunningham.",
+    "TitMainTitle": "Centre Avenue with Wash-A-Teria, and Chas. W. Lutz Choice Meats at 2145 Centre Avenue, at intersection of Elmore Street, with Crawford Grill no. 2 on Wylie Avenue, in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Centre Avenue (Pittsburgh, Pa.)Laundries--Pennsylvania--Pittsburgh.Wylie Avenue (Pittsburgh, Pa.)Storefronts--Pennsylvania--Pittsburgh.Crawford Grill No. 2 (Pittsburgh, Pa.)Lutz Meat Market (Pittsburgh, Pa.)Elmore Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00b7b08f-f82c-4f8e-8590-5e59a368a853",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23838,
+    "MulMultiMediaRef_key": 7789,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23838/sizes/14482-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 7781,
+    "irn": 14482,
+    "TitAccessionNo": "2001.35.7798",
+    "CreDateCreated": "July 1957",
+    "CreEarliestDate": "1957-07-01",
+    "CreLatestDate": "1957-07-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 20, 1957, pg. 28 reads: \"Tight Squeeze - With motorists parking on both sides of this narrow cow path, which bears the name of Elmore St., off Centre Ave., towards Wylie Ave., drivers of autos and trucks really need 20-20 vision and the latest bomb sight maneuver between the parked vehicles. One extra coat of paint o n the moving car or truck and sideswiping is guaranteed.  At night it's an obstacle course of which the Army would be proud.-Harris Photos.\"  Lutz' Meat Market was started by Charles Lutz, taken over by his son, Carl Lutz, then purchased by Calvin Cunningham.",
+    "TitMainTitle": "Centre Avenue with Wash-A-Teria, and Chas. W. Lutz Choice Meats at 2145 Centre Avenue, at intersection of Elmore Street, with Crawford Grill no. 2 on Wylie Avenue, in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Centre Avenue (Pittsburgh, Pa.)Laundries--Pennsylvania--Pittsburgh.Wylie Avenue (Pittsburgh, Pa.)Storefronts--Pennsylvania--Pittsburgh.Crawford Grill No. 2 (Pittsburgh, Pa.)Lutz Meat Market (Pittsburgh, Pa.)Elmore Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00b7b08f-f82c-4f8e-8590-5e59a368a853",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 23838,
+    "MulMultiMediaRef_key": 7789,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/23838/sizes/14482-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Carl Lutz",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford Grill",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Lutz",
+        "status": "suggested"
+      },
+      {
+        "data": "Chas",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvin Cunningham",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Chas",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Storefronts",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "2145 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "2145 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "2145 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "2145 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "28",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Tight Squeeze - With motorists parking on both sides of this narrow cow path, which bears the name of Elmore St., off Centre Ave., towards Wylie Ave., drivers of autos and trucks really need 20-20 vision and the latest bomb sight maneuver between the parked vehicles. One extra coat of paint o n the moving car or truck and sideswiping is guaranteed.  At night it's an obstacle course of which the Army would be proud.-Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 20, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "Carl Lutz",
+        "status": "suggested"
+      },
+      {
+        "data": "Army",
+        "status": "suggested"
+      },
+      {
+        "data": ")Laundries",
+        "status": "suggested"
+      },
+      {
+        "data": "Lutz' Meat Market",
+        "status": "suggested"
+      },
+      {
+        "data": "Chas",
+        "status": "suggested"
+      },
+      {
+        "data": "2145 Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmore Street",
+        "status": "suggested"
+      },
+      {
+        "data": ")Storefronts",
+        "status": "suggested"
+      },
+      {
+        "data": ")Lutz Meat Market ",
+        "status": "suggested"
+      },
+      {
+        "data": "July 20, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Wylie Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Tight Squeeze - With motorists parking on both sides of this narrow cow path, which bears the name of Elmore St.",
+        "status": "suggested"
+      },
+      {
+        "data": ")Elmore Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvin Cunningham",
+        "status": "suggested"
+      },
+      {
+        "data": " 2 ",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Lutz",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Ave",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford Grill No",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "lane",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "neighbourhood",
+        "status": "suggested"
+      },
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "downtown",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "alley",
+        "status": "suggested"
+      },
+      {
+        "data": "metropolis",
+        "status": "suggested"
+      },
+      {
+        "data": "metropolitan area",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      }
+    ]
+  }
 }

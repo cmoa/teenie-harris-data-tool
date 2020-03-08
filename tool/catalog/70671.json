@@ -1,20 +1,379 @@
 {
-	"irn": "70671",
-	"emuInput": {
-		"ecatalogue_key": "369",
-		"irn": "70671",
-		"TitAccessionNo": "2001.35.55948",
-		"TitMainTitle": "Group of men, one wearing sunglasses, and boys, including one wearing basket weave patterned button down collared shirt, standing mouth opened, gathered in pavilion at South Park for the annual Pittsburgh Courier Newsboys' Picnic",
-		"CreDateCreated": "August 1961",
-		"CreEarliestDate": "1961-08-01",
-		"CreLatestDate": "1961-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \" \"Get Back In Line\" was the war cry of the members of the committee whenever the goodies were served.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.\nMen--Pennsylvania--South Park.\nHats--Pennsylvania--South Park.\nYoung adults--Pennsylvania--South Park.\nBoys--Pennsylvania--South Park.\nIce cream, ices, etc.--Pennsylvania--South Park.\nSunglasses--Pennsylvania--South Park.\nAllegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "70671",
+  "emuInput": {
+    "ecatalogue_key": 55905,
+    "irn": 70671,
+    "TitAccessionNo": "2001.35.55948",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \" \"Get Back In Line\" was the war cry of the members of the committee whenever the goodies were served.\"",
+    "TitMainTitle": "Group of men, one wearing sunglasses, and boys, including one wearing basket weave patterned button down collared shirt, standing mouth opened, gathered in pavilion at South Park for the annual Pittsburgh Courier Newsboys' Picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.Men--Pennsylvania--South Park.Hats--Pennsylvania--South Park.Young adults--Pennsylvania--South Park.Boys--Pennsylvania--South Park.Ice cream, ices, etc.--Pennsylvania--South Park.Sunglasses--Pennsylvania--South Park.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.",
+    "AdmGUIDValue_tab": "96967545-9117-47b9-8b10-987de60ec265",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87149,
+    "MulMultiMediaRef_key": 55914,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87149/sizes/70671-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55905,
+    "irn": 70671,
+    "TitAccessionNo": "2001.35.55948",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 2, 1961, pg. 20 reads: \" \"Get Back In Line\" was the war cry of the members of the committee whenever the goodies were served.\"",
+    "TitMainTitle": "Group of men, one wearing sunglasses, and boys, including one wearing basket weave patterned button down collared shirt, standing mouth opened, gathered in pavilion at South Park for the annual Pittsburgh Courier Newsboys' Picnic",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--South Park.Men--Pennsylvania--South Park.Hats--Pennsylvania--South Park.Young adults--Pennsylvania--South Park.Boys--Pennsylvania--South Park.Ice cream, ices, etc.--Pennsylvania--South Park.Sunglasses--Pennsylvania--South Park.Allegheny County (Pa.).Department of Parks, Recreation, and Conservation.South Park.",
+    "AdmGUIDValue_tab": "96967545-9117-47b9-8b10-987de60ec265",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 87149,
+    "MulMultiMediaRef_key": 55914,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/87149/sizes/70671-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Ice cream, ices, etc",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks, Recreation",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": " \"Get Back In Line\" was the war cry of the members of the committee whenever the goodies were served.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 2, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Newsboys'",
+        "status": "suggested"
+      },
+      {
+        "data": "Ice cream, ices, etc",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "September 2, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Allegheny County ",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": ")",
+        "status": "suggested"
+      },
+      {
+        "data": "Get Back In Line",
+        "status": "suggested"
+      },
+      {
+        "data": "Department of Parks, Recreation, and Conservation",
+        "status": "suggested"
+      },
+      {
+        "data": "South Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      }
+    ]
+  }
 }

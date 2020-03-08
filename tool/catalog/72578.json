@@ -1,20 +1,300 @@
 {
-	"irn": "72578",
-	"emuInput": {
-		"ecatalogue_key": "394",
-		"irn": "72578",
-		"TitAccessionNo": "2001.35.57227",
-		"TitMainTitle": "Portrait of nonagenarian Lula \"Big Mama\" Turner wearing paisley dress, boots, and head scarf, performing \"the twist\" dance in her living room",
-		"CreDateCreated": "June 1962",
-		"CreEarliestDate": "1962-06-01",
-		"CreLatestDate": "1962-06-30",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 1, reads: \"Twisting at 98 - Life begins at 90, according to Mrs. Lula (Big Mama) Turner, who recently celebrated her 98th birthday by doing an impromptu twist for Courier cameraman 'Teenie' Harris. Actually, 'Big Mama' is a devout churchwoman and usually limits her 'twisting' to the vigorous movements she makes while singing her favorite hymns.  See story on page 3. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nAprons--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nElderly people--Pennsylvania--Pittsburgh.\nDancing--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "72578",
+  "emuInput": {
+    "ecatalogue_key": 57184,
+    "irn": 72578,
+    "TitAccessionNo": "2001.35.57227",
+    "CreDateCreated": "June 1962",
+    "CreEarliestDate": "1962-06-01",
+    "CreLatestDate": "1962-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 1, reads: \"Twisting at 98 - Life begins at 90, according to Mrs. Lula (Big Mama) Turner, who recently celebrated her 98th birthday by doing an impromptu twist for Courier cameraman 'Teenie' Harris. Actually, 'Big Mama' is a devout churchwoman and usually limits her 'twisting' to the vigorous movements she makes while singing her favorite hymns.  See story on page 3. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of nonagenarian Lula \"Big Mama\" Turner wearing paisley dress, boots, and head scarf, performing \"the twist\" dance in her living room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Aprons--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Dancing--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00135624-f6d9-4aa2-84e9-995859226a7b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94928,
+    "MulMultiMediaRef_key": 57193,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94928/sizes/72578-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 57184,
+    "irn": 72578,
+    "TitAccessionNo": "2001.35.57227",
+    "CreDateCreated": "June 1962",
+    "CreEarliestDate": "1962-06-01",
+    "CreLatestDate": "1962-06-30",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 30, 1962, pg. 1, reads: \"Twisting at 98 - Life begins at 90, according to Mrs. Lula (Big Mama) Turner, who recently celebrated her 98th birthday by doing an impromptu twist for Courier cameraman 'Teenie' Harris. Actually, 'Big Mama' is a devout churchwoman and usually limits her 'twisting' to the vigorous movements she makes while singing her favorite hymns.  See story on page 3. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of nonagenarian Lula \"Big Mama\" Turner wearing paisley dress, boots, and head scarf, performing \"the twist\" dance in her living room",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Aprons--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Elderly people--Pennsylvania--Pittsburgh.Dancing--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00135624-f6d9-4aa2-84e9-995859226a7b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 94928,
+    "MulMultiMediaRef_key": 57193,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/94928/sizes/72578-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Lula",
+        "status": "suggested"
+      },
+      {
+        "data": "Big Mama",
+        "status": "suggested"
+      },
+      {
+        "data": "Turner",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Aprons",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Big Mama",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Older people",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      },
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Twisting at 98 - Life begins at 90, according to Mrs. Lula (Big Mama) Turner, who recently celebrated her 98th birthday by doing an impromptu twist for Courier cameraman 'Teenie' Harris. Actually, 'Big Mama' is a devout churchwoman and usually limits her 'twisting' to the vigorous movements she makes while singing her favorite hymns.  See story on page 3. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 30, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Teenie' Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Lula",
+        "status": "suggested"
+      },
+      {
+        "data": "June 30, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Aprons",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Dancing",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Big Mama",
+        "status": "suggested"
+      },
+      {
+        "data": "Elderly people",
+        "status": "suggested"
+      },
+      {
+        "data": "Turner",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      }
+    ]
+  }
 }

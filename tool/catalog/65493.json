@@ -1,20 +1,376 @@
 {
-	"irn": "65493",
-	"emuInput": {
-		"ecatalogue_key": "333",
-		"irn": "65493",
-		"TitAccessionNo": "2001.35.51325",
-		"TitMainTitle": "Dancer Chuck Fly standing in between the Crosley sisters, in interior",
-		"CreDateCreated": "October 1955",
-		"CreEarliestDate": "1955-10-01",
-		"CreLatestDate": "1955-10-08",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 8, 1955, pg. 18, reads: \"The Fly Performs - Dancer-mimic Chuck Fly strikes a pose with the Crosley sister with whom he shared the bill at the Vogue Terrace through Oct. 2. Personable Chuck will perform his dancing feats next in Detroit where he was signed for a two-week engagement. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nRugs--Pennsylvania--Pittsburgh.\nStairs--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nPerformers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "65493",
+  "emuInput": {
+    "ecatalogue_key": 51282,
+    "irn": 65493,
+    "TitAccessionNo": "2001.35.51325",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 8, 1955, pg. 18, reads: \"The Fly Performs - Dancer-mimic Chuck Fly strikes a pose with the Crosley sister with whom he shared the bill at the Vogue Terrace through Oct. 2. Personable Chuck will perform his dancing feats next in Detroit where he was signed for a two-week engagement. - Harris Photo.\"",
+    "TitMainTitle": "Dancer Chuck Fly standing in between the Crosley sisters, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Rugs--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Performers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "52742383-90e3-4db9-a2b1-c700fd8e4277",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75180,
+    "MulMultiMediaRef_key": 51290,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75180/sizes/65493-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 51282,
+    "irn": 65493,
+    "TitAccessionNo": "2001.35.51325",
+    "CreDateCreated": "October 1955",
+    "CreEarliestDate": "1955-10-01",
+    "CreLatestDate": "1955-10-08",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 8, 1955, pg. 18, reads: \"The Fly Performs - Dancer-mimic Chuck Fly strikes a pose with the Crosley sister with whom he shared the bill at the Vogue Terrace through Oct. 2. Personable Chuck will perform his dancing feats next in Detroit where he was signed for a two-week engagement. - Harris Photo.\"",
+    "TitMainTitle": "Dancer Chuck Fly standing in between the Crosley sisters, in interior",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Rugs--Pennsylvania--Pittsburgh.Stairs--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Performers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "52742383-90e3-4db9-a2b1-c700fd8e4277",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 75180,
+    "MulMultiMediaRef_key": 51290,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/75180/sizes/65493-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Chuck Fly",
+        "status": "suggested"
+      },
+      {
+        "data": "Chuck",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Entertainers",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Rugs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the Vogue Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the Vogue Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the Vogue Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the Vogue Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Detroit",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "18",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "The Fly Performs - Dancer-mimic Chuck Fly strikes a pose with the Crosley sister with whom he shared the bill at the Vogue Terrace through Oct. 2. Personable Chuck will perform his dancing feats next in Detroit where he was signed for a two-week engagement. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 8, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "Chuck Fly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Performers",
+        "status": "suggested"
+      },
+      {
+        "data": "The Fly Performs - Dancer",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Crosley",
+        "status": "suggested"
+      },
+      {
+        "data": "October 8, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "the Vogue Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Stairs",
+        "status": "suggested"
+      },
+      {
+        "data": "two-week",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Rugs",
+        "status": "suggested"
+      },
+      {
+        "data": "Chuck",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Oct. 2",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "formal wear",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

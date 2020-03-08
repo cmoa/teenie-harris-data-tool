@@ -1,20 +1,408 @@
 {
-	"irn": "37178",
-	"emuInput": {
-		"ecatalogue_key": "178",
-		"irn": "37178",
-		"TitAccessionNo": "2001.35.24871",
-		"TitMainTitle": "Bride Geraldine Wright wearing lace and tulle wedding gown, and groom Leonard Wright posed under trellis at Hunt Armory for wedding during the third annual Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "June 11, 1954",
-		"CreEarliestDate": "1954-06-11",
-		"CreLatestDate": "1954-06-11",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 11, reads: \"WRIGHT-WRIGHT BRIDAL SCENES - Pretty scenes from the brilliant wedding held at the Friday night session of the Courier Home Service Fair at Hunt Armory, which united charming Geraldine Wright and Leonard Wright. Left photo (2001.35.24876), newlywed Mr. and Mrs.Wright taste the first bit of their wedding cake at the reception which followed their wedding at Grace Memorial Church.  Center (2001.35.24877), the handsome array of bridal attendants pretty in pastels, surround the happy bride whose Chantilly lace and nylon net gown was a masterpiece of beauty.  Right, Harry Waugh, Calvert Western Pennsylvania sales representative, presents the gift of a ten-day expense-paid honeymoon to the couple for the Hotel Calvert in Miami, Fla. - Harris Photos.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nHunt Armory (Pittsburgh, Pa.)\nPittsburgh Courier Home Service Fair.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "37178",
+  "emuInput": {
+    "ecatalogue_key": 24839,
+    "irn": 37178,
+    "TitAccessionNo": "2001.35.24871",
+    "CreDateCreated": "June 11, 1954",
+    "CreEarliestDate": "1954-06-11",
+    "CreLatestDate": "1954-06-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 11, reads: \"WRIGHT-WRIGHT BRIDAL SCENES - Pretty scenes from the brilliant wedding held at the Friday night session of the Courier Home Service Fair at Hunt Armory, which united charming Geraldine Wright and Leonard Wright. Left photo (2001.35.24876), newlywed Mr. and Mrs.Wright taste the first bit of their wedding cake at the reception which followed their wedding at Grace Memorial Church.  Center (2001.35.24877), the handsome array of bridal attendants pretty in pastels, surround the happy bride whose Chantilly lace and nylon net gown was a masterpiece of beauty.  Right, Harry Waugh, Calvert Western Pennsylvania sales representative, presents the gift of a ten-day expense-paid honeymoon to the couple for the Hotel Calvert in Miami, Fla. - Harris Photos.\"",
+    "TitMainTitle": "Bride Geraldine Wright wearing lace and tulle wedding gown, and groom Leonard Wright posed under trellis at Hunt Armory for wedding during the third annual Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Hunt Armory (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "43644595-ea25-4069-be36-177575259fbb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43412,
+    "MulMultiMediaRef_key": 24847,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43412/sizes/37178-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 24839,
+    "irn": 37178,
+    "TitAccessionNo": "2001.35.24871",
+    "CreDateCreated": "June 11, 1954",
+    "CreEarliestDate": "1954-06-11",
+    "CreLatestDate": "1954-06-11",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 19, 1954, pg. 11, reads: \"WRIGHT-WRIGHT BRIDAL SCENES - Pretty scenes from the brilliant wedding held at the Friday night session of the Courier Home Service Fair at Hunt Armory, which united charming Geraldine Wright and Leonard Wright. Left photo (2001.35.24876), newlywed Mr. and Mrs.Wright taste the first bit of their wedding cake at the reception which followed their wedding at Grace Memorial Church.  Center (2001.35.24877), the handsome array of bridal attendants pretty in pastels, surround the happy bride whose Chantilly lace and nylon net gown was a masterpiece of beauty.  Right, Harry Waugh, Calvert Western Pennsylvania sales representative, presents the gift of a ten-day expense-paid honeymoon to the couple for the Hotel Calvert in Miami, Fla. - Harris Photos.\"",
+    "TitMainTitle": "Bride Geraldine Wright wearing lace and tulle wedding gown, and groom Leonard Wright posed under trellis at Hunt Armory for wedding during the third annual Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Hunt Armory (Pittsburgh, Pa.)Pittsburgh Courier Home Service Fair.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "43644595-ea25-4069-be36-177575259fbb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 43412,
+    "MulMultiMediaRef_key": 24847,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/43412/sizes/37178-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvert Western",
+        "status": "suggested"
+      },
+      {
+        "data": "Leonard Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Waugh",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Wright",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Miami",
+        "status": "suggested"
+      },
+      {
+        "data": "Fla.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Miami",
+        "status": "suggested"
+      },
+      {
+        "data": "Fla.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Miami",
+        "status": "suggested"
+      },
+      {
+        "data": "Fla.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chantilly",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Miami",
+        "status": "suggested"
+      },
+      {
+        "data": "Fla.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "WRIGHT-WRIGHT BRIDAL SCENES - Pretty scenes from the brilliant wedding held at the Friday night session of the Courier Home Service Fair at Hunt Armory, which united charming Geraldine Wright and Leonard Wright. Left photo (2001.35.24876), newlywed Mr. and Mrs.Wright taste the first bit of their wedding cake at the reception which followed their wedding at Grace Memorial Church.  Center (2001.35.24877), the handsome array of bridal attendants pretty in pastels, surround the happy bride whose Chantilly lace and nylon net gown was a masterpiece of beauty.  Right, Harry Waugh, Calvert Western Pennsylvania sales representative, presents the gift of a ten-day expense-paid honeymoon to the couple for the Hotel Calvert in Miami, Fla. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 19, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Grace Memorial Church",
+        "status": "suggested"
+      },
+      {
+        "data": "June 19, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": ")Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "the Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "Leonard Wright",
+        "status": "suggested"
+      },
+      {
+        "data": "Hunt Armory ",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "ten-day",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hotel Calvert",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "winter",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      }
+    ]
+  }
 }

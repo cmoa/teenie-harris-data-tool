@@ -1,20 +1,368 @@
 {
-	"irn": "5144",
-	"emuInput": {
-		"ecatalogue_key": "18",
-		"irn": "5144",
-		"TitAccessionNo": "2001.35.3097",
-		"TitMainTitle": "William \"Gus\" Greenlee with his arm around woman wearing herringbone coat and head scarf, in booth at Crawford Grill No. 1",
-		"CreDateCreated": "c. 1940-1945",
-		"CreEarliestDate": "1940",
-		"CreLatestDate": "1945",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 12, 1952, pg. 20, reads: \"Everybody Liked 'Gus' - The ordinary people, the little folk, and the big ones with power and influence liked William A. (Gus) Greenlee, who died at his home here Monday after being ill for the past two years. Men, women and children displayed it in same manner that this customer at the now burned-out Crawford Grill is showing in this photo.  The folks on top remembered when 'Gus' helped them during the depression while they couldn't aid themselves.  The folks who weren't hitting it so well depended on him for many a touch.  That's how 'Gus' made and lost several fortunes...by 'being a friend to man.' - Harris Photo.\"",
-		"CatSubject_tab": "Greenlee, Gus.\nWomen--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nCrawford Grill (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "5144",
+  "emuInput": {
+    "ecatalogue_key": 3090,
+    "irn": 5144,
+    "TitAccessionNo": "2001.35.3097",
+    "CreDateCreated": "c. 1940-1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 12, 1952, pg. 20, reads: \"Everybody Liked 'Gus' - The ordinary people, the little folk, and the big ones with power and influence liked William A. (Gus) Greenlee, who died at his home here Monday after being ill for the past two years. Men, women and children displayed it in same manner that this customer at the now burned-out Crawford Grill is showing in this photo.  The folks on top remembered when 'Gus' helped them during the depression while they couldn't aid themselves.  The folks who weren't hitting it so well depended on him for many a touch.  That's how 'Gus' made and lost several fortunes...by 'being a friend to man.' - Harris Photo.\"",
+    "TitMainTitle": "William \"Gus\" Greenlee with his arm around woman wearing herringbone coat and head scarf, in booth at Crawford Grill No. 1",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Greenlee, Gus.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Crawford Grill (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "42812546-12ab-410b-b60d-9c4b8546234e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17912,
+    "MulMultiMediaRef_key": 3092,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17912/sizes/5144-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 3090,
+    "irn": 5144,
+    "TitAccessionNo": "2001.35.3097",
+    "CreDateCreated": "c. 1940-1945",
+    "CreEarliestDate": "1940",
+    "CreLatestDate": "1945",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, July 12, 1952, pg. 20, reads: \"Everybody Liked 'Gus' - The ordinary people, the little folk, and the big ones with power and influence liked William A. (Gus) Greenlee, who died at his home here Monday after being ill for the past two years. Men, women and children displayed it in same manner that this customer at the now burned-out Crawford Grill is showing in this photo.  The folks on top remembered when 'Gus' helped them during the depression while they couldn't aid themselves.  The folks who weren't hitting it so well depended on him for many a touch.  That's how 'Gus' made and lost several fortunes...by 'being a friend to man.' - Harris Photo.\"",
+    "TitMainTitle": "William \"Gus\" Greenlee with his arm around woman wearing herringbone coat and head scarf, in booth at Crawford Grill No. 1",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Greenlee, Gus.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Crawford Grill (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "42812546-12ab-410b-b60d-9c4b8546234e",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 17912,
+    "MulMultiMediaRef_key": 3092,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/17912/sizes/5144-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gus",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford Grill",
+        "status": "suggested"
+      },
+      {
+        "data": "William A.",
+        "status": "suggested"
+      },
+      {
+        "data": "William \" Gus \" Greenlee",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Gus",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Everybody Liked 'Gus' - The ordinary people, the little folk, and the big ones with power and influence liked William A. (Gus) Greenlee, who died at his home here Monday after being ill for the past two years. Men, women and children displayed it in same manner that this customer at the now burned-out Crawford Grill is showing in this photo.  The folks on top remembered when 'Gus' helped them during the depression while they couldn't aid themselves.  The folks who weren't hitting it so well depended on him for many a touch.  That's how 'Gus' made and lost several fortunes...by 'being a friend to man.' - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 12, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "July 12, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford Grill",
+        "status": "suggested"
+      },
+      {
+        "data": "William A.",
+        "status": "suggested"
+      },
+      {
+        "data": "Gus",
+        "status": "suggested"
+      },
+      {
+        "data": "Gus) Greenlee",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Everybody Liked 'Gus' -",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Crawford Grill ",
+        "status": "suggested"
+      },
+      {
+        "data": "William \" Gus \" Greenlee",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the past two years",
+        "status": "suggested"
+      },
+      {
+        "data": "Greenlee, Gus",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "gentleman",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

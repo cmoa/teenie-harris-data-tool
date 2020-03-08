@@ -1,20 +1,380 @@
 {
-	"irn": "3780",
-	"emuInput": {
-		"ecatalogue_key": "14",
-		"irn": "3780",
-		"TitAccessionNo": "2001.35.2189",
-		"TitMainTitle": "Pittsburgh Pirates baseball team manager Fred Haney posing with Birmingham Black Barons player Dwight Smallwood, at Forbes Field",
-		"CreDateCreated": "May 1954",
-		"CreEarliestDate": "1954-05-01",
-		"CreLatestDate": "1954-05-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1954, pg. 26, reads: \"Haney Greets Ex-Baron - Manager Fred Haney, left, is seen extending a warm welcome to Dwight Smallwood, sensational centerfielder of the Birmingham Black Barons, who has signed a contract to play in the farm team organization of the Pittsburgh Pirates.  Smallwood is not yet 21 years of age, so the club was forced to have the youngster's father sign the new contact.  Willie Mays, the New York Giants' ace gardener, started his career with the Black Barons, also. - Harris Photo.\"",
-		"CatSubject_tab": "Pirates (Baseball team : Pittsburgh, Pa.)\nMen--Pennsylvania--Pittsburgh.\nBaseball caps--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nBaseball players--Pennsylvania--Pittsburgh.\nAthletes--Pennsylvania--Pittsburgh.\nForbes Field (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "3780",
+  "emuInput": {
+    "ecatalogue_key": 2186,
+    "irn": 3780,
+    "TitAccessionNo": "2001.35.2189",
+    "CreDateCreated": "May 1954",
+    "CreEarliestDate": "1954-05-01",
+    "CreLatestDate": "1954-05-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1954, pg. 26, reads: \"Haney Greets Ex-Baron - Manager Fred Haney, left, is seen extending a warm welcome to Dwight Smallwood, sensational centerfielder of the Birmingham Black Barons, who has signed a contract to play in the farm team organization of the Pittsburgh Pirates.  Smallwood is not yet 21 years of age, so the club was forced to have the youngster's father sign the new contact.  Willie Mays, the New York Giants' ace gardener, started his career with the Black Barons, also. - Harris Photo.\"",
+    "TitMainTitle": "Pittsburgh Pirates baseball team manager Fred Haney posing with Birmingham Black Barons player Dwight Smallwood, at Forbes Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pirates (Baseball team : Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Baseball caps--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Athletes--Pennsylvania--Pittsburgh.Forbes Field (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01382b6e-e4b3-44ec-8fc3-48b4cbefc595",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16863,
+    "MulMultiMediaRef_key": 2188,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16863/sizes/3780-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 2186,
+    "irn": 3780,
+    "TitAccessionNo": "2001.35.2189",
+    "CreDateCreated": "May 1954",
+    "CreEarliestDate": "1954-05-01",
+    "CreLatestDate": "1954-05-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 22, 1954, pg. 26, reads: \"Haney Greets Ex-Baron - Manager Fred Haney, left, is seen extending a warm welcome to Dwight Smallwood, sensational centerfielder of the Birmingham Black Barons, who has signed a contract to play in the farm team organization of the Pittsburgh Pirates.  Smallwood is not yet 21 years of age, so the club was forced to have the youngster's father sign the new contact.  Willie Mays, the New York Giants' ace gardener, started his career with the Black Barons, also. - Harris Photo.\"",
+    "TitMainTitle": "Pittsburgh Pirates baseball team manager Fred Haney posing with Birmingham Black Barons player Dwight Smallwood, at Forbes Field",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Pirates (Baseball team : Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Baseball caps--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Baseball players--Pennsylvania--Pittsburgh.Athletes--Pennsylvania--Pittsburgh.Forbes Field (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "01382b6e-e4b3-44ec-8fc3-48b4cbefc595",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 16863,
+    "MulMultiMediaRef_key": 2188,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/16863/sizes/3780-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fred Haney",
+        "status": "suggested"
+      },
+      {
+        "data": "Willie Mays",
+        "status": "suggested"
+      },
+      {
+        "data": "Dwight Smallwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Smallwood",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Baseball caps",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pirates",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "26",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Haney Greets Ex-Baron - Manager Fred Haney, left, is seen extending a warm welcome to Dwight Smallwood, sensational centerfielder of the Birmingham Black Barons, who has signed a contract to play in the farm team organization of the Pittsburgh Pirates.  Smallwood is not yet 21 years of age, so the club was forced to have the youngster's father sign the new contact.  Willie Mays, the New York Giants' ace gardener, started his career with the Black Barons, also. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 22, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Birmingham Black Barons",
+        "status": "suggested"
+      },
+      {
+        "data": "Athletes",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Willie Mays",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Pirates ",
+        "status": "suggested"
+      },
+      {
+        "data": "the Birmingham Black Barons",
+        "status": "suggested"
+      },
+      {
+        "data": "Smallwood",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball caps",
+        "status": "suggested"
+      },
+      {
+        "data": "Forbes Field ",
+        "status": "suggested"
+      },
+      {
+        "data": "Fred Haney",
+        "status": "suggested"
+      },
+      {
+        "data": "the New York Giants'",
+        "status": "suggested"
+      },
+      {
+        "data": "Forbes Field",
+        "status": "suggested"
+      },
+      {
+        "data": "May 22, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Pirates",
+        "status": "suggested"
+      },
+      {
+        "data": "21 years of age",
+        "status": "suggested"
+      },
+      {
+        "data": "Baseball players",
+        "status": "suggested"
+      },
+      {
+        "data": "the Black Barons",
+        "status": "suggested"
+      },
+      {
+        "data": "the Pittsburgh Pirates",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "headgear",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

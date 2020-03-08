@@ -1,20 +1,384 @@
 {
-	"irn": "24482",
-	"emuInput": {
-		"ecatalogue_key": "117",
-		"irn": "24482",
-		"TitAccessionNo": "2001.35.14537",
-		"TitMainTitle": "Group portrait of participants in Annual King and Queen May Festival including, Pamela Young, Gerald Chapman, Watrice Russell, Eartha Sewell, and Kimberlie Jones posed in interior, another version",
-		"CreDateCreated": "April 1969",
-		"CreEarliestDate": "1969-04-01",
-		"CreLatestDate": "1969-04-26",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, April 26, 1969, pg. 11 reads: \"Festival Figures - Among the key participants in Annual King and Queen May Festival, sponsored by the Mon Valley Sunday School Association, pictured above are, Pamela Young of Sixth Mt. Zion Baptist Church; Gerald Chapman, Second Baptist Church, Homestead; Watrice Russell of Bethel AME, Eartha Sewell of Trinity AME and Miss Kimberlie Jones of the Askew Family Union. Others not in the picture are also taking part in the fund-raising contest sponsored for the development of Fairview Park.  The finale will take place at Sixth Mt. Zion Baptist Church on Friday evening, May 23.  Mrs. Eula Thomas is general chairman. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGirls--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nRussell, Watrice.\nCrowns--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "24482",
+  "emuInput": {
+    "ecatalogue_key": 14507,
+    "irn": 24482,
+    "TitAccessionNo": "2001.35.14537",
+    "CreDateCreated": "April 1969",
+    "CreEarliestDate": "1969-04-01",
+    "CreLatestDate": "1969-04-26",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, April 26, 1969, pg. 11 reads: \"Festival Figures - Among the key participants in Annual King and Queen May Festival, sponsored by the Mon Valley Sunday School Association, pictured above are, Pamela Young of Sixth Mt. Zion Baptist Church; Gerald Chapman, Second Baptist Church, Homestead; Watrice Russell of Bethel AME, Eartha Sewell of Trinity AME and Miss Kimberlie Jones of the Askew Family Union. Others not in the picture are also taking part in the fund-raising contest sponsored for the development of Fairview Park.  The finale will take place at Sixth Mt. Zion Baptist Church on Friday evening, May 23.  Mrs. Eula Thomas is general chairman. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of participants in Annual King and Queen May Festival including, Pamela Young, Gerald Chapman, Watrice Russell, Eartha Sewell, and Kimberlie Jones posed in interior, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Russell, Watrice.Crowns--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "90682126-238e-4903-a89b-20ca3070d8e0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30753,
+    "MulMultiMediaRef_key": 14515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30753/sizes/24482-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 14507,
+    "irn": 24482,
+    "TitAccessionNo": "2001.35.14537",
+    "CreDateCreated": "April 1969",
+    "CreEarliestDate": "1969-04-01",
+    "CreLatestDate": "1969-04-26",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, April 26, 1969, pg. 11 reads: \"Festival Figures - Among the key participants in Annual King and Queen May Festival, sponsored by the Mon Valley Sunday School Association, pictured above are, Pamela Young of Sixth Mt. Zion Baptist Church; Gerald Chapman, Second Baptist Church, Homestead; Watrice Russell of Bethel AME, Eartha Sewell of Trinity AME and Miss Kimberlie Jones of the Askew Family Union. Others not in the picture are also taking part in the fund-raising contest sponsored for the development of Fairview Park.  The finale will take place at Sixth Mt. Zion Baptist Church on Friday evening, May 23.  Mrs. Eula Thomas is general chairman. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of participants in Annual King and Queen May Festival including, Pamela Young, Gerald Chapman, Watrice Russell, Eartha Sewell, and Kimberlie Jones posed in interior, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Girls--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Russell, Watrice.Crowns--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "90682126-238e-4903-a89b-20ca3070d8e0",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30753,
+    "MulMultiMediaRef_key": 14515,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30753/sizes/24482-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Eartha Sewell",
+        "status": "suggested"
+      },
+      {
+        "data": "Kimberlie Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Eula Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerald Chapman",
+        "status": "suggested"
+      },
+      {
+        "data": "Watrice Russell",
+        "status": "suggested"
+      },
+      {
+        "data": "Pamela Young",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowns",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Fairview Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Fairview Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Fairview Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homestead",
+        "status": "suggested"
+      },
+      {
+        "data": "Fairview Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Festival Figures - Among the key participants in Annual King and Queen May Festival, sponsored by the Mon Valley Sunday School Association, pictured above are, Pamela Young of Sixth Mt. Zion Baptist Church; Gerald Chapman, Second Baptist Church, Homestead; Watrice Russell of Bethel AME, Eartha Sewell of Trinity AME and Miss Kimberlie Jones of the Askew Family Union. Others not in the picture are also taking part in the fund-raising contest sponsored for the development of Fairview Park.  The finale will take place at Sixth Mt. Zion Baptist Church on Friday evening, May 23.  Mrs. Eula Thomas is general chairman. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 26, 1969",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "May 23",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity AME",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Queen May Festival",
+        "status": "suggested"
+      },
+      {
+        "data": "Pamela Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Crowns",
+        "status": "suggested"
+      },
+      {
+        "data": "the Mon Valley Sunday School Association",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "the Askew Family Union",
+        "status": "suggested"
+      },
+      {
+        "data": "Russell, Watrice",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethel AME",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerald Chapman",
+        "status": "suggested"
+      },
+      {
+        "data": "April 26, 1969",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "Eula Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Second Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Sixth Mt. Zion Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

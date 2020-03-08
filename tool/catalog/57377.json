@@ -1,20 +1,360 @@
 {
-	"irn": "57377",
-	"emuInput": {
-		"ecatalogue_key": "257",
-		"irn": "57377",
-		"TitAccessionNo": "2001.35.43917",
-		"TitMainTitle": "Wrecked 1949 model car driven by Norman R. Allen, with crumpled front end and dents on rear and passenger side, parked in lot with warehouse building in background",
-		"CreDateCreated": "April 1955",
-		"CreEarliestDate": "1955-04-01",
-		"CreLatestDate": "1955-04-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 1, reads: \"Crash Kills One - A two-car collision at Frankstown and Lang Avenues early Saturday morning, killed 17-year-old Harold Scott of 7373 Lemington Avenue, Penn Township, and seriously injured Norman R. Allen, 20, right, inset, of 1 East Lemington Avenue, also of Penn Township, and Thomas H. Croom, 27, left inset, of 2600 Wylie Avenue. The latter two were drivers of the cars which crashed into a confectionary store.  Upper photo, the car Allen was driving...Both cars were completely wrecked, police said. - Harris Photo.\"",
-		"CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.\nAutomobile wrecking and used parts industry--Pennsylvania--Pittsburgh.\nParking lots--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "57377",
+  "emuInput": {
+    "ecatalogue_key": 43875,
+    "irn": 57377,
+    "TitAccessionNo": "2001.35.43917",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 1, reads: \"Crash Kills One - A two-car collision at Frankstown and Lang Avenues early Saturday morning, killed 17-year-old Harold Scott of 7373 Lemington Avenue, Penn Township, and seriously injured Norman R. Allen, 20, right, inset, of 1 East Lemington Avenue, also of Penn Township, and Thomas H. Croom, 27, left inset, of 2600 Wylie Avenue. The latter two were drivers of the cars which crashed into a confectionary store.  Upper photo, the car Allen was driving...Both cars were completely wrecked, police said. - Harris Photo.\"",
+    "TitMainTitle": "Wrecked 1949 model car driven by Norman R. Allen, with crumpled front end and dents on rear and passenger side, parked in lot with warehouse building in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile wrecking and used parts industry--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0122c5a7-6a67-4788-b8aa-483e1640c8dd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65599,
+    "MulMultiMediaRef_key": 43883,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65599/sizes/57377-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43875,
+    "irn": 57377,
+    "TitAccessionNo": "2001.35.43917",
+    "CreDateCreated": "April 1955",
+    "CreEarliestDate": "1955-04-01",
+    "CreLatestDate": "1955-04-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 23, 1955, pg. 1, reads: \"Crash Kills One - A two-car collision at Frankstown and Lang Avenues early Saturday morning, killed 17-year-old Harold Scott of 7373 Lemington Avenue, Penn Township, and seriously injured Norman R. Allen, 20, right, inset, of 1 East Lemington Avenue, also of Penn Township, and Thomas H. Croom, 27, left inset, of 2600 Wylie Avenue. The latter two were drivers of the cars which crashed into a confectionary store.  Upper photo, the car Allen was driving...Both cars were completely wrecked, police said. - Harris Photo.\"",
+    "TitMainTitle": "Wrecked 1949 model car driven by Norman R. Allen, with crumpled front end and dents on rear and passenger side, parked in lot with warehouse building in background",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Automobile wrecking and used parts industry--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0122c5a7-6a67-4788-b8aa-483e1640c8dd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65599,
+    "MulMultiMediaRef_key": 43883,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65599/sizes/57377-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Allen",
+        "status": "suggested"
+      },
+      {
+        "data": "Thomas H. Croom",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Norman R. Allen",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Automobile wrecking and used parts industry",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Lang Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "7373 Lemington Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Township",
+        "status": "suggested"
+      },
+      {
+        "data": "2600 Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Lang Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "7373 Lemington Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Township",
+        "status": "suggested"
+      },
+      {
+        "data": "2600 Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Lang Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "7373 Lemington Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Township",
+        "status": "suggested"
+      },
+      {
+        "data": "2600 Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Lang Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "7373 Lemington Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Penn Township",
+        "status": "suggested"
+      },
+      {
+        "data": "2600 Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Crash Kills One - A two-car collision at Frankstown and Lang Avenues early Saturday morning, killed 17-year-old Harold Scott of 7373 Lemington Avenue, Penn Township, and seriously injured Norman R. Allen, 20, right, inset, of 1 East Lemington Avenue, also of Penn Township, and Thomas H. Croom, 27, left inset, of 2600 Wylie Avenue. The latter two were drivers of the cars which crashed into a confectionary store.  Upper photo, the car Allen was driving...Both cars were completely wrecked, police said. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 23, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "April 23, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobile wrecking and used parts industry",
+        "status": "suggested"
+      },
+      {
+        "data": "7373 Lemington Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Frankstown",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Allen",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Lang Avenues",
+        "status": "suggested"
+      },
+      {
+        "data": "20",
+        "status": "suggested"
+      },
+      {
+        "data": "27",
+        "status": "suggested"
+      },
+      {
+        "data": "early Saturday morning",
+        "status": "suggested"
+      },
+      {
+        "data": "2600 Wylie Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "1949",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "sedan",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "classic car",
+        "status": "suggested"
+      },
+      {
+        "data": "mid size car",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "auto",
+        "status": "suggested"
+      },
+      {
+        "data": "antique car",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

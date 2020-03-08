@@ -1,20 +1,320 @@
 {
-	"irn": "69320",
-	"emuInput": {
-		"ecatalogue_key": "362",
-		"irn": "69320",
-		"TitAccessionNo": "2001.35.55042",
-		"TitMainTitle": "Group portrait of six men, including James Bradley shaking hands with Congressman William S. Moorhead, in office",
-		"CreDateCreated": "January 1960",
-		"CreEarliestDate": "1960-01-01",
-		"CreLatestDate": "1960-01-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 9, 1960, pg. 3, reads: \"Honored by NAPE - Congressman William S. Moorehead [Moorhead], Democrat, 28th District, received an honorary membership in National Alliance of Postal Employes [Employees] this week. NAPE's vice president James Bradley made the presentation.  The occasion marked the kickoff drive of the NAPE for new members. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nOffices--Pennsylvania--Pittsburgh.\nHandshaking--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "69320",
+  "emuInput": {
+    "ecatalogue_key": 54999,
+    "irn": 69320,
+    "TitAccessionNo": "2001.35.55042",
+    "CreDateCreated": "January 1960",
+    "CreEarliestDate": "1960-01-01",
+    "CreLatestDate": "1960-01-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 9, 1960, pg. 3, reads: \"Honored by NAPE - Congressman William S. Moorehead [Moorhead], Democrat, 28th District, received an honorary membership in National Alliance of Postal Employes [Employees] this week. NAPE's vice president James Bradley made the presentation.  The occasion marked the kickoff drive of the NAPE for new members. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of six men, including James Bradley shaking hands with Congressman William S. Moorhead, in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01db725a-ba57-4390-9d7f-348ecc95a82b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 82333,
+    "MulMultiMediaRef_key": 55008,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/82333/sizes/69320-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 54999,
+    "irn": 69320,
+    "TitAccessionNo": "2001.35.55042",
+    "CreDateCreated": "January 1960",
+    "CreEarliestDate": "1960-01-01",
+    "CreLatestDate": "1960-01-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 9, 1960, pg. 3, reads: \"Honored by NAPE - Congressman William S. Moorehead [Moorhead], Democrat, 28th District, received an honorary membership in National Alliance of Postal Employes [Employees] this week. NAPE's vice president James Bradley made the presentation.  The occasion marked the kickoff drive of the NAPE for new members. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of six men, including James Bradley shaking hands with Congressman William S. Moorhead, in office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.Handshaking--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01db725a-ba57-4390-9d7f-348ecc95a82b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 82333,
+    "MulMultiMediaRef_key": 55008,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/82333/sizes/69320-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "James Bradley",
+        "status": "suggested"
+      },
+      {
+        "data": "William S. Moorhead",
+        "status": "suggested"
+      },
+      {
+        "data": "William S. Moorehead",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "National Association of Physicians for the Environment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "National Association of Partners in Education",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "Schweizerischer Landesverband für Leibesübungen",
+        "status": "suggested"
+      },
+      {
+        "data": "Newfoundland Association of Public Employees",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Nigerian Association of Professional Educators",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "National Alliance of Postal Employees (U.S.)",
+        "status": "suggested"
+      },
+      {
+        "data": "Universidade Federal do Rio Grande do Sul. Núcleo de Análise de Política Econômica",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Nebraska Association of Public Employees",
+        "status": "suggested"
+      },
+      {
+        "data": "National Association of Power Engineers (U.S.)",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Nigerian Association of Programme Evaluators",
+        "status": "suggested"
+      },
+      {
+        "data": "Newfoundland and Labrador Association of Public and Private Employees",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "3",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Honored by NAPE - Congressman William S. Moorehead [Moorhead], Democrat, 28th District, received an honorary membership in National Alliance of Postal Employes [Employees] this week. NAPE's vice president James Bradley made the presentation.  The occasion marked the kickoff drive of the NAPE for new members. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "January 9, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Democrat",
+        "status": "suggested"
+      },
+      {
+        "data": "this week",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "January 9, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "James Bradley",
+        "status": "suggested"
+      },
+      {
+        "data": "National Alliance of Postal Employes [Employees",
+        "status": "suggested"
+      },
+      {
+        "data": "NAPE",
+        "status": "suggested"
+      },
+      {
+        "data": "Handshaking",
+        "status": "suggested"
+      },
+      {
+        "data": "William S. Moorhead",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "suit",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "conversation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

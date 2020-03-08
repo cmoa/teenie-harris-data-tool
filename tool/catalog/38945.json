@@ -1,20 +1,336 @@
 {
-	"irn": "38945",
-	"emuInput": {
-		"ecatalogue_key": "189",
-		"irn": "38945",
-		"TitAccessionNo": "2001.35.26386",
-		"TitMainTitle": "Groom Wilbert Hawkins and bride Virginia Sumlin Hawkins posed with wedding party, including best man William Redman, matron of honor Gloria Lane, and bridesmaids Dorothy Greenlee and Marion Powell posed in front of dark curtain",
-		"CreDateCreated": "February 1947",
-		"CreEarliestDate": "1947-02-01",
-		"CreLatestDate": "1947-02-28",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 8, 1947, pg. 11, reads: \"Wedding Party - Mr. and Mrs. Wilbert Hawkins posed with their wedding party for the photographer. Bridesmaids were Miss Dorothy Greenlee and Miss Marion Powell. Matron of honor was Mrs. Gloria Lane, the bride's sister. Best man was William Redman. The bride is the former Miss Virginia Sumlin. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "38945",
+  "emuInput": {
+    "ecatalogue_key": 26354,
+    "irn": 38945,
+    "TitAccessionNo": "2001.35.26386",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-28",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 8, 1947, pg. 11, reads: \"Wedding Party - Mr. and Mrs. Wilbert Hawkins posed with their wedding party for the photographer. Bridesmaids were Miss Dorothy Greenlee and Miss Marion Powell. Matron of honor was Mrs. Gloria Lane, the bride's sister. Best man was William Redman. The bride is the former Miss Virginia Sumlin. - Harris Photo.\"",
+    "TitMainTitle": "Groom Wilbert Hawkins and bride Virginia Sumlin Hawkins posed with wedding party, including best man William Redman, matron of honor Gloria Lane, and bridesmaids Dorothy Greenlee and Marion Powell posed in front of dark curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "026e6037-3b72-4264-bf6f-e75f88b4dffc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44915,
+    "MulMultiMediaRef_key": 26362,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44915/sizes/38945-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 26354,
+    "irn": 38945,
+    "TitAccessionNo": "2001.35.26386",
+    "CreDateCreated": "February 1947",
+    "CreEarliestDate": "1947-02-01",
+    "CreLatestDate": "1947-02-28",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper March 8, 1947, pg. 11, reads: \"Wedding Party - Mr. and Mrs. Wilbert Hawkins posed with their wedding party for the photographer. Bridesmaids were Miss Dorothy Greenlee and Miss Marion Powell. Matron of honor was Mrs. Gloria Lane, the bride's sister. Best man was William Redman. The bride is the former Miss Virginia Sumlin. - Harris Photo.\"",
+    "TitMainTitle": "Groom Wilbert Hawkins and bride Virginia Sumlin Hawkins posed with wedding party, including best man William Redman, matron of honor Gloria Lane, and bridesmaids Dorothy Greenlee and Marion Powell posed in front of dark curtain",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "026e6037-3b72-4264-bf6f-e75f88b4dffc",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44915,
+    "MulMultiMediaRef_key": 26362,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44915/sizes/38945-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Wilbert Hawkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia Sumlin Hawkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloria Lane",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Greenlee",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion Powell",
+        "status": "suggested"
+      },
+      {
+        "data": "Virginia Sumlin",
+        "status": "suggested"
+      },
+      {
+        "data": "William Redman",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Wedding Party - Mr. and Mrs. Wilbert Hawkins posed with their wedding party for the photographer. Bridesmaids were Miss Dorothy Greenlee and Miss Marion Powell. Matron of honor was Mrs. Gloria Lane, the bride's sister. Best man was William Redman. The bride is the former Miss Virginia Sumlin. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 8, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "March 8, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloria Lane",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Marion Powell",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "William Redman",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "tradition",
+        "status": "suggested"
+      }
+    ]
+  }
 }

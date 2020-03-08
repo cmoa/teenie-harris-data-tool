@@ -1,20 +1,304 @@
 {
-	"irn": "52263",
-	"emuInput": {
-		"ecatalogue_key": "223",
-		"irn": "52263",
-		"TitAccessionNo": "2001.35.39037",
-		"TitMainTitle": "Five women, Grace Redd wearing dark dress with spaghetti straps, cross necklace, and corsage, and five men, seated at table with cake and candles, in interior with dark trimmed doors",
-		"CreDateCreated": "1941",
-		"CreEarliestDate": "1941",
-		"CreLatestDate": "1941",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 1, 1941, pg. 9 reads: \"Cutting Birthday Cake - Charming Miss Grace Redd of Lowell street observed her birthday Saturday with much gayety and a party to which Eddie Breckman was host. Miss Redd wore gardenias and was felicitated and showered with gifts by many friends - Harris photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nTables--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nCandles--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "52263",
+  "emuInput": {
+    "ecatalogue_key": 38996,
+    "irn": 52263,
+    "TitAccessionNo": "2001.35.39037",
+    "CreDateCreated": "1941",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1941",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 1, 1941, pg. 9 reads: \"Cutting Birthday Cake - Charming Miss Grace Redd of Lowell street observed her birthday Saturday with much gayety and a party to which Eddie Breckman was host. Miss Redd wore gardenias and was felicitated and showered with gifts by many friends - Harris photo.\"",
+    "TitMainTitle": "Five women, Grace Redd wearing dark dress with spaghetti straps, cross necklace, and corsage, and five men, seated at table with cake and candles, in interior with dark trimmed doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Candles--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "90488241-0939-4d2e-b4cc-2c8339509dcb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59585,
+    "MulMultiMediaRef_key": 39004,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59585/sizes/52263-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38996,
+    "irn": 52263,
+    "TitAccessionNo": "2001.35.39037",
+    "CreDateCreated": "1941",
+    "CreEarliestDate": "1941",
+    "CreLatestDate": "1941",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 1, 1941, pg. 9 reads: \"Cutting Birthday Cake - Charming Miss Grace Redd of Lowell street observed her birthday Saturday with much gayety and a party to which Eddie Breckman was host. Miss Redd wore gardenias and was felicitated and showered with gifts by many friends - Harris photo.\"",
+    "TitMainTitle": "Five women, Grace Redd wearing dark dress with spaghetti straps, cross necklace, and corsage, and five men, seated at table with cake and candles, in interior with dark trimmed doors",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Tables--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Candles--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "90488241-0939-4d2e-b4cc-2c8339509dcb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59585,
+    "MulMultiMediaRef_key": 39004,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59585/sizes/52263-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Redd",
+        "status": "suggested"
+      },
+      {
+        "data": "Eddie Breckman",
+        "status": "suggested"
+      },
+      {
+        "data": "Grace Redd",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Candles",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Redd",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Lowell street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Lowell street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Lowell street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Lowell street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Cutting Birthday Cake - Charming Miss Grace Redd of Lowell street observed her birthday Saturday with much gayety and a party to which Eddie Breckman was host. Miss Redd wore gardenias and was felicitated and showered with gifts by many friends - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 1, 1941",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Candles",
+        "status": "suggested"
+      },
+      {
+        "data": "Lowell street",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "March 1, 1941",
+        "status": "suggested"
+      },
+      {
+        "data": "Redd",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Tables",
+        "status": "suggested"
+      },
+      {
+        "data": "restaurant",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "function hall",
+        "status": "suggested"
+      }
+    ]
+  }
 }

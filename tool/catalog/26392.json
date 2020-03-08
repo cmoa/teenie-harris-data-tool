@@ -1,20 +1,436 @@
 {
-	"irn": "26392",
-	"emuInput": {
-		"ecatalogue_key": "126",
-		"irn": "26392",
-		"TitAccessionNo": "2001.35.15924",
-		"TitMainTitle": "Group portrait of groom Bailey W. Williams and bride Jayne Lewis Woodson Williams, cutting two tiered wedding cake in dining room of Hijar Manor, home of Mr. and Mrs. Ira Lewis",
-		"CreDateCreated": "November 1952",
-		"CreEarliestDate": "1952-11-01",
-		"CreLatestDate": "1952-11-29",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 10 reads: \"Mr. and Mrs. Bailey W. Williams...on New York honeymoon.\" Portion of article reads: \"Woodson-Williams Rites Are Social Highlight - Pittsburgh- In a most charming home wedding, held at the celebrated Hijar Manor, above the city and overlooking the far reaches of Wilkinsburg, Mrs. Jayne Lewis Woodson, daughter of Mrs. Harriette Lewis and the late Ira F. Lewis, became the bride of Bailey W. Williams, son of Mrs. Margaret Williams...The marriage was an event of Saturday morning, Nov. 23, at 11:30, with the Rev. Charles H. Foggie officiating.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "26392",
+  "emuInput": {
+    "ecatalogue_key": 15894,
+    "irn": 26392,
+    "TitAccessionNo": "2001.35.15924",
+    "CreDateCreated": "November 1952",
+    "CreEarliestDate": "1952-11-01",
+    "CreLatestDate": "1952-11-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 10 reads: \"Mr. and Mrs. Bailey W. Williams...on New York honeymoon.\" Portion of article reads: \"Woodson-Williams Rites Are Social Highlight - Pittsburgh- In a most charming home wedding, held at the celebrated Hijar Manor, above the city and overlooking the far reaches of Wilkinsburg, Mrs. Jayne Lewis Woodson, daughter of Mrs. Harriette Lewis and the late Ira F. Lewis, became the bride of Bailey W. Williams, son of Mrs. Margaret Williams...The marriage was an event of Saturday morning, Nov. 23, at 11:30, with the Rev. Charles H. Foggie officiating.\"",
+    "TitMainTitle": "Group portrait of groom Bailey W. Williams and bride Jayne Lewis Woodson Williams, cutting two tiered wedding cake in dining room of Hijar Manor, home of Mr. and Mrs. Ira Lewis",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01feba34-82b7-4c5c-ba5d-c45a88d0d12c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32183,
+    "MulMultiMediaRef_key": 15902,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32183/sizes/26392-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 15894,
+    "irn": 26392,
+    "TitAccessionNo": "2001.35.15924",
+    "CreDateCreated": "November 1952",
+    "CreEarliestDate": "1952-11-01",
+    "CreLatestDate": "1952-11-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 10 reads: \"Mr. and Mrs. Bailey W. Williams...on New York honeymoon.\" Portion of article reads: \"Woodson-Williams Rites Are Social Highlight - Pittsburgh- In a most charming home wedding, held at the celebrated Hijar Manor, above the city and overlooking the far reaches of Wilkinsburg, Mrs. Jayne Lewis Woodson, daughter of Mrs. Harriette Lewis and the late Ira F. Lewis, became the bride of Bailey W. Williams, son of Mrs. Margaret Williams...The marriage was an event of Saturday morning, Nov. 23, at 11:30, with the Rev. Charles H. Foggie officiating.\"",
+    "TitMainTitle": "Group portrait of groom Bailey W. Williams and bride Jayne Lewis Woodson Williams, cutting two tiered wedding cake in dining room of Hijar Manor, home of Mr. and Mrs. Ira Lewis",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01feba34-82b7-4c5c-ba5d-c45a88d0d12c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 32183,
+    "MulMultiMediaRef_key": 15902,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/32183/sizes/26392-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Bailey W. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Ira Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Ira F. Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Jayne Lewis Woodson",
+        "status": "suggested"
+      },
+      {
+        "data": "Jayne Lewis Woodson Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriette Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles H. Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Williams-Bailey, W.",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilkinsburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilkinsburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilkinsburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Wilkinsburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Mr. and Mrs. Bailey W. Williams...on New York honeymoon.\" Portion of article reads: \"Woodson-Williams Rites Are Social Highlight - Pittsburgh- In a most charming home wedding, held at the celebrated Hijar Manor, above the city and overlooking the far reaches of Wilkinsburg, Mrs. Jayne Lewis Woodson, daughter of Mrs. Harriette Lewis and the late Ira F. Lewis, became the bride of Bailey W. Williams, son of Mrs. Margaret Williams...The marriage was an event of Saturday morning, Nov. 23, at 11:30, with the Rev. Charles H. Foggie officiating.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 29, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "November 29, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "Bailey, W. Williams-",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Hijar Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Nov. 23",
+        "status": "suggested"
+      },
+      {
+        "data": "Bailey W. Williams",
+        "status": "suggested"
+      },
+      {
+        "data": "Ira Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "11:30",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles H. Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriette Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "male",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "romance",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "interaction",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

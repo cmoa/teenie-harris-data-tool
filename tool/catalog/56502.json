@@ -1,20 +1,308 @@
 {
-	"irn": "56502",
-	"emuInput": {
-		"ecatalogue_key": "251",
-		"irn": "56502",
-		"TitAccessionNo": "2001.35.43189",
-		"TitMainTitle": "Group portrait of members of the Original Junior Mothers' Club, left to right; Mary Douglass, Louise Anderson, Marguerite Peters, Harriet Lewis, Lulu Proctor Lewis, Ethel Posey, Margaret Hall, and Sue McNeal, gathered in front of the Ruskin apartments for the fortieth anniversary bridge luncheon",
-		"CreDateCreated": "1954",
-		"CreEarliestDate": "1954",
-		"CreLatestDate": "1954",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 8, 1954, pg. 11 reads: \"Original Mothers' Club - The Original Junior Mothers' club celebrated its fortieth anniversary by giving an elegant bridge-luncheon at the Ruskin last Saturday. Pictured here are the members.  Left to right: Mrs. Mary Douglass, Mrs. Louise Anderson, Mrs. Marguerite Peters, Mrs. Harriet Lewis, president; Mrs. Lulu Proctor Lewis, Mrs. Ethel Posey, Mrs. Margaret Hall and Mrs. Sue McNeal. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nClubs--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "56502",
+  "emuInput": {
+    "ecatalogue_key": 43147,
+    "irn": 56502,
+    "TitAccessionNo": "2001.35.43189",
+    "CreDateCreated": "1954",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 8, 1954, pg. 11 reads: \"Original Mothers' Club - The Original Junior Mothers' club celebrated its fortieth anniversary by giving an elegant bridge-luncheon at the Ruskin last Saturday. Pictured here are the members.  Left to right: Mrs. Mary Douglass, Mrs. Louise Anderson, Mrs. Marguerite Peters, Mrs. Harriet Lewis, president; Mrs. Lulu Proctor Lewis, Mrs. Ethel Posey, Mrs. Margaret Hall and Mrs. Sue McNeal. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of members of the Original Junior Mothers' Club, left to right; Mary Douglass, Louise Anderson, Marguerite Peters, Harriet Lewis, Lulu Proctor Lewis, Ethel Posey, Margaret Hall, and Sue McNeal, gathered in front of the Ruskin apartments for the fortieth anniversary bridge luncheon",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "33020781-e05c-4797-bf64-90d6e530f2ed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64736,
+    "MulMultiMediaRef_key": 43155,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64736/sizes/56502-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 43147,
+    "irn": 56502,
+    "TitAccessionNo": "2001.35.43189",
+    "CreDateCreated": "1954",
+    "CreEarliestDate": "1954",
+    "CreLatestDate": "1954",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 8, 1954, pg. 11 reads: \"Original Mothers' Club - The Original Junior Mothers' club celebrated its fortieth anniversary by giving an elegant bridge-luncheon at the Ruskin last Saturday. Pictured here are the members.  Left to right: Mrs. Mary Douglass, Mrs. Louise Anderson, Mrs. Marguerite Peters, Mrs. Harriet Lewis, president; Mrs. Lulu Proctor Lewis, Mrs. Ethel Posey, Mrs. Margaret Hall and Mrs. Sue McNeal. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of members of the Original Junior Mothers' Club, left to right; Mary Douglass, Louise Anderson, Marguerite Peters, Harriet Lewis, Lulu Proctor Lewis, Ethel Posey, Margaret Hall, and Sue McNeal, gathered in front of the Ruskin apartments for the fortieth anniversary bridge luncheon",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "33020781-e05c-4797-bf64-90d6e530f2ed",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 64736,
+    "MulMultiMediaRef_key": 43155,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/64736/sizes/56502-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Margaret Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruskin",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Posey",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Douglass",
+        "status": "suggested"
+      },
+      {
+        "data": "Sue McNeal",
+        "status": "suggested"
+      },
+      {
+        "data": "Louise Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Lulu Proctor Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Marguerite Peters",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "11",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Original Mothers' Club - The Original Junior Mothers' club celebrated its fortieth anniversary by giving an elegant bridge-luncheon at the Ruskin last Saturday. Pictured here are the members.  Left to right: Mrs. Mary Douglass, Mrs. Louise Anderson, Mrs. Marguerite Peters, Mrs. Harriet Lewis, president; Mrs. Lulu Proctor Lewis, Mrs. Ethel Posey, Mrs. Margaret Hall and Mrs. Sue McNeal. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 8, 1954",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Original Mothers' Club -",
+        "status": "suggested"
+      },
+      {
+        "data": "May 8, 1954",
+        "status": "suggested"
+      },
+      {
+        "data": "Margaret Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruskin",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Posey",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Douglass",
+        "status": "suggested"
+      },
+      {
+        "data": "Louise Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Marguerite Peters",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

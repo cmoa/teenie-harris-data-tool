@@ -1,20 +1,376 @@
 {
-	"irn": "71722",
-	"emuInput": {
-		"ecatalogue_key": "380",
-		"irn": "71722",
-		"TitAccessionNo": "2001.35.56457",
-		"TitMainTitle": "Group, seated from left: Betty Wilkins, Joanne Butler, Junyetta Jelks, Susan Carroll; standing: supervisor Thelma Hazel, Major Ellison, Merman Austin, Alico Polk, Timothy \"Tim\" Stevens, and Ruth Butler, stuffing pillows in basement of Trinity AME Church",
-		"CreDateCreated": "December 1961",
-		"CreEarliestDate": "1961-12-01",
-		"CreLatestDate": "1961-12-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 23, 1961, pg. 10, reads: \"Gifts For Termon Home - \"Stuffing tummies\" may be the trend for the season, but these Trinity AME youth are stuffing animal pillows for the girls at Termon Avenue Home. Left to right, seated: Betty Wilkins, Joan Butler, Junyetta Jelks and Susan Carroll, president.  Standing: Mrs. Thelma Hazel, supervisor; Major Ellison, Merman Austin, Alico Polk, Timothy Stevens and Mrs. Ruth Butler, supervisor. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nSewing--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nStevens, Tim.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "71722",
+  "emuInput": {
+    "ecatalogue_key": 56414,
+    "irn": 71722,
+    "TitAccessionNo": "2001.35.56457",
+    "CreDateCreated": "December 1961",
+    "CreEarliestDate": "1961-12-01",
+    "CreLatestDate": "1961-12-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 23, 1961, pg. 10, reads: \"Gifts For Termon Home - \"Stuffing tummies\" may be the trend for the season, but these Trinity AME youth are stuffing animal pillows for the girls at Termon Avenue Home. Left to right, seated: Betty Wilkins, Joan Butler, Junyetta Jelks and Susan Carroll, president.  Standing: Mrs. Thelma Hazel, supervisor; Major Ellison, Merman Austin, Alico Polk, Timothy Stevens and Mrs. Ruth Butler, supervisor. - Harris Photo.\"",
+    "TitMainTitle": "Group, seated from left: Betty Wilkins, Joanne Butler, Junyetta Jelks, Susan Carroll; standing: supervisor Thelma Hazel, Major Ellison, Merman Austin, Alico Polk, Timothy \"Tim\" Stevens, and Ruth Butler, stuffing pillows in basement of Trinity AME Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Sewing--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stevens, Tim.",
+    "AdmGUIDValue_tab": "77908202-46a4-4ffe-9512-ab533bc46a40",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89408,
+    "MulMultiMediaRef_key": 56423,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89408/sizes/71722-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 56414,
+    "irn": 71722,
+    "TitAccessionNo": "2001.35.56457",
+    "CreDateCreated": "December 1961",
+    "CreEarliestDate": "1961-12-01",
+    "CreLatestDate": "1961-12-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 23, 1961, pg. 10, reads: \"Gifts For Termon Home - \"Stuffing tummies\" may be the trend for the season, but these Trinity AME youth are stuffing animal pillows for the girls at Termon Avenue Home. Left to right, seated: Betty Wilkins, Joan Butler, Junyetta Jelks and Susan Carroll, president.  Standing: Mrs. Thelma Hazel, supervisor; Major Ellison, Merman Austin, Alico Polk, Timothy Stevens and Mrs. Ruth Butler, supervisor. - Harris Photo.\"",
+    "TitMainTitle": "Group, seated from left: Betty Wilkins, Joanne Butler, Junyetta Jelks, Susan Carroll; standing: supervisor Thelma Hazel, Major Ellison, Merman Austin, Alico Polk, Timothy \"Tim\" Stevens, and Ruth Butler, stuffing pillows in basement of Trinity AME Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Sewing--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Stevens, Tim.",
+    "AdmGUIDValue_tab": "77908202-46a4-4ffe-9512-ab533bc46a40",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 89408,
+    "MulMultiMediaRef_key": 56423,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/89408/sizes/71722-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Junyetta Jelks",
+        "status": "suggested"
+      },
+      {
+        "data": "Alico Polk",
+        "status": "suggested"
+      },
+      {
+        "data": "Joanne Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Ellison",
+        "status": "suggested"
+      },
+      {
+        "data": "Susan Carroll",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Wilkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy \" Tim \" Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Merman Austin",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Thelma Hazel",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Sewing",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Termon Avenue Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Termon Avenue Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Termon Avenue Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Termon Avenue Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "10",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Gifts For Termon Home - \"Stuffing tummies\" may be the trend for the season, but these Trinity AME youth are stuffing animal pillows for the girls at Termon Avenue Home. Left to right, seated: Betty Wilkins, Joan Butler, Junyetta Jelks and Susan Carroll, president.  Standing: Mrs. Thelma Hazel, supervisor; Major Ellison, Merman Austin, Alico Polk, Timothy Stevens and Mrs. Ruth Butler, supervisor. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 23, 1961",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "the season",
+        "status": "suggested"
+      },
+      {
+        "data": "Ellison",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Termon Avenue Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Sewing",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy \" Tim \" Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity AME",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Joan Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "December 23, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Susan Carroll",
+        "status": "suggested"
+      },
+      {
+        "data": "Trinity AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Timothy Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Stevens, Tim",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,536 @@
 {
-	"irn": "52516",
-	"emuInput": {
-		"ecatalogue_key": "221",
-		"irn": "52516",
-		"TitAccessionNo": "2001.35.38912",
-		"TitMainTitle": "Groom Ralph Warner White wearing morning suit, and bride Ruth Goode White wearing long sleeved gown, posed in front of curtains and ferns in Clark Memorial Baptist Church, Homestead",
-		"CreDateCreated": "January 1941",
-		"CreEarliestDate": "1941-01-01",
-		"CreLatestDate": "1941-01-31",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 1, 1941, pg. 8, reads: \"When lovely Ruth Goode became the bride of William White last Friday afternoon, the sartorial perfection was in order. The perfectly groomed party includes, left to right: Robert Lavelle, James Goode (ushers); Franklin Dudley, best man; Mr. and Mrs. William White, Mrs. Mary Dudley, matron of honor; Miss Harriet Deaton, Miss Betty Dickerson, bridesmaids; Master Russell Goode, ringbearer. - Harris Photo.\" Portions of article read: \"Ruth Goode, daughter of Mr. and Mrs. W. H. Goode, became the bride of Ralph Warner White, son of Mrs. Mamie White of Keystone, W. Va., on Friday afternoon in Clark Memorial Baptist Church.  Rev. E. P. Tunie performed the ceremony....The couple will reside at 1002 Blackadore Street, Homewood.  Mr. and Mrs. White are graduates of West Virginia State College...\"",
-		"CatSubject_tab": "Brides--Pennsylvania--Homestead.\nBridegrooms--Pennsylvania--Homestead.\nWedding costume--Pennsylvania--Homestead.\nWomen--Pennsylvania--Homestead.\nMen--Pennsylvania--Homestead.\nGroup portraits--Pennsylvania--Homestead.\nClark Memorial Baptist Church (Homestead, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Homestead",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "52516",
+  "emuInput": {
+    "ecatalogue_key": 38871,
+    "irn": 52516,
+    "TitAccessionNo": "2001.35.38912",
+    "CreDateCreated": "January 1941",
+    "CreEarliestDate": "1941-01-01",
+    "CreLatestDate": "1941-01-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 1, 1941, pg. 8, reads: \"When lovely Ruth Goode became the bride of William White last Friday afternoon, the sartorial perfection was in order. The perfectly groomed party includes, left to right: Robert Lavelle, James Goode (ushers); Franklin Dudley, best man; Mr. and Mrs. William White, Mrs. Mary Dudley, matron of honor; Miss Harriet Deaton, Miss Betty Dickerson, bridesmaids; Master Russell Goode, ringbearer. - Harris Photo.\" Portions of article read: \"Ruth Goode, daughter of Mr. and Mrs. W. H. Goode, became the bride of Ralph Warner White, son of Mrs. Mamie White of Keystone, W. Va., on Friday afternoon in Clark Memorial Baptist Church.  Rev. E. P. Tunie performed the ceremony....The couple will reside at 1002 Blackadore Street, Homewood.  Mr. and Mrs. White are graduates of West Virginia State College...\"",
+    "TitMainTitle": "Groom Ralph Warner White wearing morning suit, and bride Ruth Goode White wearing long sleeved gown, posed in front of curtains and ferns in Clark Memorial Baptist Church, Homestead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Homestead",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Brides--Pennsylvania--Homestead.Bridegrooms--Pennsylvania--Homestead.Wedding costume--Pennsylvania--Homestead.Women--Pennsylvania--Homestead.Men--Pennsylvania--Homestead.Group portraits--Pennsylvania--Homestead.Clark Memorial Baptist Church (Homestead, Pa.)",
+    "AdmGUIDValue_tab": "98242614-8589-4ba1-9f60-487e3ae5a6a4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59705,
+    "MulMultiMediaRef_key": 38879,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59705/sizes/52516-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38871,
+    "irn": 52516,
+    "TitAccessionNo": "2001.35.38912",
+    "CreDateCreated": "January 1941",
+    "CreEarliestDate": "1941-01-01",
+    "CreLatestDate": "1941-01-31",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, February 1, 1941, pg. 8, reads: \"When lovely Ruth Goode became the bride of William White last Friday afternoon, the sartorial perfection was in order. The perfectly groomed party includes, left to right: Robert Lavelle, James Goode (ushers); Franklin Dudley, best man; Mr. and Mrs. William White, Mrs. Mary Dudley, matron of honor; Miss Harriet Deaton, Miss Betty Dickerson, bridesmaids; Master Russell Goode, ringbearer. - Harris Photo.\" Portions of article read: \"Ruth Goode, daughter of Mr. and Mrs. W. H. Goode, became the bride of Ralph Warner White, son of Mrs. Mamie White of Keystone, W. Va., on Friday afternoon in Clark Memorial Baptist Church.  Rev. E. P. Tunie performed the ceremony....The couple will reside at 1002 Blackadore Street, Homewood.  Mr. and Mrs. White are graduates of West Virginia State College...\"",
+    "TitMainTitle": "Groom Ralph Warner White wearing morning suit, and bride Ruth Goode White wearing long sleeved gown, posed in front of curtains and ferns in Clark Memorial Baptist Church, Homestead",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Homestead",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Brides--Pennsylvania--Homestead.Bridegrooms--Pennsylvania--Homestead.Wedding costume--Pennsylvania--Homestead.Women--Pennsylvania--Homestead.Men--Pennsylvania--Homestead.Group portraits--Pennsylvania--Homestead.Clark Memorial Baptist Church (Homestead, Pa.)",
+    "AdmGUIDValue_tab": "98242614-8589-4ba1-9f60-487e3ae5a6a4",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59705,
+    "MulMultiMediaRef_key": 38879,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59705/sizes/52516-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ralph Warner White",
+        "status": "suggested"
+      },
+      {
+        "data": "E. P. Tunie",
+        "status": "suggested"
+      },
+      {
+        "data": "Russell Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "James Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Lavelle",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie White",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Dudley",
+        "status": "suggested"
+      },
+      {
+        "data": "White",
+        "status": "suggested"
+      },
+      {
+        "data": "Franklin Dudley",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Dickerson",
+        "status": "suggested"
+      },
+      {
+        "data": "W. H. Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Deaton",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "William White",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "West Virginia State College (Institute, W. Va.). Military Science Department",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Keystone",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "1002 Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Keystone",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "1002 Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Keystone",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "1002 Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Keystone",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "1002 Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "When lovely Ruth Goode became the bride of William White last Friday afternoon, the sartorial perfection was in order. The perfectly groomed party includes, left to right: Robert Lavelle, James Goode (ushers); Franklin Dudley, best man; Mr. and Mrs. William White, Mrs. Mary Dudley, matron of honor; Miss Harriet Deaton, Miss Betty Dickerson, bridesmaids; Master Russell Goode, ringbearer. - Harris Photo.\" Portions of article read: \"Ruth Goode, daughter of Mr. and Mrs. W. H. Goode, became the bride of Ralph Warner White, son of Mrs. Mamie White of Keystone, W. Va., on Friday afternoon in Clark Memorial Baptist Church.  Rev. E. P. Tunie performed the ceremony....The couple will reside at 1002 Blackadore Street, Homewood.  Mr. and Mrs. White are graduates of West Virginia State College...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 1, 1941",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Dudley",
+        "status": "suggested"
+      },
+      {
+        "data": "Clark Memorial Baptist Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "1002 Blackadore Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Franklin Dudley",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "White",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "James Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert Lavelle",
+        "status": "suggested"
+      },
+      {
+        "data": "February 1, 1941",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Mamie White",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "William White",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia State College",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Clark Memorial Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Goode",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Dickerson",
+        "status": "suggested"
+      },
+      {
+        "data": "West Virginia. State College...",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "temple",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,322 @@
 {
-	"irn": "27785",
-	"emuInput": {
-		"ecatalogue_key": "134",
-		"irn": "27785",
-		"TitAccessionNo": "2001.35.16906",
-		"TitMainTitle": "Marian Anderson wearing military uniform with hat and overcoat, standing in snow with trees in background, possibly Oakland",
-		"CreDateCreated": "December 1945",
-		"CreEarliestDate": "1945-12-01",
-		"CreLatestDate": "1945-12-31",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 22, 1945 reads: \"A Wave - Just when the cold wave his Pittsburgh, Marian Anderson of the Waves came home to spend her leave. She doesn't seem to mind that blanket of snow which she found covering the City of Pittsburgh...and we don't mind her presence here. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.\nMilitary uniforms--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.\nSoldiers--Pennsylvania--Pittsburgh--Portraits.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "27785",
+  "emuInput": {
+    "ecatalogue_key": 16876,
+    "irn": 27785,
+    "TitAccessionNo": "2001.35.16906",
+    "CreDateCreated": "December 1945",
+    "CreEarliestDate": "1945-12-01",
+    "CreLatestDate": "1945-12-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 22, 1945 reads: \"A Wave - Just when the cold wave his Pittsburgh, Marian Anderson of the Waves came home to spend her leave. She doesn't seem to mind that blanket of snow which she found covering the City of Pittsburgh...and we don't mind her presence here. - Harris Photo.\"",
+    "TitMainTitle": "Marian Anderson wearing military uniform with hat and overcoat, standing in snow with trees in background, possibly Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh--Portraits.",
+    "AdmGUIDValue_tab": "68931567-6010-4bbc-8061-728767269d1d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33623,
+    "MulMultiMediaRef_key": 16884,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33623/sizes/27785-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16876,
+    "irn": 27785,
+    "TitAccessionNo": "2001.35.16906",
+    "CreDateCreated": "December 1945",
+    "CreEarliestDate": "1945-12-01",
+    "CreLatestDate": "1945-12-31",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 22, 1945 reads: \"A Wave - Just when the cold wave his Pittsburgh, Marian Anderson of the Waves came home to spend her leave. She doesn't seem to mind that blanket of snow which she found covering the City of Pittsburgh...and we don't mind her presence here. - Harris Photo.\"",
+    "TitMainTitle": "Marian Anderson wearing military uniform with hat and overcoat, standing in snow with trees in background, possibly Oakland",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.Soldiers--Pennsylvania--Pittsburgh--Portraits.",
+    "AdmGUIDValue_tab": "68931567-6010-4bbc-8061-728767269d1d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33623,
+    "MulMultiMediaRef_key": 16884,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33623/sizes/27785-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Marian Anderson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the City of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the City of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the City of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Oakland",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "the City of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "A Wave - Just when the cold wave his Pittsburgh, Marian Anderson of the Waves came home to spend her leave. She doesn't seem to mind that blanket of snow which she found covering the City of Pittsburgh...and we don't mind her presence here. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "snow",
+        "status": "suggested"
+      },
+      {
+        "data": "winter",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "ice",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "A Wave -",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "December 22, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Marian Anderson",
+        "status": "suggested"
+      },
+      {
+        "data": "Soldiers",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "light",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "freezing",
+        "status": "suggested"
+      },
+      {
+        "data": "woody plant",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "morning",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "blizzard",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "daytime",
+        "status": "suggested"
+      },
+      {
+        "data": "winter storm",
+        "status": "suggested"
+      },
+      {
+        "data": "water",
+        "status": "suggested"
+      },
+      {
+        "data": "sunlight",
+        "status": "suggested"
+      },
+      {
+        "data": "plant",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

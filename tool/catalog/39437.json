@@ -1,20 +1,376 @@
 {
-	"irn": "39437",
-	"emuInput": {
-		"ecatalogue_key": "193",
-		"irn": "39437",
-		"TitAccessionNo": "2001.35.26856",
-		"TitMainTitle": "Portrait of Frances Peterson, wearing sleeveless light colored blouse with string bow at neckline, pleated plaid skirt, and wide dark belt, posed in front of light colored background in Harris Studio, for Hill City Queen contest",
-		"CreDateCreated": "1953",
-		"CreEarliestDate": "1953",
-		"CreLatestDate": "1953",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 4, 1953, pg. 12 reads: \"Hill City Queen Contest - These 16 charming young girls are vying with each other for the title of \"Hill City Queen,\" by gathering votes from their friends and relatives. No.1: Shirley Smith is leading now with 300 votes.  Others following her are Geraldine Stevens, Shirley Mason, Christine Bundridge, Darlene Casey, Lorraine Pearson, Queenie Satchell and Betty Tate.  Lower row, left to right: Frances Peterson, Marilyn Bryant, Lillie Tolbert, Mary Strother, Ruby Thomas, Sarah Plowden, Lillie Harris, Romaine Parham, and Lorraine Spears.-Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nStudio portraits--Pennsylvania--Pittsburgh.\nHarris Studio (Pittsburgh, Pa.)\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "39437",
+  "emuInput": {
+    "ecatalogue_key": 26824,
+    "irn": 39437,
+    "TitAccessionNo": "2001.35.26856",
+    "CreDateCreated": "1953",
+    "CreEarliestDate": "1953",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 4, 1953, pg. 12 reads: \"Hill City Queen Contest - These 16 charming young girls are vying with each other for the title of \"Hill City Queen,\" by gathering votes from their friends and relatives. No.1: Shirley Smith is leading now with 300 votes.  Others following her are Geraldine Stevens, Shirley Mason, Christine Bundridge, Darlene Casey, Lorraine Pearson, Queenie Satchell and Betty Tate.  Lower row, left to right: Frances Peterson, Marilyn Bryant, Lillie Tolbert, Mary Strother, Ruby Thomas, Sarah Plowden, Lillie Harris, Romaine Parham, and Lorraine Spears.-Harris Photo.\"",
+    "TitMainTitle": "Portrait of Frances Peterson, wearing sleeveless light colored blouse with string bow at neckline, pleated plaid skirt, and wide dark belt, posed in front of light colored background in Harris Studio, for Hill City Queen contest",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "75665742-e9be-4a2a-9990-a79057bbc0d6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 45476,
+    "MulMultiMediaRef_key": 26832,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/45476/sizes/39437-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 26824,
+    "irn": 39437,
+    "TitAccessionNo": "2001.35.26856",
+    "CreDateCreated": "1953",
+    "CreEarliestDate": "1953",
+    "CreLatestDate": "1953",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 4, 1953, pg. 12 reads: \"Hill City Queen Contest - These 16 charming young girls are vying with each other for the title of \"Hill City Queen,\" by gathering votes from their friends and relatives. No.1: Shirley Smith is leading now with 300 votes.  Others following her are Geraldine Stevens, Shirley Mason, Christine Bundridge, Darlene Casey, Lorraine Pearson, Queenie Satchell and Betty Tate.  Lower row, left to right: Frances Peterson, Marilyn Bryant, Lillie Tolbert, Mary Strother, Ruby Thomas, Sarah Plowden, Lillie Harris, Romaine Parham, and Lorraine Spears.-Harris Photo.\"",
+    "TitMainTitle": "Portrait of Frances Peterson, wearing sleeveless light colored blouse with string bow at neckline, pleated plaid skirt, and wide dark belt, posed in front of light colored background in Harris Studio, for Hill City Queen contest",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Studio portraits--Pennsylvania--Pittsburgh.Harris Studio (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "75665742-e9be-4a2a-9990-a79057bbc0d6",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 45476,
+    "MulMultiMediaRef_key": 26832,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/45476/sizes/39437-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Lorraine Pearson",
+        "status": "suggested"
+      },
+      {
+        "data": "Sarah Plowden",
+        "status": "suggested"
+      },
+      {
+        "data": "Christine Bundridge",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruby Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Strother",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio",
+        "status": "suggested"
+      },
+      {
+        "data": "Queenie Satchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Darlene Casey",
+        "status": "suggested"
+      },
+      {
+        "data": "Betty Tate",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Peterson",
+        "status": "suggested"
+      },
+      {
+        "data": "Marilyn Bryant",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillie Tolbert",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Hill City Queen Contest - These 16 charming young girls are vying with each other for the title of \"Hill City Queen,\" by gathering votes from their friends and relatives. No.1: Shirley Smith is leading now with 300 votes.  Others following her are Geraldine Stevens, Shirley Mason, Christine Bundridge, Darlene Casey, Lorraine Pearson, Queenie Satchell and Betty Tate.  Lower row, left to right: Frances Peterson, Marilyn Bryant, Lillie Tolbert, Mary Strother, Ruby Thomas, Sarah Plowden, Lillie Harris, Romaine Parham, and Lorraine Spears.-Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 4, 1953",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "Frances Peterson",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillie Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruby Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Geraldine Stevens",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Mason",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Strother",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Studio portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "April 4, 1953",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Queen Contest -",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorraine Spears.-Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris Studio ",
+        "status": "suggested"
+      },
+      {
+        "data": "Romaine Parham",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill City Queen",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "model",
+        "status": "suggested"
+      },
+      {
+        "data": "eye",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "organ",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

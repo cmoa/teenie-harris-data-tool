@@ -1,20 +1,356 @@
 {
-	"irn": "47901",
-	"emuInput": {
-		"ecatalogue_key": "207",
-		"irn": "47901",
-		"TitAccessionNo": "2001.35.35024",
-		"TitMainTitle": "Portrait of Alma Thoms wearing two piece floral bathing suit, posed on swimming pool ladder at Ammon Recreation Center",
-		"CreDateCreated": "June 1946",
-		"CreEarliestDate": "1946-06-01",
-		"CreLatestDate": "1946-06-30",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 29, 1946, pg. 21 reads: \"Hold It! - And that's just what Alma Thoms did when the photographer caught her on the steps at Ammon Pool. One of the early birds out to get in some swimming licks before the popular Bedford Avenue pool is opened for the summer.  Miss Thoms makes not only a good ad for swimsuits but is a good reason why swimming is good exercise - Harris photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nSwimming pools--Pennsylvania--Pittsburgh.\nBathing suits--Pennsylvania--Pittsburgh.\nAmmon Center (Pittsburgh, Pa.)\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "47901",
+  "emuInput": {
+    "ecatalogue_key": 34989,
+    "irn": 47901,
+    "TitAccessionNo": "2001.35.35024",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-30",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 29, 1946, pg. 21 reads: \"Hold It! - And that's just what Alma Thoms did when the photographer caught her on the steps at Ammon Pool. One of the early birds out to get in some swimming licks before the popular Bedford Avenue pool is opened for the summer.  Miss Thoms makes not only a good ad for swimsuits but is a good reason why swimming is good exercise - Harris photo.\"",
+    "TitMainTitle": "Portrait of Alma Thoms wearing two piece floral bathing suit, posed on swimming pool ladder at Ammon Recreation Center",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Ammon Center (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27391623-b040-4a2e-956a-414690b076c9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 54468,
+    "MulMultiMediaRef_key": 34997,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54468/sizes/47901-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 34989,
+    "irn": 47901,
+    "TitAccessionNo": "2001.35.35024",
+    "CreDateCreated": "June 1946",
+    "CreEarliestDate": "1946-06-01",
+    "CreLatestDate": "1946-06-30",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, June 29, 1946, pg. 21 reads: \"Hold It! - And that's just what Alma Thoms did when the photographer caught her on the steps at Ammon Pool. One of the early birds out to get in some swimming licks before the popular Bedford Avenue pool is opened for the summer.  Miss Thoms makes not only a good ad for swimsuits but is a good reason why swimming is good exercise - Harris photo.\"",
+    "TitMainTitle": "Portrait of Alma Thoms wearing two piece floral bathing suit, posed on swimming pool ladder at Ammon Recreation Center",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Swimming pools--Pennsylvania--Pittsburgh.Bathing suits--Pennsylvania--Pittsburgh.Ammon Center (Pittsburgh, Pa.)Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "27391623-b040-4a2e-956a-414690b076c9",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 54468,
+    "MulMultiMediaRef_key": 34997,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/54468/sizes/47901-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Thoms",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Swimming pools",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pool",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pool",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pool",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pool",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center (Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "21",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Hold It! - And that's just what Alma Thoms did when the photographer caught her on the steps at Ammon Pool. One of the early birds out to get in some swimming licks before the popular Bedford Avenue pool is opened for the summer.  Miss Thoms makes not only a good ad for swimsuits but is a good reason why swimming is good exercise - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 29, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "June 29, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Swimming pools",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": ")Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Pool",
+        "status": "suggested"
+      },
+      {
+        "data": "Thoms",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Center ",
+        "status": "suggested"
+      },
+      {
+        "data": "Ammon Recreation Center",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedford Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathing suits",
+        "status": "suggested"
+      },
+      {
+        "data": "the summer",
+        "status": "suggested"
+      },
+      {
+        "data": "model",
+        "status": "suggested"
+      },
+      {
+        "data": "wall",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "leg",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,284 @@
 {
-	"irn": "16842",
-	"emuInput": {
-		"ecatalogue_key": "72",
-		"irn": "16842",
-		"TitAccessionNo": "2001.35.8702",
-		"TitMainTitle": "Lucille Welsch, Ethel W. Brooks, wearing polka dot dress, Theresa Fay, wearing eyeglasses, Marie M. Tompel, Irene Maroney, and Anna M. Foley, gathered in office with large ledgers, in Allegheny County Prothonotary office",
-		"CreDateCreated": "1959",
-		"CreEarliestDate": "1959",
-		"CreLatestDate": "1959",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1959, pg. 12 reads: \"Tax Lien Transcribing Department - Clockwise: Lucille Welsch, clerk; Ethel W. Brooks (standing), clerk; Theresa Fay, utility clerk (seated); Marie M. Tompel, investigator (seated); Irene Maroney, utility clerk, and Anna M. Foley, clerk.\"",
-		"CatSubject_tab": "Office furniture--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nClothing and dress--Pennsylvania--Pittsburgh.\nOffices--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "16842",
+  "emuInput": {
+    "ecatalogue_key": 8680,
+    "irn": 16842,
+    "TitAccessionNo": "2001.35.8702",
+    "CreDateCreated": "1959",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1959, pg. 12 reads: \"Tax Lien Transcribing Department - Clockwise: Lucille Welsch, clerk; Ethel W. Brooks (standing), clerk; Theresa Fay, utility clerk (seated); Marie M. Tompel, investigator (seated); Irene Maroney, utility clerk, and Anna M. Foley, clerk.\"",
+    "TitMainTitle": "Lucille Welsch, Ethel W. Brooks, wearing polka dot dress, Theresa Fay, wearing eyeglasses, Marie M. Tompel, Irene Maroney, and Anna M. Foley, gathered in office with large ledgers, in Allegheny County Prothonotary office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Office furniture--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "13443907-8d5d-4129-bd5c-a146ca1bf1b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24417,
+    "MulMultiMediaRef_key": 8688,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24417/sizes/16842-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 8680,
+    "irn": 16842,
+    "TitAccessionNo": "2001.35.8702",
+    "CreDateCreated": "1959",
+    "CreEarliestDate": "1959",
+    "CreLatestDate": "1959",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 25, 1959, pg. 12 reads: \"Tax Lien Transcribing Department - Clockwise: Lucille Welsch, clerk; Ethel W. Brooks (standing), clerk; Theresa Fay, utility clerk (seated); Marie M. Tompel, investigator (seated); Irene Maroney, utility clerk, and Anna M. Foley, clerk.\"",
+    "TitMainTitle": "Lucille Welsch, Ethel W. Brooks, wearing polka dot dress, Theresa Fay, wearing eyeglasses, Marie M. Tompel, Irene Maroney, and Anna M. Foley, gathered in office with large ledgers, in Allegheny County Prothonotary office",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Office furniture--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Clothing and dress--Pennsylvania--Pittsburgh.Offices--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "13443907-8d5d-4129-bd5c-a146ca1bf1b2",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 24417,
+    "MulMultiMediaRef_key": 8688,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/24417/sizes/16842-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Anna M. Foley",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel W. Brooks",
+        "status": "suggested"
+      },
+      {
+        "data": "Irene Maroney",
+        "status": "suggested"
+      },
+      {
+        "data": "Theresa Fay",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie M. Tompel",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucille Welsch",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Office furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Allegheny County",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Tax Lien Transcribing Department - Clockwise: Lucille Welsch, clerk; Ethel W. Brooks (standing), clerk; Theresa Fay, utility clerk (seated); Marie M. Tompel, investigator (seated); Irene Maroney, utility clerk, and Anna M. Foley, clerk.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "April 25, 1959",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "Offices",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Office furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Theresa Fay",
+        "status": "suggested"
+      },
+      {
+        "data": "Prothonotary",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "April 25, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "room",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "office",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "interior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

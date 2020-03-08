@@ -1,20 +1,528 @@
 {
-	"irn": "9689",
-	"emuInput": {
-		"ecatalogue_key": "42",
-		"irn": "9689",
-		"TitAccessionNo": "2001.35.5659",
-		"TitMainTitle": "Members of Chesterfield Girls, front row from left: Charlene Coles, Kathleen Holloway, Arnetta S. Green wearing monkey fur; back row: Ann Mays, Jeanette Paige, and Mary Palmer, posed in Herron Hill Park (Robert E. \"Pappy\" Williams Park), with Milwaukee Street in background, Hill District",
-		"CreDateCreated": "May 1941",
-		"CreEarliestDate": "1941-05-01",
-		"CreLatestDate": "1941-05-24",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 24, 1941, pg. 20, reads: \"They'll Be Honored By Elks - Pictured above are the Chesterfield Girls of Pittsburgh, who comprise one of the most progressive clubs in city. They will be honored Decoration Day Eve,  Thursday, May 29, at the Iron City Elks' gigantic cabaret dance and floor show.  The big affair will be held at the Elks Lodge No. 17, at 81 Fullerton street.  There will be dancing from 12 midnight to 6 a. m. The committee in charge is composed of Exalted Ruler Walter Rainey; Master of Social Session Committee, Billy H. Alston; Chairman, Edward English; Grant Bolden, Lemuel Nixon, Raymond Johnson, Edgar Parker and George (Buss) Christian.  Music will be furnished by Neeny Waters and his orchestra.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nParks--Pennsylvania--Pittsburgh.\nFur--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nSidewalks--Pennsylvania--Pittsburgh.\nCoats--Pennsylvania--Pittsburgh.\nHandbags--Pennsylvania--Pittsburgh.\nGloves--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "9689",
+  "emuInput": {
+    "ecatalogue_key": 5649,
+    "irn": 9689,
+    "TitAccessionNo": "2001.35.5659",
+    "CreDateCreated": "May 1941",
+    "CreEarliestDate": "1941-05-01",
+    "CreLatestDate": "1941-05-24",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 24, 1941, pg. 20, reads: \"They'll Be Honored By Elks - Pictured above are the Chesterfield Girls of Pittsburgh, who comprise one of the most progressive clubs in city. They will be honored Decoration Day Eve,  Thursday, May 29, at the Iron City Elks' gigantic cabaret dance and floor show.  The big affair will be held at the Elks Lodge No. 17, at 81 Fullerton street.  There will be dancing from 12 midnight to 6 a. m. The committee in charge is composed of Exalted Ruler Walter Rainey; Master of Social Session Committee, Billy H. Alston; Chairman, Edward English; Grant Bolden, Lemuel Nixon, Raymond Johnson, Edgar Parker and George (Buss) Christian.  Music will be furnished by Neeny Waters and his orchestra.\"",
+    "TitMainTitle": "Members of Chesterfield Girls, front row from left: Charlene Coles, Kathleen Holloway, Arnetta S. Green wearing monkey fur; back row: Ann Mays, Jeanette Paige, and Mary Palmer, posed in Herron Hill Park (Robert E. \"Pappy\" Williams Park), with Milwaukee Street in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Parks--Pennsylvania--Pittsburgh.Fur--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Coats--Pennsylvania--Pittsburgh.Handbags--Pennsylvania--Pittsburgh.Gloves--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "63998216-6e3b-4b59-9f3e-05a85137c886",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20782,
+    "MulMultiMediaRef_key": 5656,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20782/sizes/9689-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 5649,
+    "irn": 9689,
+    "TitAccessionNo": "2001.35.5659",
+    "CreDateCreated": "May 1941",
+    "CreEarliestDate": "1941-05-01",
+    "CreLatestDate": "1941-05-24",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 24, 1941, pg. 20, reads: \"They'll Be Honored By Elks - Pictured above are the Chesterfield Girls of Pittsburgh, who comprise one of the most progressive clubs in city. They will be honored Decoration Day Eve,  Thursday, May 29, at the Iron City Elks' gigantic cabaret dance and floor show.  The big affair will be held at the Elks Lodge No. 17, at 81 Fullerton street.  There will be dancing from 12 midnight to 6 a. m. The committee in charge is composed of Exalted Ruler Walter Rainey; Master of Social Session Committee, Billy H. Alston; Chairman, Edward English; Grant Bolden, Lemuel Nixon, Raymond Johnson, Edgar Parker and George (Buss) Christian.  Music will be furnished by Neeny Waters and his orchestra.\"",
+    "TitMainTitle": "Members of Chesterfield Girls, front row from left: Charlene Coles, Kathleen Holloway, Arnetta S. Green wearing monkey fur; back row: Ann Mays, Jeanette Paige, and Mary Palmer, posed in Herron Hill Park (Robert E. \"Pappy\" Williams Park), with Milwaukee Street in background, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Parks--Pennsylvania--Pittsburgh.Fur--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Coats--Pennsylvania--Pittsburgh.Handbags--Pennsylvania--Pittsburgh.Gloves--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "63998216-6e3b-4b59-9f3e-05a85137c886",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20782,
+    "MulMultiMediaRef_key": 5656,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20782/sizes/9689-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Mary Palmer",
+        "status": "suggested"
+      },
+      {
+        "data": "Ann Mays",
+        "status": "suggested"
+      },
+      {
+        "data": "Billy H. Alston",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert E. \"",
+        "status": "suggested"
+      },
+      {
+        "data": "Arnetta S. Green",
+        "status": "suggested"
+      },
+      {
+        "data": "Lemuel Nixon",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanette Paige",
+        "status": "suggested"
+      },
+      {
+        "data": "Decoration Day Eve",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward English",
+        "status": "suggested"
+      },
+      {
+        "data": "Charlene Coles",
+        "status": "suggested"
+      },
+      {
+        "data": "Kathleen Holloway",
+        "status": "suggested"
+      },
+      {
+        "data": "Raymond Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Grant Bolden",
+        "status": "suggested"
+      },
+      {
+        "data": "Edgar Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Rainey",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Coats",
+        "status": "suggested"
+      },
+      {
+        "data": "Handbags",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloves",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks",
+        "status": "suggested"
+      },
+      {
+        "data": "Fur",
+        "status": "suggested"
+      },
+      {
+        "data": "Papworth, A. F. (Albert F.)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Chesterfield",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Milwaukee",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Fullerton street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Chesterfield",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Milwaukee",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Fullerton street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Chesterfield",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Milwaukee",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Fullerton street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Chesterfield",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Park",
+        "status": "suggested"
+      },
+      {
+        "data": "Milwaukee",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Fullerton street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "20",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "They'll Be Honored By Elks - Pictured above are the Chesterfield Girls of Pittsburgh, who comprise one of the most progressive clubs in city. They will be honored Decoration Day Eve,  Thursday, May 29, at the Iron City Elks' gigantic cabaret dance and floor show.  The big affair will be held at the Elks Lodge No. 17, at 81 Fullerton street.  There will be dancing from 12 midnight to 6 a. m. The committee in charge is composed of Exalted Ruler Walter Rainey; Master of Social Session Committee, Billy H. Alston; Chairman, Edward English; Grant Bolden, Lemuel Nixon, Raymond Johnson, Edgar Parker and George (Buss) Christian.  Music will be furnished by Neeny Waters and his orchestra.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 24, 1941",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Fullerton street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pappy",
+        "status": "suggested"
+      },
+      {
+        "data": "the Chesterfield Girls",
+        "status": "suggested"
+      },
+      {
+        "data": "the Iron City Elks'",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Walter Rainey",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Palmer",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Social Session Committee",
+        "status": "suggested"
+      },
+      {
+        "data": "Coats",
+        "status": "suggested"
+      },
+      {
+        "data": "Exalted",
+        "status": "suggested"
+      },
+      {
+        "data": "Gloves",
+        "status": "suggested"
+      },
+      {
+        "data": "the Elks Lodge No",
+        "status": "suggested"
+      },
+      {
+        "data": "Raymond Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Handbags",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward English",
+        "status": "suggested"
+      },
+      {
+        "data": "Neeny Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "George (Buss",
+        "status": "suggested"
+      },
+      {
+        "data": "Herron Hill Park",
+        "status": "suggested"
+      },
+      {
+        "data": "12 midnight to",
+        "status": "suggested"
+      },
+      {
+        "data": "Christian",
+        "status": "suggested"
+      },
+      {
+        "data": "Edgar Parker",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday, May 29",
+        "status": "suggested"
+      },
+      {
+        "data": "Parks",
+        "status": "suggested"
+      },
+      {
+        "data": "Fur",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "May 24, 1941",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "temple",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "walking",
+        "status": "suggested"
+      }
+    ]
+  }
 }

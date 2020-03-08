@@ -1,20 +1,363 @@
 {
-	"irn": "59997",
-	"emuInput": {
-		"ecatalogue_key": "285",
-		"irn": "59997",
-		"TitAccessionNo": "2001.35.46063",
-		"TitMainTitle": "President of Miller Street School PTA Marie Thomas, standing on sidewalk near brick and concrete wall with debris on vacant lot from demolished house on Miller Street, Hill District",
-		"CreDateCreated": "April 1957",
-		"CreEarliestDate": "1957-04-01",
-		"CreLatestDate": "1957-04-10",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 10, 1957, page 2, reads: \"Dangerous 'Cave' - Mrs. Marie Thomas, president of the Miller Street School P.T.A. looks over a retaining wall where a student fell down the slope and injured himself at its base. At left, in a cave, is a piece of protruding rusted broken and sharp pointed pipe on which a playing child could easily impale himself. - Harris Photo.\"",
-		"CatSubject_tab": "Destroyed buildings--Pennsylvania--Pittsburgh.\nVacant lands--Pennsylvania--Pittsburgh.\nRefuse and refuse disposal--Pennsylvania--Pittsburgh.\nSidewalks--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nBrick walls--Pennsylvania--Pittsburgh.\nBuildings--Pennsylvania--Pittsburgh.\nFire escapes--Pennsylvania--Pittsburgh.\nTelephone poles--Pennsylvania--Pittsburgh.\nMiller Street (Pittsburgh, Pa.)\nHill District (Pittsburgh, Pa.)\nThomas, Marie.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "59997",
+  "emuInput": {
+    "ecatalogue_key": 46020,
+    "irn": 59997,
+    "TitAccessionNo": "2001.35.46063",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-10",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 10, 1957, page 2, reads: \"Dangerous 'Cave' - Mrs. Marie Thomas, president of the Miller Street School P.T.A. looks over a retaining wall where a student fell down the slope and injured himself at its base. At left, in a cave, is a piece of protruding rusted broken and sharp pointed pipe on which a playing child could easily impale himself. - Harris Photo.\"",
+    "TitMainTitle": "President of Miller Street School PTA Marie Thomas, standing on sidewalk near brick and concrete wall with debris on vacant lot from demolished house on Miller Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Destroyed buildings--Pennsylvania--Pittsburgh.Vacant lands--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Fire escapes--Pennsylvania--Pittsburgh.Telephone poles--Pennsylvania--Pittsburgh.Miller Street (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)Thomas, Marie.",
+    "AdmGUIDValue_tab": "21743017-3c16-4b10-8ab0-ba4dceb0696a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68486,
+    "MulMultiMediaRef_key": 46028,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68486/sizes/59997-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 46020,
+    "irn": 59997,
+    "TitAccessionNo": "2001.35.46063",
+    "CreDateCreated": "April 1957",
+    "CreEarliestDate": "1957-04-01",
+    "CreLatestDate": "1957-04-10",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 10, 1957, page 2, reads: \"Dangerous 'Cave' - Mrs. Marie Thomas, president of the Miller Street School P.T.A. looks over a retaining wall where a student fell down the slope and injured himself at its base. At left, in a cave, is a piece of protruding rusted broken and sharp pointed pipe on which a playing child could easily impale himself. - Harris Photo.\"",
+    "TitMainTitle": "President of Miller Street School PTA Marie Thomas, standing on sidewalk near brick and concrete wall with debris on vacant lot from demolished house on Miller Street, Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Destroyed buildings--Pennsylvania--Pittsburgh.Vacant lands--Pennsylvania--Pittsburgh.Refuse and refuse disposal--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Buildings--Pennsylvania--Pittsburgh.Fire escapes--Pennsylvania--Pittsburgh.Telephone poles--Pennsylvania--Pittsburgh.Miller Street (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)Thomas, Marie.",
+    "AdmGUIDValue_tab": "21743017-3c16-4b10-8ab0-ba4dceb0696a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 68486,
+    "MulMultiMediaRef_key": 46028,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/68486/sizes/59997-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Marie Thomas",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Refuse and refuse disposal",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Lost architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire escapes",
+        "status": "suggested"
+      },
+      {
+        "data": "Vacant lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Miller Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Thomas",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Miller Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Thomas",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Miller Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Thomas",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Miller Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Thomas",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "2",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Dangerous 'Cave' - Mrs. Marie Thomas, president of the Miller Street School P.T.A. looks over a retaining wall where a student fell down the slope and injured himself at its base. At left, in a cave, is a piece of protruding rusted broken and sharp pointed pipe on which a playing child could easily impale himself. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "wall",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Fire escapes",
+        "status": "suggested"
+      },
+      {
+        "data": "Vacant lands",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Telephone poles",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller Street School",
+        "status": "suggested"
+      },
+      {
+        "data": "Destroyed buildings",
+        "status": "suggested"
+      },
+      {
+        "data": "April 10, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Refuse and refuse disposal",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Buildings",
+        "status": "suggested"
+      },
+      {
+        "data": ")Thomas, Marie",
+        "status": "suggested"
+      },
+      {
+        "data": "Miller Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Miller Street School P.T.A.",
+        "status": "suggested"
+      },
+      {
+        "data": "Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "snow",
+        "status": "suggested"
+      }
+    ]
+  }
 }

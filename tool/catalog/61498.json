@@ -1,20 +1,343 @@
 {
-	"irn": "61498",
-	"emuInput": {
-		"ecatalogue_key": "301",
-		"irn": "61498",
-		"TitAccessionNo": "2001.35.47409",
-		"TitMainTitle": "Group portrait of Westinghouse High School honor student graduates, left to right: Fred DeRubertis, Dorothy Adams, Edwin Roberson, and James Marino",
-		"CreDateCreated": "January 24, 1958",
-		"CreEarliestDate": "1958-01-24",
-		"CreLatestDate": "1958-01-24",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A19, reads: \"High-Honor Students - These high-honor students were the four commencement speakers who were graduated from Westinghouse High School, Jan. 24. Left to right, they are Fred DeRubertis, Dorothy Adams, Edwin Roberson and James Marino. - Harris Photo.\"",
-		"CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGraduates--Pennsylvania--Pittsburgh.\nBanners--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.\nWestinghouse High School (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61498",
+  "emuInput": {
+    "ecatalogue_key": 47366,
+    "irn": 61498,
+    "TitAccessionNo": "2001.35.47409",
+    "CreDateCreated": "January 24, 1958",
+    "CreEarliestDate": "1958-01-24",
+    "CreLatestDate": "1958-01-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A19, reads: \"High-Honor Students - These high-honor students were the four commencement speakers who were graduated from Westinghouse High School, Jan. 24. Left to right, they are Fred DeRubertis, Dorothy Adams, Edwin Roberson and James Marino. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Westinghouse High School honor student graduates, left to right: Fred DeRubertis, Dorothy Adams, Edwin Roberson, and James Marino",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02ab731a-b7e7-4415-ae8a-2642fca9da0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69843,
+    "MulMultiMediaRef_key": 47374,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69843/sizes/61498-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47366,
+    "irn": 61498,
+    "TitAccessionNo": "2001.35.47409",
+    "CreDateCreated": "January 24, 1958",
+    "CreEarliestDate": "1958-01-24",
+    "CreLatestDate": "1958-01-24",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, February 1, 1958, pg. A19, reads: \"High-Honor Students - These high-honor students were the four commencement speakers who were graduated from Westinghouse High School, Jan. 24. Left to right, they are Fred DeRubertis, Dorothy Adams, Edwin Roberson and James Marino. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Westinghouse High School honor student graduates, left to right: Fred DeRubertis, Dorothy Adams, Edwin Roberson, and James Marino",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Young adults--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Graduates--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.Westinghouse High School (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "02ab731a-b7e7-4415-ae8a-2642fca9da0d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69843,
+    "MulMultiMediaRef_key": 47374,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69843/sizes/61498-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fred DeRubertis",
+        "status": "suggested"
+      },
+      {
+        "data": "Edwin Roberson",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "James Marino",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "High-Honor Students - These high-honor students were the four commencement speakers who were graduated from Westinghouse High School, Jan. 24. Left to right, they are Fred DeRubertis, Dorothy Adams, Edwin Roberson and James Marino. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 1, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "High-Honor Students -",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 24",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Graduates",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "A19",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Dorothy Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Edwin Roberson",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "February 1, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "James Marino",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

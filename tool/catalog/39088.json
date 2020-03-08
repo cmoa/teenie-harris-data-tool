@@ -1,20 +1,395 @@
 {
-	"irn": "39088",
-	"emuInput": {
-		"ecatalogue_key": "191",
-		"irn": "39088",
-		"TitAccessionNo": "2001.35.26529",
-		"TitMainTitle": "Group portrait of wedding party, front row from left: Mrs. Earlee Thomas, bride Mary Frances Walker Stokes, groom Theodore E. Stokes, James Stokes, Joshua Walker; back row: Ruth Young, Shirley Butler, Richard Truman, Ollie Matthew, and Rev. Charles Foggie, posed in domestic interior with ornate mirror",
-		"CreDateCreated": "January 1946",
-		"CreEarliestDate": "1946-01-01",
-		"CreLatestDate": "1946-01-19",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 19, 1946, pg. 9, reads: Charming Ceremony - In a charming double ring ceremony, Miss Mary Frances Walker and Theodore E. Stokes were married by the Rev. Charles Foggie, Monday night. in wedding party were Mrs. Earlee Thomas, matron of honor; the bride and groom; James Stokes, best man, and Joshua Walker, father of the bride.  Also shown, rear, left to right; Miss Ruth Young and Shirley Butler, bridesmaids, and Richard Truman, Ollie Matthew, groomsmen; the Rev. Charles Foggie. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nMilitary uniforms--Pennsylvania--Pittsburgh.\nFireplaces--Pennsylvania--Pittsburgh.\nFoggie, Charles H. (Charles Herbert), 1912-2000.\nButler, Shirley.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "39088",
+  "emuInput": {
+    "ecatalogue_key": 26497,
+    "irn": 39088,
+    "TitAccessionNo": "2001.35.26529",
+    "CreDateCreated": "January 1946",
+    "CreEarliestDate": "1946-01-01",
+    "CreLatestDate": "1946-01-19",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 19, 1946, pg. 9, reads: Charming Ceremony - In a charming double ring ceremony, Miss Mary Frances Walker and Theodore E. Stokes were married by the Rev. Charles Foggie, Monday night. in wedding party were Mrs. Earlee Thomas, matron of honor; the bride and groom; James Stokes, best man, and Joshua Walker, father of the bride.  Also shown, rear, left to right; Miss Ruth Young and Shirley Butler, bridesmaids, and Richard Truman, Ollie Matthew, groomsmen; the Rev. Charles Foggie. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of wedding party, front row from left: Mrs. Earlee Thomas, bride Mary Frances Walker Stokes, groom Theodore E. Stokes, James Stokes, Joshua Walker; back row: Ruth Young, Shirley Butler, Richard Truman, Ollie Matthew, and Rev. Charles Foggie, posed in domestic interior with ornate mirror",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Foggie, Charles H. (Charles Herbert), 1912-2000.Butler, Shirley.",
+    "AdmGUIDValue_tab": "02b02fad-4ffc-47f0-a8cf-4b14d874799a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 45688,
+    "MulMultiMediaRef_key": 26505,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/45688/sizes/39088-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 26497,
+    "irn": 39088,
+    "TitAccessionNo": "2001.35.26529",
+    "CreDateCreated": "January 1946",
+    "CreEarliestDate": "1946-01-01",
+    "CreLatestDate": "1946-01-19",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 19, 1946, pg. 9, reads: Charming Ceremony - In a charming double ring ceremony, Miss Mary Frances Walker and Theodore E. Stokes were married by the Rev. Charles Foggie, Monday night. in wedding party were Mrs. Earlee Thomas, matron of honor; the bride and groom; James Stokes, best man, and Joshua Walker, father of the bride.  Also shown, rear, left to right; Miss Ruth Young and Shirley Butler, bridesmaids, and Richard Truman, Ollie Matthew, groomsmen; the Rev. Charles Foggie. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of wedding party, front row from left: Mrs. Earlee Thomas, bride Mary Frances Walker Stokes, groom Theodore E. Stokes, James Stokes, Joshua Walker; back row: Ruth Young, Shirley Butler, Richard Truman, Ollie Matthew, and Rev. Charles Foggie, posed in domestic interior with ornate mirror",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Military uniforms--Pennsylvania--Pittsburgh.Fireplaces--Pennsylvania--Pittsburgh.Foggie, Charles H. (Charles Herbert), 1912-2000.Butler, Shirley.",
+    "AdmGUIDValue_tab": "02b02fad-4ffc-47f0-a8cf-4b14d874799a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 45688,
+    "MulMultiMediaRef_key": 26505,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/45688/sizes/39088-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Shirley Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Joshua Walker",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Frances Walker Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Young",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Truman",
+        "status": "suggested"
+      },
+      {
+        "data": "Ollie Matthew",
+        "status": "suggested"
+      },
+      {
+        "data": "James Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Theodore E. Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Earlee Thomas",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Frances Walker",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Foggie",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "January 19, 1946",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "January 19, 1946",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "Shirley Butler",
+        "status": "suggested"
+      },
+      {
+        "data": "Joshua Walker",
+        "status": "suggested"
+      },
+      {
+        "data": "Ruth Young",
+        "status": "suggested"
+      },
+      {
+        "data": "James Stokes",
+        "status": "suggested"
+      },
+      {
+        "data": "Butler, Shirley",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fireplaces",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Foggie, Charles H",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": " ",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Foggie",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Truman",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Military uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "tradition",
+        "status": "suggested"
+      }
+    ]
+  }
 }

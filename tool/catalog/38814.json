@@ -1,20 +1,452 @@
 {
-	"irn": "38814",
-	"emuInput": {
-		"ecatalogue_key": "188",
-		"irn": "38814",
-		"TitAccessionNo": "2001.35.26303",
-		"TitMainTitle": "Groom John Carter Robinson Jr. and bride Rosemary Manns surrounded by wedding party including Nadine Frye, Ardella Lewis, Doris Corsey, Lillian Kyle, William Douglas, Edward Stewart, Frederick Gray and another man posed in Mills home, Monticello Street",
-		"CreDateCreated": "January 26, 1947",
-		"CreEarliestDate": "1947-01-26",
-		"CreLatestDate": "1947-01-26",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 8, 1947, pg. 8, reads: \"Pretty Marriage - A pretty marriage ceremony united Miss Rosemary Manns and John Carter [Robinson] Jr., on Jan. 26. The bridal party is pictured and included, front row: Nadine Frye, Ardella Lewis, the groom and his bride, Doris Corsey, maid of honor, and Lillian Kyle. Back row: William Douglas, [illegible] son, best man; Edward Stewart and Frederick Gray. - Harris Photo.\" Portion of accompanying article reads: \"The home of Mr. and Mrs. J. P. Mills, Monticello Street, was the scene Jan 26 of the marriage of Miss Rosemary Manns, daughter of Mr. and Mrs. Eugene Manns of South Braddock Avenue, to John Carter Robinson Jr. of Oakdene street...\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nFlowers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "38814",
+  "emuInput": {
+    "ecatalogue_key": 26271,
+    "irn": 38814,
+    "TitAccessionNo": "2001.35.26303",
+    "CreDateCreated": "January 26, 1947",
+    "CreEarliestDate": "1947-01-26",
+    "CreLatestDate": "1947-01-26",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 8, 1947, pg. 8, reads: \"Pretty Marriage - A pretty marriage ceremony united Miss Rosemary Manns and John Carter [Robinson] Jr., on Jan. 26. The bridal party is pictured and included, front row: Nadine Frye, Ardella Lewis, the groom and his bride, Doris Corsey, maid of honor, and Lillian Kyle. Back row: William Douglas, [illegible] son, best man; Edward Stewart and Frederick Gray. - Harris Photo.\" Portion of accompanying article reads: \"The home of Mr. and Mrs. J. P. Mills, Monticello Street, was the scene Jan 26 of the marriage of Miss Rosemary Manns, daughter of Mr. and Mrs. Eugene Manns of South Braddock Avenue, to John Carter Robinson Jr. of Oakdene street...\"",
+    "TitMainTitle": "Groom John Carter Robinson Jr. and bride Rosemary Manns surrounded by wedding party including Nadine Frye, Ardella Lewis, Doris Corsey, Lillian Kyle, William Douglas, Edward Stewart, Frederick Gray and another man posed in Mills home, Monticello Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "78793018-fe0e-4792-8251-fb3354b6d0f8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44987,
+    "MulMultiMediaRef_key": 26279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44987/sizes/38814-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 26271,
+    "irn": 38814,
+    "TitAccessionNo": "2001.35.26303",
+    "CreDateCreated": "January 26, 1947",
+    "CreEarliestDate": "1947-01-26",
+    "CreLatestDate": "1947-01-26",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper February 8, 1947, pg. 8, reads: \"Pretty Marriage - A pretty marriage ceremony united Miss Rosemary Manns and John Carter [Robinson] Jr., on Jan. 26. The bridal party is pictured and included, front row: Nadine Frye, Ardella Lewis, the groom and his bride, Doris Corsey, maid of honor, and Lillian Kyle. Back row: William Douglas, [illegible] son, best man; Edward Stewart and Frederick Gray. - Harris Photo.\" Portion of accompanying article reads: \"The home of Mr. and Mrs. J. P. Mills, Monticello Street, was the scene Jan 26 of the marriage of Miss Rosemary Manns, daughter of Mr. and Mrs. Eugene Manns of South Braddock Avenue, to John Carter Robinson Jr. of Oakdene street...\"",
+    "TitMainTitle": "Groom John Carter Robinson Jr. and bride Rosemary Manns surrounded by wedding party including Nadine Frye, Ardella Lewis, Doris Corsey, Lillian Kyle, William Douglas, Edward Stewart, Frederick Gray and another man posed in Mills home, Monticello Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Flowers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "78793018-fe0e-4792-8251-fb3354b6d0f8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 44987,
+    "MulMultiMediaRef_key": 26279,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/44987/sizes/38814-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Ardella Lewis",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Stewart",
+        "status": "suggested"
+      },
+      {
+        "data": "Rosemary Manns",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakdene",
+        "status": "suggested"
+      },
+      {
+        "data": "Mills",
+        "status": "suggested"
+      },
+      {
+        "data": "J. P. Mills",
+        "status": "suggested"
+      },
+      {
+        "data": "Frederick Gray",
+        "status": "suggested"
+      },
+      {
+        "data": "Nadine Frye",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Manns",
+        "status": "suggested"
+      },
+      {
+        "data": "Doris Corsey",
+        "status": "suggested"
+      },
+      {
+        "data": "John Carter [ Robinson ] Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "William Douglas",
+        "status": "suggested"
+      },
+      {
+        "data": "John Carter Robinson Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Lillian Kyle",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Monticello Street",
+        "status": "suggested"
+      },
+      {
+        "data": "South Braddock Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Monticello Street",
+        "status": "suggested"
+      },
+      {
+        "data": "South Braddock Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Monticello Street",
+        "status": "suggested"
+      },
+      {
+        "data": "South Braddock Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Monticello Street",
+        "status": "suggested"
+      },
+      {
+        "data": "South Braddock Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "8",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pretty Marriage - A pretty marriage ceremony united Miss Rosemary Manns and John Carter [Robinson] Jr., on Jan. 26. The bridal party is pictured and included, front row: Nadine Frye, Ardella Lewis, the groom and his bride, Doris Corsey, maid of honor, and Lillian Kyle. Back row: William Douglas, [illegible] son, best man; Edward Stewart and Frederick Gray. - Harris Photo.\" Portion of accompanying article reads: \"The home of Mr. and Mrs. J. P. Mills, Monticello Street, was the scene Jan 26 of the marriage of Miss Rosemary Manns, daughter of Mr. and Mrs. Eugene Manns of South Braddock Avenue, to John Carter Robinson Jr. of Oakdene street...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 8, 1947",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Frederick Gray",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "February 8, 1947",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pretty Marriage - A",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Stewart",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan 26",
+        "status": "suggested"
+      },
+      {
+        "data": "Mills",
+        "status": "suggested"
+      },
+      {
+        "data": "J. P. Mills",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "South Braddock Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakdene",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Jan. 26",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Manns",
+        "status": "suggested"
+      },
+      {
+        "data": "William Douglas",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Monticello Street",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "veil",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding reception",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      }
+    ]
+  }
 }

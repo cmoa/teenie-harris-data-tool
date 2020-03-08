@@ -1,20 +1,479 @@
 {
-	"irn": "8208",
-	"emuInput": {
-		"ecatalogue_key": "39",
-		"irn": "8208",
-		"TitAccessionNo": "2001.35.5053",
-		"TitMainTitle": "Motorcycle police officers escorting motorcade out of shopping center parking lot for demonstration, Frankstown Avenue and Gerritt Street",
-		"CreDateCreated": "August 1965",
-		"CreEarliestDate": "1965-08-01",
-		"CreLatestDate": "1965-08-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 28, 1965, pg. 4 reads: \"Rights Motorcade Starts - Leaving the shopping center parking lot, near the Shiloh Community Baptist Church, Frankstown Ave. at Gerritt St., Monday, is the 45-car motorcade which was escorted by numerous motorcycle patrolmen, the Interracial Squad, and other police vehicles. Approximately 175 people took part in the demonstration the first day and less than half that number on Tuesday. - Harris Photo.\"",
-		"CatSubject_tab": "Police officers--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nMotorcycles--Pennsylvania--Pittsburgh.\nPolice vehicles--Pennsylvania--Pittsburgh.\nAutomobiles--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nParking lots--Pennsylvania--Pittsburgh.\nFrankstown Avenue (Pittsburgh, Pa.)\nGerritt Street (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "8208",
+  "emuInput": {
+    "ecatalogue_key": 5044,
+    "irn": 8208,
+    "TitAccessionNo": "2001.35.5053",
+    "CreDateCreated": "August 1965",
+    "CreEarliestDate": "1965-08-01",
+    "CreLatestDate": "1965-08-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 28, 1965, pg. 4 reads: \"Rights Motorcade Starts - Leaving the shopping center parking lot, near the Shiloh Community Baptist Church, Frankstown Ave. at Gerritt St., Monday, is the 45-car motorcade which was escorted by numerous motorcycle patrolmen, the Interracial Squad, and other police vehicles. Approximately 175 people took part in the demonstration the first day and less than half that number on Tuesday. - Harris Photo.\"",
+    "TitMainTitle": "Motorcycle police officers escorting motorcade out of shopping center parking lot for demonstration, Frankstown Avenue and Gerritt Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Police officers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Motorcycles--Pennsylvania--Pittsburgh.Police vehicles--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.Frankstown Avenue (Pittsburgh, Pa.)Gerritt Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "11841846-9840-4b5e-8a67-54341a2b5cdd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 12934,
+    "MulMultiMediaRef_key": 5050,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/12934/sizes/8208-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 5044,
+    "irn": 8208,
+    "TitAccessionNo": "2001.35.5053",
+    "CreDateCreated": "August 1965",
+    "CreEarliestDate": "1965-08-01",
+    "CreLatestDate": "1965-08-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, August 28, 1965, pg. 4 reads: \"Rights Motorcade Starts - Leaving the shopping center parking lot, near the Shiloh Community Baptist Church, Frankstown Ave. at Gerritt St., Monday, is the 45-car motorcade which was escorted by numerous motorcycle patrolmen, the Interracial Squad, and other police vehicles. Approximately 175 people took part in the demonstration the first day and less than half that number on Tuesday. - Harris Photo.\"",
+    "TitMainTitle": "Motorcycle police officers escorting motorcade out of shopping center parking lot for demonstration, Frankstown Avenue and Gerritt Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Police officers--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Motorcycles--Pennsylvania--Pittsburgh.Police vehicles--Pennsylvania--Pittsburgh.Automobiles--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Parking lots--Pennsylvania--Pittsburgh.Frankstown Avenue (Pittsburgh, Pa.)Gerritt Street (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "11841846-9840-4b5e-8a67-54341a2b5cdd",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 12934,
+    "MulMultiMediaRef_key": 5050,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/12934/sizes/8208-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": false,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [],
+    "CatSubject_tab": [
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Police",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Police vehicles",
+        "status": "suggested"
+      },
+      {
+        "data": "Motorcycles",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "4",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Rights Motorcade Starts - Leaving the shopping center parking lot, near the Shiloh Community Baptist Church, Frankstown Ave. at Gerritt St., Monday, is the 45-car motorcade which was escorted by numerous motorcycle patrolmen, the Interracial Squad, and other police vehicles. Approximately 175 people took part in the demonstration the first day and less than half that number on Tuesday. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 28, 1965",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "sky",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "road",
+        "status": "suggested"
+      },
+      {
+        "data": "Monday",
+        "status": "suggested"
+      },
+      {
+        "data": "the 45-car",
+        "status": "suggested"
+      },
+      {
+        "data": "August 28, 1965",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Police officers",
+        "status": "suggested"
+      },
+      {
+        "data": "the Interracial Squad",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Parking lots",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerritt Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Police vehicles",
+        "status": "suggested"
+      },
+      {
+        "data": "Motorcycles",
+        "status": "suggested"
+      },
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "the first day",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Frankstown Avenue ",
+        "status": "suggested"
+      },
+      {
+        "data": "the Shiloh Community Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Frankstown Ave.",
+        "status": "suggested"
+      },
+      {
+        "data": ")Gerritt Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "snow",
+        "status": "suggested"
+      },
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "lane",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "transport",
+        "status": "suggested"
+      },
+      {
+        "data": "urban area",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "landscape",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "neighbourhood",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "weather",
+        "status": "suggested"
+      },
+      {
+        "data": "plant",
+        "status": "suggested"
+      },
+      {
+        "data": "traffic",
+        "status": "suggested"
+      },
+      {
+        "data": "city",
+        "status": "suggested"
+      },
+      {
+        "data": "asphalt",
+        "status": "suggested"
+      },
+      {
+        "data": "downtown",
+        "status": "suggested"
+      }
+    ]
+  }
 }

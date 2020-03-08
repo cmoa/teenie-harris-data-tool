@@ -1,20 +1,340 @@
 {
-	"irn": "54462",
-	"emuInput": {
-		"ecatalogue_key": "231",
-		"irn": "54462",
-		"TitAccessionNo": "2001.35.41282",
-		"TitMainTitle": "Group portrait of five women and man, with P. L. Prattis seated on left and Jessie Vann standing on right, on stage of A. Leo Weil School during the \"Favorite Churchwoman's\" contest award program",
-		"CreDateCreated": "November 20, 1952",
-		"CreEarliestDate": "1952-11-20",
-		"CreLatestDate": "1952-11-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 1 reads: \"Churchwomen's Award Program Was A Colorful Affair - Nearly all of the entrants in Courier's \"Favorite Churchwoman's\" contest were present on Thursday, Nov. 20, at A. Leo Weil School to receive their rewards and gifts...\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nHats--Pennsylvania--Pittsburgh.\nChairs--Pennsylvania--Pittsburgh.\nA. Leo Weil Elementary School (Pittsburgh, Pa.)\nCurtains--Pennsylvania--Pittsburgh.\nMicrophone--Pennsylvania--Pittsburgh.\nEyeglasses--Pennsylvania--Pittsburgh.\nPrattis, P. L.\nVann, Jessie, 1889-1967.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "54462",
+  "emuInput": {
+    "ecatalogue_key": 41240,
+    "irn": 54462,
+    "TitAccessionNo": "2001.35.41282",
+    "CreDateCreated": "November 20, 1952",
+    "CreEarliestDate": "1952-11-20",
+    "CreLatestDate": "1952-11-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 1 reads: \"Churchwomen's Award Program Was A Colorful Affair - Nearly all of the entrants in Courier's \"Favorite Churchwoman's\" contest were present on Thursday, Nov. 20, at A. Leo Weil School to receive their rewards and gifts...\"",
+    "TitMainTitle": "Group portrait of five women and man, with P. L. Prattis seated on left and Jessie Vann standing on right, on stage of A. Leo Weil School during the \"Favorite Churchwoman's\" contest award program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.A. Leo Weil Elementary School (Pittsburgh, Pa.)Curtains--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Prattis, P. L.Vann, Jessie, 1889-1967.",
+    "AdmGUIDValue_tab": "01b56492-c13c-42fe-a088-d3187c03cf9d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62208,
+    "MulMultiMediaRef_key": 41248,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62208/sizes/54462-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 41240,
+    "irn": 54462,
+    "TitAccessionNo": "2001.35.41282",
+    "CreDateCreated": "November 20, 1952",
+    "CreEarliestDate": "1952-11-20",
+    "CreLatestDate": "1952-11-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, November 29, 1952, pg. 1 reads: \"Churchwomen's Award Program Was A Colorful Affair - Nearly all of the entrants in Courier's \"Favorite Churchwoman's\" contest were present on Thursday, Nov. 20, at A. Leo Weil School to receive their rewards and gifts...\"",
+    "TitMainTitle": "Group portrait of five women and man, with P. L. Prattis seated on left and Jessie Vann standing on right, on stage of A. Leo Weil School during the \"Favorite Churchwoman's\" contest award program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Hats--Pennsylvania--Pittsburgh.Chairs--Pennsylvania--Pittsburgh.A. Leo Weil Elementary School (Pittsburgh, Pa.)Curtains--Pennsylvania--Pittsburgh.Microphone--Pennsylvania--Pittsburgh.Eyeglasses--Pennsylvania--Pittsburgh.Prattis, P. L.Vann, Jessie, 1889-1967.",
+    "AdmGUIDValue_tab": "01b56492-c13c-42fe-a088-d3187c03cf9d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 62208,
+    "MulMultiMediaRef_key": 41248,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/62208/sizes/54462-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "P. L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": "Burbury, E. J.",
+        "status": "suggested"
+      },
+      {
+        "data": "Draperies",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Curtains",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Curtains",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Curtains",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Curtains",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Churchwomen's Award Program Was A Colorful Affair - Nearly all of the entrants in Courier's \"Favorite Churchwoman's\" contest were present on Thursday, Nov. 20, at A. Leo Weil School to receive their rewards and gifts...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 29, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Favorite Churchwoman's",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "A",
+        "status": "suggested"
+      },
+      {
+        "data": " L",
+        "status": "suggested"
+      },
+      {
+        "data": "Churchwomen",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Prattis, P",
+        "status": "suggested"
+      },
+      {
+        "data": "Churchwoman",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Leo Weil School",
+        "status": "suggested"
+      },
+      {
+        "data": "Thursday, Nov. 20",
+        "status": "suggested"
+      },
+      {
+        "data": " Leo Weil Elementary School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "P. L. Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Microphone",
+        "status": "suggested"
+      },
+      {
+        "data": ")Curtains",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "Chairs",
+        "status": "suggested"
+      },
+      {
+        "data": "November 29, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "brass",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

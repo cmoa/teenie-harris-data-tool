@@ -1,20 +1,376 @@
 {
-	"irn": "25131",
-	"emuInput": {
-		"ecatalogue_key": "121",
-		"irn": "25131",
-		"TitAccessionNo": "2001.35.15066",
-		"TitMainTitle": "Portrait of Alverta Martin wearing open collar suit and beehive hairstyle posed on arm of sofa in interior, possibly Anaheim Street",
-		"CreDateCreated": "June 1967",
-		"CreEarliestDate": "1967-06-01",
-		"CreLatestDate": "1967-06-17",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, June 17, 1967, pg. 14 reads: \"To Be Wed - Mr. and Mrs. David Graham of Schenley Heights, announce the engagement of Mrs. Graham's daughter, Alverta Martin, to Joseph Simpson Jr. of Weirton, W. Va.  The bride-elect is the daughter of the late Rev. O.L. Martin, former pastor of Calvary Baptist Church where an open church double-ring ceremony will be held July 15.  The Rev. James A. Cox will officiate. - Harris photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "25131",
+  "emuInput": {
+    "ecatalogue_key": 15036,
+    "irn": 25131,
+    "TitAccessionNo": "2001.35.15066",
+    "CreDateCreated": "June 1967",
+    "CreEarliestDate": "1967-06-01",
+    "CreLatestDate": "1967-06-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, June 17, 1967, pg. 14 reads: \"To Be Wed - Mr. and Mrs. David Graham of Schenley Heights, announce the engagement of Mrs. Graham's daughter, Alverta Martin, to Joseph Simpson Jr. of Weirton, W. Va.  The bride-elect is the daughter of the late Rev. O.L. Martin, former pastor of Calvary Baptist Church where an open church double-ring ceremony will be held July 15.  The Rev. James A. Cox will officiate. - Harris photo.\"",
+    "TitMainTitle": "Portrait of Alverta Martin wearing open collar suit and beehive hairstyle posed on arm of sofa in interior, possibly Anaheim Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "69087895-0ed6-40f7-b682-9e06ef37660b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31987,
+    "MulMultiMediaRef_key": 15044,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31987/sizes/25131-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 15036,
+    "irn": 25131,
+    "TitAccessionNo": "2001.35.15066",
+    "CreDateCreated": "June 1967",
+    "CreEarliestDate": "1967-06-01",
+    "CreLatestDate": "1967-06-17",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, June 17, 1967, pg. 14 reads: \"To Be Wed - Mr. and Mrs. David Graham of Schenley Heights, announce the engagement of Mrs. Graham's daughter, Alverta Martin, to Joseph Simpson Jr. of Weirton, W. Va.  The bride-elect is the daughter of the late Rev. O.L. Martin, former pastor of Calvary Baptist Church where an open church double-ring ceremony will be held July 15.  The Rev. James A. Cox will officiate. - Harris photo.\"",
+    "TitMainTitle": "Portrait of Alverta Martin wearing open collar suit and beehive hairstyle posed on arm of sofa in interior, possibly Anaheim Street",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "69087895-0ed6-40f7-b682-9e06ef37660b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31987,
+    "MulMultiMediaRef_key": 15044,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31987/sizes/25131-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Alverta Martin",
+        "status": "suggested"
+      },
+      {
+        "data": "David Graham",
+        "status": "suggested"
+      },
+      {
+        "data": "James A. Cox",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Simpson Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Graham",
+        "status": "suggested"
+      },
+      {
+        "data": "O.L. Martin",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Anaheim Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Weirton",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Anaheim Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Weirton",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Anaheim Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Weirton",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Anaheim Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Schenley Heights",
+        "status": "suggested"
+      },
+      {
+        "data": "Weirton",
+        "status": "suggested"
+      },
+      {
+        "data": "W. Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "To Be Wed - Mr. and Mrs. David Graham of Schenley Heights, announce the engagement of Mrs. Graham's daughter, Alverta Martin, to Joseph Simpson Jr. of Weirton, W. Va.  The bride-elect is the daughter of the late Rev. O.L. Martin, former pastor of Calvary Baptist Church where an open church double-ring ceremony will be held July 15.  The Rev. James A. Cox will officiate. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 17, 1967",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvary Baptist Church",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "David Graham",
+        "status": "suggested"
+      },
+      {
+        "data": "July 15",
+        "status": "suggested"
+      },
+      {
+        "data": "James A. Cox",
+        "status": "suggested"
+      },
+      {
+        "data": "June 17, 1967",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Graham",
+        "status": "suggested"
+      },
+      {
+        "data": "Anaheim Street",
+        "status": "suggested"
+      },
+      {
+        "data": "O.L. Martin",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "shoulder",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "retro style",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      }
+    ]
+  }
 }

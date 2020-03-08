@@ -1,20 +1,312 @@
 {
-	"irn": "25250",
-	"emuInput": {
-		"ecatalogue_key": "122",
-		"irn": "25250",
-		"TitAccessionNo": "2001.35.15132",
-		"TitMainTitle": "Rev. Patrick LeRoy and Murrel Wynn Jones dancing in ballroom of Hotel Webster Hall for Holy Cross Episcopal Church's 50th Anniversary Dinner Dance",
-		"CreDateCreated": "July 1967",
-		"CreEarliestDate": "1967-07-01",
-		"CreLatestDate": "1967-07-22",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 22, 1967, pg. 13, reads: \"Work-Out - The crowd got a kick out of watching the Rev. LeRoy Patrick and Muriel [Murrel] Wynn Jones good-naturedly \"work-out\" on a number.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWebster Hall (Pittsburgh, Pa.)\nDancing--Pennsylvania--Pittsburgh.\nPatrick, LeRoy.\nJones, Muriel Wynn.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "25250",
+  "emuInput": {
+    "ecatalogue_key": 15102,
+    "irn": 25250,
+    "TitAccessionNo": "2001.35.15132",
+    "CreDateCreated": "July 1967",
+    "CreEarliestDate": "1967-07-01",
+    "CreLatestDate": "1967-07-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 22, 1967, pg. 13, reads: \"Work-Out - The crowd got a kick out of watching the Rev. LeRoy Patrick and Muriel [Murrel] Wynn Jones good-naturedly \"work-out\" on a number.\"",
+    "TitMainTitle": "Rev. Patrick LeRoy and Murrel Wynn Jones dancing in ballroom of Hotel Webster Hall for Holy Cross Episcopal Church's 50th Anniversary Dinner Dance",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Dancing--Pennsylvania--Pittsburgh.Patrick, LeRoy.Jones, Muriel Wynn.",
+    "AdmGUIDValue_tab": "23744276-1807-4b60-b141-bd8436b9bd19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31491,
+    "MulMultiMediaRef_key": 15110,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31491/sizes/25250-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 15102,
+    "irn": 25250,
+    "TitAccessionNo": "2001.35.15132",
+    "CreDateCreated": "July 1967",
+    "CreEarliestDate": "1967-07-01",
+    "CreLatestDate": "1967-07-22",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, July 22, 1967, pg. 13, reads: \"Work-Out - The crowd got a kick out of watching the Rev. LeRoy Patrick and Muriel [Murrel] Wynn Jones good-naturedly \"work-out\" on a number.\"",
+    "TitMainTitle": "Rev. Patrick LeRoy and Murrel Wynn Jones dancing in ballroom of Hotel Webster Hall for Holy Cross Episcopal Church's 50th Anniversary Dinner Dance",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Webster Hall (Pittsburgh, Pa.)Dancing--Pennsylvania--Pittsburgh.Patrick, LeRoy.Jones, Muriel Wynn.",
+    "AdmGUIDValue_tab": "23744276-1807-4b60-b141-bd8436b9bd19",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31491,
+    "MulMultiMediaRef_key": 15110,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31491/sizes/25250-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Patrick LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Murrel Wynn Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Muriel [ Murrel ]",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy, Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Dancing",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Dancing",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Dancing",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.)Dancing",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "13",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Work-Out - The crowd got a kick out of watching the Rev. LeRoy Patrick and Muriel [Murrel] Wynn Jones good-naturedly \"work-out\" on a number.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 22, 1967",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Patrick, LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Hotel Webster Hall for Holy Cross Episcopal Church's",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": ")Dancing",
+        "status": "suggested"
+      },
+      {
+        "data": "July 22, 1967",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Wynn Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Patrick LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Jones, Muriel Wynn",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Webster Hall ",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "light",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "phenomenon",
+        "status": "suggested"
+      },
+      {
+        "data": "dance",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "performance art",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "midnight",
+        "status": "suggested"
+      }
+    ]
+  }
 }

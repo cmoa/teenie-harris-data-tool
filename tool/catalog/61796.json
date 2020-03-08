@@ -1,20 +1,364 @@
 {
-	"irn": "61796",
-	"emuInput": {
-		"ecatalogue_key": "303",
-		"irn": "61796",
-		"TitAccessionNo": "2001.35.47659",
-		"TitMainTitle": "Music instructor Carl McVicker standing with Westinghouse High School string quartet, from left: Patricia Prattis (Jennings), Paul Ross, June Gibson, and Barbara Jones, gathered on stage with music stands and sheet music, another version",
-		"CreDateCreated": "1958",
-		"CreEarliestDate": "1958",
-		"CreLatestDate": "1958",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 3, 1958, pg. 4A reads: \"State Champions - The above youngsters from Westinghouse High School went to the contests of the Pennsylvania Forensic and Music League in Harrisburg last Friday and \"brought home the bacon\" as the best string quartet in competing secondary schools in state. They won a \"superior\" rating.  Left to right: Patricia Prattis, first violin; Paul Ross, second violin; June Gibson, cello, and Barbara Jones, viola.  Standing is Carl McVicker, music instructor at Westinghouse. - Harris Photo.\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nYoung adults--Pennsylvania--Pittsburgh.\nStringed instruments--Pennsylvania--Pittsburgh.\nViolin--Pennsylvania--Pittsburgh.\nCello--Pennsylvania--Pittsburgh.\nSheet music--Pennsylvania--Pittsburgh.\nMusicians--Pennsylvania--Pittsburgh.\nStages (Platforms)--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61796",
+  "emuInput": {
+    "ecatalogue_key": 47616,
+    "irn": 61796,
+    "TitAccessionNo": "2001.35.47659",
+    "CreDateCreated": "1958",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 3, 1958, pg. 4A reads: \"State Champions - The above youngsters from Westinghouse High School went to the contests of the Pennsylvania Forensic and Music League in Harrisburg last Friday and \"brought home the bacon\" as the best string quartet in competing secondary schools in state. They won a \"superior\" rating.  Left to right: Patricia Prattis, first violin; Paul Ross, second violin; June Gibson, cello, and Barbara Jones, viola.  Standing is Carl McVicker, music instructor at Westinghouse. - Harris Photo.\"",
+    "TitMainTitle": "Music instructor Carl McVicker standing with Westinghouse High School string quartet, from left: Patricia Prattis (Jennings), Paul Ross, June Gibson, and Barbara Jones, gathered on stage with music stands and sheet music, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Stringed instruments--Pennsylvania--Pittsburgh.Violin--Pennsylvania--Pittsburgh.Cello--Pennsylvania--Pittsburgh.Sheet music--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47064382-d4df-455e-803e-26ea98f33c30",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69963,
+    "MulMultiMediaRef_key": 47624,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69963/sizes/61796-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47616,
+    "irn": 61796,
+    "TitAccessionNo": "2001.35.47659",
+    "CreDateCreated": "1958",
+    "CreEarliestDate": "1958",
+    "CreLatestDate": "1958",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, May 3, 1958, pg. 4A reads: \"State Champions - The above youngsters from Westinghouse High School went to the contests of the Pennsylvania Forensic and Music League in Harrisburg last Friday and \"brought home the bacon\" as the best string quartet in competing secondary schools in state. They won a \"superior\" rating.  Left to right: Patricia Prattis, first violin; Paul Ross, second violin; June Gibson, cello, and Barbara Jones, viola.  Standing is Carl McVicker, music instructor at Westinghouse. - Harris Photo.\"",
+    "TitMainTitle": "Music instructor Carl McVicker standing with Westinghouse High School string quartet, from left: Patricia Prattis (Jennings), Paul Ross, June Gibson, and Barbara Jones, gathered on stage with music stands and sheet music, another version",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Young adults--Pennsylvania--Pittsburgh.Stringed instruments--Pennsylvania--Pittsburgh.Violin--Pennsylvania--Pittsburgh.Cello--Pennsylvania--Pittsburgh.Sheet music--Pennsylvania--Pittsburgh.Musicians--Pennsylvania--Pittsburgh.Stages (Platforms)--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "47064382-d4df-455e-803e-26ea98f33c30",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69963,
+    "MulMultiMediaRef_key": 47624,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69963/sizes/61796-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Patricia Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "June Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Carl McVicker",
+        "status": "suggested"
+      },
+      {
+        "data": "Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Ross",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Stringed instrument bows",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      },
+      {
+        "data": "Cello",
+        "status": "suggested"
+      },
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Stringed instruments",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Sheet music",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Harrisburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Harrisburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Harrisburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Harrisburg",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "4",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "State Champions - The above youngsters from Westinghouse High School went to the contests of the Pennsylvania Forensic and Music League in Harrisburg last Friday and \"brought home the bacon\" as the best string quartet in competing secondary schools in state. They won a \"superior\" rating.  Left to right: Patricia Prattis, first violin; Paul Ross, second violin; June Gibson, cello, and Barbara Jones, viola.  Standing is Carl McVicker, music instructor at Westinghouse. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 3, 1958",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "music",
+        "status": "suggested"
+      },
+      {
+        "data": "June",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Barbara Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Violin",
+        "status": "suggested"
+      },
+      {
+        "data": "Cello",
+        "status": "suggested"
+      },
+      {
+        "data": "May 3, 1958",
+        "status": "suggested"
+      },
+      {
+        "data": "Carl McVicker",
+        "status": "suggested"
+      },
+      {
+        "data": "June Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Patricia Prattis",
+        "status": "suggested"
+      },
+      {
+        "data": "Stages (Platforms)",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse",
+        "status": "suggested"
+      },
+      {
+        "data": "Musicians",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Stringed instruments",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Young adults",
+        "status": "suggested"
+      },
+      {
+        "data": "the Pennsylvania Forensic and Music League",
+        "status": "suggested"
+      },
+      {
+        "data": "Paul Ross",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Sheet music",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "musician",
+        "status": "suggested"
+      },
+      {
+        "data": "human behavior",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,603 @@
 {
-	"irn": "61131",
-	"emuInput": {
-		"ecatalogue_key": "297",
-		"irn": "61131",
-		"TitAccessionNo": "2001.35.47191",
-		"TitMainTitle": "Group portrait of five women, including bride Jeanne Yvonne Adams Daniels wearing long sleeved gown with full skirt, and four men, including groom Joseph W. Daniels, posed in Grace Memorial Presbyterian Church",
-		"CreDateCreated": "August - September 1957",
-		"CreEarliestDate": "1957-08-01",
-		"CreLatestDate": "1957-09-07",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 7, 1957, pg. A10, reads: \"Mrs. Joseph W. Daniels...lovely bride. - Harris Photo.\" Portions of accompanying article read: \"Charming School Teacher Marries In Impressive Late Summer Nuptials.  One of the late summer season's prettiest weddings was that of Jeanne Yvonne Adams and Joseph Wayne Daniels.  The bride is the daughter of Mr. and Mrs. Lorenzo R. Adams of Pittsburgh; the groom's parents are Mr. and Mrs. Alfred J. Daniels Sr. of New Orleans, La.  The Rev. Harold R. Tolliver performed the impressive rites in Grace Memorial Presbyterian Church.  The bride was lovely in a white gown of Cupino Silk.  Her veil of bridal illusion was attached to a hat of pearls and sequins.  She carried a bouquet of white orchids and stephanoti.  The attendants included the bride's two sisters: Miss Mable Adams, maid of honor, and Mrs. Sadie E. Harris as matron of honor.  Bridesmaids were Mrs. Edythe Smith Perkins, Miss Evelyn Donald and Miss Aldora Sanders.  They wore gowns of turquoise and coral rose with matching hats.  They carried colonial bouquets of yellow pom poms and roses.  William Jackson of Baltimore, Md., was the groom's best man.  Ushers were John H. Adams, Arthur Perkins Jr., Burl J. Moone III, and Eugene Barkley of Philadelphia.  Little Laura Gale Adams, niece of eh bride, was flower girl.  Cornelius Harris III, nephew of the bride was ringbearer.  The wedding was directed by Mrs. Nan Moon Currington. .... The bride is a graduate of the University of Pittsburgh and for the past three years has been a member of the faculty of Taylor Allderdice High School.  She completed courses for a master's degree from the University of Pittsburgh this summer.  The groom, a former student at Dillard University, New Orleans, in employed in New York City where the couple will reside. ...\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nGrace Memorial Presbyterian Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "61131",
+  "emuInput": {
+    "ecatalogue_key": 47148,
+    "irn": 61131,
+    "TitAccessionNo": "2001.35.47191",
+    "CreDateCreated": "August - September 1957",
+    "CreEarliestDate": "1957-08-01",
+    "CreLatestDate": "1957-09-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 7, 1957, pg. A10, reads: \"Mrs. Joseph W. Daniels...lovely bride. - Harris Photo.\" Portions of accompanying article read: \"Charming School Teacher Marries In Impressive Late Summer Nuptials.  One of the late summer season's prettiest weddings was that of Jeanne Yvonne Adams and Joseph Wayne Daniels.  The bride is the daughter of Mr. and Mrs. Lorenzo R. Adams of Pittsburgh; the groom's parents are Mr. and Mrs. Alfred J. Daniels Sr. of New Orleans, La.  The Rev. Harold R. Tolliver performed the impressive rites in Grace Memorial Presbyterian Church.  The bride was lovely in a white gown of Cupino Silk.  Her veil of bridal illusion was attached to a hat of pearls and sequins.  She carried a bouquet of white orchids and stephanoti.  The attendants included the bride's two sisters: Miss Mable Adams, maid of honor, and Mrs. Sadie E. Harris as matron of honor.  Bridesmaids were Mrs. Edythe Smith Perkins, Miss Evelyn Donald and Miss Aldora Sanders.  They wore gowns of turquoise and coral rose with matching hats.  They carried colonial bouquets of yellow pom poms and roses.  William Jackson of Baltimore, Md., was the groom's best man.  Ushers were John H. Adams, Arthur Perkins Jr., Burl J. Moone III, and Eugene Barkley of Philadelphia.  Little Laura Gale Adams, niece of eh bride, was flower girl.  Cornelius Harris III, nephew of the bride was ringbearer.  The wedding was directed by Mrs. Nan Moon Currington. .... The bride is a graduate of the University of Pittsburgh and for the past three years has been a member of the faculty of Taylor Allderdice High School.  She completed courses for a master's degree from the University of Pittsburgh this summer.  The groom, a former student at Dillard University, New Orleans, in employed in New York City where the couple will reside. ...\"",
+    "TitMainTitle": "Group portrait of five women, including bride Jeanne Yvonne Adams Daniels wearing long sleeved gown with full skirt, and four men, including groom Joseph W. Daniels, posed in Grace Memorial Presbyterian Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Grace Memorial Presbyterian Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0092f511-c6a6-40e6-8aa3-a7d13a17acc3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69554,
+    "MulMultiMediaRef_key": 47156,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69554/sizes/61131-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 47148,
+    "irn": 61131,
+    "TitAccessionNo": "2001.35.47191",
+    "CreDateCreated": "August - September 1957",
+    "CreEarliestDate": "1957-08-01",
+    "CreLatestDate": "1957-09-07",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 7, 1957, pg. A10, reads: \"Mrs. Joseph W. Daniels...lovely bride. - Harris Photo.\" Portions of accompanying article read: \"Charming School Teacher Marries In Impressive Late Summer Nuptials.  One of the late summer season's prettiest weddings was that of Jeanne Yvonne Adams and Joseph Wayne Daniels.  The bride is the daughter of Mr. and Mrs. Lorenzo R. Adams of Pittsburgh; the groom's parents are Mr. and Mrs. Alfred J. Daniels Sr. of New Orleans, La.  The Rev. Harold R. Tolliver performed the impressive rites in Grace Memorial Presbyterian Church.  The bride was lovely in a white gown of Cupino Silk.  Her veil of bridal illusion was attached to a hat of pearls and sequins.  She carried a bouquet of white orchids and stephanoti.  The attendants included the bride's two sisters: Miss Mable Adams, maid of honor, and Mrs. Sadie E. Harris as matron of honor.  Bridesmaids were Mrs. Edythe Smith Perkins, Miss Evelyn Donald and Miss Aldora Sanders.  They wore gowns of turquoise and coral rose with matching hats.  They carried colonial bouquets of yellow pom poms and roses.  William Jackson of Baltimore, Md., was the groom's best man.  Ushers were John H. Adams, Arthur Perkins Jr., Burl J. Moone III, and Eugene Barkley of Philadelphia.  Little Laura Gale Adams, niece of eh bride, was flower girl.  Cornelius Harris III, nephew of the bride was ringbearer.  The wedding was directed by Mrs. Nan Moon Currington. .... The bride is a graduate of the University of Pittsburgh and for the past three years has been a member of the faculty of Taylor Allderdice High School.  She completed courses for a master's degree from the University of Pittsburgh this summer.  The groom, a former student at Dillard University, New Orleans, in employed in New York City where the couple will reside. ...\"",
+    "TitMainTitle": "Group portrait of five women, including bride Jeanne Yvonne Adams Daniels wearing long sleeved gown with full skirt, and four men, including groom Joseph W. Daniels, posed in Grace Memorial Presbyterian Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Grace Memorial Presbyterian Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "0092f511-c6a6-40e6-8aa3-a7d13a17acc3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 69554,
+    "MulMultiMediaRef_key": 47156,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/69554/sizes/61131-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Aldora Sanders",
+        "status": "suggested"
+      },
+      {
+        "data": "Laura Gale Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Eugene Barkley",
+        "status": "suggested"
+      },
+      {
+        "data": "Sadie E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Arthur Perkins Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "William Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Nan Moon Currington",
+        "status": "suggested"
+      },
+      {
+        "data": "Burl J. Moone III",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanne Yvonne Adams Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Mable Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Jeanne Yvonne Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Cornelius Harris III",
+        "status": "suggested"
+      },
+      {
+        "data": "John H. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph W. Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Harold R. Tolliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Alfred J. Daniels Sr .",
+        "status": "suggested"
+      },
+      {
+        "data": "Evelyn Donald",
+        "status": "suggested"
+      },
+      {
+        "data": "Edythe Smith Perkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorenzo R. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph Wayne Daniels",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Scienze dell'antichità, filologico-letterarie e storico-artistiche",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Dillard University",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "New Orleans",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Md.",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "New York City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "New Orleans",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Md.",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "New York City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "New Orleans",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Md.",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "New York City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "New Orleans",
+        "status": "suggested"
+      },
+      {
+        "data": "Baltimore",
+        "status": "suggested"
+      },
+      {
+        "data": "Md.",
+        "status": "suggested"
+      },
+      {
+        "data": "Philadelphia",
+        "status": "suggested"
+      },
+      {
+        "data": "New York City",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Mrs. Joseph W. Daniels...lovely bride. - Harris Photo.\" Portions of accompanying article read: \"Charming School Teacher Marries In Impressive Late Summer Nuptials.  One of the late summer season's prettiest weddings was that of Jeanne Yvonne Adams and Joseph Wayne Daniels.  The bride is the daughter of Mr. and Mrs. Lorenzo R. Adams of Pittsburgh; the groom's parents are Mr. and Mrs. Alfred J. Daniels Sr. of New Orleans, La.  The Rev. Harold R. Tolliver performed the impressive rites in Grace Memorial Presbyterian Church.  The bride was lovely in a white gown of Cupino Silk.  Her veil of bridal illusion was attached to a hat of pearls and sequins.  She carried a bouquet of white orchids and stephanoti.  The attendants included the bride's two sisters: Miss Mable Adams, maid of honor, and Mrs. Sadie E. Harris as matron of honor.  Bridesmaids were Mrs. Edythe Smith Perkins, Miss Evelyn Donald and Miss Aldora Sanders.  They wore gowns of turquoise and coral rose with matching hats.  They carried colonial bouquets of yellow pom poms and roses.  William Jackson of Baltimore, Md., was the groom's best man.  Ushers were John H. Adams, Arthur Perkins Jr., Burl J. Moone III, and Eugene Barkley of Philadelphia.  Little Laura Gale Adams, niece of eh bride, was flower girl.  Cornelius Harris III, nephew of the bride was ringbearer.  The wedding was directed by Mrs. Nan Moon Currington. .... The bride is a graduate of the University of Pittsburgh and for the past three years has been a member of the faculty of Taylor Allderdice High School.  She completed courses for a master's degree from the University of Pittsburgh this summer.  The groom, a former student at Dillard University, New Orleans, in employed in New York City where the couple will reside. ...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 7, 1957",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Cupino Silk",
+        "status": "suggested"
+      },
+      {
+        "data": "September 7, 1957",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Grace Memorial Presbyterian Church",
+        "status": "suggested"
+      },
+      {
+        "data": "the University of Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Taylor Allderdice High School",
+        "status": "suggested"
+      },
+      {
+        "data": "William Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Grace Memorial Presbyterian Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Charming School Teacher Marries",
+        "status": "suggested"
+      },
+      {
+        "data": "Dillard University",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "A10",
+        "status": "suggested"
+      },
+      {
+        "data": "this summer",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "John H. Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Joseph W. Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the past three years",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "the late summer season's",
+        "status": "suggested"
+      },
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "facial expression",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

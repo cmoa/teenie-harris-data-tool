@@ -1,20 +1,336 @@
 {
-	"irn": "32955",
-	"emuInput": {
-		"ecatalogue_key": "163",
-		"irn": "32955",
-		"TitAccessionNo": "2001.35.21048",
-		"TitMainTitle": "Rev. A. E. Harris, Ora Sims, Rev. Leroy Patrick, Jessie Vann, and William Howell, seated behind folding table in Bethesda United Presbyterian Church during seventh annual beautiful yard awards program",
-		"CreDateCreated": "December 1962",
-		"CreEarliestDate": "1962-12-01",
-		"CreLatestDate": "1962-12-15",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 15, 1962, pg. 17 reads: \"Beautiful Yard Awards Program - Cultivators of above-average yards in Homewood attended the seventh annual awards program and tea sponsored by the Homewood Community Improvement Association...Program participants pictured lower left are the Rev. A.E. Harris, Mrs. Ora Sims, the Rev. Leroy Patrick, Mrs. Vann and William Howell, president of the HCIA...-Harris Photos.\"",
-		"CatSubject_tab": "Bethesda Presbyterian Church (Pittsburgh, Pa.)\nGroup portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nVann, Jessie, 1889-1967.\nClergy--Pennsylvania--Pittsburgh.\nPatrick, LeRoy.\nSims, Ora.\nHowell, William.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "32955",
+  "emuInput": {
+    "ecatalogue_key": 21017,
+    "irn": 32955,
+    "TitAccessionNo": "2001.35.21048",
+    "CreDateCreated": "December 1962",
+    "CreEarliestDate": "1962-12-01",
+    "CreLatestDate": "1962-12-15",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 15, 1962, pg. 17 reads: \"Beautiful Yard Awards Program - Cultivators of above-average yards in Homewood attended the seventh annual awards program and tea sponsored by the Homewood Community Improvement Association...Program participants pictured lower left are the Rev. A.E. Harris, Mrs. Ora Sims, the Rev. Leroy Patrick, Mrs. Vann and William Howell, president of the HCIA...-Harris Photos.\"",
+    "TitMainTitle": "Rev. A. E. Harris, Ora Sims, Rev. Leroy Patrick, Jessie Vann, and William Howell, seated behind folding table in Bethesda United Presbyterian Church during seventh annual beautiful yard awards program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bethesda Presbyterian Church (Pittsburgh, Pa.)Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Clergy--Pennsylvania--Pittsburgh.Patrick, LeRoy.Sims, Ora.Howell, William.",
+    "AdmGUIDValue_tab": "41191903-1946-4db5-8102-a45945be069a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39336,
+    "MulMultiMediaRef_key": 21025,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39336/sizes/32955-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 21017,
+    "irn": 32955,
+    "TitAccessionNo": "2001.35.21048",
+    "CreDateCreated": "December 1962",
+    "CreEarliestDate": "1962-12-01",
+    "CreLatestDate": "1962-12-15",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 15, 1962, pg. 17 reads: \"Beautiful Yard Awards Program - Cultivators of above-average yards in Homewood attended the seventh annual awards program and tea sponsored by the Homewood Community Improvement Association...Program participants pictured lower left are the Rev. A.E. Harris, Mrs. Ora Sims, the Rev. Leroy Patrick, Mrs. Vann and William Howell, president of the HCIA...-Harris Photos.\"",
+    "TitMainTitle": "Rev. A. E. Harris, Ora Sims, Rev. Leroy Patrick, Jessie Vann, and William Howell, seated behind folding table in Bethesda United Presbyterian Church during seventh annual beautiful yard awards program",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Bethesda Presbyterian Church (Pittsburgh, Pa.)Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.Clergy--Pennsylvania--Pittsburgh.Patrick, LeRoy.Sims, Ora.Howell, William.",
+    "AdmGUIDValue_tab": "41191903-1946-4db5-8102-a45945be069a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 39336,
+    "MulMultiMediaRef_key": 21025,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/39336/sizes/32955-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "A.E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Ora Sims",
+        "status": "suggested"
+      },
+      {
+        "data": "A. E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Leroy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "William Howell",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Beautiful Yard Awards Program - Cultivators of above-average yards in Homewood attended the seventh annual awards program and tea sponsored by the Homewood Community Improvement Association...Program participants pictured lower left are the Rev. A.E. Harris, Mrs. Ora Sims, the Rev. Leroy Patrick, Mrs. Vann and William Howell, president of the HCIA...-Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 15, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "the Homewood Community Improvement Association",
+        "status": "suggested"
+      },
+      {
+        "data": "A.E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Howell, William",
+        "status": "suggested"
+      },
+      {
+        "data": "Sims, Ora",
+        "status": "suggested"
+      },
+      {
+        "data": "Leroy Patrick",
+        "status": "suggested"
+      },
+      {
+        "data": "December 15, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethesda Presbyterian Church ",
+        "status": "suggested"
+      },
+      {
+        "data": ")Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "HCIA",
+        "status": "suggested"
+      },
+      {
+        "data": "A. E. Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Bethesda United Presbyterian Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "annual",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "William Howell",
+        "status": "suggested"
+      },
+      {
+        "data": "Clergy",
+        "status": "suggested"
+      },
+      {
+        "data": "Patrick, LeRoy",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Beautiful Yard Awards Program - Cultivators",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,300 @@
 {
-	"irn": "8121",
-	"emuInput": {
-		"ecatalogue_key": "37",
-		"irn": "8121",
-		"TitAccessionNo": "2001.35.4992",
-		"TitMainTitle": "Group portrait of Ninth Cavalry mounted troop, with two men in front, in park",
-		"CreDateCreated": "July 1942",
-		"CreEarliestDate": "1942-07-01",
-		"CreLatestDate": "1942-07-11",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Top center: The famed Ninth Calvary [Cavalry] unit, composed of 47 picked men and horses, stand at attention during a review... Harris [illegible] photos.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nHorses--Pennsylvania--Pittsburgh.\nUniforms--Pennsylvania--Pittsburgh.\nTrees--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "8121",
+  "emuInput": {
+    "ecatalogue_key": 4983,
+    "irn": 8121,
+    "TitAccessionNo": "2001.35.4992",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Top center: The famed Ninth Calvary [Cavalry] unit, composed of 47 picked men and horses, stand at attention during a review... Harris [illegible] photos.\"",
+    "TitMainTitle": "Group portrait of Ninth Cavalry mounted troop, with two men in front, in park",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Horses--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "034391f5-c0a4-49f2-86ef-eec4d831b971",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20237,
+    "MulMultiMediaRef_key": 4989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20237/sizes/8121-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 4983,
+    "irn": 8121,
+    "TitAccessionNo": "2001.35.4992",
+    "CreDateCreated": "July 1942",
+    "CreEarliestDate": "1942-07-01",
+    "CreLatestDate": "1942-07-11",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, National Edition, July 11, 1942, pg. 14, reads: \"Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Top center: The famed Ninth Calvary [Cavalry] unit, composed of 47 picked men and horses, stand at attention during a review... Harris [illegible] photos.\"",
+    "TitMainTitle": "Group portrait of Ninth Cavalry mounted troop, with two men in front, in park",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Horses--Pennsylvania--Pittsburgh.Uniforms--Pennsylvania--Pittsburgh.Trees--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "034391f5-c0a4-49f2-86ef-eec4d831b971",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 20237,
+    "MulMultiMediaRef_key": 4989,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/20237/sizes/8121-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Trees",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Horses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "New York's",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Pittsburghers Hail Fighting Men from New York's 372nd Infantry and Fort Riley's Ninth Calvary - Pittsburgh was full of military spirit over the holidays when members of two famous colored units of the United States Army participated in colorful displays of military routine... Top center: The famed Ninth Calvary [Cavalry] unit, composed of 47 picked men and horses, stand at attention during a review... Harris [illegible] photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "National Edition, July 11, 1942",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "372nd Infantry",
+        "status": "suggested"
+      },
+      {
+        "data": "Trees",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "July 11, 1942",
+        "status": "suggested"
+      },
+      {
+        "data": "the holidays",
+        "status": "suggested"
+      },
+      {
+        "data": "Uniforms",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Ninth Calvary [Cavalry",
+        "status": "suggested"
+      },
+      {
+        "data": "Horses",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburghers Hail Fighting Men",
+        "status": "suggested"
+      },
+      {
+        "data": "the United States Army",
+        "status": "suggested"
+      },
+      {
+        "data": "Ninth Calvary - Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Fort Riley 's",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Ninth Cavalry",
+        "status": "suggested"
+      },
+      {
+        "data": "National Edition",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "nature",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "plant",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

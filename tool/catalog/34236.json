@@ -1,20 +1,468 @@
 {
-	"irn": "34236",
-	"emuInput": {
-		"ecatalogue_key": "169",
-		"irn": "34236",
-		"TitAccessionNo": "2001.35.22289",
-		"TitMainTitle": "Members of Lemuel Chapter 16 OES PHA Masons, seated: Mrs. Johnson, Mrs. M. Budd, Mrs. R. Mitchell, Mrs. Z. B. Stevenson, Mrs. H. Gloster, Mrs. E. Patterson, Mrs. J. Thompson, Mrs. S. Taylor; standing: Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr., and Stonewall Lett, in interior with piano and clock on wall reading 9:35",
-		"CreDateCreated": "1963",
-		"CreEarliestDate": "1963",
-		"CreLatestDate": "1963",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 10, 1963, pg. 14, reads: \"Lemuel Chapter Celebrates - Members of Lemuel Chapter 16 OES PHA, one of the oldest chapters in Deborah Grand Lodge, commemorated the occasion when Patron Stonewall J. Lett became Grand Junior Warden of the State of Pennsylvania recently. Members are left to right, seated, first row: Mmes I. Johnson, M. Budd, R. Mitchell, Z.B. Stevenson, H. Gloster, E. Patterson, H. Thompson and S. Taylor.  Second row: Mmes. B. Crawford, B. Rancies, A. Smith, A.B. Scott, L. Joyner, M.A. Peals, O. Boxley, A. Brown, A. Tucker, and L. Watts.  Masonic leaders standing in rear are Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr. and Stonewall J. Lett W.P. the celebrant\"",
-		"CatSubject_tab": "Men--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nPianos--Pennsylvania--Pittsburgh.\nFraternal organizations--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "34236",
+  "emuInput": {
+    "ecatalogue_key": 22258,
+    "irn": 34236,
+    "TitAccessionNo": "2001.35.22289",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 10, 1963, pg. 14, reads: \"Lemuel Chapter Celebrates - Members of Lemuel Chapter 16 OES PHA, one of the oldest chapters in Deborah Grand Lodge, commemorated the occasion when Patron Stonewall J. Lett became Grand Junior Warden of the State of Pennsylvania recently. Members are left to right, seated, first row: Mmes I. Johnson, M. Budd, R. Mitchell, Z.B. Stevenson, H. Gloster, E. Patterson, H. Thompson and S. Taylor.  Second row: Mmes. B. Crawford, B. Rancies, A. Smith, A.B. Scott, L. Joyner, M.A. Peals, O. Boxley, A. Brown, A. Tucker, and L. Watts.  Masonic leaders standing in rear are Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr. and Stonewall J. Lett W.P. the celebrant\"",
+    "TitMainTitle": "Members of Lemuel Chapter 16 OES PHA Masons, seated: Mrs. Johnson, Mrs. M. Budd, Mrs. R. Mitchell, Mrs. Z. B. Stevenson, Mrs. H. Gloster, Mrs. E. Patterson, Mrs. J. Thompson, Mrs. S. Taylor; standing: Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr., and Stonewall Lett, in interior with piano and clock on wall reading 9:35",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Fraternal organizations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24510699-2f80-4787-b2fe-6cc5b6bacc2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40729,
+    "MulMultiMediaRef_key": 22266,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40729/sizes/34236-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 22258,
+    "irn": 34236,
+    "TitAccessionNo": "2001.35.22289",
+    "CreDateCreated": "1963",
+    "CreEarliestDate": "1963",
+    "CreLatestDate": "1963",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, November 10, 1963, pg. 14, reads: \"Lemuel Chapter Celebrates - Members of Lemuel Chapter 16 OES PHA, one of the oldest chapters in Deborah Grand Lodge, commemorated the occasion when Patron Stonewall J. Lett became Grand Junior Warden of the State of Pennsylvania recently. Members are left to right, seated, first row: Mmes I. Johnson, M. Budd, R. Mitchell, Z.B. Stevenson, H. Gloster, E. Patterson, H. Thompson and S. Taylor.  Second row: Mmes. B. Crawford, B. Rancies, A. Smith, A.B. Scott, L. Joyner, M.A. Peals, O. Boxley, A. Brown, A. Tucker, and L. Watts.  Masonic leaders standing in rear are Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr. and Stonewall J. Lett W.P. the celebrant\"",
+    "TitMainTitle": "Members of Lemuel Chapter 16 OES PHA Masons, seated: Mrs. Johnson, Mrs. M. Budd, Mrs. R. Mitchell, Mrs. Z. B. Stevenson, Mrs. H. Gloster, Mrs. E. Patterson, Mrs. J. Thompson, Mrs. S. Taylor; standing: Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr., and Stonewall Lett, in interior with piano and clock on wall reading 9:35",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Men--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.Fraternal organizations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "24510699-2f80-4787-b2fe-6cc5b6bacc2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 40729,
+    "MulMultiMediaRef_key": 22266,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/40729/sizes/34236-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Z. B. Stevenson",
+        "status": "suggested"
+      },
+      {
+        "data": "M.A. Peals",
+        "status": "suggested"
+      },
+      {
+        "data": "A.B. Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes I. Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "J. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "M. Budd",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Z.B. Stevenson",
+        "status": "suggested"
+      },
+      {
+        "data": "Hampton Jeter Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "H. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "O. Boxley",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "E. Patterson",
+        "status": "suggested"
+      },
+      {
+        "data": "Jefferson Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Sylvester Squaires",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "H. Gloster",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "R. Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "J. Lett W.P.",
+        "status": "suggested"
+      },
+      {
+        "data": "J. Lett",
+        "status": "suggested"
+      },
+      {
+        "data": "S. Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Stonewall Lett",
+        "status": "suggested"
+      },
+      {
+        "data": "B. Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "B. Rancies",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fraternal organizations",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Deborah Grand Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "the State of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Deborah Grand Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "the State of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Deborah Grand Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "the State of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Deborah Grand Lodge",
+        "status": "suggested"
+      },
+      {
+        "data": "the State of Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "14",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Lemuel Chapter Celebrates - Members of Lemuel Chapter 16 OES PHA, one of the oldest chapters in Deborah Grand Lodge, commemorated the occasion when Patron Stonewall J. Lett became Grand Junior Warden of the State of Pennsylvania recently. Members are left to right, seated, first row: Mmes I. Johnson, M. Budd, R. Mitchell, Z.B. Stevenson, H. Gloster, E. Patterson, H. Thompson and S. Taylor.  Second row: Mmes. B. Crawford, B. Rancies, A. Smith, A.B. Scott, L. Joyner, M.A. Peals, O. Boxley, A. Brown, A. Tucker, and L. Watts.  Masonic leaders standing in rear are Jefferson Johnson, Sylvester Squaires, Hampton Jeter Jr. and Stonewall J. Lett W.P. the celebrant",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "November 10, 1963",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "A.B. Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Grand Junior Warden",
+        "status": "suggested"
+      },
+      {
+        "data": "OES PHA",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Joyner",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Lemuel Chapter",
+        "status": "suggested"
+      },
+      {
+        "data": "J. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "9:35",
+        "status": "suggested"
+      },
+      {
+        "data": "M. Budd",
+        "status": "suggested"
+      },
+      {
+        "data": "OES PHA Masons",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Smith",
+        "status": "suggested"
+      },
+      {
+        "data": "Masonic",
+        "status": "suggested"
+      },
+      {
+        "data": "H. Thompson",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "November 10, 1963",
+        "status": "suggested"
+      },
+      {
+        "data": "E. Patterson",
+        "status": "suggested"
+      },
+      {
+        "data": "Jefferson Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "A. Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "L. Watts",
+        "status": "suggested"
+      },
+      {
+        "data": "R. Mitchell",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianos",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Fraternal organizations",
+        "status": "suggested"
+      },
+      {
+        "data": "J. Lett",
+        "status": "suggested"
+      },
+      {
+        "data": "S. Taylor",
+        "status": "suggested"
+      },
+      {
+        "data": "Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "B. Crawford",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      }
+    ]
+  }
 }

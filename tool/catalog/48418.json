@@ -1,20 +1,304 @@
 {
-	"irn": "48418",
-	"emuInput": {
-		"ecatalogue_key": "208",
-		"irn": "48418",
-		"TitAccessionNo": "2001.35.35472",
-		"TitMainTitle": "Seven men and six women, members of Centre Avenue YMCA roller skating club, posed in line in Y gymnasium",
-		"CreDateCreated": "September 1945",
-		"CreEarliestDate": "1945-09-01",
-		"CreLatestDate": "1945-09-15",
-		"PhyMediumComments": "black-and-white: Ansco safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1945, pg. 17, reads: \"Skate Demons - All set for a dash around the big Centre Avenue YMCA gym are members of the roller skating club, which will resume activities Sept. 22.  William Strother is club advisor and skate master.  Matinee and evening programs will be featured. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nYoung Men's Christian Association (Pittsburgh, Pa.)\nRoller skating--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Pittsburgh",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "48418",
+  "emuInput": {
+    "ecatalogue_key": 35435,
+    "irn": 48418,
+    "TitAccessionNo": "2001.35.35472",
+    "CreDateCreated": "September 1945",
+    "CreEarliestDate": "1945-09-01",
+    "CreLatestDate": "1945-09-15",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1945, pg. 17, reads: \"Skate Demons - All set for a dash around the big Centre Avenue YMCA gym are members of the roller skating club, which will resume activities Sept. 22.  William Strother is club advisor and skate master.  Matinee and evening programs will be featured. - Harris Photo.\"",
+    "TitMainTitle": "Seven men and six women, members of Centre Avenue YMCA roller skating club, posed in line in Y gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Roller skating--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16050735-8ad8-40cd-b449-89c2492c5c9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55266,
+    "MulMultiMediaRef_key": 35443,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55266/sizes/48418-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 35435,
+    "irn": 48418,
+    "TitAccessionNo": "2001.35.35472",
+    "CreDateCreated": "September 1945",
+    "CreEarliestDate": "1945-09-01",
+    "CreLatestDate": "1945-09-15",
+    "PhyMediumComments": "black-and-white: Ansco safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, September 15, 1945, pg. 17, reads: \"Skate Demons - All set for a dash around the big Centre Avenue YMCA gym are members of the roller skating club, which will resume activities Sept. 22.  William Strother is club advisor and skate master.  Matinee and evening programs will be featured. - Harris Photo.\"",
+    "TitMainTitle": "Seven men and six women, members of Centre Avenue YMCA roller skating club, posed in line in Y gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Pittsburgh",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Young Men's Christian Association (Pittsburgh, Pa.)Roller skating--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "16050735-8ad8-40cd-b449-89c2492c5c9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 55266,
+    "MulMultiMediaRef_key": 35443,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/55266/sizes/48418-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "William Strother",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Roller skating",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Photo.\"",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "17",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Skate Demons - All set for a dash around the big Centre Avenue YMCA gym are members of the roller skating club, which will resume activities Sept. 22.  William Strother is club advisor and skate master.  Matinee and evening programs will be featured. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "September 15, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Skate Demons - All",
+        "status": "suggested"
+      },
+      {
+        "data": ")Roller skating",
+        "status": "suggested"
+      },
+      {
+        "data": "YMCA",
+        "status": "suggested"
+      },
+      {
+        "data": "evening",
+        "status": "suggested"
+      },
+      {
+        "data": "William Strother",
+        "status": "suggested"
+      },
+      {
+        "data": "Sept. 22",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Young Men's Christian Association ",
+        "status": "suggested"
+      },
+      {
+        "data": "September 15, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Centre Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "performance",
+        "status": "suggested"
+      },
+      {
+        "data": "dancer",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "choreography",
+        "status": "suggested"
+      },
+      {
+        "data": "dance",
+        "status": "suggested"
+      },
+      {
+        "data": "performing arts",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "recreation",
+        "status": "suggested"
+      }
+    ]
+  }
 }

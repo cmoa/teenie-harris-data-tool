@@ -1,20 +1,295 @@
 {
-	"irn": "18679",
-	"emuInput": {
-		"ecatalogue_key": "84",
-		"irn": "18679",
-		"TitAccessionNo": "2001.35.10023",
-		"TitMainTitle": "Man and woman standing with 1960 Chevrolet Impala convertible in Don Allen Chevrolet Company booth in Syria Mosque for the 1960 Courier-WAMO Home-A-Rama",
-		"CreDateCreated": "June 7-9, 1960",
-		"CreEarliestDate": "1960-06-07",
-		"CreLatestDate": "1960-06-09",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 18, 1960, pg. B7 reads: \"5. The Don Allen Chevrolet Company representative...beside a 1960 Chevrolet Impala convertible.\"",
-		"CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.\nSyria Mosque (Pittsburgh, Pa.)\nCourier-WAMO Home-A-Rama",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "18679",
+  "emuInput": {
+    "ecatalogue_key": 9997,
+    "irn": 18679,
+    "TitAccessionNo": "2001.35.10023",
+    "CreDateCreated": "June 7-9, 1960",
+    "CreEarliestDate": "1960-06-07",
+    "CreLatestDate": "1960-06-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 18, 1960, pg. B7 reads: \"5. The Don Allen Chevrolet Company representative...beside a 1960 Chevrolet Impala convertible.\"",
+    "TitMainTitle": "Man and woman standing with 1960 Chevrolet Impala convertible in Don Allen Chevrolet Company booth in Syria Mosque for the 1960 Courier-WAMO Home-A-Rama",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Courier-WAMO Home-A-Rama",
+    "AdmGUIDValue_tab": "0340097f-ba5c-4751-9cb8-8222cc852a49",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25873,
+    "MulMultiMediaRef_key": 10005,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25873/sizes/18679-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 9997,
+    "irn": 18679,
+    "TitAccessionNo": "2001.35.10023",
+    "CreDateCreated": "June 7-9, 1960",
+    "CreEarliestDate": "1960-06-07",
+    "CreLatestDate": "1960-06-09",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, June 18, 1960, pg. B7 reads: \"5. The Don Allen Chevrolet Company representative...beside a 1960 Chevrolet Impala convertible.\"",
+    "TitMainTitle": "Man and woman standing with 1960 Chevrolet Impala convertible in Don Allen Chevrolet Company booth in Syria Mosque for the 1960 Courier-WAMO Home-A-Rama",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Automobiles--Pennsylvania--Pittsburgh.Syria Mosque (Pittsburgh, Pa.)Courier-WAMO Home-A-Rama",
+    "AdmGUIDValue_tab": "0340097f-ba5c-4751-9cb8-8222cc852a49",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 25873,
+    "MulMultiMediaRef_key": 10005,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/25873/sizes/18679-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "The Don Allen Chevrolet Company",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bomar, Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Don Allen Chevrolet Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Don Allen Chevrolet Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Don Allen Chevrolet Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Don Allen Chevrolet Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "5. The Don Allen Chevrolet Company representative...beside a 1960 Chevrolet Impala convertible.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "June 18, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "car",
+        "status": "suggested"
+      },
+      {
+        "data": "Don Allen Chevrolet Company",
+        "status": "suggested"
+      },
+      {
+        "data": "1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Chevrolet",
+        "status": "suggested"
+      },
+      {
+        "data": ")Courier-WAMO Home-A-Ram",
+        "status": "suggested"
+      },
+      {
+        "data": "Impala",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "June 18, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "Automobiles",
+        "status": "suggested"
+      },
+      {
+        "data": "motor vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "vehicle",
+        "status": "suggested"
+      },
+      {
+        "data": "classic",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage car",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "automotive design",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "family car",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

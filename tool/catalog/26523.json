@@ -1,20 +1,299 @@
 {
-	"irn": "26523",
-	"emuInput": {
-		"ecatalogue_key": "129",
-		"irn": "26523",
-		"TitAccessionNo": "2001.35.16267",
-		"TitMainTitle": "Portrait of baby Wesley Ann Fox, seated on sofa with dress spread out behind her, in Fox home on Apple Street, Homewood, horizontal format",
-		"CreDateCreated": "December 1955",
-		"CreEarliestDate": "1955-12-01",
-		"CreLatestDate": "1955-12-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 31, 1955, pg. A17, reads: \"ADORABLE! - Wesley Ann Fox, six-month-old charmer, dimples for her parents, Mr. and Mrs. Gerald Fox, of Apple Street. Although she was a mite young to know what Christmas was all about, she got a kick out of the grown-ups excitement. - Harris Photo.\"",
-		"CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.\nPortraits--Pennsylvania--Pittsburgh.\nLiving room furniture--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "26523",
+  "emuInput": {
+    "ecatalogue_key": 16237,
+    "irn": 26523,
+    "TitAccessionNo": "2001.35.16267",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 31, 1955, pg. A17, reads: \"ADORABLE! - Wesley Ann Fox, six-month-old charmer, dimples for her parents, Mr. and Mrs. Gerald Fox, of Apple Street. Although she was a mite young to know what Christmas was all about, she got a kick out of the grown-ups excitement. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of baby Wesley Ann Fox, seated on sofa with dress spread out behind her, in Fox home on Apple Street, Homewood, horizontal format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "12663787-b037-483e-b625-c13e773e419a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33207,
+    "MulMultiMediaRef_key": 16245,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33207/sizes/26523-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 16237,
+    "irn": 26523,
+    "TitAccessionNo": "2001.35.16267",
+    "CreDateCreated": "December 1955",
+    "CreEarliestDate": "1955-12-01",
+    "CreLatestDate": "1955-12-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, December 31, 1955, pg. A17, reads: \"ADORABLE! - Wesley Ann Fox, six-month-old charmer, dimples for her parents, Mr. and Mrs. Gerald Fox, of Apple Street. Although she was a mite young to know what Christmas was all about, she got a kick out of the grown-ups excitement. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of baby Wesley Ann Fox, seated on sofa with dress spread out behind her, in Fox home on Apple Street, Homewood, horizontal format",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Babies--Pennsylvania--Pittsburgh.Portraits--Pennsylvania--Pittsburgh.Living room furniture--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "12663787-b037-483e-b625-c13e773e419a",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 33207,
+    "MulMultiMediaRef_key": 16245,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/33207/sizes/26523-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gerald Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Wesley Ann Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Fox",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Infants",
+        "status": "suggested"
+      },
+      {
+        "data": "Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Apple Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Apple Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Apple Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Apple Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Homewood",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "ADORABLE! - Wesley Ann Fox, six-month-old charmer, dimples for her parents, Mr. and Mrs. Gerald Fox, of Apple Street. Although she was a mite young to know what Christmas was all about, she got a kick out of the grown-ups excitement. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "December 31, 1955",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "Babies",
+        "status": "suggested"
+      },
+      {
+        "data": "Apple Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerald Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Christmas",
+        "status": "suggested"
+      },
+      {
+        "data": "six-month-old",
+        "status": "suggested"
+      },
+      {
+        "data": "Fox",
+        "status": "suggested"
+      },
+      {
+        "data": "Living room furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "December 31, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "portrait",
+        "status": "suggested"
+      },
+      {
+        "data": "infant",
+        "status": "suggested"
+      }
+    ]
+  }
 }

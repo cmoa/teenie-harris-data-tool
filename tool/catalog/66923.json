@@ -1,20 +1,408 @@
 {
-	"irn": "66923",
-	"emuInput": {
-		"ecatalogue_key": "346",
-		"irn": "66923",
-		"TitAccessionNo": "2001.35.52810",
-		"TitMainTitle": "Group of guests gathered in living room for Jennings - Vaughn wedding, possibly in Jennings home, 206 Carver Street, East Liberty",
-		"CreDateCreated": "August 1952",
-		"CreEarliestDate": "1952-08-01",
-		"CreLatestDate": "1952-08-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper August 23, 1952, pg. 12, reads: \"Newlyweds - Mr. and Mrs. Elmer Jennings, 206 Carver Street, East Liberty, announce the recent marriage of their daughter, Marie, to Edward Vaughn. Attending the bride were Mary Jennings and Dora Jean Pinkett. The groom is the son of Mr. and Mrs. Edward Vaughn. His brother, Donald Vaughn, was best man for the occasion. - Harris Photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nChildren--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nWallpaper--Pennsylvania--Pittsburgh.\nBoys--Pennsylvania--Pittsburgh.\nPianos--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "66923",
+  "emuInput": {
+    "ecatalogue_key": 52767,
+    "irn": 66923,
+    "TitAccessionNo": "2001.35.52810",
+    "CreDateCreated": "August 1952",
+    "CreEarliestDate": "1952-08-01",
+    "CreLatestDate": "1952-08-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper August 23, 1952, pg. 12, reads: \"Newlyweds - Mr. and Mrs. Elmer Jennings, 206 Carver Street, East Liberty, announce the recent marriage of their daughter, Marie, to Edward Vaughn. Attending the bride were Mary Jennings and Dora Jean Pinkett. The groom is the son of Mr. and Mrs. Edward Vaughn. His brother, Donald Vaughn, was best man for the occasion. - Harris Photo.\"",
+    "TitMainTitle": "Group of guests gathered in living room for Jennings - Vaughn wedding, possibly in Jennings home, 206 Carver Street, East Liberty",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00b5dec5-8ebf-4b14-8118-394a6ab3a3a8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76696,
+    "MulMultiMediaRef_key": 52775,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76696/sizes/66923-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 52767,
+    "irn": 66923,
+    "TitAccessionNo": "2001.35.52810",
+    "CreDateCreated": "August 1952",
+    "CreEarliestDate": "1952-08-01",
+    "CreLatestDate": "1952-08-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper August 23, 1952, pg. 12, reads: \"Newlyweds - Mr. and Mrs. Elmer Jennings, 206 Carver Street, East Liberty, announce the recent marriage of their daughter, Marie, to Edward Vaughn. Attending the bride were Mary Jennings and Dora Jean Pinkett. The groom is the son of Mr. and Mrs. Edward Vaughn. His brother, Donald Vaughn, was best man for the occasion. - Harris Photo.\"",
+    "TitMainTitle": "Group of guests gathered in living room for Jennings - Vaughn wedding, possibly in Jennings home, 206 Carver Street, East Liberty",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Children--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Wallpaper--Pennsylvania--Pittsburgh.Boys--Pennsylvania--Pittsburgh.Pianos--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "00b5dec5-8ebf-4b14-8118-394a6ab3a3a8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 76696,
+    "MulMultiMediaRef_key": 52775,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/76696/sizes/66923-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Donald Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Elmer Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Dora Jean Pinkett",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Jennings - Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Carver Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Jennings - Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Carver Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Jennings - Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Carver Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Jennings - Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Carver Street",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "12",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Newlyweds - Mr. and Mrs. Elmer Jennings, 206 Carver Street, East Liberty, announce the recent marriage of their daughter, Marie, to Edward Vaughn. Attending the bride were Mary Jennings and Dora Jean Pinkett. The groom is the son of Mr. and Mrs. Edward Vaughn. His brother, Donald Vaughn, was best man for the occasion. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "August 23, 1952",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "people",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "East Liberty",
+        "status": "suggested"
+      },
+      {
+        "data": "Wallpaper",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Edward Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "Boys",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Children",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "August 23, 1952",
+        "status": "suggested"
+      },
+      {
+        "data": "Jennings - Vaughn",
+        "status": "suggested"
+      },
+      {
+        "data": "Marie",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pianos",
+        "status": "suggested"
+      },
+      {
+        "data": "Carver Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary Jennings",
+        "status": "suggested"
+      },
+      {
+        "data": "kin",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "child",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "friendship",
+        "status": "suggested"
+      }
+    ]
+  }
 }

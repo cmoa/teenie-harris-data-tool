@@ -1,20 +1,476 @@
 {
-	"irn": "36410",
-	"emuInput": {
-		"ecatalogue_key": "173",
-		"irn": "36410",
-		"TitAccessionNo": "2001.35.24083",
-		"TitMainTitle": "Interior with bedroom on right, and bathroom with stalls on left, in Harriet Tubman Terrace House, 7921 Frankstown Avenue",
-		"CreDateCreated": "October 1950",
-		"CreEarliestDate": "1950-10-01",
-		"CreLatestDate": "1950-10-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 23, reads: \"New Harriet Tubman Terrace House...for convalescent Ne...women...This beautiful home for shut-ins, located at 7921 Frankstown Avenue near Oakwood Street, will be rededicated Sunday, Oct. 29...house will be held that day from 10 A.M. until 6 P.M. with special...at 3 P.M. in form of a 'Greenback Shower.' At the ceremony plaques will be unveiled honoring Mrs. Abraham Lincoln president and Mrs. John M. Phillips, honorary president, and Mrs. H.C. McEl...the guild's 'fairy' godmother.  Judge Homer S. Brown will dedicate...plaques.  Judge Lois McBride will be mistress of ceremonies, and Mrs. Daisy L. Lampkin will respond to the welcome address.  Pictured are some of the remodeled views of the Convalescent Home which tell own story...a bird's eye view of the new powder room and the newly furnished bedroom...Mrs. Calvin Bartlett is president, Mrs. Golden May, chairman of the building committee, and Mrs. Preston Clayton, chairman of endowment.  The home can be reached by cars 88 or 87. - Harris Photos.\"",
-		"CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.\nHousing--Pennsylvania--Pittsburgh.\nBedrooms--Pennsylvania--Pittsburgh.\nBeds--Pennsylvania--Pittsburgh.\nBathrooms--Pennsylvania--Pittsburgh.\nHarriet Tubman Terrace House.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "36410",
+  "emuInput": {
+    "ecatalogue_key": 24052,
+    "irn": 36410,
+    "TitAccessionNo": "2001.35.24083",
+    "CreDateCreated": "October 1950",
+    "CreEarliestDate": "1950-10-01",
+    "CreLatestDate": "1950-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 23, reads: \"New Harriet Tubman Terrace House...for convalescent Ne...women...This beautiful home for shut-ins, located at 7921 Frankstown Avenue near Oakwood Street, will be rededicated Sunday, Oct. 29...house will be held that day from 10 A.M. until 6 P.M. with special...at 3 P.M. in form of a 'Greenback Shower.' At the ceremony plaques will be unveiled honoring Mrs. Abraham Lincoln president and Mrs. John M. Phillips, honorary president, and Mrs. H.C. McEl...the guild's 'fairy' godmother.  Judge Homer S. Brown will dedicate...plaques.  Judge Lois McBride will be mistress of ceremonies, and Mrs. Daisy L. Lampkin will respond to the welcome address.  Pictured are some of the remodeled views of the Convalescent Home which tell own story...a bird's eye view of the new powder room and the newly furnished bedroom...Mrs. Calvin Bartlett is president, Mrs. Golden May, chairman of the building committee, and Mrs. Preston Clayton, chairman of endowment.  The home can be reached by cars 88 or 87. - Harris Photos.\"",
+    "TitMainTitle": "Interior with bedroom on right, and bathroom with stalls on left, in Harriet Tubman Terrace House, 7921 Frankstown Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Housing--Pennsylvania--Pittsburgh.Bedrooms--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Bathrooms--Pennsylvania--Pittsburgh.Harriet Tubman Terrace House.",
+    "AdmGUIDValue_tab": "007c301a-023f-40d7-9579-456620bfdf9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42605,
+    "MulMultiMediaRef_key": 24060,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42605/sizes/36410-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 24052,
+    "irn": 36410,
+    "TitAccessionNo": "2001.35.24083",
+    "CreDateCreated": "October 1950",
+    "CreEarliestDate": "1950-10-01",
+    "CreLatestDate": "1950-10-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, October 21, 1950, pg. 23, reads: \"New Harriet Tubman Terrace House...for convalescent Ne...women...This beautiful home for shut-ins, located at 7921 Frankstown Avenue near Oakwood Street, will be rededicated Sunday, Oct. 29...house will be held that day from 10 A.M. until 6 P.M. with special...at 3 P.M. in form of a 'Greenback Shower.' At the ceremony plaques will be unveiled honoring Mrs. Abraham Lincoln president and Mrs. John M. Phillips, honorary president, and Mrs. H.C. McEl...the guild's 'fairy' godmother.  Judge Homer S. Brown will dedicate...plaques.  Judge Lois McBride will be mistress of ceremonies, and Mrs. Daisy L. Lampkin will respond to the welcome address.  Pictured are some of the remodeled views of the Convalescent Home which tell own story...a bird's eye view of the new powder room and the newly furnished bedroom...Mrs. Calvin Bartlett is president, Mrs. Golden May, chairman of the building committee, and Mrs. Preston Clayton, chairman of endowment.  The home can be reached by cars 88 or 87. - Harris Photos.\"",
+    "TitMainTitle": "Interior with bedroom on right, and bathroom with stalls on left, in Harriet Tubman Terrace House, 7921 Frankstown Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Housing--Pennsylvania--Pittsburgh.Bedrooms--Pennsylvania--Pittsburgh.Beds--Pennsylvania--Pittsburgh.Bathrooms--Pennsylvania--Pittsburgh.Harriet Tubman Terrace House.",
+    "AdmGUIDValue_tab": "007c301a-023f-40d7-9579-456620bfdf9f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 42605,
+    "MulMultiMediaRef_key": 24060,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/42605/sizes/36410-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "John M. Phillips",
+        "status": "suggested"
+      },
+      {
+        "data": "Preston Clayton",
+        "status": "suggested"
+      },
+      {
+        "data": "Abraham Lincoln",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Tubman Terrace",
+        "status": "suggested"
+      },
+      {
+        "data": "Lois McBride",
+        "status": "suggested"
+      },
+      {
+        "data": "Daisy L. Lampkin",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvin Bartlett",
+        "status": "suggested"
+      },
+      {
+        "data": "H.C. McEl",
+        "status": "suggested"
+      },
+      {
+        "data": "Homer S. Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "Golden",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Golden",
+        "status": "suggested"
+      },
+      {
+        "data": "Housing",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Ne",
+        "status": "suggested"
+      },
+      {
+        "data": "7921 Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace House",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Ne",
+        "status": "suggested"
+      },
+      {
+        "data": "7921 Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace House",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Ne",
+        "status": "suggested"
+      },
+      {
+        "data": "7921 Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace House",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Ne",
+        "status": "suggested"
+      },
+      {
+        "data": "7921 Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood Street",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Terrace House",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "23",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "New Harriet Tubman Terrace House...for convalescent Ne...women...This beautiful home for shut-ins, located at 7921 Frankstown Avenue near Oakwood Street, will be rededicated Sunday, Oct. 29...house will be held that day from 10 A.M. until 6 P.M. with special...at 3 P.M. in form of a 'Greenback Shower.' At the ceremony plaques will be unveiled honoring Mrs. Abraham Lincoln president and Mrs. John M. Phillips, honorary president, and Mrs. H.C. McEl...the guild's 'fairy' godmother.  Judge Homer S. Brown will dedicate...plaques.  Judge Lois McBride will be mistress of ceremonies, and Mrs. Daisy L. Lampkin will respond to the welcome address.  Pictured are some of the remodeled views of the Convalescent Home which tell own story...a bird's eye view of the new powder room and the newly furnished bedroom...Mrs. Calvin Bartlett is president, Mrs. Golden May, chairman of the building committee, and Mrs. Preston Clayton, chairman of endowment.  The home can be reached by cars 88 or 87. - Harris Photos.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "October 21, 1950",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "furniture",
+        "status": "suggested"
+      },
+      {
+        "data": "room",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "Ne",
+        "status": "suggested"
+      },
+      {
+        "data": "Harriet Tubman Terrace House",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakwood Street",
+        "status": "suggested"
+      },
+      {
+        "data": "6 P.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "7921",
+        "status": "suggested"
+      },
+      {
+        "data": "Housing",
+        "status": "suggested"
+      },
+      {
+        "data": "Bathrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Mrs",
+        "status": "suggested"
+      },
+      {
+        "data": "Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "New Harriet Tubman Terrace House",
+        "status": "suggested"
+      },
+      {
+        "data": "Homer S. Brown",
+        "status": "suggested"
+      },
+      {
+        "data": "3 P.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "the Convalescent Home",
+        "status": "suggested"
+      },
+      {
+        "data": "Sunday, Oct. 29",
+        "status": "suggested"
+      },
+      {
+        "data": "Abraham Lincoln",
+        "status": "suggested"
+      },
+      {
+        "data": "Beds",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Greenback Shower",
+        "status": "suggested"
+      },
+      {
+        "data": "October 21, 1950",
+        "status": "suggested"
+      },
+      {
+        "data": "10 A.M.",
+        "status": "suggested"
+      },
+      {
+        "data": "John M. Phillips",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "7921 Frankstown Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "May",
+        "status": "suggested"
+      },
+      {
+        "data": "that day",
+        "status": "suggested"
+      },
+      {
+        "data": "Bedrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Calvin Bartlett",
+        "status": "suggested"
+      },
+      {
+        "data": "Golden",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "table",
+        "status": "suggested"
+      },
+      {
+        "data": "chair",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "light fixture",
+        "status": "suggested"
+      },
+      {
+        "data": "lamp",
+        "status": "suggested"
+      },
+      {
+        "data": "interior design",
+        "status": "suggested"
+      },
+      {
+        "data": "lighting",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "floor",
+        "status": "suggested"
+      }
+    ]
+  }
 }

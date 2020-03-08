@@ -1,20 +1,330 @@
 {
-	"irn": "24574",
-	"emuInput": {
-		"ecatalogue_key": "118",
-		"irn": "24574",
-		"TitAccessionNo": "2001.35.14582",
-		"TitMainTitle": "Groom Russell D. Jackson Jr., fourth from left, and bride La Verne C. Edwards Jackson wearing gown with full four tiered lace skirt, posed with wedding party including Dayrene Edwards, Shernell Edwards, Gayle Washington, Charles Jones, LeRoy Norris, and Wesley Gibson, in front of altar of St. James AMEZ Church",
-		"CreDateCreated": "January 1962",
-		"CreEarliestDate": "1962-01-01",
-		"CreLatestDate": "1962-01-20",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 20, 1962, pg. A13 reads:\" Leaving Church - Mr. and Mrs. Russell D. Jackson Jr. smile happily as they leave St. James AME Church, following their recent wedding. The bride is the former LaVerne C. Edwards, daughter of Mr. and Mrs. Harry S. Edwards. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nBrides--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nWedding costume--Pennsylvania--Pittsburgh.\nSt. James African Methodist Episcopal Church (Pittsburgh, Pa.)\nMen--Pennsylvania--Pittsburgh.\nBridegrooms--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "24574",
+  "emuInput": {
+    "ecatalogue_key": 14552,
+    "irn": 24574,
+    "TitAccessionNo": "2001.35.14582",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 20, 1962, pg. A13 reads:\" Leaving Church - Mr. and Mrs. Russell D. Jackson Jr. smile happily as they leave St. James AME Church, following their recent wedding. The bride is the former LaVerne C. Edwards, daughter of Mr. and Mrs. Harry S. Edwards. - Harris Photo.\"",
+    "TitMainTitle": "Groom Russell D. Jackson Jr., fourth from left, and bride La Verne C. Edwards Jackson wearing gown with full four tiered lace skirt, posed with wedding party including Dayrene Edwards, Shernell Edwards, Gayle Washington, Charles Jones, LeRoy Norris, and Wesley Gibson, in front of altar of St. James AMEZ Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.St. James African Methodist Episcopal Church (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010db642-e874-4c0d-a22f-c1f5f4f0fb49",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30773,
+    "MulMultiMediaRef_key": 14560,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30773/sizes/24574-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 14552,
+    "irn": 24574,
+    "TitAccessionNo": "2001.35.14582",
+    "CreDateCreated": "January 1962",
+    "CreEarliestDate": "1962-01-01",
+    "CreLatestDate": "1962-01-20",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, January 20, 1962, pg. A13 reads:\" Leaving Church - Mr. and Mrs. Russell D. Jackson Jr. smile happily as they leave St. James AME Church, following their recent wedding. The bride is the former LaVerne C. Edwards, daughter of Mr. and Mrs. Harry S. Edwards. - Harris Photo.\"",
+    "TitMainTitle": "Groom Russell D. Jackson Jr., fourth from left, and bride La Verne C. Edwards Jackson wearing gown with full four tiered lace skirt, posed with wedding party including Dayrene Edwards, Shernell Edwards, Gayle Washington, Charles Jones, LeRoy Norris, and Wesley Gibson, in front of altar of St. James AMEZ Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Brides--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Wedding costume--Pennsylvania--Pittsburgh.St. James African Methodist Episcopal Church (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.Bridegrooms--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "010db642-e874-4c0d-a22f-c1f5f4f0fb49",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 30773,
+    "MulMultiMediaRef_key": 14560,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/30773/sizes/24574-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": false,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Russell D. Jackson Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "La Verne C. Edwards Jackson",
+        "status": "suggested"
+      },
+      {
+        "data": "Gayle Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry S. Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Shernell Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Dayrene Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Groom Russell D. Jackson Jr.",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Norris",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Wesley Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "LaVerne C. Edwards",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Area 13--Scienze economiche e statistiche",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [],
+    "BibliographyDate": [
+      {
+        "data": "January 20, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "St. James AMEZ Church",
+        "status": "suggested"
+      },
+      {
+        "data": "St. James AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Jones",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Gayle Washington",
+        "status": "suggested"
+      },
+      {
+        "data": "St",
+        "status": "suggested"
+      },
+      {
+        "data": "Brides",
+        "status": "suggested"
+      },
+      {
+        "data": " James African Methodist Episcopal Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Bridegrooms",
+        "status": "suggested"
+      },
+      {
+        "data": "Leaving Church - Mr.",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "A13",
+        "status": "suggested"
+      },
+      {
+        "data": "Wesley Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry S. Edwards",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "LeRoy Norris",
+        "status": "suggested"
+      },
+      {
+        "data": "January 20, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Wedding costume",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

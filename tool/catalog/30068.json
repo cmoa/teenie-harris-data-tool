@@ -1,20 +1,375 @@
 {
-	"irn": "30068",
-	"emuInput": {
-		"ecatalogue_key": "143",
-		"irn": "30068",
-		"TitAccessionNo": "2001.35.18395",
-		"TitMainTitle": "Women seated on stone bench, from left: Carrie Millan, Mrs. D. W. Boyd, Lacy Doss, Ethel Jenkins, Florence Byrd Duke; standing: Jessie Vann and Hazel Reid, on Vann estate Sycamore Manor, Oakmont",
-		"CreDateCreated": "1944",
-		"CreEarliestDate": "1944",
-		"CreLatestDate": "1944",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published after the fact in Pittsburgh Courier newspaper, February 24, 1962, pg. A6, reads: \"PARTY TIME - Mrs. Robert L. Vann entertained in 1944, honoring her houseguests, Mmes, Ethel Jenkins and Hazel Reid, with several other out-of-towners present to add charm to the day...\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGardens--Pennsylvania--Pittsburgh.\nPlants--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nVann, Jessie, 1889-1967.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "Pennsylvania",
-		"CreDistrict_tab": "Allegheny county",
-		"CreCity_tab": "Oakmont",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "30068",
+  "emuInput": {
+    "ecatalogue_key": 18365,
+    "irn": 30068,
+    "TitAccessionNo": "2001.35.18395",
+    "CreDateCreated": "1944",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1944",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published after the fact in Pittsburgh Courier newspaper, February 24, 1962, pg. A6, reads: \"PARTY TIME - Mrs. Robert L. Vann entertained in 1944, honoring her houseguests, Mmes, Ethel Jenkins and Hazel Reid, with several other out-of-towners present to add charm to the day...\"",
+    "TitMainTitle": "Women seated on stone bench, from left: Carrie Millan, Mrs. D. W. Boyd, Lacy Doss, Ethel Jenkins, Florence Byrd Duke; standing: Jessie Vann and Hazel Reid, on Vann estate Sycamore Manor, Oakmont",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Oakmont",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Gardens--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.",
+    "AdmGUIDValue_tab": "63273798-68f2-465b-84f8-eb8f6daf1c2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36066,
+    "MulMultiMediaRef_key": 18373,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36066/sizes/30068-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 18365,
+    "irn": 30068,
+    "TitAccessionNo": "2001.35.18395",
+    "CreDateCreated": "1944",
+    "CreEarliestDate": "1944",
+    "CreLatestDate": "1944",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published after the fact in Pittsburgh Courier newspaper, February 24, 1962, pg. A6, reads: \"PARTY TIME - Mrs. Robert L. Vann entertained in 1944, honoring her houseguests, Mmes, Ethel Jenkins and Hazel Reid, with several other out-of-towners present to add charm to the day...\"",
+    "TitMainTitle": "Women seated on stone bench, from left: Carrie Millan, Mrs. D. W. Boyd, Lacy Doss, Ethel Jenkins, Florence Byrd Duke; standing: Jessie Vann and Hazel Reid, on Vann estate Sycamore Manor, Oakmont",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "Pennsylvania",
+    "CreDistrict_tab": "Allegheny county",
+    "CreCity_tab": "Oakmont",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Gardens--Pennsylvania--Pittsburgh.Plants--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Vann, Jessie, 1889-1967.",
+    "AdmGUIDValue_tab": "63273798-68f2-465b-84f8-eb8f6daf1c2c",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 36066,
+    "MulMultiMediaRef_key": 18373,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/36066/sizes/30068-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Carrie Millan",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "Ethel Jenkins",
+        "status": "suggested"
+      },
+      {
+        "data": "Lacy Doss",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Hazel Reid",
+        "status": "suggested"
+      },
+      {
+        "data": "D. W. Boyd",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann (Liberty ship)",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Sycamore Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Sycamore Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Sycamore Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Sycamore Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "PARTY TIME - Mrs. Robert L. Vann entertained in 1944, honoring her houseguests, Mmes, Ethel Jenkins and Hazel Reid, with several other out-of-towners present to add charm to the day...",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "groom",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "Sycamore Manor",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann, Jessie, 1889-1967",
+        "status": "suggested"
+      },
+      {
+        "data": "Plants",
+        "status": "suggested"
+      },
+      {
+        "data": "Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Hazel Reid",
+        "status": "suggested"
+      },
+      {
+        "data": "SS Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Byrd Duke",
+        "status": "suggested"
+      },
+      {
+        "data": "Oakmont",
+        "status": "suggested"
+      },
+      {
+        "data": "D. W. Boyd",
+        "status": "suggested"
+      },
+      {
+        "data": "Jessie Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Mmes",
+        "status": "suggested"
+      },
+      {
+        "data": "the day",
+        "status": "suggested"
+      },
+      {
+        "data": "1944",
+        "status": "suggested"
+      },
+      {
+        "data": "February 24, 1962",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Robert L. Vann",
+        "status": "suggested"
+      },
+      {
+        "data": "Gardens",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "happiness",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "marriage",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      }
+    ]
+  }
 }

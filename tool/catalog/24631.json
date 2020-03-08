@@ -1,20 +1,404 @@
 {
-	"irn": "24631",
-	"emuInput": {
-		"ecatalogue_key": "120",
-		"irn": "24631",
-		"TitAccessionNo": "2001.35.14760",
-		"TitMainTitle": "Group portrait of Fifth Avenue High School basketball team celebrating, including James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels, and Clarence Shepherd wearing light colored jerseys, with Coach George Cupples at center, after defeating Westinghouse High School at Allderdice High School gymnasium",
-		"CreDateCreated": "February - March 1956",
-		"CreEarliestDate": "1956-02-01",
-		"CreLatestDate": "1956-03-03",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 3, 1956, pg. 31, reads: \"Fifth Meets Oliver for Crown - After Oliver - There was plenty of jubilation at Allderdice High School by these Fifth Avenue players Tuesday afternoon after they had defeated Westinghouse to win the championship in Section One of the city basketball race and qualify to play Oliver at Pitt Stadium Friday night. The players in white jerseys were the five iron men who played the entire game for Fifth.  From left to right, they are James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels and Clarence Shepherd.  That's Coach George Cupples smiling broadly in the front row. - Harris Photo.\"",
-		"CatSubject_tab": "Fifth Avenue High School (Pittsburgh, Pa.)\nBasketball teams--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nCoaches (Athletics)--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nTeenagers--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "24631",
+  "emuInput": {
+    "ecatalogue_key": 14730,
+    "irn": 24631,
+    "TitAccessionNo": "2001.35.14760",
+    "CreDateCreated": "February - March 1956",
+    "CreEarliestDate": "1956-02-01",
+    "CreLatestDate": "1956-03-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 3, 1956, pg. 31, reads: \"Fifth Meets Oliver for Crown - After Oliver - There was plenty of jubilation at Allderdice High School by these Fifth Avenue players Tuesday afternoon after they had defeated Westinghouse to win the championship in Section One of the city basketball race and qualify to play Oliver at Pitt Stadium Friday night. The players in white jerseys were the five iron men who played the entire game for Fifth.  From left to right, they are James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels and Clarence Shepherd.  That's Coach George Cupples smiling broadly in the front row. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Fifth Avenue High School basketball team celebrating, including James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels, and Clarence Shepherd wearing light colored jerseys, with Coach George Cupples at center, after defeating Westinghouse High School at Allderdice High School gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fifth Avenue High School (Pittsburgh, Pa.)Basketball teams--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Coaches (Athletics)--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02aa7ba1-6503-4545-836f-46e8a7ca40f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31003,
+    "MulMultiMediaRef_key": 14738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31003/sizes/24631-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 14730,
+    "irn": 24631,
+    "TitAccessionNo": "2001.35.14760",
+    "CreDateCreated": "February - March 1956",
+    "CreEarliestDate": "1956-02-01",
+    "CreLatestDate": "1956-03-03",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 3, 1956, pg. 31, reads: \"Fifth Meets Oliver for Crown - After Oliver - There was plenty of jubilation at Allderdice High School by these Fifth Avenue players Tuesday afternoon after they had defeated Westinghouse to win the championship in Section One of the city basketball race and qualify to play Oliver at Pitt Stadium Friday night. The players in white jerseys were the five iron men who played the entire game for Fifth.  From left to right, they are James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels and Clarence Shepherd.  That's Coach George Cupples smiling broadly in the front row. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Fifth Avenue High School basketball team celebrating, including James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels, and Clarence Shepherd wearing light colored jerseys, with Coach George Cupples at center, after defeating Westinghouse High School at Allderdice High School gymnasium",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fifth Avenue High School (Pittsburgh, Pa.)Basketball teams--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Coaches (Athletics)--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Teenagers--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "02aa7ba1-6503-4545-836f-46e8a7ca40f5",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 31003,
+    "MulMultiMediaRef_key": 14738,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/31003/sizes/24631-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "George Cupples",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Cook",
+        "status": "suggested"
+      },
+      {
+        "data": "Ramon Singleton",
+        "status": "suggested"
+      },
+      {
+        "data": "Clarence Shepherd",
+        "status": "suggested"
+      },
+      {
+        "data": "Oliver",
+        "status": "suggested"
+      },
+      {
+        "data": "James Lightfoot",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawrence Daniels",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Oliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawrence, Daniel",
+        "status": "suggested"
+      },
+      {
+        "data": "Basketball teams",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "31",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Fifth Meets Oliver for Crown - After Oliver - There was plenty of jubilation at Allderdice High School by these Fifth Avenue players Tuesday afternoon after they had defeated Westinghouse to win the championship in Section One of the city basketball race and qualify to play Oliver at Pitt Stadium Friday night. The players in white jerseys were the five iron men who played the entire game for Fifth.  From left to right, they are James Lightfoot, Ramon Singleton, Charles Cook, Lawrence Daniels and Clarence Shepherd.  That's Coach George Cupples smiling broadly in the front row. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 3, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Coaches (Athletics)",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Cook",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue High School ",
+        "status": "suggested"
+      },
+      {
+        "data": "Lawrence Daniels",
+        "status": "suggested"
+      },
+      {
+        "data": "Fifth Avenue High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "night",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse High School",
+        "status": "suggested"
+      },
+      {
+        "data": "Westinghouse",
+        "status": "suggested"
+      },
+      {
+        "data": "March 3, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "James Lightfoot",
+        "status": "suggested"
+      },
+      {
+        "data": "George Cupples",
+        "status": "suggested"
+      },
+      {
+        "data": "Teenagers",
+        "status": "suggested"
+      },
+      {
+        "data": "Tuesday",
+        "status": "suggested"
+      },
+      {
+        "data": "Oliver",
+        "status": "suggested"
+      },
+      {
+        "data": "Allderdice High School",
+        "status": "suggested"
+      },
+      {
+        "data": ")Basketball teams",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Pitt Stadium",
+        "status": "suggested"
+      },
+      {
+        "data": "Section One",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "team",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "crowd",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "cheering",
+        "status": "suggested"
+      },
+      {
+        "data": "team sport",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      }
+    ]
+  }
 }

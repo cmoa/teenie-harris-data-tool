@@ -1,20 +1,310 @@
 {
-	"irn": "67668",
-	"emuInput": {
-		"ecatalogue_key": "355",
-		"irn": "67668",
-		"TitAccessionNo": "2001.35.53526",
-		"TitMainTitle": "Group portrait of fourteen men, including one in center holding shiny object, and eight women, employees of the North Carolina Mutual Life Insurance Company, gathered in interior with chalkboard chart",
-		"CreDateCreated": "August 1961",
-		"CreEarliestDate": "1961-08-01",
-		"CreLatestDate": "1961-08-31",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 12, 1961, page A4, reads: \"Honor Agency Director - Local employees of the North Carolina Mutual Life Insurance Company gather around as Harry Shepard, leading agent for the Pittsburgh District, presents the insurance sales scroll to W. A. Clement, that company's new agency director. This was Mr. Clement's first visit to the district since taking over the post. Other salesmen, besides Sheppard, who made outstanding records in the recent sales program were: Mrs. Odile Posey Bennett, Richard Robinson, C. Burleigh and Mrs. Gladys Haines. - Harris Photo.\"",
-		"CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nMen--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nChalkboards--Pennsylvania--Pittsburgh.\nNorth Carolina Mutual Life Insurance Company.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "67668",
+  "emuInput": {
+    "ecatalogue_key": 53483,
+    "irn": 67668,
+    "TitAccessionNo": "2001.35.53526",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 12, 1961, page A4, reads: \"Honor Agency Director - Local employees of the North Carolina Mutual Life Insurance Company gather around as Harry Shepard, leading agent for the Pittsburgh District, presents the insurance sales scroll to W. A. Clement, that company's new agency director. This was Mr. Clement's first visit to the district since taking over the post. Other salesmen, besides Sheppard, who made outstanding records in the recent sales program were: Mrs. Odile Posey Bennett, Richard Robinson, C. Burleigh and Mrs. Gladys Haines. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of fourteen men, including one in center holding shiny object, and eight women, employees of the North Carolina Mutual Life Insurance Company, gathered in interior with chalkboard chart",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chalkboards--Pennsylvania--Pittsburgh.North Carolina Mutual Life Insurance Company.",
+    "AdmGUIDValue_tab": "97948163-f7ff-429f-b250-782b7d045f6d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78413,
+    "MulMultiMediaRef_key": 53492,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78413/sizes/67668-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 53483,
+    "irn": 67668,
+    "TitAccessionNo": "2001.35.53526",
+    "CreDateCreated": "August 1961",
+    "CreEarliestDate": "1961-08-01",
+    "CreLatestDate": "1961-08-31",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, August 12, 1961, page A4, reads: \"Honor Agency Director - Local employees of the North Carolina Mutual Life Insurance Company gather around as Harry Shepard, leading agent for the Pittsburgh District, presents the insurance sales scroll to W. A. Clement, that company's new agency director. This was Mr. Clement's first visit to the district since taking over the post. Other salesmen, besides Sheppard, who made outstanding records in the recent sales program were: Mrs. Odile Posey Bennett, Richard Robinson, C. Burleigh and Mrs. Gladys Haines. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of fourteen men, including one in center holding shiny object, and eight women, employees of the North Carolina Mutual Life Insurance Company, gathered in interior with chalkboard chart",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Group portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Men--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Chalkboards--Pennsylvania--Pittsburgh.North Carolina Mutual Life Insurance Company.",
+    "AdmGUIDValue_tab": "97948163-f7ff-429f-b250-782b7d045f6d",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 78413,
+    "MulMultiMediaRef_key": 53492,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/78413/sizes/67668-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gladys Haines",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Shepard",
+        "status": "suggested"
+      },
+      {
+        "data": "C. Burleigh",
+        "status": "suggested"
+      },
+      {
+        "data": "W. A. Clement",
+        "status": "suggested"
+      },
+      {
+        "data": "Odile Posey Bennett",
+        "status": "suggested"
+      },
+      {
+        "data": "Clement",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Robinson",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Blackboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Clement",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "the Pittsburgh District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "the Pittsburgh District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "the Pittsburgh District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "the Pittsburgh District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Honor Agency Director - Local employees of the North Carolina Mutual Life Insurance Company gather around as Harry Shepard, leading agent for the Pittsburgh District, presents the insurance sales scroll to W. A. Clement, that company's new agency director. This was Mr. Clement's first visit to the district since taking over the post. Other salesmen, besides Sheppard, who made outstanding records in the recent sales program were: Mrs. Odile Posey Bennett, Richard Robinson, C. Burleigh and Mrs. Gladys Haines. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "professional",
+        "status": "suggested"
+      },
+      {
+        "data": "Clement",
+        "status": "suggested"
+      },
+      {
+        "data": "Chalkboards",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Sheppard",
+        "status": "suggested"
+      },
+      {
+        "data": "Harry Shepard",
+        "status": "suggested"
+      },
+      {
+        "data": "C. Burleigh",
+        "status": "suggested"
+      },
+      {
+        "data": "the North Carolina Mutual Life Insurance Company",
+        "status": "suggested"
+      },
+      {
+        "data": "August 12, 1961",
+        "status": "suggested"
+      },
+      {
+        "data": "North Carolina Mutual Life Insurance Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "the Pittsburgh District",
+        "status": "suggested"
+      },
+      {
+        "data": "W. A. Clement",
+        "status": "suggested"
+      },
+      {
+        "data": "A4",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Men",
+        "status": "suggested"
+      },
+      {
+        "data": "Richard Robinson",
+        "status": "suggested"
+      },
+      {
+        "data": "communication",
+        "status": "suggested"
+      },
+      {
+        "data": "social group",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "institution",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      }
+    ]
+  }
 }

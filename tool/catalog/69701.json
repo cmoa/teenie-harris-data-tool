@@ -1,20 +1,395 @@
 {
-	"irn": "69701",
-	"emuInput": {
-		"ecatalogue_key": "363",
-		"irn": "69701",
-		"TitAccessionNo": "2001.35.55247",
-		"TitMainTitle": "Group portrait of Stoop 'n' Bend Garden Club members, from left, seated: Mrs. Charles Waters and Mrs. Howard Stoner; standing: Mrs. Herbert Simmons, Mrs. R.J. Johnson, Mrs. Rodney Pryor, and Mrs. Charles Adams, posed on lawn of home of Mrs. M.R. Hadley, McKeesport",
-		"CreDateCreated": "July 1960",
-		"CreEarliestDate": "1960-07-01",
-		"CreLatestDate": "1960-07-23",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 23, 1960, pg. A9 reads: \"Garden Club - Members of the Stoop 'n' Bend Garden Club were delightfully entertained last Saturday afternoon at the beautiful home of Mrs. M.R. Hadley on Jacks Run Rd., McKeesport. Mrs. Charles Waters, founder of the club in Pittsburgh, is seated left.  Mrs. Howard Stoner, a charter member, is seated right.  Standing: Mmes. Herbert Simmons, R.J. Johnson, Rodney Pryor and Charles Adams.  The group was entertained by ballet dancer Hope Tucker. - Harris photo.\"",
-		"CatSubject_tab": "Clothing and dress--Pennsylvania--McKeesport.\nHouses--Pennsylvania--McKeesport.\nWomen--Pennsylvania--McKeesport.\nEyeglasses--Pennsylvania--McKeesport.\nFlowers--Pennsylvania--McKeesport.\nHats--Pennsylvania--McKeesport.\nGroup portraits--Pennsylvania--McKeesport.\nClubs--Pennsylvania--McKeesport.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "69701",
+  "emuInput": {
+    "ecatalogue_key": 55204,
+    "irn": 69701,
+    "TitAccessionNo": "2001.35.55247",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 23, 1960, pg. A9 reads: \"Garden Club - Members of the Stoop 'n' Bend Garden Club were delightfully entertained last Saturday afternoon at the beautiful home of Mrs. M.R. Hadley on Jacks Run Rd., McKeesport. Mrs. Charles Waters, founder of the club in Pittsburgh, is seated left.  Mrs. Howard Stoner, a charter member, is seated right.  Standing: Mmes. Herbert Simmons, R.J. Johnson, Rodney Pryor and Charles Adams.  The group was entertained by ballet dancer Hope Tucker. - Harris photo.\"",
+    "TitMainTitle": "Group portrait of Stoop 'n' Bend Garden Club members, from left, seated: Mrs. Charles Waters and Mrs. Howard Stoner; standing: Mrs. Herbert Simmons, Mrs. R.J. Johnson, Mrs. Rodney Pryor, and Mrs. Charles Adams, posed on lawn of home of Mrs. M.R. Hadley, McKeesport",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--McKeesport.Houses--Pennsylvania--McKeesport.Women--Pennsylvania--McKeesport.Eyeglasses--Pennsylvania--McKeesport.Flowers--Pennsylvania--McKeesport.Hats--Pennsylvania--McKeesport.Group portraits--Pennsylvania--McKeesport.Clubs--Pennsylvania--McKeesport.",
+    "AdmGUIDValue_tab": "40218927-73f4-48e5-acc5-aa0d23677563",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83253,
+    "MulMultiMediaRef_key": 55213,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83253/sizes/69701-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 55204,
+    "irn": 69701,
+    "TitAccessionNo": "2001.35.55247",
+    "CreDateCreated": "July 1960",
+    "CreEarliestDate": "1960-07-01",
+    "CreLatestDate": "1960-07-23",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, July 23, 1960, pg. A9 reads: \"Garden Club - Members of the Stoop 'n' Bend Garden Club were delightfully entertained last Saturday afternoon at the beautiful home of Mrs. M.R. Hadley on Jacks Run Rd., McKeesport. Mrs. Charles Waters, founder of the club in Pittsburgh, is seated left.  Mrs. Howard Stoner, a charter member, is seated right.  Standing: Mmes. Herbert Simmons, R.J. Johnson, Rodney Pryor and Charles Adams.  The group was entertained by ballet dancer Hope Tucker. - Harris photo.\"",
+    "TitMainTitle": "Group portrait of Stoop 'n' Bend Garden Club members, from left, seated: Mrs. Charles Waters and Mrs. Howard Stoner; standing: Mrs. Herbert Simmons, Mrs. R.J. Johnson, Mrs. Rodney Pryor, and Mrs. Charles Adams, posed on lawn of home of Mrs. M.R. Hadley, McKeesport",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Clothing and dress--Pennsylvania--McKeesport.Houses--Pennsylvania--McKeesport.Women--Pennsylvania--McKeesport.Eyeglasses--Pennsylvania--McKeesport.Flowers--Pennsylvania--McKeesport.Hats--Pennsylvania--McKeesport.Group portraits--Pennsylvania--McKeesport.Clubs--Pennsylvania--McKeesport.",
+    "AdmGUIDValue_tab": "40218927-73f4-48e5-acc5-aa0d23677563",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 83253,
+    "MulMultiMediaRef_key": 55213,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/83253/sizes/69701-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Charles Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Rodney Pryor",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard Stoner",
+        "status": "suggested"
+      },
+      {
+        "data": "M.R. Hadley",
+        "status": "suggested"
+      },
+      {
+        "data": "R.J. Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbert Simmons",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Adams",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "Garden Club - Members of the Stoop 'n' Bend Garden Club were delightfully entertained last Saturday afternoon at the beautiful home of Mrs. M.R. Hadley on Jacks Run Rd., McKeesport. Mrs. Charles Waters, founder of the club in Pittsburgh, is seated left.  Mrs. Howard Stoner, a charter member, is seated right.  Standing: Mmes. Herbert Simmons, R.J. Johnson, Rodney Pryor and Charles Adams.  The group was entertained by ballet dancer Hope Tucker. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "July 23, 1960",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "person",
+        "status": "suggested"
+      },
+      {
+        "data": "afternoon",
+        "status": "suggested"
+      },
+      {
+        "data": "Clothing and dress",
+        "status": "suggested"
+      },
+      {
+        "data": "Hats",
+        "status": "suggested"
+      },
+      {
+        "data": "Eyeglasses",
+        "status": "suggested"
+      },
+      {
+        "data": "Jacks Run Rd.",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Howard Stoner",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbert Simmons",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Flowers",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Waters",
+        "status": "suggested"
+      },
+      {
+        "data": "Tucker",
+        "status": "suggested"
+      },
+      {
+        "data": "last Saturday",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Charles Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "Garden Club - Members",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "McKeesport",
+        "status": "suggested"
+      },
+      {
+        "data": "July 23, 1960",
+        "status": "suggested"
+      },
+      {
+        "data": "the Stoop 'n' Bend Garden Club",
+        "status": "suggested"
+      },
+      {
+        "data": "R.J. Johnson",
+        "status": "suggested"
+      },
+      {
+        "data": "Bend Garden Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "emotion",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "human",
+        "status": "suggested"
+      },
+      {
+        "data": "darkness",
+        "status": "suggested"
+      },
+      {
+        "data": "tree",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

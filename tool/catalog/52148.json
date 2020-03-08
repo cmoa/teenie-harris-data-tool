@@ -1,20 +1,340 @@
 {
-	"irn": "52148",
-	"emuInput": {
-		"ecatalogue_key": "222",
-		"irn": "52148",
-		"TitAccessionNo": "2001.35.38993",
-		"TitMainTitle": "Group portrait of Dunbar Dramatic Club members including E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene, standing around small table with cake and flowers for Sixth Anniversary, in East End Elks, Lincoln Avenue",
-		"CreDateCreated": "March 1945",
-		"CreEarliestDate": "1945-03-01",
-		"CreLatestDate": "1945-03-10",
-		"PhyMediumComments": "black-and-white: Agfa safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 10, 1945, pg. 28 reads: \"Sixth Anniversary and reception of the Dunbar Dramatic Club was held at the East End Elks Rest on Lincoln Avenue, last Friday. The interesting program was composed of many outstanding local personalities.  Members of the group shown above, are E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nCakes--Pennsylvania--Pittsburgh.\nClubs--Pennsylvania--Pittsburgh.\nElks (Fraternal order).\nAnniversary celebrations--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "52148",
+  "emuInput": {
+    "ecatalogue_key": 38952,
+    "irn": 52148,
+    "TitAccessionNo": "2001.35.38993",
+    "CreDateCreated": "March 1945",
+    "CreEarliestDate": "1945-03-01",
+    "CreLatestDate": "1945-03-10",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 10, 1945, pg. 28 reads: \"Sixth Anniversary and reception of the Dunbar Dramatic Club was held at the East End Elks Rest on Lincoln Avenue, last Friday. The interesting program was composed of many outstanding local personalities.  Members of the group shown above, are E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Dunbar Dramatic Club members including E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene, standing around small table with cake and flowers for Sixth Anniversary, in East End Elks, Lincoln Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Elks (Fraternal order).Anniversary celebrations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01fe5671-7497-407d-acbb-d15bac1384bb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59661,
+    "MulMultiMediaRef_key": 38960,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59661/sizes/52148-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 38952,
+    "irn": 52148,
+    "TitAccessionNo": "2001.35.38993",
+    "CreDateCreated": "March 1945",
+    "CreEarliestDate": "1945-03-01",
+    "CreLatestDate": "1945-03-10",
+    "PhyMediumComments": "black-and-white: Agfa safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, March 10, 1945, pg. 28 reads: \"Sixth Anniversary and reception of the Dunbar Dramatic Club was held at the East End Elks Rest on Lincoln Avenue, last Friday. The interesting program was composed of many outstanding local personalities.  Members of the group shown above, are E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of Dunbar Dramatic Club members including E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene, standing around small table with cake and flowers for Sixth Anniversary, in East End Elks, Lincoln Avenue",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Cakes--Pennsylvania--Pittsburgh.Clubs--Pennsylvania--Pittsburgh.Elks (Fraternal order).Anniversary celebrations--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "01fe5671-7497-407d-acbb-d15bac1384bb",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 59661,
+    "MulMultiMediaRef_key": 38960,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/59661/sizes/52148-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Luvenia Adams",
+        "status": "suggested"
+      },
+      {
+        "data": "E. Kemp",
+        "status": "suggested"
+      },
+      {
+        "data": "Mable Brice",
+        "status": "suggested"
+      },
+      {
+        "data": "Maggie Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Leola Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary B. Greene",
+        "status": "suggested"
+      },
+      {
+        "data": "O. Munden",
+        "status": "suggested"
+      },
+      {
+        "data": "Lucille Barnes",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Anniversaries",
+        "status": "suggested"
+      },
+      {
+        "data": "Anniversaries, etc",
+        "status": "suggested"
+      },
+      {
+        "data": "Cake",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "28",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Sixth Anniversary and reception of the Dunbar Dramatic Club was held at the East End Elks Rest on Lincoln Avenue, last Friday. The interesting program was composed of many outstanding local personalities.  Members of the group shown above, are E. Kemp, Mable Brice, Florence Hardy, Luvenia Adams, Maggie Gibson, Lucille Barnes, Leola Scott, O. Munden and Mary B. Greene. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 10, 1945",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "the Dunbar Dramatic Club",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Cutline",
+        "status": "suggested"
+      },
+      {
+        "data": "Anniversary celebrations",
+        "status": "suggested"
+      },
+      {
+        "data": "Dunbar Dramatic Club",
+        "status": "suggested"
+      },
+      {
+        "data": "March 10, 1945",
+        "status": "suggested"
+      },
+      {
+        "data": "E. Kemp",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Maggie Gibson",
+        "status": "suggested"
+      },
+      {
+        "data": "Mary B. Greene",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "last Friday",
+        "status": "suggested"
+      },
+      {
+        "data": "Leola Scott",
+        "status": "suggested"
+      },
+      {
+        "data": "Florence Hardy",
+        "status": "suggested"
+      },
+      {
+        "data": "the East End Elks Rest",
+        "status": "suggested"
+      },
+      {
+        "data": "Cakes",
+        "status": "suggested"
+      },
+      {
+        "data": "Clubs",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Elks ",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "family",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "fun",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "smile",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }

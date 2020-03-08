@@ -1,20 +1,422 @@
 {
-	"irn": "57776",
-	"emuInput": {
-		"ecatalogue_key": "261",
-		"irn": "57776",
-		"TitAccessionNo": "2001.35.44172",
-		"TitMainTitle": "Portrait of Tonia Lee, wearing a light colored dress with dark swirl, seated on brick wall at home of Luvernis Lee",
-		"CreDateCreated": "1955",
-		"CreEarliestDate": "1955",
-		"CreLatestDate": "1955",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 10, 1955 reads: \"The Lee Family...gathered at the home of Mr. and Mrs. Luvernis Lee, Pittsburgh socialites, got together to welcome James Lee and his daughter Tonia from Los Angeles, Calif. A party for more than two hundred guests sparkled on the social scene during their visit.  Snapped the night of the affair were, left to right, Mrs. Henrietta Lee Evans, New York (sister), Mrs. Luvernis Lee and Mr. Lee, James Lee and daughter Tonia, and a Lee sister.  Mrs. Bertha Ward of Falls Church, Va.  Standing are Mrs. Julia Denny of falls Church and Louis Evans of New York. - Harris Photo.\"",
-		"CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nBrick walls--Pennsylvania--Pittsburgh.\nWomen--Portraits--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "57776",
+  "emuInput": {
+    "ecatalogue_key": 44130,
+    "irn": 57776,
+    "TitAccessionNo": "2001.35.44172",
+    "CreDateCreated": "1955",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 10, 1955 reads: \"The Lee Family...gathered at the home of Mr. and Mrs. Luvernis Lee, Pittsburgh socialites, got together to welcome James Lee and his daughter Tonia from Los Angeles, Calif. A party for more than two hundred guests sparkled on the social scene during their visit.  Snapped the night of the affair were, left to right, Mrs. Henrietta Lee Evans, New York (sister), Mrs. Luvernis Lee and Mr. Lee, James Lee and daughter Tonia, and a Lee sister.  Mrs. Bertha Ward of Falls Church, Va.  Standing are Mrs. Julia Denny of falls Church and Louis Evans of New York. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of Tonia Lee, wearing a light colored dress with dark swirl, seated on brick wall at home of Luvernis Lee",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "027a21f7-459f-4891-96cf-0800957c2024",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65780,
+    "MulMultiMediaRef_key": 44138,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65780/sizes/57776-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44130,
+    "irn": 57776,
+    "TitAccessionNo": "2001.35.44172",
+    "CreDateCreated": "1955",
+    "CreEarliestDate": "1955",
+    "CreLatestDate": "1955",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of related image published in Pittsburgh Courier newspaper, September 10, 1955 reads: \"The Lee Family...gathered at the home of Mr. and Mrs. Luvernis Lee, Pittsburgh socialites, got together to welcome James Lee and his daughter Tonia from Los Angeles, Calif. A party for more than two hundred guests sparkled on the social scene during their visit.  Snapped the night of the affair were, left to right, Mrs. Henrietta Lee Evans, New York (sister), Mrs. Luvernis Lee and Mr. Lee, James Lee and daughter Tonia, and a Lee sister.  Mrs. Bertha Ward of Falls Church, Va.  Standing are Mrs. Julia Denny of falls Church and Louis Evans of New York. - Harris Photo.\"",
+    "TitMainTitle": "Portrait of Tonia Lee, wearing a light colored dress with dark swirl, seated on brick wall at home of Luvernis Lee",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Portraits--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Brick walls--Pennsylvania--Pittsburgh.Women--Portraits--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "027a21f7-459f-4891-96cf-0800957c2024",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 65780,
+    "MulMultiMediaRef_key": 44138,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/65780/sizes/57776-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": false,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Julia Denny",
+        "status": "suggested"
+      },
+      {
+        "data": "Tonia Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Henrietta Lee Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "James Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha Ward",
+        "status": "suggested"
+      },
+      {
+        "data": "Tonia",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Los Angeles",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Falls Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Los Angeles",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Falls Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Los Angeles",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Falls Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Luvernis Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Los Angeles",
+        "status": "suggested"
+      },
+      {
+        "data": "Calif.",
+        "status": "suggested"
+      },
+      {
+        "data": "New York",
+        "status": "suggested"
+      },
+      {
+        "data": "Falls Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Va.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [],
+    "BibliographyCutline": [
+      {
+        "data": "The Lee Family...gathered at the home of Mr. and Mrs. Luvernis Lee, Pittsburgh socialites, got together to welcome James Lee and his daughter Tonia from Los Angeles, Calif. A party for more than two hundred guests sparkled on the social scene during their visit.  Snapped the night of the affair were, left to right, Mrs. Henrietta Lee Evans, New York (sister), Mrs. Luvernis Lee and Mr. Lee, James Lee and daughter Tonia, and a Lee sister.  Mrs. Bertha Ward of Falls Church, Va.  Standing are Mrs. Julia Denny of falls Church and Louis Evans of New York. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "Julia Denny",
+        "status": "suggested"
+      },
+      {
+        "data": "The Lee Family",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "Brick walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Louis Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "Church",
+        "status": "suggested"
+      },
+      {
+        "data": "Bertha Ward",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "September 10, 1955",
+        "status": "suggested"
+      },
+      {
+        "data": "James Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Tonia",
+        "status": "suggested"
+      },
+      {
+        "data": "Lee",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "beauty",
+        "status": "suggested"
+      },
+      {
+        "data": "sitting",
+        "status": "suggested"
+      },
+      {
+        "data": "gown",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "photo shoot",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding dress",
+        "status": "suggested"
+      },
+      {
+        "data": "bridal clothing",
+        "status": "suggested"
+      },
+      {
+        "data": "haute couture",
+        "status": "suggested"
+      }
+    ]
+  }
 }

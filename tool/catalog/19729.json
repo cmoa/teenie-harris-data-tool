@@ -1,20 +1,259 @@
 {
-	"irn": "19729",
-	"emuInput": {
-		"ecatalogue_key": "91",
-		"irn": "19729",
-		"TitAccessionNo": "2001.35.10661",
-		"TitMainTitle": "Herman Brontz, Jack Baumgartner and Jack Miller, standing in Top Value Stamp Company booth with two people wearing plaid elephant costumes, in Syria Mosque for the 1956 Pittsburgh Courier Home Service Fair",
-		"CreDateCreated": "March 27-29, 1956",
-		"CreEarliestDate": "1956-03-27",
-		"CreLatestDate": "1956-03-29",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 7, 1956, page 19, reads: \"1. Two animated \"Thrifty\" elephants highlighted the Top Value Stamp Company booth. Representatives Herman Brontz, Jack Baumgartner and Jack Miller chat in the background",
-		"CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.\nCostumes--Pennsylvania--Pittsburgh.\nPittsburgh Courier Home Service Fair.\nSyria Mosque (Pittsburgh, Pa.)\nMen--Pennsylvania--Pittsburgh.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "19729",
+  "emuInput": {
+    "ecatalogue_key": 10635,
+    "irn": 19729,
+    "TitAccessionNo": "2001.35.10661",
+    "CreDateCreated": "March 27-29, 1956",
+    "CreEarliestDate": "1956-03-27",
+    "CreLatestDate": "1956-03-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 7, 1956, page 19, reads: \"1. Two animated \"Thrifty\" elephants highlighted the Top Value Stamp Company booth. Representatives Herman Brontz, Jack Baumgartner and Jack Miller chat in the background",
+    "TitMainTitle": "Herman Brontz, Jack Baumgartner and Jack Miller, standing in Top Value Stamp Company booth with two people wearing plaid elephant costumes, in Syria Mosque for the 1956 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Pittsburgh Courier Home Service Fair.Syria Mosque (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0157bce1-9ba2-4dd0-a724-6b7de6fabad3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26722,
+    "MulMultiMediaRef_key": 10643,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26722/sizes/19729-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 10635,
+    "irn": 19729,
+    "TitAccessionNo": "2001.35.10661",
+    "CreDateCreated": "March 27-29, 1956",
+    "CreEarliestDate": "1956-03-27",
+    "CreLatestDate": "1956-03-29",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, April 7, 1956, page 19, reads: \"1. Two animated \"Thrifty\" elephants highlighted the Top Value Stamp Company booth. Representatives Herman Brontz, Jack Baumgartner and Jack Miller chat in the background",
+    "TitMainTitle": "Herman Brontz, Jack Baumgartner and Jack Miller, standing in Top Value Stamp Company booth with two people wearing plaid elephant costumes, in Syria Mosque for the 1956 Pittsburgh Courier Home Service Fair",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Trade shows--Pennsylvania--Pittsburgh.Costumes--Pennsylvania--Pittsburgh.Pittsburgh Courier Home Service Fair.Syria Mosque (Pittsburgh, Pa.)Men--Pennsylvania--Pittsburgh.",
+    "AdmGUIDValue_tab": "0157bce1-9ba2-4dd0-a724-6b7de6fabad3",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 26722,
+    "MulMultiMediaRef_key": 10643,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/26722/sizes/19729-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Jack Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "Herman Brontz",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Baumgartner",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Costume",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Syria",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "19",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "1. Two animated \"Thrifty",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "Costumes",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier Home Service Fair",
+        "status": "suggested"
+      },
+      {
+        "data": "1956",
+        "status": "suggested"
+      },
+      {
+        "data": "the Top Value Stamp Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Miller",
+        "status": "suggested"
+      },
+      {
+        "data": "Trade shows",
+        "status": "suggested"
+      },
+      {
+        "data": "Top Value Stamp Company",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Jack Baumgartner",
+        "status": "suggested"
+      },
+      {
+        "data": "Syria Mosque ",
+        "status": "suggested"
+      },
+      {
+        "data": "April 7, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": ")Men",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "fashion",
+        "status": "suggested"
+      },
+      {
+        "data": "design",
+        "status": "suggested"
+      }
+    ]
+  }
 }

@@ -1,20 +1,439 @@
 {
-	"irn": "63211",
-	"emuInput": {
-		"ecatalogue_key": "319",
-		"irn": "63211",
-		"TitAccessionNo": "2001.35.49170",
-		"TitMainTitle": "Home of Donald Evans on Burrows Street in the Hill District",
-		"CreDateCreated": "January 1959",
-		"CreEarliestDate": "1959-01-01",
-		"CreLatestDate": "1959-01-10",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 10, 1959, page 4, reads: \"New Home - This... Burrows St. was purchased... Donald Evans under a plan by which persons displaced... Urban Renewal Programs may purchase re... under a mortgage available with no down payment and 100 per cent financing. - Harris Photo.\"",
-		"CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.\nChimneys--Pennsylvania--Pittsburgh.\nWindows--Pennsylvania--Pittsburgh.\nPorches--Pennsylvania--Pittsburgh.\nSidewalks--Pennsylvania--Pittsburgh.\nStreets--Pennsylvania--Pittsburgh.\nFences--Pennsylvania--Pittsburgh.\nBurrows Street (Pittsburgh, Pa.)\nHill District (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "63211",
+  "emuInput": {
+    "ecatalogue_key": 49127,
+    "irn": 63211,
+    "TitAccessionNo": "2001.35.49170",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-10",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 10, 1959, page 4, reads: \"New Home - This... Burrows St. was purchased... Donald Evans under a plan by which persons displaced... Urban Renewal Programs may purchase re... under a mortgage available with no down payment and 100 per cent financing. - Harris Photo.\"",
+    "TitMainTitle": "Home of Donald Evans on Burrows Street in the Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Chimneys--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Porches--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Burrows Street (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00793a45-e621-4aad-a621-c3bd32632a2b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72113,
+    "MulMultiMediaRef_key": 49135,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72113/sizes/63211-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 49127,
+    "irn": 63211,
+    "TitAccessionNo": "2001.35.49170",
+    "CreDateCreated": "January 1959",
+    "CreEarliestDate": "1959-01-01",
+    "CreLatestDate": "1959-01-10",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, January 10, 1959, page 4, reads: \"New Home - This... Burrows St. was purchased... Donald Evans under a plan by which persons displaced... Urban Renewal Programs may purchase re... under a mortgage available with no down payment and 100 per cent financing. - Harris Photo.\"",
+    "TitMainTitle": "Home of Donald Evans on Burrows Street in the Hill District",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Houses--Pennsylvania--Pittsburgh.Chimneys--Pennsylvania--Pittsburgh.Windows--Pennsylvania--Pittsburgh.Porches--Pennsylvania--Pittsburgh.Sidewalks--Pennsylvania--Pittsburgh.Streets--Pennsylvania--Pittsburgh.Fences--Pennsylvania--Pittsburgh.Burrows Street (Pittsburgh, Pa.)Hill District (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "00793a45-e621-4aad-a621-c3bd32632a2b",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 72113,
+    "MulMultiMediaRef_key": 49135,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/72113/sizes/63211-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": false,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Donald Evans",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Porches",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Chimneys",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "4",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "New Home - This... Burrows St. was purchased... Donald Evans under a plan by which persons displaced... Urban Renewal Programs may purchase re... under a mortgage available with no down payment and 100 per cent financing. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [],
+    "CatKeywords_tab": [
+      {
+        "data": "house",
+        "status": "suggested"
+      },
+      {
+        "data": "architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "structure",
+        "status": "suggested"
+      },
+      {
+        "data": "home",
+        "status": "suggested"
+      },
+      {
+        "data": "building",
+        "status": "suggested"
+      },
+      {
+        "data": "town",
+        "status": "suggested"
+      },
+      {
+        "data": "- Harris Photo",
+        "status": "suggested"
+      },
+      {
+        "data": "Sidewalks",
+        "status": "suggested"
+      },
+      {
+        "data": ")Hill District ",
+        "status": "suggested"
+      },
+      {
+        "data": "January 10, 1959",
+        "status": "suggested"
+      },
+      {
+        "data": "Urban Renewal Programs",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street ",
+        "status": "suggested"
+      },
+      {
+        "data": "Porches",
+        "status": "suggested"
+      },
+      {
+        "data": "Donald Evans",
+        "status": "suggested"
+      },
+      {
+        "data": "Fences",
+        "status": "suggested"
+      },
+      {
+        "data": "Houses",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows Street",
+        "status": "suggested"
+      },
+      {
+        "data": "New Home - This...",
+        "status": "suggested"
+      },
+      {
+        "data": "Streets",
+        "status": "suggested"
+      },
+      {
+        "data": "the Hill District",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Chimneys",
+        "status": "suggested"
+      },
+      {
+        "data": "Burrows St.",
+        "status": "suggested"
+      },
+      {
+        "data": "Windows",
+        "status": "suggested"
+      },
+      {
+        "data": "barrier",
+        "status": "suggested"
+      },
+      {
+        "data": "fence",
+        "status": "suggested"
+      },
+      {
+        "data": "property",
+        "status": "suggested"
+      },
+      {
+        "data": "residential area",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "landmark",
+        "status": "suggested"
+      },
+      {
+        "data": "infrastructure",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "neighbourhood",
+        "status": "suggested"
+      },
+      {
+        "data": "window",
+        "status": "suggested"
+      },
+      {
+        "data": "obstruction",
+        "status": "suggested"
+      },
+      {
+        "data": "street",
+        "status": "suggested"
+      },
+      {
+        "data": "facade",
+        "status": "suggested"
+      },
+      {
+        "data": "estate",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "suburb",
+        "status": "suggested"
+      },
+      {
+        "data": "real estate",
+        "status": "suggested"
+      },
+      {
+        "data": "boarding house",
+        "status": "suggested"
+      }
+    ]
+  }
 }

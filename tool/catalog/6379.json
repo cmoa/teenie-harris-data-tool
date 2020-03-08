@@ -1,20 +1,372 @@
 {
-	"irn": "6379",
-	"emuInput": {
-		"ecatalogue_key": "27",
-		"irn": "6379",
-		"TitAccessionNo": "2001.35.3822",
-		"TitMainTitle": "HIlda Laverne Logan modeling light colored short sleeved dress, walking down runway at Fashion Show Extravaganza in Sumpter Hall",
-		"CreDateCreated": "April - May 1973",
-		"CreEarliestDate": "1973-04-01",
-		"CreLatestDate": "1973-05-05",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, May 5, 1973, pg. 9 reads: \"Fashion Extravaganza - The Homewood-Brushton Community Improvement Associations, Inc., recently resented a Fashion Show Extravaganza at Sumpter Hall on Lincoln Avenue. The show featured the Frederick Models, Inc., with Mrs. Lorraine McCoad and Frederick Wims as commentators, Mrs. Gladys Howell was chairman and music was by Bill Gambrell.  Models are from left to right: Gerri Walker (Mrs. McCoad can be seen at microphone), Hilda Laverne Logan, Freddie Weaver, Pat White, and Carol Walls. - Harris photo.\"",
-		"CatSubject_tab": "Fashion models--Pennsylvania--Pittsburgh.\nDresses--Pennsylvania--Pittsburgh.\nWomen--Pennsylvania--Pittsburgh.\nStripes--Pennsylvania--Pittsburgh.\nInteriors--Pennsylvania--Pittsburgh.\nLogan, Hilda.",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "6379",
+  "emuInput": {
+    "ecatalogue_key": 3813,
+    "irn": 6379,
+    "TitAccessionNo": "2001.35.3822",
+    "CreDateCreated": "April - May 1973",
+    "CreEarliestDate": "1973-04-01",
+    "CreLatestDate": "1973-05-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, May 5, 1973, pg. 9 reads: \"Fashion Extravaganza - The Homewood-Brushton Community Improvement Associations, Inc., recently resented a Fashion Show Extravaganza at Sumpter Hall on Lincoln Avenue. The show featured the Frederick Models, Inc., with Mrs. Lorraine McCoad and Frederick Wims as commentators, Mrs. Gladys Howell was chairman and music was by Bill Gambrell.  Models are from left to right: Gerri Walker (Mrs. McCoad can be seen at microphone), Hilda Laverne Logan, Freddie Weaver, Pat White, and Carol Walls. - Harris photo.\"",
+    "TitMainTitle": "HIlda Laverne Logan modeling light colored short sleeved dress, walking down runway at Fashion Show Extravaganza in Sumpter Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fashion models--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stripes--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Logan, Hilda.",
+    "AdmGUIDValue_tab": "67501495-ade9-4ea3-b7b4-3188bba980a8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18359,
+    "MulMultiMediaRef_key": 3816,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18359/sizes/6379-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 3813,
+    "irn": 6379,
+    "TitAccessionNo": "2001.35.3822",
+    "CreDateCreated": "April - May 1973",
+    "CreEarliestDate": "1973-04-01",
+    "CreLatestDate": "1973-05-05",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in New Pittsburgh Courier newspaper, May 5, 1973, pg. 9 reads: \"Fashion Extravaganza - The Homewood-Brushton Community Improvement Associations, Inc., recently resented a Fashion Show Extravaganza at Sumpter Hall on Lincoln Avenue. The show featured the Frederick Models, Inc., with Mrs. Lorraine McCoad and Frederick Wims as commentators, Mrs. Gladys Howell was chairman and music was by Bill Gambrell.  Models are from left to right: Gerri Walker (Mrs. McCoad can be seen at microphone), Hilda Laverne Logan, Freddie Weaver, Pat White, and Carol Walls. - Harris photo.\"",
+    "TitMainTitle": "HIlda Laverne Logan modeling light colored short sleeved dress, walking down runway at Fashion Show Extravaganza in Sumpter Hall",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Fashion models--Pennsylvania--Pittsburgh.Dresses--Pennsylvania--Pittsburgh.Women--Pennsylvania--Pittsburgh.Stripes--Pennsylvania--Pittsburgh.Interiors--Pennsylvania--Pittsburgh.Logan, Hilda.",
+    "AdmGUIDValue_tab": "67501495-ade9-4ea3-b7b4-3188bba980a8",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 18359,
+    "MulMultiMediaRef_key": 3816,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/18359/sizes/6379-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Gladys Howell",
+        "status": "suggested"
+      },
+      {
+        "data": "HIlda Laverne Logan",
+        "status": "suggested"
+      },
+      {
+        "data": "Frederick Wims",
+        "status": "suggested"
+      },
+      {
+        "data": "Bill Gambrell",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "McCoad",
+        "status": "suggested"
+      },
+      {
+        "data": "Hilda Laverne Logan",
+        "status": "suggested"
+      },
+      {
+        "data": "Pat White",
+        "status": "suggested"
+      },
+      {
+        "data": "Carol Walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Lorraine McCoad",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerri Walker",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Models (Persons)",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Interior architecture",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Stripes",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "Sumpter Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "Sumpter Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "Sumpter Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "Sumpter Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "9",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Fashion Extravaganza - The Homewood-Brushton Community Improvement Associations, Inc., recently resented a Fashion Show Extravaganza at Sumpter Hall on Lincoln Avenue. The show featured the Frederick Models, Inc., with Mrs. Lorraine McCoad and Frederick Wims as commentators, Mrs. Gladys Howell was chairman and music was by Bill Gambrell.  Models are from left to right: Gerri Walker (Mrs. McCoad can be seen at microphone), Hilda Laverne Logan, Freddie Weaver, Pat White, and Carol Walls. - Harris photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "May 5, 1973",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "May 5, 1973",
+        "status": "suggested"
+      },
+      {
+        "data": "Harris",
+        "status": "suggested"
+      },
+      {
+        "data": "Pat White",
+        "status": "suggested"
+      },
+      {
+        "data": "Carol Walls",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion models",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Sumpter Hall",
+        "status": "suggested"
+      },
+      {
+        "data": "Gladys Howell",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion Extravaganza - The Homewood-Brushton Community Improvement Associations, Inc.",
+        "status": "suggested"
+      },
+      {
+        "data": "Logan, Hilda",
+        "status": "suggested"
+      },
+      {
+        "data": "Dresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Freddie Weaver",
+        "status": "suggested"
+      },
+      {
+        "data": "Stripes",
+        "status": "suggested"
+      },
+      {
+        "data": "Interiors",
+        "status": "suggested"
+      },
+      {
+        "data": "Lincoln Avenue",
+        "status": "suggested"
+      },
+      {
+        "data": "Fashion Show Extravaganza",
+        "status": "suggested"
+      },
+      {
+        "data": "New Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "the Frederick Models, Inc.",
+        "status": "suggested"
+      },
+      {
+        "data": "Gerri Walker",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "dumbbell",
+        "status": "suggested"
+      },
+      {
+        "data": "lady",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "weight",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      },
+      {
+        "data": "vintage clothing",
+        "status": "suggested"
+      }
+    ]
+  }
 }

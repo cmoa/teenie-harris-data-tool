@@ -1,20 +1,400 @@
 {
-	"irn": "58877",
-	"emuInput": {
-		"ecatalogue_key": "273",
-		"irn": "58877",
-		"TitAccessionNo": "2001.35.44991",
-		"TitMainTitle": "Group portrait of seven women kneeling at altar rail, for National Prayer Day honoring Montgomery Alabama bus boycotters, in St. James AME Church",
-		"CreDateCreated": "March 28, 1956",
-		"CreEarliestDate": "1956-03-28",
-		"CreLatestDate": "1956-03-28",
-		"PhyMediumComments": "black-and-white: Kodak safety film",
-		"CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 1, reads: \"Thousands Observe 'Prayer Day' Here! - In Humble Supplication - As part of nation-wide observance of 'Prayer Day,' March 28, as advocated by Congressman Adam Clayton Powell, members of St. James AME Church gathered to send their prayer petitions up to cleanse racial bias from America's soul and to help the persecuted Montgomery, Ala. bus boycotters endure their ordeal until victory is finally won. - Harris Photo.\"",
-		"CatSubject_tab": "Women--Pennsylvania--Pittsburgh.\nGroup portraits--Pennsylvania--Pittsburgh.\nChurches--Pennsylvania--Pittsburgh.\nBanners--Pennsylvania--Pittsburgh.\nPrayer groups--Pennsylvania--Pittsburgh.\nSt. James African Methodist Episcopal Church (Pittsburgh, Pa.)",
-		"CreCountry_tab": "United States",
-		"CreState_tab": "",
-		"CreDistrict_tab": "",
-		"CreCity_tab": "",
-		"CrePlaceQualifier_tab": ""
-	}
+  "irn": "58877",
+  "emuInput": {
+    "ecatalogue_key": 44948,
+    "irn": 58877,
+    "TitAccessionNo": "2001.35.44991",
+    "CreDateCreated": "March 28, 1956",
+    "CreEarliestDate": "1956-03-28",
+    "CreLatestDate": "1956-03-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 1, reads: \"Thousands Observe 'Prayer Day' Here! - In Humble Supplication - As part of nation-wide observance of 'Prayer Day,' March 28, as advocated by Congressman Adam Clayton Powell, members of St. James AME Church gathered to send their prayer petitions up to cleanse racial bias from America's soul and to help the persecuted Montgomery, Ala. bus boycotters endure their ordeal until victory is finally won. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of seven women kneeling at altar rail, for National Prayer Day honoring Montgomery Alabama bus boycotters, in St. James AME Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Prayer groups--Pennsylvania--Pittsburgh.St. James African Methodist Episcopal Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "38552414-0984-47ca-9b0e-5b3b2370c64f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66985,
+    "MulMultiMediaRef_key": 44956,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66985/sizes/58877-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "emuOutput": {
+    "ecatalogue_key": 44948,
+    "irn": 58877,
+    "TitAccessionNo": "2001.35.44991",
+    "CreDateCreated": "March 28, 1956",
+    "CreEarliestDate": "1956-03-28",
+    "CreLatestDate": "1956-03-28",
+    "PhyMediumComments": "black-and-white: Kodak safety film",
+    "CatDescriptText": "Cutline of image published in Pittsburgh Courier newspaper, March 31, 1956, pg. 1, reads: \"Thousands Observe 'Prayer Day' Here! - In Humble Supplication - As part of nation-wide observance of 'Prayer Day,' March 28, as advocated by Congressman Adam Clayton Powell, members of St. James AME Church gathered to send their prayer petitions up to cleanse racial bias from America's soul and to help the persecuted Montgomery, Ala. bus boycotters endure their ordeal until victory is finally won. - Harris Photo.\"",
+    "TitMainTitle": "Group portrait of seven women kneeling at altar rail, for National Prayer Day honoring Montgomery Alabama bus boycotters, in St. James AME Church",
+    "CreCountry_tab": "United States",
+    "CreState_tab": "",
+    "CreDistrict_tab": "",
+    "CreCity_tab": "",
+    "CrePlaceQualifier_tab": "",
+    "CatSubject_tab": "Women--Pennsylvania--Pittsburgh.Group portraits--Pennsylvania--Pittsburgh.Churches--Pennsylvania--Pittsburgh.Banners--Pennsylvania--Pittsburgh.Prayer groups--Pennsylvania--Pittsburgh.St. James African Methodist Episcopal Church (Pittsburgh, Pa.)",
+    "AdmGUIDValue_tab": "38552414-0984-47ca-9b0e-5b3b2370c64f",
+    "AdmPublishWebNoPassword": "Yes",
+    "MultiMedia_irn": 66985,
+    "MulMultiMediaRef_key": 44956,
+    "image_url": "https://cmoa-collection-images.s3.amazonaws.com/teenie/66985/sizes/58877-1680.jpg",
+    "TitAlternateTitles_tab": "",
+    "People_tab": "",
+    "BibliographyPublication": "",
+    "BibliographyPage": "",
+    "BibliographyCutline": "",
+    "BibliographyDate": "",
+    "CatKeywords_tab": ""
+  },
+  "inReview": {
+    "TitAlternateTitles_tab": false,
+    "People_tab": true,
+    "CatSubject_tab": true,
+    "CreCountry_tab": true,
+    "CreState_tab": true,
+    "CreDistrict_tab": true,
+    "CreCity_tab": true,
+    "BibliographyPublication": true,
+    "BibliographyPage": true,
+    "BibliographyCutline": true,
+    "BibliographyDate": true,
+    "CatKeywords_tab": true
+  },
+  "suggestions": {
+    "TitAlternateTitles_tab": [],
+    "People_tab": [
+      {
+        "data": "Adam Clayton Powell",
+        "status": "suggested"
+      }
+    ],
+    "CatSubject_tab": [
+      {
+        "data": "Skin--Cancer--Risk factors--Congresses",
+        "status": "suggested"
+      },
+      {
+        "data": "Zimbabwe--Economic policy",
+        "status": "suggested"
+      },
+      {
+        "data": "Prayer groups",
+        "status": "suggested"
+      },
+      {
+        "data": "Face--Muscles--Abnormalities--Treatment",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Portraits, Group",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Trachyphloeus",
+        "status": "suggested"
+      },
+      {
+        "data": "Private flying--Accidents--United States--Periodicals",
+        "status": "suggested"
+      },
+      {
+        "data": "Reinstatement",
+        "status": "suggested"
+      },
+      {
+        "data": "Osteopathic students",
+        "status": "suggested"
+      },
+      {
+        "data": "Horror in art",
+        "status": "suggested"
+      },
+      {
+        "data": "Hôtel de ville (Tours, France)",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "Herbicides--Physiological effect",
+        "status": "suggested"
+      },
+      {
+        "data": "Costa Rica--History--1986-",
+        "status": "suggested"
+      },
+      {
+        "data": "School sports--Fiction",
+        "status": "suggested"
+      }
+    ],
+    "CreCountry_tab": [
+      {
+        "data": "America",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreState_tab": [
+      {
+        "data": "America",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreDistrict_tab": [
+      {
+        "data": "America",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "CreCity_tab": [
+      {
+        "data": "America",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery",
+        "status": "suggested"
+      },
+      {
+        "data": "Ala.",
+        "status": "suggested"
+      },
+      {
+        "data": "Pennsylvania",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh",
+        "status": "suggested"
+      },
+      {
+        "data": "Pa.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPublication": [
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyPage": [
+      {
+        "data": "1",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyCutline": [
+      {
+        "data": "Thousands Observe 'Prayer Day' Here! - In Humble Supplication - As part of nation-wide observance of 'Prayer Day,' March 28, as advocated by Congressman Adam Clayton Powell, members of St. James AME Church gathered to send their prayer petitions up to cleanse racial bias from America's soul and to help the persecuted Montgomery, Ala. bus boycotters endure their ordeal until victory is finally won. - Harris Photo.",
+        "status": "suggested"
+      }
+    ],
+    "BibliographyDate": [
+      {
+        "data": "March 31, 1956",
+        "status": "suggested"
+      }
+    ],
+    "CatKeywords_tab": [
+      {
+        "data": "man",
+        "status": "suggested"
+      },
+      {
+        "data": "Montgomery Alabama",
+        "status": "suggested"
+      },
+      {
+        "data": "March 28",
+        "status": "suggested"
+      },
+      {
+        "data": "Churches",
+        "status": "suggested"
+      },
+      {
+        "data": "Prayer groups",
+        "status": "suggested"
+      },
+      {
+        "data": "St",
+        "status": "suggested"
+      },
+      {
+        "data": "National Prayer Day",
+        "status": "suggested"
+      },
+      {
+        "data": "Thousands Observe 'Prayer Day'",
+        "status": "suggested"
+      },
+      {
+        "data": "Banners",
+        "status": "suggested"
+      },
+      {
+        "data": "Pittsburgh Courier",
+        "status": "suggested"
+      },
+      {
+        "data": "Group portraits",
+        "status": "suggested"
+      },
+      {
+        "data": "March 31, 1956",
+        "status": "suggested"
+      },
+      {
+        "data": "Adam Clayton Powell",
+        "status": "suggested"
+      },
+      {
+        "data": "St. James AME Church",
+        "status": "suggested"
+      },
+      {
+        "data": " James African Methodist Episcopal Church ",
+        "status": "suggested"
+      },
+      {
+        "data": "Women",
+        "status": "suggested"
+      },
+      {
+        "data": "woman",
+        "status": "suggested"
+      },
+      {
+        "data": "dress",
+        "status": "suggested"
+      },
+      {
+        "data": "black and white",
+        "status": "suggested"
+      },
+      {
+        "data": "photography",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome photography",
+        "status": "suggested"
+      },
+      {
+        "data": "snapshot",
+        "status": "suggested"
+      },
+      {
+        "data": "standing",
+        "status": "suggested"
+      },
+      {
+        "data": "ceremony",
+        "status": "suggested"
+      },
+      {
+        "data": "event",
+        "status": "suggested"
+      },
+      {
+        "data": "bride",
+        "status": "suggested"
+      },
+      {
+        "data": "wedding",
+        "status": "suggested"
+      },
+      {
+        "data": "girl",
+        "status": "suggested"
+      },
+      {
+        "data": "monochrome",
+        "status": "suggested"
+      }
+    ]
+  }
 }
