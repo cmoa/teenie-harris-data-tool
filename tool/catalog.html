@@ -1,0 +1,122 @@
+<html>
+
+	<head>
+		<!-- libraries -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.15.0/lodash.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.2/vue.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/sortablejs@1.7.0/Sortable.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.15.0/vuedraggable.min.js"></script>
+
+		<!-- material design --> 
+		<link rel="stylesheet" href="material-design-lite/material.min.css">
+		<script src="material-design-lite/material.min.js"></script>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+		<!-- style -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins|Open+Sans" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style.css"></link>
+
+		<!-- main -->
+		<script type="module" src="catalog.js"></script>
+
+	</head>
+
+	<body>
+
+		<!-- Title Bar -->
+		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header" id="catalog">
+		  <header class="mdl-layout__header">
+		    <div class="mdl-layout__header-row">
+		      <span class="mdl-layout-title">Teenie Harris Archive</span>
+		       <div class="mdl-layout-spacer"></div>
+	      <!-- Save photo to catalog -->
+				<button v-on:click="if (buttonText === 'Export') { exportCatalog() }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ buttonText }} </button>
+				<button v-on:click="if (true) { exportCatalog(pageOnly=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> Export Page (9) </button>
+		    </div>
+		  </header>
+		  <header class="mdl-layout__header" style="background: white;">
+				<div class="catalogPaginationContainer">
+					<span class="catalogPaginationElement"> 
+						  <button  v-if="catalogPage > 0" class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored catalogPageButton">
+						  	<i v-on:click="prevPage()" class="material-icons flagIcon">chevron_left</i>
+						  </button>
+					</span>
+					<span class="catalogPaginationElement"> 
+						<!-- Numeric Textfield -->
+						<form v-on:submit.prevent="submit">
+						  <div class="mdl-textfield mdl-js-textfield">
+						    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="sample2" ref="pageChanger">
+						    <label class="mdl-textfield__label" for="sample2">{{ catalogPage + 1 }}</label>
+						    <span class="mdl-textfield__error">Input is not a number!</span>
+						  </div>
+						</form>
+					</span>
+					<span> of </span>
+					<span class="catalogPaginationElement"> {{ pageCount }} </span>
+					<span class="catalogPaginationElement"> {{ catalogSize }} </span>
+					<span class="catalogPaginationElement"> 
+						  <button v-if="catalogPage < pageCount - 1" class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored catalogPageButton">
+						  	<i v-on:click="nextPage()" class="material-icons flagIcon">chevron_right</i>
+						  </button>
+					</span>
+				</div>
+				<table class="mdl-data-table mdl-js-data-table">
+				  <thead>
+				    <tr>
+				      <th class="mdl-data-table__cell--non-numeric" width="20%"></th>
+				      <th class="mdl-data-table__cell--non-numeric" width="10%">Accession #</th>
+				      <th class="mdl-data-table__cell--non-numeric" width="50%">Title</th>
+				      <th class="mdl-data-table__cell--non-numeric" width="10%">Status</th>
+				      <th class="mdl-data-table__cell--non-numeric" width="10%"></th>
+				    </tr>
+				  </thead>
+				</table>
+
+		    
+		  </header>
+
+		  <!-- Directory Content -->
+		  <main class="mdl-layout__content">
+		    <div class="page-content">
+		    		<div id="catalogCard" class="">
+					  <div class="mdl-card__supporting-text">
+					  	<table class="mdl-data-table mdl-js-data-table">
+						  <tbody>
+						  	<tr v-for="photo in photos">
+						  		<!-- Thumbnail -->
+						  		<td width="20%" class="mdl-data-table__cell--non-numeric" style="text-align:center;"><img v-bind:src="'images/' + photo.irn + '.jpg'" style="height:100px" /></td>
+						  		<!-- IRN -->
+						  		<td width="10%" class="mdl-data-table__cell--non-numeric">{{ photo.accession }}</td>
+						  		<!-- Title -->
+						  		<td width="50%" class="mdl-data-table__cell--non-numeric">{{ photo.title }}</td>
+								<!-- Flag -->
+								<td width="10%">
+								<a v-if="photo.generated && photo.flagged" class="icon material-icons flagIcon">flag</a>
+								<i v-if="photo.generated && !photo.flagged" class="material-icons flagIcon">check</i>
+								<a v-if="!photo.generated" class="material-icons errorIcon">error</a>
+								</td>
+								<!-- Edit Button -->
+								<td width="10%" class="mdl-data-table__cell--non-numeric">
+									<a v-if="photo.generated" v-on:click="openPhotoReview(photo.irn, photo.accession)">
+									<button class="directoryEditButton mdl-button mdl-js-button mdl-button--icon mdl-button--colored">
+									  <i class="material-icons">edit</i>
+									</button>
+								</a>
+								</td>
+						    </tr>
+						  </tbody>
+						</table>
+					  </div>
+		    	</div>
+		    	
+		  </main>
+		<div id="demo-snackbar-example" class="mdl-js-snackbar mdl-snackbar">
+			<div class="mdl-snackbar__text"></div>
+			<button class="mdl-snackbar__action" type="button"></button>
+		</div>
+
+	</body>
+
+
+</html>

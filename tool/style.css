@@ -1,0 +1,256 @@
+
+body {
+	overflow: hidden;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+[contenteditable=true]:empty::before {
+  content: attr(placeholder);
+  color: black;
+  opacity: 0.3;
+  font-style: italic;
+}
+
+.mdl-list__icon{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mdl-list__text{
+  overflow:hidden;
+  word-wrap: break-word;
+}
+
+.mdl_list__subheadline{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: .04em;
+}
+
+.mdl-list__subtitle{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgba(0,0,0,.54);
+}
+
+.mdl-card__padding{
+  padding:5px 10px;
+}
+
+.mdl-typography--headline {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.flagIcon {
+    cursor: default !important;
+    outline: none !important;
+}
+
+#directory {
+	padding-top: 10px;
+}
+
+.directoryPhoto {
+	border-bottom: 1px solid aliceblue;
+}
+
+.directoryTitle {
+	overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.directoryEditButton, .catalogPageButton {
+	background-color: rgba(158,158,158,.2);
+}
+
+.fullScreenButton {
+	color: white;
+    background-color: rgba(158,158,158,.6);
+}
+
+
+
+.mdl-card__title {
+    color: #fff;
+    background-color: black;
+    align-items: flex-end;
+    padding: 22px;
+}
+
+#emuCard > .mdl-card__title {
+    height: 300px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: height .2s;
+}
+
+#emuCard > .mdl-card__title.expanded {
+	height: 650px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-data-table__cell--non-numeric{
+	white-space: normal;
+  	word-wrap: break-word;
+}
+
+#emuCard, #nameCard, #bibCard, #catalogCard {
+	margin: 24px;
+    width: auto;
+    padding: 0px;
+}
+
+.navButton {
+	margin-left: 24px;
+}
+
+.mdl-data-table {
+	border: none;
+	width: 100%;
+
+}
+
+.mdl-card__supporting-text {
+	width: auto;
+}
+
+.suggestionsButton {
+	padding: 0px !important;
+	background-color: transparent !important;
+}
+
+.suggestionsButton:active {
+	opacity: 0.5;
+}
+
+.mdl-data-table tbody tr:hover {
+    background-color: transparent; */
+}
+
+.fullName {
+	cursor: default;
+}
+
+.editable {
+	padding: 5px;
+}
+
+.mdl-progress {
+    width: initial;
+ }
+
+ #page-content {
+ }
+
+.mdl-card {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.mdl-data-table td:first-of-type, .mdl-data-table th:first-of-type {
+    padding-left: 24px;
+    width: 100px;
+}
+
+.mdl-layout__header-row {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a#navToCatalog {
+    padding: 0px;
+}
+
+.suggestionToggle, .deleteSuggestion {
+	background: transparent !important;
+}
+
+
+#suggestions {
+    background: rgba(96, 125, 139, 0.15);
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.mdl-data-table td, .mdl-data-table td .mdl-data-table__select {
+    vertical-align: top;
+}
+
+.photograph {
+    width: 100%;
+    background-image: url(images/18526.jpg);
+    height: 200;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: zoom-in;
+    display: 'inline-block'
+}
+
+.photograph.expanded {
+    height: 500;
+    cursor: zoom-out;
+    display: 'block';
+}
+
+
+.outputData {
+	white-space: pre-line;
+}
+
+.editable[placeholder]:empty:before {
+    content: attr(placeholder);
+    color: #555; 
+}
+
+.deleteSuggestion {
+	float: right;
+}
+
+table {
+    table-layout: auto !important;
+}
+
+.catalogPaginationElement {
+    width: 100%;
+    display: block;
+    width: 50px;
+    margin: 0px 5px;
+}
+
+.catalogPaginationContainer {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+
+input#sample2 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(0,0,0,.87);
+    font-size: 14px;
+    text-align: center;
+}
+
+table tr:last-child td {
+    border: none;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+table tr:first-child td {
+    border: none;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+

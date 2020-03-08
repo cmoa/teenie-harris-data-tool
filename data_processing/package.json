@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "author": "Sam Ticknor",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "papaparse": "^5.1.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "teenie-harris-data-tool",
+  "version": "1.0.0",
+  "description": "Extracts helpful information from existing archive data",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "output/"
+    ]
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmoa/teenie-harris-data-tool.git"
+  },
+  "author": "Sam Ticknor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmoa/teenie-harris-data-tool/issues"
+  },
+  "homepage": "https://github.com/cmoa/teenie-harris-data-tool#readme",
+  "dependencies": {
+    "electron-main-window": "^1.0.4",
+    "fs": "0.0.1-security",
+    "papaparse": "^5.1.0"
+  }
+}

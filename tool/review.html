@@ -1,0 +1,157 @@
+<html>
+<head>
+
+	<!-- libraries -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.15.0/lodash.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.2/vue.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sortablejs@1.7.0/Sortable.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.15.0/vuedraggable.min.js"></script>
+
+	<!-- material design --> 
+	<link rel="stylesheet" href="material-design-lite/material.min.css">
+	<script src="material-design-lite/material.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+	<!-- style -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins|Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css"></link>
+
+	<!-- main -->
+	<script type="module" src="review.js"></script>
+
+</head>
+<body>
+	<div id="page" class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+
+
+	  <!-- EMU Card --> 
+	    	<header class="mdl-shadow--2dp" style="position: fixed;height: 300px;overflow: scroll;z-index:10;background: white;">
+	    		<div class="mdl-layout__header-row">
+		      	<!-- Title -->
+			      <span class="mdl-layout-title"></span>
+			      <div class="mdl-layout-spacer"></div>
+			      <!-- Save photo to catalog -->
+						<button v-on:click="if (saveButtonText === 'Save') { save() }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ saveButtonText }} </button>
+						<!-- Save and load next photo -->
+						<button v-on:click="if (saveAndNextButtonText === 'Save & Quit') { save(quit=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ saveAndNextButtonText }} </button>
+			    </div>
+	    	 	<div style="display:flex;" v-if="photo === undefined">
+	    	 		UNDEFINED
+	    	 	</div>
+
+	    	 	<div style="display:flex;" v-if="photo !== undefined">
+					<span class="photograph" style="flex:0.3;"
+					       v-bind:style="{ backgroundImage: 'url(images/' + photo.irn + '.jpg)' }">
+					</span>
+
+					<!-- Static Fields: -->
+				  	<span  style="flex:0.7;"class="staticFields">
+					  	<table class="mdl-data-table mdl-js-data-table">
+						  <tbody>
+						  	<tr>
+						  	  <td class="mdl-data-table__cell--non-numeric">IRN</td>
+						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["irn"] }} </td>
+						  	</tr>
+						    <tr>
+						      <td class="mdl-data-table__cell--non-numeric">TitAccessionNo</td>
+						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["TitAccessionNo"] }} </td>
+						    </tr>
+						    <tr>
+						      <td class="mdl-data-table__cell--non-numeric">TitMainTitle</td>
+						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["TitMainTitle"] }} </td>
+						      <td/><td/>
+						    </tr>
+						     <tr>
+						      <td class="mdl-data-table__cell--non-numeric">CatDescriptText</td>
+						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["CatDescriptText"] }} </td>
+						      <td/><td/>
+						    </tr>
+						  </tbody>
+						</table>
+					</span>
+			  	</div>
+			</header>
+
+    	<!-- Review Content -->
+	    	
+	  		<div v-if="photo !== undefined" id="emuCard" style="margin-top: 300px">
+	  	
+	  		<!-- MDL Progress Bar with Indeterminate Progress -->
+			<div v-if="photo.emuOutput === undefined" style="{width: 90%}"> 
+				<div style="text-align: center; margin: 10px 0px 24px 0px;"> Generating Suggestions </div>
+	  			<div class="mdl-progress mdl-progress--accent mdl-js-progress mdl-progress__indeterminate"></div>
+	  		</div>
+
+		  <!-- Suggestable Fields: -->
+		  <div v-if="photo.emuOutput !== undefined" class="mdl-card__supporting-text">
+		  	<table class="mdl-data-table mdl-js-data-table">
+		  		<thead>
+				    <tr>
+				      <th class="mdl-data-table__cell--non-numeric">eMU Label</th>
+				      <th class="mdl-data-table__cell--non-numeric">Data</th>
+				    </tr>
+				  </thead>
+				  <tbody>
+				    <tr v-for="(data, field) in photo.emuOutput" v-if="photo.suggestions[field] !== undefined">
+				      <td class="mdl-data-table__cell--non-numeric">{{ field }} </td>
+				      <td class="mdl-data-table__cell--non-numeric">
+				      	<div v-if="photo.inReview[field] != 1">
+					      	<div class="outputData">{{ data }}</div>
+					      	<div>
+					      		<button v-on:click="toggleReview(field)" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--accent suggestionsButton">
+					      			<span v-if="photo.suggestions[field].length > 0"> Review {{ photo.suggestions[field].length }} Suggestion(s) </span>
+					      			<span v-if="photo.suggestions[field].length === 0"> Make a Suggestion </span>
+					      		</button>
+					      	</div>
+						</div>
+				      	<div v-if="photo.inReview[field] == 1">
+				      		<div id="suggestions">
+				      			<!-- <suggestions :list="photo.suggestions[field]" :field="field"></suggestions> -->
+				      			<div class="row">
+									    <div class="col-6">
+									      <draggable
+									        class="list-group"
+									        tag="ul"
+									        @end="endDrag"
+									        handle=".handle"
+									        :field="field"
+									        v-model="photo.suggestions[field]"
+									      >
+										        <div v-for="(suggestion, index) in photo.suggestions[field]" :key="field+'-'+suggestion.data">
+															<div class="suggestionToggle">
+																  <button class="mdl-button mdl-js-button mdl-button--icon handle suggestionToggle">
+															      <i class="material-icons">drag_handle</i>
+															    </button>
+																<button v-on:click="toggleSuggestion(suggestion)" class="mdl-button mdl-js-button mdl-button--icon suggestionToggle">
+															      <i v-if="suggestion.status === 'accepted'" class="material-icons">check_box</i>
+															      <i v-if="suggestion.status === 'suggested'" class="material-icons">check_box_outline_blank</i>
+															    </button>
+															    <span contenteditable="true" class="suggestionData" v-on:blur="edit(suggestion)" placeholder="Type new suggestion...">{{ suggestion.data }}</span>
+																<button v-on:click="deleteSuggestion(field, index)" class="mdl-button mdl-js-button mdl-button--icon deleteSuggestion">
+															      <i class="material-icons">clear</i>
+															    </button>
+															</div>
+														</div>
+									      </draggable>
+									      <div v-on:click="addSuggestion(field)" class="mdl-button mdl-js-button mdl-button--icon suggestionToggle">
+													<i class="material-icons">add</i>
+												</div>
+									    </div>
+									  </div>
+
+				      		</div>
+				      		<button v-on:click="updateEmuOutput(field)" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--accent suggestionsButton">
+				      			Done
+				      		</button>
+				      	</div>
+				      </td>
+				    </tr>
+				  </tbody>
+				</table>
+			  </div>
+			</div>
+
+	</div> 
+</body>
+</html>

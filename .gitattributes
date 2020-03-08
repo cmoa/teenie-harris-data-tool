@@ -1,0 +1,2 @@
+data_processing/emuCsv_to_json/input/ecatalog.csv filter=lfs diff=lfs merge=lfs -text
+data_processing/json_to_enhancedRecords/input/STUDIOTeenieHarrisProjectData/imagga_analyses_of_teenie_harris_archive/imaggaResults.json filter=lfs diff=lfs merge=lfs -text
