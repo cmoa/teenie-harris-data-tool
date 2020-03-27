@@ -319,7 +319,6 @@ PICTURE OF INTERFACE
 | Installation | `npm i` |
 | Running      | `npm run-script start`|
 | Inputs       | Enhanced `.json` records |
-| Outputs      | A `.csv` that can be uploaded to EMu |
 
 ## Open Source
 
