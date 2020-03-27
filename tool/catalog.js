@@ -36,47 +36,7 @@ $(document).ready(function() {
 			},
 			exportCatalog : function(pageOnly=false) { 
 				
-				this.buttonText = "Exporting...";
-
-				// $.ajax({
-			 //        url: "/exportcatalog",
-			 //        type: 'get',
-			 //        async: false,
-			 //        success: function(data) {
-			 //        	if (data.size === 0) { 
-			 //        		catalog.buttonText = "No approved entries!"; 
-			 //        		window.setTimeout(() => {
-				// 		    	catalog.buttonText = "Export";
-				// 		    }, 1000);
-			 //        		return;
-			 //        	} 
-			 //        	else if (data.size === 1) { catalog.buttonText = "Exported "+ data.size +" entry!"; } 
-			 //        	else { catalog.buttonText = "Exported "+ data.size +" entries!"; }
-			 //        	window.setTimeout(() => {
-				// 	    	catalog.buttonText = "Export";
-				// 	    }, 1000);
-
-			 //        	var blob = new Blob([data.csv], {type: 'text/csv'});
-				// 	    if(window.navigator.msSaveOrOpenBlob) {
-				// 	        window.navigator.msSaveBlob(blob, "ecatalog.csv");
-				// 	    }
-				// 	    else{
-				// 	        var elem = window.document.createElement('a');
-				// 	        elem.href = window.URL.createObjectURL(blob);
-				// 	        elem.download = "ecatalog.csv";        
-				// 	        document.body.appendChild(elem);
-				// 	        elem.click();        
-				// 	        document.body.removeChild(elem);
-				// 	    }
-			 //        },
-			 //        error: function(e) { 
-			 //        	this.buttonText = "Error!";
-			 //        	window.setTimeout(() => {
-				// 	    	this.buttonText = "Export";
-				// 	    }, 1000);
-			 //        	console.log("ERROR exporting entries! " + e)
-			 //    	}
-			 //    });
+		
 
 			}
 		}
@@ -126,12 +86,15 @@ function getPage(vue) {
         		console.log(flagged);
         	}
 
+        	console.log(photo);
+
 	    	result.push({
 	    		irn: photo["irn"],
 	    		accession: photo["emuInput"]["TitAccessionNo"],
 	    		title: photo["emuInput"]["TitMainTitle"],
 	    		generated,
 	    		flagged,
+	    		image: photo["emuInput"]["image_url"]
     		});
 		}
 	}

@@ -30,9 +30,9 @@
 		    <div class="mdl-layout__header-row">
 		      <span class="mdl-layout-title">Teenie Harris Archive</span>
 		       <div class="mdl-layout-spacer"></div>
-	      <!-- Save photo to catalog -->
-				<button v-on:click="if (buttonText === 'Export') { exportCatalog() }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ buttonText }} </button>
-				<button v-on:click="if (true) { exportCatalog(pageOnly=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> Export Page (9) </button>
+		      	<!-- Save photo to catalog -->
+				<!--	<button v-on:click="if (buttonText === 'Export') { exportCatalog() }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ buttonText }} </button>
+				<button v-on:click="if (true) { exportCatalog(pageOnly=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> Export Page (9) </button> -->
 		    </div>
 		  </header>
 		  <header class="mdl-layout__header" style="background: white;">
@@ -52,9 +52,8 @@
 						  </div>
 						</form>
 					</span>
-					<span> of </span>
+					<span class="catalogPaginationElement"> of </span>
 					<span class="catalogPaginationElement"> {{ pageCount }} </span>
-					<span class="catalogPaginationElement"> {{ catalogSize }} </span>
 					<span class="catalogPaginationElement"> 
 						  <button v-if="catalogPage < pageCount - 1" class="mdl-button mdl-js-button mdl-button--icon mdl-button--colored catalogPageButton">
 						  	<i v-on:click="nextPage()" class="material-icons flagIcon">chevron_right</i>
@@ -85,7 +84,7 @@
 						  <tbody>
 						  	<tr v-for="photo in photos">
 						  		<!-- Thumbnail -->
-						  		<td width="20%" class="mdl-data-table__cell--non-numeric" style="text-align:center;"><img v-bind:src="'images/' + photo.irn + '.jpg'" style="height:100px" /></td>
+						  		<td width="20%" class="mdl-data-table__cell--non-numeric" style="text-align:center;"><img v-bind:src="photo.image" style="height:100px" /></td>
 						  		<!-- IRN -->
 						  		<td width="10%" class="mdl-data-table__cell--non-numeric">{{ photo.accession }}</td>
 						  		<!-- Title -->

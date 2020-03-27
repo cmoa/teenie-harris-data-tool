@@ -10,8 +10,8 @@ function createWindow () {
   // Create the browser window.
   mainWindow = new BrowserWindow({
     title: "Metadata Review Tool",
-    width: 800,
-    height: 600,
+    width: 1000,
+    height: 800,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
     },
@@ -21,7 +21,7 @@ function createWindow () {
   mainWindow.loadFile('catalog.html')
 
   // Open the DevTools.
-  mainWindow.webContents.openDevTools()
+  // mainWindow.webContents.openDevTools()
 
   // Emitted when the window is closed.
   mainWindow.on('closed', function () {

@@ -194,7 +194,6 @@ a#navToCatalog {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    cursor: zoom-in;
     display: 'inline-block'
 }
 
@@ -227,12 +226,18 @@ table {
     display: block;
     width: 50px;
     margin: 0px 5px;
+    color: black;
 }
 
 .catalogPaginationContainer {
     display: flex;
     align-items: baseline;
     justify-content: center;
+}
+
+.mdl-textfield__label {
+    text-align: center;
+    font-size: 14px;
 }
 
 input#sample2 {

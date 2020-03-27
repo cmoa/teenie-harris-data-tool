@@ -24,8 +24,7 @@
 <body>
 	<div id="page" class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
 
-
-	  <!-- EMU Card --> 
+	    <!-- EMU Card --> 
 	    	<header class="mdl-shadow--2dp" style="position: fixed;height: 300px;overflow: scroll;z-index:10;background: white;">
 	    		<div class="mdl-layout__header-row">
 		      	<!-- Title -->
@@ -34,7 +33,7 @@
 			      <!-- Save photo to catalog -->
 						<button v-on:click="if (saveButtonText === 'Save') { save() }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ saveButtonText }} </button>
 						<!-- Save and load next photo -->
-						<button v-on:click="if (saveAndNextButtonText === 'Save & Quit') { save(quit=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ saveAndNextButtonText }} </button>
+						<button v-on:click="if (saveAndNextButtonText === 'Save & Close') { save(quit=true) }" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent navButton"> {{ saveAndNextButtonText }} </button>
 			    </div>
 	    	 	<div style="display:flex;" v-if="photo === undefined">
 	    	 		UNDEFINED
@@ -42,21 +41,13 @@
 
 	    	 	<div style="display:flex;" v-if="photo !== undefined">
 					<span class="photograph" style="flex:0.3;"
-					       v-bind:style="{ backgroundImage: 'url(images/' + photo.irn + '.jpg)' }">
+					       v-bind:style="{ backgroundImage: 'url(' + photo.emuInput.image_url + ')' }">
 					</span>
 
 					<!-- Static Fields: -->
-				  	<span  style="flex:0.7;"class="staticFields">
+				  	<span  style="flex:0.7;margin-bottom: 30px;" class="staticFields">
 					  	<table class="mdl-data-table mdl-js-data-table">
 						  <tbody>
-						  	<tr>
-						  	  <td class="mdl-data-table__cell--non-numeric">IRN</td>
-						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["irn"] }} </td>
-						  	</tr>
-						    <tr>
-						      <td class="mdl-data-table__cell--non-numeric">TitAccessionNo</td>
-						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["TitAccessionNo"] }} </td>
-						    </tr>
 						    <tr>
 						      <td class="mdl-data-table__cell--non-numeric">TitMainTitle</td>
 						      <td class="mdl-data-table__cell--non-numeric">{{ photo.emuOutput["TitMainTitle"] }} </td>

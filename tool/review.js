@@ -9,7 +9,7 @@ $(document).ready(function() {
 	  	photo: undefined,
 	  	expanded: false,
 	  	saveButtonText: "Save",
-	  	saveAndNextButtonText: "Save & Quit",
+	  	saveAndNextButtonText: "Save & Close",
 	  },
 	  methods: {
 	  	toggleImageExpansion: function () {
