@@ -312,7 +312,7 @@ Scripts and data created for Carnegie Museum of Art's Teenie Harris Archive. Nat
 
 Witness in the above enhanced record sample, that the computed data is not 100% reliable. Before integrating the new data into EMu, the collection management system, the data must be reviewed. `tool` contains an electron app prototype that was developed in order to assist archivists in efficiently reviewing the computed data.
 
-PICTURE OF INTERFACE
+![Screenshots of Teenie Tool](https://github.com/cmoa/teenie-harris-data-tool/blob/master/TeenieToolScreens.png?raw=true)
 
 | `data_processing/tool` |  |
 |--------------|---------------------------|
